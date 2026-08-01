@@ -59,6 +59,49 @@ document$.subscribe(function () {
       },
     },
 
+    "chart-genai-uso": {
+      type: "bar",
+      data: {
+        labels: [
+          "Redacción y comunicación",
+          "Síntesis de documentos largos",
+          "Ideación estratégica",
+          "Análisis exploratorio de datos",
+        ],
+        datasets: [
+          {
+            label: "ChatGPT",
+            data: [4, 3.5, 4, 4.5],
+            backgroundColor: BLUE,
+            borderRadius: 4,
+          },
+          {
+            label: "Claude",
+            data: [4, 4.5, 4, 3],
+            backgroundColor: NAVY,
+            borderRadius: 4,
+          },
+          {
+            label: "Gemini",
+            data: [3.5, 3.5, 3.5, 3.5],
+            backgroundColor: GOLD,
+            borderRadius: 4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { labels: { color: textColor() } },
+          tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: textColor() } },
+          y: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+        },
+      },
+    },
+
     "chart-ventaja-competitiva": {
       type: "radar",
       data: {
