@@ -445,8 +445,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#4-caso-aplicado-scoring-crediticio-y-prediccion-de-churn" class="md-nav__link">
-    4. Caso aplicado: scoring crediticio y predicción de churn
+  <a href="#4-casos-aplicados" class="md-nav__link">
+    4. Casos aplicados
   </a>
   
 </li>
@@ -570,8 +570,8 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#4-caso-aplicado-scoring-crediticio-y-prediccion-de-churn" class="md-nav__link">
-    4. Caso aplicado: scoring crediticio y predicción de churn
+  <a href="#4-casos-aplicados" class="md-nav__link">
+    4. Casos aplicados
   </a>
   
 </li>
@@ -628,10 +628,12 @@ corresponde el <strong>Entregable 1</strong>, que se construye sobre la activida
 <ul>
 <li>Explicar, sin matemáticas, cómo "aprende" un modelo de Machine Learning a partir de datos.</li>
 <li>Distinguir los tres grandes tipos de ML (supervisado, no supervisado, por refuerzo) mediante
-  analogías de negocio.</li>
+  analogías de negocio, y reconocer esos mismos tipos detrás del entrenamiento de ChatGPT, Claude y
+  Gemini.</li>
 <li>Reconocer los tipos de problemas de negocio que pueden traducirse en un problema de ML: predicción,
   clasificación, segmentación y optimización.</li>
-<li>Traducir un problema de negocio real a un "problema de predicción" y documentarlo como entregable.</li>
+<li>Traducir un problema de negocio real a un "problema de predicción", cuantificando su valor, y
+  documentarlo como entregable.</li>
 </ul>
 <p><em>Resultado de aprendizaje asociado: </em><em>RdA9.2</em><em> — Utiliza tecnologías vigentes y/o de vanguardia,
 aplicándolas en sus propuestas y presentaciones.</em></p>
@@ -650,24 +652,24 @@ aplicándolas en sus propuestas y presentaciones.</em></p>
 <td>Recapitulación de la Clase 1 y puesta en común de ejemplos traídos por el curso</td>
 </tr>
 <tr>
-<td>0:10 – 0:35</td>
+<td>0:10 – 0:30</td>
 <td>¿Cómo aprende una máquina? Datos, patrones y predicción (sin matemáticas)</td>
 </tr>
 <tr>
-<td>0:35 – 0:55</td>
-<td>Tipos de Machine Learning: supervisado, no supervisado y por refuerzo — con casos de negocio</td>
+<td>0:30 – 0:50</td>
+<td>Tipos de Machine Learning — y cómo se entrenan ChatGPT, Claude y Gemini con esos mismos tipos</td>
 </tr>
 <tr>
-<td>0:55 – 1:15</td>
-<td>Caso aplicado: <em>scoring</em> crediticio y predicción de fuga de clientes (<em>churn</em>)</td>
+<td>0:50 – 1:10</td>
+<td>Casos aplicados: <em>scoring</em> crediticio, <em>churn</em> y <em>pricing</em> dinámico</td>
 </tr>
 <tr>
-<td>1:15 – 1:28</td>
+<td>1:10 – 1:27</td>
 <td>Trabajo en clase sobre el <strong>Entregable 1</strong>: "de problema de negocio a problema de predicción"</td>
 </tr>
 <tr>
-<td>1:28 – 1:30</td>
-<td>Cierre y vínculo con la próxima sesión (IA Generativa)</td>
+<td>1:27 – 1:30</td>
+<td>Cierre y vínculo con la próxima sesión (IA Generativa en profundidad)</td>
 </tr>
 </tbody>
 </table>
@@ -688,7 +690,9 @@ lo hace de forma sistemática y a gran escala.</p>
 </blockquote>
 <p>Siguiendo a Agrawal, Gans &amp; Goldfarb (<em>Prediction Machines</em>), la contribución económica central del
 ML es que <strong>abarata drásticamente el costo de predecir</strong>. Cuando predecir se vuelve barato, cambia
-qué actividades conviene automatizar y qué decisiones conviene delegar a un modelo.</p>
+qué actividades conviene automatizar y qué decisiones conviene delegar a un modelo — de la misma
+forma en que abaratar el costo de computar transformó qué tareas convenía automatizar en los años 80
+y 90.</p>
 <div class="usm-chart">
 <canvas id="chart-costo-prediccion"></canvas>
 <span class="usm-chart-caption">Evolución ilustrativa del costo relativo de predecir (índice base 100). Representa la idea central de "Prediction Machines", no una serie estadística oficial.</span>
@@ -700,7 +704,8 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
 <tr>
 <th>Tipo</th>
 <th>Idea central</th>
-<th>Ejemplo de negocio</th>
+<th>Ejemplo de negocio clásico</th>
+<th>¿Dónde aparece en ChatGPT / Claude / Gemini?</th>
 </tr>
 </thead>
 <tbody>
@@ -708,16 +713,19 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
 <td><strong>Supervisado</strong></td>
 <td>Aprende de ejemplos que ya tienen la "respuesta correcta" etiquetada</td>
 <td>Predecir si un cliente pagará o no un crédito, usando historial de clientes anteriores</td>
+<td>La primera gran etapa de entrenamiento (<em>pre-entrenamiento</em>): el modelo aprende a predecir la palabra siguiente en textos masivos de internet</td>
 </tr>
 <tr>
 <td><strong>No supervisado</strong></td>
 <td>Encuentra estructura o grupos en los datos sin una respuesta previa</td>
 <td>Segmentar clientes en perfiles de consumo para campañas de marketing</td>
+<td>Parte de cómo el modelo organiza internamente conceptos y relaciones entre palabras a partir de enormes volúmenes de texto</td>
 </tr>
 <tr>
 <td><strong>Por refuerzo</strong></td>
 <td>Aprende por ensayo y error, recibiendo una recompensa según el resultado de sus acciones</td>
 <td>Un sistema que ajusta precios dinámicamente y aprende qué estrategia maximiza ingresos</td>
+<td><em>RLHF (Reinforcement Learning from Human Feedback)</em>: personas evalúan las respuestas del modelo y esa retroalimentación se usa como "recompensa" para hacerlo más útil, seguro y alineado a instrucciones</td>
 </tr>
 </tbody>
 </table>
@@ -726,6 +734,21 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
 <span class="usm-chart-caption">Distribución ilustrativa de los tipos de ML entre los casos de negocio más citados en clase (no es una estadística de mercado real).</span>
 </div>
 
+<div class="admonition info">
+<p class="admonition-title">En simple: ¿cómo se entrena un asistente como ChatGPT, Claude o Gemini?</p>
+<ol>
+<li><strong>Pre-entrenamiento (supervisado/auto-supervisado):</strong> el modelo lee enormes cantidades de
+   texto y aprende a predecir la palabra o fragmento siguiente, una y otra vez, hasta capturar
+   patrones del lenguaje, hechos y estilos de razonamiento.</li>
+<li><strong>Ajuste fino con ejemplos curados:</strong> se le muestran ejemplos de buenas respuestas a
+   instrucciones, para que aprenda el formato de "asistente útil" (no solo de "completar texto").</li>
+<li><strong>RLHF (por refuerzo):</strong> evaluadores humanos comparan respuestas del modelo y indican cuáles
+   prefieren; esa preferencia se convierte en una señal de recompensa que ajusta el modelo para
+   que sus respuestas sean más útiles, seguras y alineadas a lo que se le pide.</li>
+</ol>
+<p>Es la misma lógica de "aprender de ejemplos + recompensas" que vimos en <em>scoring</em> crediticio o en
+<em>pricing</em> dinámico — aplicada a generar lenguaje en vez de generar un número o una etiqueta.</p>
+</div>
 <h3 id="3-de-problema-de-negocio-a-problema-de-machine-learning">3. De problema de negocio a problema de Machine Learning</h3>
 <p>Antes de "aplicar IA", toda propuesta de negocio debería responder tres preguntas:</p>
 <ol>
@@ -734,7 +757,11 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
    momento de decidir?</li>
 <li><strong>¿Qué acción tomaremos</strong> distinto si tenemos esa predicción, y cuánto vale esa mejor decisión?</li>
 </ol>
-<h3 id="4-caso-aplicado-scoring-crediticio-y-prediccion-de-churn">4. Caso aplicado: <em>scoring</em> crediticio y predicción de <em>churn</em></h3>
+<p>Esta última pregunta es clave para alguien de Ingeniería Comercial: un modelo predictivo solo crea
+valor si permite una <strong>mejor decisión económica</strong> — más ingresos, menor costo o menor riesgo. Por
+eso, al formular un problema de ML conviene estimar, aunque sea de forma gruesa, el <strong>valor esperado
+de la mejor decisión</strong> (una lógica similar a la de un árbol de decisión en Evaluación de Proyectos).</p>
+<h3 id="4-casos-aplicados">4. Casos aplicados</h3>
 <ul>
 <li><strong>Scoring crediticio (supervisado):</strong> un banco usa el historial de miles de clientes (ingresos,
   comportamiento de pago, etc.) para predecir la probabilidad de que un nuevo solicitante caiga en
@@ -742,6 +769,9 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
 <li><strong>Predicción de fuga o <em>churn</em> (supervisado):</strong> una empresa de telecomunicaciones o retail
   identifica, antes de que ocurra, qué clientes tienen alta probabilidad de dejar de comprar o
   cancelar su plan, para actuar con una oferta de retención a tiempo.</li>
+<li><strong>Pricing dinámico (por refuerzo):</strong> un e-commerce prueba distintos precios y aprende, mediante
+  prueba y error guiada, qué estrategia de precios maximiza el margen esperado según el contexto
+  (stock, demanda, competencia).</li>
 </ul>
 <div class="admonition example">
 <p class="admonition-title">Ejemplo ilustrativo: retención de clientes en telecomunicaciones</p>
@@ -753,23 +783,30 @@ probabilidad predicha —en vez de contactar al azar— suele multiplicar varias
 clientes efectivamente retenidos por cada contacto realizado. La cifra exacta depende de cada
 negocio; lo relevante es el mecanismo: <strong>mejor blanco de acción, no más contactos</strong>.</p>
 </div>
-<p>En ambos casos, el valor de negocio no está en el algoritmo en sí, sino en <strong>la decisión</strong> que
-la predicción permite tomar mejor y más temprano.</p>
+<p>En todos los casos, el valor de negocio no está en el algoritmo en sí, sino en <strong>la decisión</strong> que
+la predicción permite tomar mejor y más temprano — la misma idea que van a aplicar en el Entregable 1
+de hoy.</p>
 <hr />
 <h2 id="entregable-1-de-problema-de-negocio-a-problema-de-prediccion">📤 Entregable 1 — "De problema de negocio a problema de predicción"</h2>
 <div class="usm-deliverable">
 <p><span class="usm-deliverable-badge">Entregable 1 · Tareas (30% de la nota final)</span></p>
 <p><strong>Objetivo:</strong> traducir un problema de negocio real a un problema de Machine Learning bien
-formulado, a partir del trabajo hecho en la actividad formativa de la Clase 1.</p>
+formulado y cuantificar, aunque sea de forma gruesa, el valor de la decisión que ese modelo
+permitiría tomar — a partir del trabajo hecho en la actividad formativa de la Clase 1.</p>
 <p><strong>Instrucciones</strong></p>
 <ol>
-<li>Retomen, en el mismo grupo de la Clase 1, uno de los procesos identificados en el "mapa de calor
-   de la IA" de esa sesión.</li>
+<li>Retomen, en el mismo grupo de la Clase 1, uno de los procesos identificados en el "radar
+   estratégico de IA" de esa sesión (idealmente el de mayor potencial de ventaja competitiva).</li>
 <li>Formulen ese proceso como un problema de predicción, respondiendo por escrito las 3 preguntas de
    la sección <em>"De problema de negocio a problema de Machine Learning"</em>.</li>
 <li>Clasifiquen el problema como supervisado, no supervisado o por refuerzo, y justifiquen en 2-3
    líneas.</li>
-<li>Redacten una síntesis de <strong>máxima media página</strong> (formato libre: documento o una diapositiva).</li>
+<li>Estimen, con supuestos razonables y explícitos, el <strong>valor aproximado</strong> de tomar la mejor
+   decisión gracias al modelo (por ejemplo: cuántos clientes o transacciones al mes se ven afectados,
+   y qué mejora porcentual de margen, retención o costo es razonable esperar).</li>
+<li>Redacten una síntesis de <strong>máxima una página</strong> (formato libre: documento o una diapositiva).</li>
+<li><em>Opcional:</em> si usaron ChatGPT, Claude o Gemini para redactar o estructurar el entregable, agreguen
+   una línea indicando qué herramienta y para qué la usaron.</li>
 </ol>
 <p><strong>Formato y entrega</strong></p>
 <ul>
@@ -781,17 +818,18 @@ formulado, a partir del trabajo hecho en la actividad formativa de la Clase 1.</
 <ul>
 <li>Claridad y coherencia entre el proceso elegido y el problema de predicción formulado.</li>
 <li>Correcta identificación del tipo de ML (supervisado / no supervisado / por refuerzo).</li>
+<li>Calidad y razonabilidad de los supuestos usados para estimar el valor de la decisión.</li>
 <li>Argumentación de por qué la mejor decisión posible justifica el uso de un modelo predictivo.</li>
 </ul>
 </div>
 <hr />
 <h2 id="para-la-proxima-clase">📚 Para la próxima clase</h2>
 <ul>
-<li>Repasar los ejemplos de <em>scoring</em> y <em>churn</em> vistos hoy: en la Clase 3 se profundizará en <strong>IA
-  Generativa</strong>, que utiliza una lógica distinta (generar contenido, no solo predecir un número o
-  categoría).</li>
-<li>Traer identificado un ejemplo de uso de <strong>ChatGPT, Copilot u otra herramienta de IA Generativa</strong>
-  en un contexto laboral o académico propio.</li>
+<li>Repasar los ejemplos de <em>scoring</em>, <em>churn</em> y <em>pricing</em> vistos hoy: en la Clase 3 se profundizará en
+  <strong>IA Generativa</strong>, con foco en cómo ChatGPT, Claude y Gemini generan contenido (no solo un número
+  o una categoría) y qué implica eso para la experiencia de cliente y el marketing.</li>
+<li>Traer identificado un ejemplo propio de uso de <strong>ChatGPT, Claude, Gemini u otra herramienta de IA
+  Generativa</strong> en un contexto laboral o académico, con una opinión breve sobre sus límites.</li>
 </ul>
 
 
