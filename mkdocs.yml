@@ -8,6 +8,7 @@ site_url: https://hizocar.github.io/ia-course-usm/
 markdown_extensions:
   - attr_list
   - admonition
+  - pymdownx.details
   - md_in_html
   - pymdownx.highlight:
       anchor_linenums: true
@@ -52,6 +53,11 @@ theme:
 # Extra CSS
 extra_css:
   - stylesheets/extra.css
+
+# Extra JavaScript (gráficos interactivos)
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js
+  - javascripts/charts.js
 
 # Customization
 extra:

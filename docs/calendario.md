@@ -5,13 +5,18 @@
 > ⚠️ **Nota:** la distribución de contenidos por sesión es una propuesta tentativa basada en el
 > [programa oficial](programa.md); certámenes, controles y tareas pueden reagendarse según el
 > avance del curso. El programa contempla 2 a 3 certámenes, 3 a 4 controles y 2 a 3 tareas.
+>
+> 📤 **Política de entregables:** los entregables evaluados (tareas 📤 y controles 📝) se publican y
+> reciben **solo los días miércoles**. Los lunes son sesiones de contenido y trabajo formativo, cuyo
+> resultado suele ser el insumo del entregable del miércoles siguiente. Los certámenes 📊 se
+> mantienen en las fechas indicadas (todas caen en miércoles en esta propuesta).
 
 ---
 
 ## 🗓️ Semana 1 (3 al 7 de agosto)
 
-- **Clase 1** — *lunes 3 de agosto*: Presentación del curso; ¿Qué es la Inteligencia Artificial? Conceptos clave para no técnicos.
-- **Clase 2** — *miércoles 5 de agosto*: Machine Learning — fundamentos aplicados a negocios.
+- **Clase 1** — *lunes 3 de agosto*: Presentación del curso; ¿Qué es la Inteligencia Artificial? Conceptos clave para no técnicos. *(sesión formativa)*
+- **Clase 2** — *miércoles 5 de agosto*: Machine Learning — fundamentos aplicados a negocios. 📤 **Entregable 1**
 
 ---
 
@@ -31,8 +36,8 @@
 
 ## 🗓️ Semana 4 (24 al 28 de agosto)
 
-- **Clase 7** — *lunes 24 de agosto*: Análisis de casos reales — salud y educación. 📝 **Control 1**
-- **Clase 8** — *miércoles 26 de agosto*: Business Model Canvas con foco en tecnologías inteligentes.
+- **Clase 7** — *lunes 24 de agosto*: Análisis de casos reales — salud y educación. *(sesión formativa)*
+- **Clase 8** — *miércoles 26 de agosto*: Business Model Canvas con foco en tecnologías inteligentes. 📝 **Control 1**
 
 ---
 
@@ -59,8 +64,8 @@
 
 ## 🗓️ Semana 8 (21 al 25 de septiembre)
 
-- **Clase 13** — *lunes 21 de septiembre*: Chatbots y asistentes virtuales. 📝 **Control 2**
-- **Clase 14** — *miércoles 23 de septiembre*: Generación de contenido personalizado y marketing automatizado.
+- **Clase 13** — *lunes 21 de septiembre*: Chatbots y asistentes virtuales. *(sesión formativa)*
+- **Clase 14** — *miércoles 23 de septiembre*: Generación de contenido personalizado y marketing automatizado. 📝 **Control 2**
 
 ---
 
@@ -96,8 +101,8 @@
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 22** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA. 📝 **Control 4**
-- **Clase 23** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
+- **Clase 22** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA. *(sesión formativa)*
+- **Clase 23** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA. 📝 **Control 4**
 
 ---
 

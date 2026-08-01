@@ -244,3 +244,139 @@
   background: var(--usm-gold);
   color: var(--usm-navy-dark);
 }
+
+.usm-session-meta span.usm-tag-red {
+  background: var(--usm-red);
+}
+
+/* Interactive chart containers ----------------------------------------------*/
+.usm-chart {
+  background: var(--md-default-bg-color);
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-radius: 10px;
+  padding: 1.2rem 1.4rem 0.6rem 1.4rem;
+  margin: 1.4rem 0;
+}
+
+.usm-chart canvas {
+  max-height: 320px;
+}
+
+.usm-chart-caption {
+  display: block;
+  text-align: center;
+  font-size: 0.78rem;
+  opacity: 0.7;
+  margin: 0.4rem 0 0.9rem 0;
+  font-style: italic;
+}
+
+.usm-chart-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2rem;
+}
+
+/* Concept Venn diagram (IA / ML / IA Generativa) ----------------------------*/
+.usm-venn {
+  position: relative;
+  width: 100%;
+  max-width: 420px;
+  height: 260px;
+  margin: 1.5rem auto;
+}
+
+.usm-venn div {
+  position: absolute;
+  border-radius: 50%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 14px;
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-align: center;
+  color: #ffffff;
+  cursor: help;
+  transition: transform 0.15s ease;
+}
+
+.usm-venn div:hover {
+  transform: scale(1.03);
+}
+
+.usm-venn .usm-venn-ia {
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: color-mix(in srgb, var(--usm-blue) 35%, transparent);
+  border: 2px solid var(--usm-blue);
+  color: var(--usm-blue);
+}
+
+.usm-venn .usm-venn-ml {
+  width: 72%;
+  height: 72%;
+  left: 14%;
+  top: 20%;
+  background: color-mix(in srgb, var(--usm-navy) 45%, transparent);
+  border: 2px solid var(--usm-navy);
+  color: var(--usm-navy);
+}
+
+[data-md-color-scheme="slate"] .usm-venn .usm-venn-ml {
+  color: #d7dcf5;
+}
+
+.usm-venn .usm-venn-genia {
+  width: 42%;
+  height: 42%;
+  left: 29%;
+  top: 34%;
+  background: var(--usm-gold);
+  border: 2px solid var(--usm-gold);
+  color: var(--usm-navy-dark);
+  padding-top: 30%;
+}
+
+/* Deliverable / activity callouts --------------------------------------------*/
+.usm-activity {
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-left: 5px solid var(--usm-blue);
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  background: var(--md-default-bg-color);
+}
+
+.usm-activity h3 {
+  margin-top: 0;
+}
+
+.usm-deliverable {
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-left: 5px solid var(--usm-red);
+  border-radius: 6px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  background: var(--md-default-bg-color);
+}
+
+.usm-deliverable h3 {
+  margin-top: 0;
+  color: var(--usm-red);
+}
+
+.usm-deliverable-badge {
+  display: inline-block;
+  background: var(--usm-red);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 999px;
+  margin-bottom: 0.6rem;
+}
