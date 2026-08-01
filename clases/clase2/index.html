@@ -457,8 +457,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#actividad-en-clases-de-problema-de-negocio-a-problema-de-prediccion" class="md-nav__link">
-    ✏️ Actividad en clases: "De problema de negocio a problema de predicción"
+  <a href="#entregable-1-de-problema-de-negocio-a-problema-de-prediccion" class="md-nav__link">
+    📤 Entregable 1 — "De problema de negocio a problema de predicción"
   </a>
   
 </li>
@@ -582,8 +582,8 @@
 </li>
       
         <li class="md-nav__item">
-  <a href="#actividad-en-clases-de-problema-de-negocio-a-problema-de-prediccion" class="md-nav__link">
-    ✏️ Actividad en clases: "De problema de negocio a problema de predicción"
+  <a href="#entregable-1-de-problema-de-negocio-a-problema-de-prediccion" class="md-nav__link">
+    📤 Entregable 1 — "De problema de negocio a problema de predicción"
   </a>
   
 </li>
@@ -615,8 +615,15 @@
 <span>📅 Miércoles 5 de agosto de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 1 · Introducción a la IA en los Negocios</span>
+<span class="usm-tag-red">📤 Entregable 1</span>
 </div>
 
+<div class="admonition warning">
+<p class="admonition-title">Día de entregable</p>
+<p>En este curso <strong>los entregables evaluados se publican y reciben solo los días miércoles</strong>. Hoy
+corresponde el <strong>Entregable 1</strong>, que se construye sobre la actividad formativa de la
+<a href="../clase1/">Clase 1</a>. El detalle está al final de esta página.</p>
+</div>
 <h2 id="objetivos-de-la-sesion">🎯 Objetivos de la sesión</h2>
 <ul>
 <li>Explicar, sin matemáticas, cómo "aprende" un modelo de Machine Learning a partir de datos.</li>
@@ -624,7 +631,7 @@
   analogías de negocio.</li>
 <li>Reconocer los tipos de problemas de negocio que pueden traducirse en un problema de ML: predicción,
   clasificación, segmentación y optimización.</li>
-<li>Practicar la traducción de un problema de negocio real a un "problema de predicción".</li>
+<li>Traducir un problema de negocio real a un "problema de predicción" y documentarlo como entregable.</li>
 </ul>
 <p><em>Resultado de aprendizaje asociado: </em><em>RdA9.2</em><em> — Utiliza tecnologías vigentes y/o de vanguardia,
 aplicándolas en sus propuestas y presentaciones.</em></p>
@@ -655,11 +662,11 @@ aplicándolas en sus propuestas y presentaciones.</em></p>
 <td>Caso aplicado: <em>scoring</em> crediticio y predicción de fuga de clientes (<em>churn</em>)</td>
 </tr>
 <tr>
-<td>1:15 – 1:25</td>
-<td>Actividad en clases: "de problema de negocio a problema de predicción"</td>
+<td>1:15 – 1:28</td>
+<td>Trabajo en clase sobre el <strong>Entregable 1</strong>: "de problema de negocio a problema de predicción"</td>
 </tr>
 <tr>
-<td>1:25 – 1:30</td>
+<td>1:28 – 1:30</td>
 <td>Cierre y vínculo con la próxima sesión (IA Generativa)</td>
 </tr>
 </tbody>
@@ -682,6 +689,11 @@ lo hace de forma sistemática y a gran escala.</p>
 <p>Siguiendo a Agrawal, Gans &amp; Goldfarb (<em>Prediction Machines</em>), la contribución económica central del
 ML es que <strong>abarata drásticamente el costo de predecir</strong>. Cuando predecir se vuelve barato, cambia
 qué actividades conviene automatizar y qué decisiones conviene delegar a un modelo.</p>
+<div class="usm-chart">
+<canvas id="chart-costo-prediccion"></canvas>
+<span class="usm-chart-caption">Evolución ilustrativa del costo relativo de predecir (índice base 100). Representa la idea central de "Prediction Machines", no una serie estadística oficial.</span>
+</div>
+
 <h3 id="2-tipos-de-machine-learning">2. Tipos de Machine Learning</h3>
 <table>
 <thead>
@@ -709,6 +721,11 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
 </tr>
 </tbody>
 </table>
+<div class="usm-chart">
+<canvas id="chart-tipos-ml"></canvas>
+<span class="usm-chart-caption">Distribución ilustrativa de los tipos de ML entre los casos de negocio más citados en clase (no es una estadística de mercado real).</span>
+</div>
+
 <h3 id="3-de-problema-de-negocio-a-problema-de-machine-learning">3. De problema de negocio a problema de Machine Learning</h3>
 <p>Antes de "aplicar IA", toda propuesta de negocio debería responder tres preguntas:</p>
 <ol>
@@ -726,17 +743,47 @@ qué actividades conviene automatizar y qué decisiones conviene delegar a un mo
   identifica, antes de que ocurra, qué clientes tienen alta probabilidad de dejar de comprar o
   cancelar su plan, para actuar con una oferta de retención a tiempo.</li>
 </ul>
+<div class="admonition example">
+<p class="admonition-title">Ejemplo ilustrativo: retención de clientes en telecomunicaciones</p>
+<p>Una compañía de telecomunicaciones entrena un modelo con el historial de miles de clientes que
+ya se dieron de baja. El modelo aprende qué combinación de señales (caída en uso, llamadas a
+soporte, cambios de plan) anticipa una fuga. <strong>Orden de magnitud ilustrativo:</strong> si el equipo de
+retención solo puede contactar al 10% de la base, dirigir ese esfuerzo a los clientes con mayor
+probabilidad predicha —en vez de contactar al azar— suele multiplicar varias veces la tasa de
+clientes efectivamente retenidos por cada contacto realizado. La cifra exacta depende de cada
+negocio; lo relevante es el mecanismo: <strong>mejor blanco de acción, no más contactos</strong>.</p>
+</div>
 <p>En ambos casos, el valor de negocio no está en el algoritmo en sí, sino en <strong>la decisión</strong> que
 la predicción permite tomar mejor y más temprano.</p>
 <hr />
-<h2 id="actividad-en-clases-de-problema-de-negocio-a-problema-de-prediccion">✏️ Actividad en clases: "De problema de negocio a problema de predicción"</h2>
-<p>En los mismos grupos de la Clase 1:</p>
+<h2 id="entregable-1-de-problema-de-negocio-a-problema-de-prediccion">📤 Entregable 1 — "De problema de negocio a problema de predicción"</h2>
+<div class="usm-deliverable">
+<p><span class="usm-deliverable-badge">Entregable 1 · Tareas (30% de la nota final)</span></p>
+<p><strong>Objetivo:</strong> traducir un problema de negocio real a un problema de Machine Learning bien
+formulado, a partir del trabajo hecho en la actividad formativa de la Clase 1.</p>
+<p><strong>Instrucciones</strong></p>
 <ol>
-<li>Retomen uno de los procesos identificados en el "mapa de calor de la IA" de la clase anterior.</li>
-<li>Formulen ese proceso como un problema de predicción, respondiendo las 3 preguntas de la sección 3.</li>
-<li>Clasifiquen si el problema es de tipo supervisado, no supervisado o por refuerzo, y justifiquen.</li>
-<li>Entreguen una síntesis de media página (será la base de la <strong>Tarea 1</strong> del curso).</li>
+<li>Retomen, en el mismo grupo de la Clase 1, uno de los procesos identificados en el "mapa de calor
+   de la IA" de esa sesión.</li>
+<li>Formulen ese proceso como un problema de predicción, respondiendo por escrito las 3 preguntas de
+   la sección <em>"De problema de negocio a problema de Machine Learning"</em>.</li>
+<li>Clasifiquen el problema como supervisado, no supervisado o por refuerzo, y justifiquen en 2-3
+   líneas.</li>
+<li>Redacten una síntesis de <strong>máxima media página</strong> (formato libre: documento o una diapositiva).</li>
 </ol>
+<p><strong>Formato y entrega</strong></p>
+<ul>
+<li>Un archivo por grupo (PDF o documento), subido en la <strong>Plataforma Educativa Virtual AULA-USM</strong>,
+  en la tarea habilitada para esta clase.</li>
+<li><strong>Plazo:</strong> hasta las 23:59 del miércoles 5 de agosto de 2026.</li>
+</ul>
+<p><strong>Criterios de evaluación</strong></p>
+<ul>
+<li>Claridad y coherencia entre el proceso elegido y el problema de predicción formulado.</li>
+<li>Correcta identificación del tipo de ML (supervisado / no supervisado / por refuerzo).</li>
+<li>Argumentación de por qué la mejor decisión posible justifica el uso de un modelo predictivo.</li>
+</ul>
+</div>
 <hr />
 <h2 id="para-la-proxima-clase">📚 Para la próxima clase</h2>
 <ul>
@@ -841,6 +888,10 @@ la predicción permite tomar mejor y más temprano.</p>
     
     
       <script src="../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+      
+        <script src="../../javascripts/charts.js"></script>
       
     
     
