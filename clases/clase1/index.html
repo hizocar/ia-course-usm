@@ -1,0 +1,847 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="ICS64225 - Inteligencia Artificial y Estrategia Empresarial (USM)">
+      
+      
+        <meta name="author" content="Sebastian Azocar">
+      
+      
+        <link rel="canonical" href="https://hizocar.github.io/ia-course-usm/clases/clase1/">
+      
+      <link rel="icon" href="../../images/usm_favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-8.5.10">
+    
+    
+      
+        <title>Clase 1 · Presentación e Introducción a la IA - Inteligencia Artificial y Estrategia Empresarial</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.975780f9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#clase-1-presentacion-del-curso-y-que-es-la-inteligencia-artificial" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Inteligencia Artificial y Estrategia Empresarial" class="md-header__button md-logo" aria-label="Inteligencia Artificial y Estrategia Empresarial" data-md-component="logo">
+      
+  <img src="../../images/usm_shield.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Inteligencia Artificial y Estrategia Empresarial
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Clase 1 · Presentación e Introducción a la IA
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../programa/" class="md-tabs__link">
+      Programa
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../clases/" class="md-tabs__link md-tabs__link--active">
+        Clases
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../calendario/" class="md-tabs__link">
+      Calendario
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Inteligencia Artificial y Estrategia Empresarial" class="md-nav__button md-logo" aria-label="Inteligencia Artificial y Estrategia Empresarial" data-md-component="logo">
+      
+  <img src="../../images/usm_shield.png" alt="logo">
+
+    </a>
+    Inteligencia Artificial y Estrategia Empresarial
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../programa/" class="md-nav__link">
+        Programa
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Clases
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Clases" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Clases
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clases/" class="md-nav__link">
+        🏫 Clases
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Clase 1 · Presentación e Introducción a la IA
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Clase 1 · Presentación e Introducción a la IA
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-la-sesion" class="md-nav__link">
+    🎯 Objetivos de la sesión
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agenda-90-min" class="md-nav__link">
+    🗓️ Agenda (90 min)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contenidos" class="md-nav__link">
+    📖 Contenidos
+  </a>
+  
+    <nav class="md-nav" aria-label="📖 Contenidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-panorama-del-curso" class="md-nav__link">
+    1. Panorama del curso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-que-es-la-inteligencia-artificial" class="md-nav__link">
+    2. ¿Qué es la Inteligencia Artificial?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-nuevas-ventajas-competitivas-en-la-era-de-la-ia" class="md-nav__link">
+    3. Nuevas ventajas competitivas en la era de la IA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-casos-reales-por-industria" class="md-nav__link">
+    4. Casos reales por industria
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#actividad-en-clases-mapa-de-calor-de-la-ia-en-mi-industria" class="md-nav__link">
+    ✏️ Actividad en clases: "Mapa de calor de la IA en mi industria"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-la-proxima-clase" class="md-nav__link">
+    📚 Para la próxima clase
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase2/" class="md-nav__link">
+        Clase 2 · Machine Learning para Negocios
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calendario/" class="md-nav__link">
+        Calendario
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-la-sesion" class="md-nav__link">
+    🎯 Objetivos de la sesión
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agenda-90-min" class="md-nav__link">
+    🗓️ Agenda (90 min)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contenidos" class="md-nav__link">
+    📖 Contenidos
+  </a>
+  
+    <nav class="md-nav" aria-label="📖 Contenidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-panorama-del-curso" class="md-nav__link">
+    1. Panorama del curso
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-que-es-la-inteligencia-artificial" class="md-nav__link">
+    2. ¿Qué es la Inteligencia Artificial?
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-nuevas-ventajas-competitivas-en-la-era-de-la-ia" class="md-nav__link">
+    3. Nuevas ventajas competitivas en la era de la IA
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-casos-reales-por-industria" class="md-nav__link">
+    4. Casos reales por industria
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#actividad-en-clases-mapa-de-calor-de-la-ia-en-mi-industria" class="md-nav__link">
+    ✏️ Actividad en clases: "Mapa de calor de la IA en mi industria"
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-la-proxima-clase" class="md-nav__link">
+    📚 Para la próxima clase
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="clase-1-presentacion-del-curso-y-que-es-la-inteligencia-artificial">Clase 1 · Presentación del curso y ¿Qué es la Inteligencia Artificial?</h1>
+<div class="usm-session-meta">
+<span>📅 Lunes 3 de agosto de 2026</span>
+<span>⏱️ 90 minutos</span>
+<span class="usm-tag-gold">Unidad 1 · Introducción a la IA en los Negocios</span>
+</div>
+
+<h2 id="objetivos-de-la-sesion">🎯 Objetivos de la sesión</h2>
+<ul>
+<li>Conocer el enfoque, la metodología y la forma de evaluación del curso.</li>
+<li>Distinguir, en lenguaje no técnico, los conceptos de <strong>Inteligencia Artificial (IA)</strong>, <strong>Machine
+  Learning (ML)</strong> e <strong>IA Generativa</strong>.</li>
+<li>Reconocer por qué la IA se ha vuelto una fuente de <strong>ventaja competitiva</strong> para las empresas.</li>
+<li>Identificar, a partir de ejemplos reales, dónde y cómo distintas industrias ya están usando IA.</li>
+</ul>
+<p><em>Resultado de aprendizaje asociado: </em><em>RdA9.2</em><em> — Utiliza tecnologías vigentes y/o de vanguardia,
+aplicándolas en sus propuestas y presentaciones.</em></p>
+<hr />
+<h2 id="agenda-90-min">🗓️ Agenda (90 min)</h2>
+<table>
+<thead>
+<tr>
+<th>Tiempo</th>
+<th>Bloque</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0:00 – 0:15</td>
+<td>Bienvenida, presentación del equipo docente y de los/las estudiantes</td>
+</tr>
+<tr>
+<td>0:15 – 0:30</td>
+<td>Panorama del curso: objetivos, metodología activa, evaluación (certámenes, controles, tareas)</td>
+</tr>
+<tr>
+<td>0:30 – 0:55</td>
+<td>Charla-discusión: ¿qué es la IA? Diferencias entre IA, Machine Learning e IA Generativa</td>
+</tr>
+<tr>
+<td>0:55 – 1:15</td>
+<td>Análisis de casos reales por industria (minería, retail, banca, salud)</td>
+</tr>
+<tr>
+<td>1:15 – 1:25</td>
+<td>Actividad en clases: "mapa de calor de la IA en mi industria" (trabajo en grupos)</td>
+</tr>
+<tr>
+<td>1:25 – 1:30</td>
+<td>Cierre, dudas y lectura/tarea para la próxima clase</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="contenidos">📖 Contenidos</h2>
+<h3 id="1-panorama-del-curso">1. Panorama del curso</h3>
+<ul>
+<li><strong>Modalidad:</strong> clases expositivas + aula invertida + aprendizaje basado en problemas y proyectos.</li>
+<li><strong>Evaluación:</strong> Certámenes 50% · Controles 20% · Tareas 30% (ver detalle en el
+  <a href="../../programa/#7-evaluacion-calificacion-y-aprobacion">Programa</a>).</li>
+<li><strong>Enfoque:</strong> aplicado y <strong>no técnico</strong> — el curso no enseña a programar modelos de IA, sino a
+  identificar oportunidades de negocio, diseñar propuestas de valor y tomar decisiones estratégicas
+  apoyadas en estas tecnologías.</li>
+</ul>
+<h3 id="2-que-es-la-inteligencia-artificial">2. ¿Qué es la Inteligencia Artificial?</h3>
+<p>En términos simples, la IA es un conjunto de técnicas que permite a un computador <strong>realizar tareas
+que normalmente requieren inteligencia humana</strong>: reconocer patrones, predecir resultados, generar
+contenido o tomar decisiones.</p>
+<p>Para efectos de este curso, conviene distinguir tres niveles:</p>
+<table>
+<thead>
+<tr>
+<th>Concepto</th>
+<th>Idea central</th>
+<th>Ejemplo de negocio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Inteligencia Artificial (IA)</strong></td>
+<td>Término general: sistemas que imitan capacidades cognitivas humanas</td>
+<td>Un sistema de recomendación de un e-commerce</td>
+</tr>
+<tr>
+<td><strong>Machine Learning (ML)</strong></td>
+<td>Subconjunto de la IA: el sistema <strong>aprende patrones a partir de datos</strong>, en vez de seguir reglas programadas explícitamente</td>
+<td>Un modelo que predice qué clientes tienen riesgo de fuga (<em>churn</em>)</td>
+</tr>
+<tr>
+<td><strong>IA Generativa</strong></td>
+<td>Subconjunto del ML: modelos entrenados para <strong>crear contenido nuevo</strong> (texto, imágenes, código, audio) a partir de lo aprendido</td>
+<td>Un chatbot que redacta respuestas personalizadas para clientes</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 <strong>Idea clave:</strong> no toda IA es Machine Learning, y no todo Machine Learning es IA Generativa.
+Son círculos concéntricos: IA ⊃ ML ⊃ IA Generativa.</p>
+</blockquote>
+<h3 id="3-nuevas-ventajas-competitivas-en-la-era-de-la-ia">3. Nuevas ventajas competitivas en la era de la IA</h3>
+<p>Siguiendo a Iansiti &amp; Lakhani (<em>Competing in the Age of AI</em>), las empresas que construyen sus
+operaciones en torno a IA y datos —y no solo la usan como una herramienta más— pueden escalar de
+forma distinta a la lógica industrial tradicional:</p>
+<ul>
+<li><strong>Menores costos marginales</strong> al automatizar decisiones repetitivas.</li>
+<li><strong>Efectos de red y aprendizaje</strong>: mientras más datos y usuarios, mejor el producto.</li>
+<li><strong>Toma de decisiones más rápida y granular</strong> (a nivel de cada cliente o transacción).</li>
+</ul>
+<h3 id="4-casos-reales-por-industria">4. Casos reales por industria</h3>
+<p>Una mirada rápida a cómo distintas industrias —incluidas varias relevantes para Chile— usan IA hoy:</p>
+<ul>
+<li><strong>Minería:</strong> mantenimiento predictivo de equipos, optimización de procesos y seguridad operacional.</li>
+<li><strong>Transporte y logística:</strong> ruteo dinámico, predicción de demanda, mantenimiento de flotas.</li>
+<li><strong>Retail:</strong> recomendación de productos, forecasting de demanda, optimización de precios.</li>
+<li><strong>Finanzas:</strong> <em>scoring</em> crediticio, detección de fraude, robo-advisors.</li>
+<li><strong>Salud:</strong> apoyo al diagnóstico por imágenes, priorización de listas de espera.</li>
+<li><strong>Educación:</strong> tutores adaptativos, detección temprana de deserción estudiantil.</li>
+</ul>
+<hr />
+<h2 id="actividad-en-clases-mapa-de-calor-de-la-ia-en-mi-industria">✏️ Actividad en clases: "Mapa de calor de la IA en mi industria"</h2>
+<p>En grupos de 3-4 personas:</p>
+<ol>
+<li>Elijan una industria (puede ser el sector de interés profesional de alguien del grupo).</li>
+<li>Identifiquen 3 procesos de negocio donde la IA/ML <strong>ya</strong> genera valor hoy.</li>
+<li>Para cada proceso, clasifiquen el nivel de madurez: 🔴 experimental · 🟡 en adopción · 🟢 estándar de la industria.</li>
+<li>Compartan un hallazgo con el curso.</li>
+</ol>
+<hr />
+<h2 id="para-la-proxima-clase">📚 Para la próxima clase</h2>
+<ul>
+<li>Lectura sugerida: Agrawal, Gans &amp; Goldfarb, <em>Prediction Machines</em> — capítulo introductorio sobre
+  IA como "máquina de predicción" y su efecto en el costo de predecir.</li>
+<li>Traer un ejemplo propio (noticia, caso de una empresa, experiencia personal) de un producto o
+  servicio que use Machine Learning, para discutirlo en la Clase 2.</li>
+</ul>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Volver al principio
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Pie" >
+      
+        
+        <a href="../clases/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: 🏫 Clases" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              🏫 Clases
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../clase2/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Clase 2 · Machine Learning para Negocios" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Siguiente
+              </span>
+              Clase 2 · Machine Learning para Negocios
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+      
+    
+    <a href="https://github.com/hizocar" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.top", "navigation.tabs", "content.code.annotate", "search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+    
+    
+  </body>
+</html>
