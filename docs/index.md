@@ -1,8 +1,23 @@
-# 🤖 Inteligencia Artificial y Estrategia Empresarial
+<div class="usm-hero" markdown>
+<div>
+<span class="usm-hero-tag">ICS64225 · Ingeniería Comercial</span>
+<h1>Inteligencia Artificial y Estrategia Empresarial</h1>
+<p>Universidad Técnica Federico Santa María — un electivo profesional para imaginar, diseñar y
+liderar organizaciones más ágiles, competitivas y visionarias en la era de la IA.</p>
+</div>
+<img src="images/usm_shield.png" alt="Escudo Universidad Técnica Federico Santa María">
+</div>
 
-**Sigla:** ICS64225 · **Unidad académica:** Departamento de Ingeniería Comercial · **Créditos SCT-Chile:** 5
+<div class="usm-facts" markdown>
+<div class="usm-fact"><span class="usm-fact-label">Créditos SCT-Chile</span><span class="usm-fact-value">5</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Días de clase</span><span class="usm-fact-value">Lunes y Miércoles</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Horario</span><span class="usm-fact-value">17:30 – 19:00</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Duración</span><span class="usm-fact-value">90 min / clase</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Inicio</span><span class="usm-fact-value">3 de agosto 2026</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Término</span><span class="usm-fact-value">18 de noviembre 2026</span></div>
+</div>
 
----
+> 🗓️ Revisa el detalle semana a semana en [**Calendario**](calendario.md).
 
 ## 📌 Descripción
 
@@ -17,31 +32,21 @@ Con un enfoque aplicado y no técnico, el curso combina análisis de casos, simu
 de prototipos conceptuales y propuestas de negocio sustentadas en el uso estratégico de la
 Inteligencia Artificial.
 
-## 🗓️ Horario
-
-| | |
-|---|---|
-| **Días** | Lunes y Miércoles |
-| **Hora** | 17:30 – 19:00 |
-| **Duración de clase** | 90 minutos |
-| **Inicio de clases** | Lunes 3 de agosto de 2026 |
-| **Término de clases** | Miércoles 18 de noviembre de 2026 *(tercera semana de noviembre)* |
-
-> Ver el detalle semana a semana en [Calendario](calendario.md).
-
 ## 👤 Docente
 
-<div style="display:flex; gap:40px; align-items:flex-start; flex-wrap:wrap; margin-top:1rem;">
-  <div style="text-align:center; max-width:260px;">
-    <img src="images/perfil_seba.png" alt="Sebastián Azócar" style="border-radius:50%; width:160px; height:160px; object-fit:cover;">
-    <h3>Sebastián Azócar</h3>
-    <em>Data Scientist and Teacher</em><br><br>
-    🎓 Mathematical Engineer &amp; Master in Data Science<br>
-    🔗 <a href="https://www.linkedin.com/in/sebasti%C3%A1n-az%C3%B3car/">LinkedIn</a>
-  </div>
+<div class="usm-card-grid" markdown>
+<div class="usm-card" markdown>
+<img src="images/perfil_seba.png" alt="Sebastián Azócar" style="border-radius:50%; width:120px; height:120px; object-fit:cover;">
+
+### Sebastián Azócar
+*Data Scientist and Teacher*
+
+🎓 Mathematical Engineer & Master in Data Science
+🔗 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-az%C3%B3car/)
+</div>
 </div>
 
 ---
 
 > 📚 Revisa el [Programa de la asignatura](programa.md) para conocer resultados de aprendizaje,
-> contenidos, evaluación y bibliografía.
+> contenidos, evaluación y bibliografía, o entra directo a las [Clases](clases/clases.md).

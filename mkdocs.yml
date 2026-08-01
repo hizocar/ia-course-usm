@@ -21,11 +21,12 @@ markdown_extensions:
 theme:
   name: material
   language: es
-  logo: images/logo.bmp
-  favicon: images/logo_python.svg
+  logo: images/usm_shield.png
+  favicon: images/usm_favicon.png
   features:
     - navigation.instant
     - navigation.top
+    - navigation.tabs
     - content.code.annotate
     - search.suggest
     - search.highlight
@@ -33,8 +34,8 @@ theme:
     # Light mode
     - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: deep purple
-      accent: purple
+      primary: indigo
+      accent: amber
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -42,11 +43,15 @@ theme:
     # Dark mode
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
-      primary: deep purple
-      accent: purple
+      primary: indigo
+      accent: amber
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
+
+# Extra CSS
+extra_css:
+  - stylesheets/extra.css
 
 # Customization
 extra:
@@ -62,4 +67,8 @@ plugins:
 nav:
   - Home: index.md
   - Programa: programa.md
+  - Clases:
+      - clases/clases.md
+      - "Clase 1 · Presentación e Introducción a la IA": clases/clase1.md
+      - "Clase 2 · Machine Learning para Negocios": clases/clase2.md
   - Calendario: calendario.md
