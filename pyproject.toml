@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "ia-course-usm"
+version = "0.1.0"
+description = "ICS64225 - Inteligencia Artificial y Estrategia Empresarial (USM)"
+authors = ["Sebastian Azocar <hizocar@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+mkdocs-material = "^8.2.15"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,65 @@
+# Project information
+site_name: Inteligencia Artificial y Estrategia Empresarial
+site_author: Sebastian Azocar
+site_description: ICS64225 - Inteligencia Artificial y Estrategia Empresarial (USM)
+site_url: https://hizocar.github.io/ia-course-usm/
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - admonition
+  - md_in_html
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tabbed
+
+# Theme
+theme:
+  name: material
+  language: es
+  logo: images/logo.bmp
+  favicon: images/logo_python.svg
+  features:
+    - navigation.instant
+    - navigation.top
+    - content.code.annotate
+    - search.suggest
+    - search.highlight
+  palette:
+    # Light mode
+    - media: '(prefers-color-scheme: light)'
+      scheme: default
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+
+    # Dark mode
+    - media: '(prefers-color-scheme: dark)'
+      scheme: slate
+      primary: deep purple
+      accent: purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+
+# Customization
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/hizocar
+
+# Plugins
+plugins:
+  - search
+
+# TOC
+nav:
+  - Home: index.md
+  - Programa: programa.md
+  - Calendario: calendario.md
