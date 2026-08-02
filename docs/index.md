@@ -34,16 +34,75 @@ Inteligencia Artificial.
 
 ## 👤 Docente
 
-<div class="usm-card-grid" markdown>
-<div class="usm-card" markdown>
-<img src="images/perfil_seba.png" alt="Sebastián Azócar" style="border-radius:50%; width:120px; height:120px; object-fit:cover;">
+<div class="usm-profile" markdown>
+<img src="images/perfil_seba.png" alt="Sebastián Azócar">
+<div class="usm-profile-body" markdown>
 
 ### Sebastián Azócar
-*Data Scientist and Teacher*
+<span class="usm-profile-role">Data Scientist @ LATAM Airlines Group · Profesor part-time UTFSM</span>
 
-🎓 Mathematical Engineer & Master in Data Science
-🔗 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-az%C3%B3car/)
+Ingeniero Matemático con más de 5 años de experiencia aplicando Machine Learning en la industria
+—Caja Los Andes, Walmart Chile y actualmente LATAM Airlines Group— y más de una década formando
+nuevas generaciones en ciencia de datos y estadística, hoy como profesor part-time en la
+Universidad Técnica Federico Santa María.
+
+<div class="usm-profile-links" markdown>
+[🔗 LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-az%C3%B3car/)
 </div>
+</div>
+</div>
+
+<div class="usm-card-grid" markdown>
+
+<div class="usm-card" markdown>
+### 💼 Experiencia profesional
+
+<ul class="usm-timeline">
+<li class="usm-current">
+<span class="usm-timeline-title">Data Scientist — LATAM Airlines Group<span class="usm-timeline-badge">Actual</span></span>
+<span class="usm-timeline-meta">2,5 años</span>
+</li>
+<li>
+<span class="usm-timeline-title">Data Scientist — Walmart Chile</span>
+<span class="usm-timeline-meta">1 año</span>
+</li>
+<li>
+<span class="usm-timeline-title">Data Scientist Expert — Caja Los Andes</span>
+<span class="usm-timeline-meta">2 años</span>
+</li>
+</ul>
+</div>
+
+<div class="usm-card" markdown>
+### 🏫 Docencia universitaria
+
+<ul class="usm-timeline">
+<li class="usm-current">
+<span class="usm-timeline-title">Profesor part-time — Universidad Técnica Federico Santa María<span class="usm-timeline-badge">Actual</span></span>
+<span class="usm-timeline-meta">4 años</span>
+</li>
+<li>
+<span class="usm-timeline-title">Profesor — Universidad Diego Portales</span>
+<span class="usm-timeline-meta">8 años</span>
+</li>
+</ul>
+</div>
+
+<div class="usm-card" markdown>
+### 🎓 Formación académica
+
+<ul class="usm-timeline">
+<li>
+<span class="usm-timeline-title">Magíster en Data Science</span>
+<span class="usm-timeline-meta">Universidad del Desarrollo</span>
+</li>
+<li>
+<span class="usm-timeline-title">Ingeniería Matemática</span>
+<span class="usm-timeline-meta">Universidad de Santiago de Chile (USACH)</span>
+</li>
+</ul>
+</div>
+
 </div>
 
 ---

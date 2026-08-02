@@ -380,3 +380,135 @@
   border-radius: 999px;
   margin-bottom: 0.6rem;
 }
+
+/* ==========================================================================
+   Perfil docente (Home)
+   ========================================================================== */
+.usm-profile {
+  display: flex;
+  gap: 1.6rem;
+  align-items: center;
+  flex-wrap: wrap;
+  border-top: 4px solid var(--usm-gold);
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-radius: 12px;
+  padding: 1.6rem 1.8rem;
+  margin: 1.2rem 0 1.6rem 0;
+  background: var(--md-default-bg-color);
+}
+
+.usm-profile img {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--usm-gold);
+  flex-shrink: 0;
+}
+
+.usm-profile-body {
+  flex: 1;
+  min-width: 240px;
+}
+
+.usm-profile-body h3 {
+  margin: 0 0 0.15rem 0;
+  font-size: 1.35rem;
+  color: var(--usm-navy);
+}
+
+[data-md-color-scheme="slate"] .usm-profile-body h3 {
+  color: #eef1fb;
+}
+
+.usm-profile-role {
+  display: block;
+  font-weight: 600;
+  color: var(--usm-blue);
+  margin-bottom: 0.6rem;
+}
+
+.usm-profile-body p {
+  margin: 0 0 0.8rem 0;
+}
+
+.usm-profile-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--usm-navy);
+  color: #fff !important;
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-decoration: none !important;
+}
+
+.usm-profile-links a:hover {
+  background: var(--usm-blue);
+}
+
+/* Timeline (experiencia / docencia) ------------------------------------------*/
+.usm-timeline {
+  list-style: none;
+  margin: 0.6rem 0 0 0;
+  padding: 0;
+  position: relative;
+}
+
+.usm-timeline li {
+  position: relative;
+  padding: 0 0 1.1rem 1.4rem;
+  border-left: 2px solid var(--md-accent-fg-color--transparent);
+}
+
+.usm-timeline li:last-child {
+  padding-bottom: 0;
+  border-left-color: transparent;
+}
+
+.usm-timeline li::before {
+  content: "";
+  position: absolute;
+  left: -6px;
+  top: 4px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--usm-blue);
+  border: 2px solid var(--md-default-bg-color);
+}
+
+.usm-timeline li.usm-current::before {
+  background: var(--usm-gold);
+}
+
+.usm-timeline .usm-timeline-title {
+  display: block;
+  font-weight: 700;
+  color: var(--usm-navy);
+}
+
+[data-md-color-scheme="slate"] .usm-timeline .usm-timeline-title {
+  color: #eef1fb;
+}
+
+.usm-timeline .usm-timeline-meta {
+  display: block;
+  font-size: 0.82rem;
+  opacity: 0.75;
+}
+
+.usm-timeline .usm-timeline-badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  background: var(--usm-gold);
+  color: var(--usm-navy-dark);
+  font-size: 0.68rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  padding: 0.05rem 0.45rem;
+  border-radius: 999px;
+}
