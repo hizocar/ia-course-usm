@@ -8,6 +8,10 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
     miércoles**. Las sesiones de los lunes son de contenido y trabajo formativo — sin nota directa
     — cuyo resultado suele ser el insumo del entregable del miércoles siguiente.
 
+!!! tip "🚀 Proyecto del curso"
+    Las clases no son solo teoría suelta: alimentan un [**Proyecto único de 3 hitos**](../proyecto.md)
+    que cada grupo desarrolla durante todo el semestre, hasta un prototipo funcional y un pitch final.
+
 <div class="usm-card-grid" markdown>
 
 <div class="usm-card" markdown>
@@ -19,7 +23,7 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 2️⃣ Machine Learning para Negocios
-**Miércoles 5 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · 📤 Entregable 1
+**Miércoles 5 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · 🚀 Hito 1 del Proyecto
 
 [Ir a la clase →](clase2.md)
 </div>

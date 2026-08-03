@@ -10,13 +10,17 @@
 > reciben **solo los días miércoles**. Los lunes son sesiones de contenido y trabajo formativo, cuyo
 > resultado suele ser el insumo del entregable del miércoles siguiente. Los certámenes 📊 se
 > mantienen en las fechas indicadas (todas caen en miércoles en esta propuesta).
+>
+> 🚀 **Proyecto del curso:** las 3 Tareas del programa (30% de la nota) son los 3 hitos de un mismo
+> [Proyecto](proyecto.md) que el equipo formado en la Clase 1 desarrolla durante todo el semestre.
+> Están marcadas como 🚀 **Hito 1/2/3** en el calendario.
 
 ---
 
 ## 🗓️ Semana 1 (3 al 7 de agosto)
 
 - **Clase 1** — *lunes 3 de agosto*: Presentación del curso; ¿Qué es la Inteligencia Artificial? Conceptos clave para no técnicos. *(sesión formativa)*
-- **Clase 2** — *miércoles 5 de agosto*: Machine Learning — fundamentos aplicados a negocios. 📤 **Entregable 1**
+- **Clase 2** — *miércoles 5 de agosto*: Machine Learning — fundamentos aplicados a negocios. 🚀 **Hito 1 del Proyecto**
 
 ---
 
@@ -95,7 +99,7 @@
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
 - **Clase 20** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 2).
-- **Clase 21** — *miércoles 21 de octubre*: Diseño de una solución o servicio con apoyo de IA.
+- **Clase 21** — *miércoles 21 de octubre*: Diseño de una solución o servicio con apoyo de IA. 🚀 **Hito 2 del Proyecto**
 
 ---
 
@@ -115,14 +119,14 @@
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 26** — *lunes 9 de noviembre*: 🎤 Presentaciones de proyectos (parte 1).
-- **Clase 27** — *miércoles 11 de noviembre*: 🎤 Presentaciones de proyectos (parte 2).
+- **Clase 26** — *lunes 9 de noviembre*: 🎤 Presentaciones del Proyecto — Hito 3 (parte 1).
+- **Clase 27** — *miércoles 11 de noviembre*: 🚀 **Hito 3 del Proyecto** (documento final) + 🎤 Presentaciones (parte 2).
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 28** — *lunes 16 de noviembre*: 🎤 Presentaciones de proyectos (parte 3).
+- **Clase 28** — *lunes 16 de noviembre*: 🎤 Presentaciones del Proyecto — Hito 3 (parte 3).
 - **Clase 29** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
 
 🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*

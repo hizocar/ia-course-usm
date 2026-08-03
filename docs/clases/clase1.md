@@ -9,7 +9,7 @@
 !!! note "Sesión formativa (sin entregable)"
     Esta clase es de contenido y discusión. En este curso **los entregables evaluados se publican
     y reciben solo los días miércoles** (ver [política de entregables](../calendario.md)); la
-    actividad de hoy es formativa y alimenta el **Entregable 1**, que se presenta en la
+    actividad de hoy es formativa y alimenta el **Hito 1 del Proyecto**, que se presenta en la
     [Clase 2](clase2.md).
 
 ## 🎯 Objetivos de la sesión
@@ -45,7 +45,7 @@ aplicándolas en sus propuestas y presentaciones.*
 | 0:45 – 1:00 | ChatGPT, Claude y Gemini: qué son, en qué se diferencian y cómo se usan en el área comercial |
 | 1:00 – 1:15 | Ventajas competitivas de la IA + análisis de casos reales por industria |
 | 1:15 – 1:27 | Actividad formativa: "radar estratégico de IA" (trabajo en grupos) |
-| 1:27 – 1:30 | Cierre, dudas y preparación del Entregable 1 (Clase 2) |
+| 1:27 – 1:30 | Cierre, dudas y preparación del Hito 1 del Proyecto (Clase 2) |
 
 ---
 
@@ -204,7 +204,10 @@ IA hoy:
 
 ## ✏️ Actividad formativa: "Radar estratégico de IA"
 
-*Esta actividad **no se entrega ni se califica**. Es la base del Entregable 1 de la Clase 2.*
+*Esta actividad **no se entrega ni se califica**. Es el punto de partida del
+**[Proyecto del curso](../proyecto.md)**: el grupo que formen hoy trabajará junto/a durante todo el
+semestre en un mismo proyecto de 3 hitos, y esta actividad alimenta directamente el Hito 1 de la
+Clase 2.*
 
 En grupos de 3-4 personas:
 
@@ -221,7 +224,7 @@ En grupos de 3-4 personas:
 5. Para uno de los tres procesos, evalúen en una frase si esa capacidad representa una **ventaja
    competitiva defendible** (¿es fácil de copiar por un competidor?) o solo una mejora operativa.
 6. Compartan un hallazgo con el curso.
-7. **Guarden sus notas**: el miércoles las usarán como punto de partida del Entregable 1.
+7. **Guarden sus notas**: el miércoles las usarán como punto de partida del Hito 1 del Proyecto.
 
 ---
 
@@ -233,4 +236,5 @@ En grupos de 3-4 personas:
   servicio que use Machine Learning, para discutirlo en la Clase 2.
 - Si aún no lo han hecho, crearse una cuenta gratuita en ChatGPT, Claude o Gemini y probarlos con una
   pregunta de negocio real — lo usaremos en clases próximas.
-- Traer las notas de la actividad formativa de hoy: se usarán directamente en el **Entregable 1**.
+- Traer las notas de la actividad formativa de hoy: se usarán directamente en el **Hito 1 del
+  Proyecto**.

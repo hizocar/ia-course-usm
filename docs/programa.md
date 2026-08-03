@@ -89,6 +89,8 @@ Si no:
 
 - **Certamen Recuperativo (CR):** para estudiantes con inasistencia justificada a un certamen, evalúa todos los contenidos del curso. Si se rinde, el promedio de certámenes se calcula como `PC = (C1 + C2 + CR − min(C1, C2, CR)) / 2`.
 - **Tareas:** 2 a 3 en total, orientadas a reflexionar y poner en práctica los contenidos del curso.
+  En esta implementación, las 3 tareas son los 3 hitos de un único [Proyecto](proyecto.md) aplicado
+  que cada equipo desarrolla durante todo el semestre.
 - **Controles:** 3 a 4 en total, para reforzar los conceptos de los casos discutidos en sesiones previas. Si se rinden los cuatro, se promedian las tres mejores notas; en cualquier otro caso, los puntajes se dividen por cuatro.
 
 ## 8. Recursos para el aprendizaje

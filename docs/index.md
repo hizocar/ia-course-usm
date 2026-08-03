@@ -32,6 +32,31 @@ Con un enfoque aplicado y no técnico, el curso combina análisis de casos, simu
 de prototipos conceptuales y propuestas de negocio sustentadas en el uso estratégico de la
 Inteligencia Artificial.
 
+## 🚀 Proyecto del curso
+
+<div class="usm-card" markdown>
+Durante todo el semestre, el mismo equipo formado en la Clase 1 desarrolla **un solo proyecto**:
+una solución de negocio real construida con ChatGPT, Claude, Gemini u otras herramientas de IA sin
+programar — desde la idea hasta un prototipo funcional y un pitch final de viabilidad.
+
+<ul class="usm-timeline">
+<li>
+<span class="usm-timeline-title">Hito 1 — Idea y problema de IA formulado</span>
+<span class="usm-timeline-meta">5 de agosto</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 2 — Prototipo funcional con herramientas de IA</span>
+<span class="usm-timeline-meta">21 de octubre</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 3 — Proyecto final y pitch</span>
+<span class="usm-timeline-meta">9 al 16 de noviembre</span>
+</li>
+</ul>
+
+[Ver el proyecto completo →](proyecto.md)
+</div>
+
 ## 👤 Docente
 
 <div class="usm-profile" markdown>

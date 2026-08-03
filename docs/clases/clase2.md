@@ -4,13 +4,14 @@
 <span>📅 Miércoles 5 de agosto de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 1 · Introducción a la IA en los Negocios</span>
-<span class="usm-tag-red">📤 Entregable 1</span>
+<span class="usm-tag-red">🚀 Hito 1 del Proyecto</span>
 </div>
 
 !!! warning "Día de entregable"
     En este curso **los entregables evaluados se publican y reciben solo los días miércoles**. Hoy
-    corresponde el **Entregable 1**, que se construye sobre la actividad formativa de la
-    [Clase 1](clase1.md). El detalle está al final de esta página.
+    corresponde el **Hito 1 del [Proyecto del curso](../proyecto.md)** — el primero de tres hitos que
+    este mismo equipo desarrollará durante el semestre — construido sobre la actividad formativa de
+    la [Clase 1](clase1.md). El detalle está al final de esta página.
 
 ## 🎯 Objetivos de la sesión
 
@@ -36,7 +37,7 @@ aplicándolas en sus propuestas y presentaciones.*
 | 0:10 – 0:30 | ¿Cómo aprende una máquina? Datos, patrones y predicción (sin matemáticas) |
 | 0:30 – 0:50 | Tipos de Machine Learning — y cómo se entrenan ChatGPT, Claude y Gemini con esos mismos tipos |
 | 0:50 – 1:10 | Casos aplicados: *scoring* crediticio, *churn* y *pricing* dinámico |
-| 1:10 – 1:27 | Trabajo en clase sobre el **Entregable 1**: "de problema de negocio a problema de predicción" |
+| 1:10 – 1:27 | Trabajo en clase sobre el **Hito 1 del Proyecto**: "de problema de negocio a problema de predicción" |
 | 1:27 – 1:30 | Cierre y vínculo con la próxima sesión (IA Generativa en profundidad) |
 
 ---
@@ -129,15 +130,15 @@ de la mejor decisión** (una lógica similar a la de un árbol de decisión en E
     negocio; lo relevante es el mecanismo: **mejor blanco de acción, no más contactos**.
 
 En todos los casos, el valor de negocio no está en el algoritmo en sí, sino en **la decisión** que
-la predicción permite tomar mejor y más temprano — la misma idea que van a aplicar en el Entregable 1
-de hoy.
+la predicción permite tomar mejor y más temprano — la misma idea que van a aplicar en el Hito 1
+del Proyecto de hoy.
 
 ---
 
-## 📤 Entregable 1 — "De problema de negocio a problema de predicción"
+## 🚀 Hito 1 del Proyecto — "De problema de negocio a problema de predicción"
 
 <div class="usm-deliverable" markdown>
-<span class="usm-deliverable-badge">Entregable 1 · Tareas (30% de la nota final)</span>
+<span class="usm-deliverable-badge">Hito 1 de 3 · Proyecto del curso · Tareas (30% de la nota final)</span>
 
 **Objetivo:** traducir un problema de negocio real a un problema de Machine Learning bien
 formulado y cuantificar, aunque sea de forma gruesa, el valor de la decisión que ese modelo
@@ -181,3 +182,5 @@ permitiría tomar — a partir del trabajo hecho en la actividad formativa de la
   o una categoría) y qué implica eso para la experiencia de cliente y el marketing.
 - Traer identificado un ejemplo propio de uso de **ChatGPT, Claude, Gemini u otra herramienta de IA
   Generativa** en un contexto laboral o académico, con una opinión breve sobre sus límites.
+- Guarden el Hito 1: es la base directa del **Hito 2 — Prototipo funcional con herramientas de IA**,
+  que se entrega el miércoles 21 de octubre (ver el detalle completo en [Proyecto](../proyecto.md)).
