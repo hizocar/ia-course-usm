@@ -54,11 +54,12 @@ aplicándolas en sus propuestas y presentaciones.*
 ### 1. Panorama del curso
 
 - **Modalidad:** clases expositivas + aula invertida + aprendizaje basado en problemas y proyectos.
-- **Evaluación:** Certámenes 50% · Controles 20% · Tareas 30% (ver detalle en el
-  [Programa](../programa.md#7-evaluacion-calificacion-y-aprobacion)).
-- **Política de entregables:** todo entregable evaluado (tareas y controles) se publica, trabaja y
-  recibe **los días miércoles**. Los lunes son sesiones de contenido, casos y trabajo formativo sin
-  nota directa, cuyo resultado suele ser el insumo del entregable del miércoles siguiente.
+- **Evaluación:** 100% a través del [Proyecto del curso](../proyecto.md) — 7 hitos bisemanales (10%
+  cada uno = 70%) + presentación final (30%). No hay certámenes ni controles separados (ver detalle
+  en el [Programa](../programa.md#7-evaluacion-calificacion-y-aprobacion)).
+- **Política de entregables:** los 7 hitos del proyecto se publican, trabajan y reciben **los
+  miércoles**, aproximadamente cada dos semanas. Los lunes son sesiones de contenido, casos y
+  trabajo formativo sin nota directa, cuyo resultado suele ser el insumo del hito más cercano.
 - **Enfoque:** aplicado y **no técnico** — el curso no enseña a programar modelos de IA, sino a
   identificar oportunidades de negocio, diseñar propuestas de valor y tomar decisiones estratégicas
   apoyadas en estas tecnologías.
@@ -206,7 +207,8 @@ IA hoy:
 
 *Esta actividad **no se entrega ni se califica**. Es el punto de partida del
 **[Proyecto del curso](../proyecto.md)**: el grupo que formen hoy trabajará junto/a durante todo el
-semestre en un mismo proyecto de 3 hitos, y esta actividad alimenta directamente el Hito 1 de la
+semestre en un mismo proyecto de 7 hitos + presentación final, y esta actividad alimenta
+directamente el Hito 1 de la
 Clase 2.*
 
 En grupos de 3-4 personas:

@@ -1,25 +1,24 @@
 <div class="usm-hero" markdown>
 <div>
-<span class="usm-hero-tag">Hilo conductor del semestre</span>
+<span class="usm-hero-tag">100% de la nota final</span>
 <h1>🚀 Proyecto del curso: diseña una solución de negocio con IA</h1>
 <p>El mismo equipo que se forma en la Clase 1 lleva una idea de negocio real —apoyada en IA
 predictiva y/o IA Generativa (ChatGPT, Claude, Gemini)— desde el problema hasta un prototipo
-funcional y un pitch de viabilidad, en tres hitos a lo largo del semestre.</p>
+funcional y una presentación final de viabilidad, en 7 hitos entregados cada dos semanas.</p>
 </div>
 </div>
 
-## 🎯 Por qué un proyecto único (y no tareas sueltas)
+## 🎯 Un solo proyecto, toda la nota
 
-Siguiendo la lógica de Iansiti & Lakhani vista en la [Clase 1](clases/clase1.md), una empresa no
-crea ventaja con IA por usar una herramienta una vez, sino por **construir una capacidad que se
-perfecciona con el tiempo**. Este curso replica esa lógica: en vez de 2-3 tareas independientes, las
-**Tareas (30% de la nota final)** del [Programa](programa.md) se organizan como **3 hitos de un
-mismo proyecto**, cada uno construyendo sobre el anterior.
+Este curso se evalúa **100% a través de un único proyecto aplicado**. No hay certámenes ni
+controles separados: el equipo formado en la [Clase 1](clases/clase1.md) construye, a lo largo de
+todo el semestre, una propuesta de negocio real que usa IA — y la va entregando en **7 hitos
+bisemanales (10% cada uno)** más una **presentación final (30%)**.
 
-El objetivo final no es un ensayo sobre IA, sino un **proyecto viable**: una propuesta de negocio
-concreta, con un prototipo construido usando herramientas de IA accesibles sin programar, y una
-estimación honesta de si vale la pena implementarla — la misma lógica de viabilidad que ya conocen
-de Evaluación Social de Proyectos y Finanzas Corporativas, aplicada a una iniciativa basada en IA.
+Siguiendo la lógica de Iansiti & Lakhani vista en la Clase 1, una empresa no crea ventaja con IA por
+usar una herramienta una vez, sino por **construir una capacidad que se perfecciona con el tiempo**.
+Este proyecto replica esa lógica: cada hito no es una tarea aislada, sino una iteración sobre el
+hito anterior.
 
 ## 👥 Equipos
 
@@ -28,48 +27,72 @@ Los mismos grupos de 3-4 personas formados en la actividad de la
 semestre**. Se recomienda no cambiar de grupo salvo fuerza mayor, ya que cada hito depende del
 trabajo del hito anterior.
 
-## 🗺️ Los 3 hitos del proyecto
+## 🗺️ Los 7 hitos + presentación final
 
 <div class="usm-card" markdown>
 <ul class="usm-timeline">
 <li>
-<span class="usm-timeline-title">Hito 1 — Idea y problema de IA formulado<span class="usm-timeline-badge">5 ago · Clase 2</span></span>
-<span class="usm-timeline-meta">Elegir la empresa/idea, formular el problema como problema de predicción o de IA Generativa, y estimar el valor de la decisión.</span>
+<span class="usm-timeline-title">Hito 1 — Idea y problema de IA<span class="usm-timeline-badge">5 ago · Clase 2</span></span>
+<span class="usm-timeline-meta">10% · Elegir la empresa/idea y formular el problema como problema de predicción o de IA Generativa.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 2 — Prototipo funcional con herramientas de IA<span class="usm-timeline-badge">21 oct · Clase 21</span></span>
-<span class="usm-timeline-meta">Construir una primera versión tangible de la solución (asistente conversacional, automatización, panel de datos) usando ChatGPT, Claude, Gemini u otra herramienta no-código.</span>
+<span class="usm-timeline-title">Hito 2 — Modelo de negocio validado<span class="usm-timeline-badge">19 ago · Clase 6</span></span>
+<span class="usm-timeline-meta">10% · Business Model / Lean Canvas de la iniciativa con foco en la componente de IA.</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 3 — Diseño de la solución con IA<span class="usm-timeline-badge">2 sep · Clase 10</span></span>
+<span class="usm-timeline-meta">10% · Especificar si la solución usa ML predictivo, IA Generativa, o ambos, y cómo se integra al negocio.</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 4 — Prototipo funcional v1<span class="usm-timeline-badge">23 sep · Clase 14</span></span>
+<span class="usm-timeline-meta">10% · Primera versión tangible construida con herramientas de IA sin programar.</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 18</span></span>
+<span class="usm-timeline-meta">10% · Identificar y mitigar riesgos éticos, de sesgo y de privacidad del prototipo.</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 21</span></span>
+<span class="usm-timeline-meta">10% · Prototipo mejorado tras el Taller de Prototipado y la revisión de riesgos.</span>
+</li>
+<li>
+<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 25</span></span>
+<span class="usm-timeline-meta">10% · Estimación de costos, usuarios alcanzados y beneficio esperado del proyecto.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Hito 3 — Proyecto final y pitch<span class="usm-timeline-badge">11 y 9-16 nov · Clases 26-28</span></span>
-<span class="usm-timeline-meta">Documento final con evaluación de viabilidad + presentación en vivo de 8-10 minutos ante el curso.</span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 27-28</span></span>
+<span class="usm-timeline-meta">30% · Documento final + pitch en vivo ante el curso.</span>
 </li>
 </ul>
 </div>
 
-> 📤 Los tres hitos son la aplicación de la [política de entregables](calendario.md): se suben en
-> AULA-USM el **miércoles** correspondiente. La única excepción es la presentación en vivo del
-> Hito 3, que por ser un evento en clase (no una entrega asíncrona) se reparte en las tres últimas
-> sesiones del curso, incluyendo un lunes.
+> 📤 Los 7 hitos son la aplicación de la [política de entregables](calendario.md): se suben en
+> AULA-USM el **miércoles** correspondiente, cada dos semanas (con una excepción de 3 semanas entre
+> el Hito 3 y el Hito 4 por el receso de Fiestas Patrias). La presentación final se reparte en dos
+> sesiones (incluye un lunes) por ser un evento en clase, no una entrega asíncrona.
 
-### Ponderación sugerida dentro del 30% de Tareas
+### Ponderación
 
-| Hito | % de la Nota Final |
+| Hito | % Nota Final |
 |---|---:|
-| Hito 1 — Idea y problema de IA | 7,5% |
-| Hito 2 — Prototipo funcional | 10,5% |
-| Hito 3 — Proyecto final y pitch | 12% |
-| **Total (= Tareas del Programa)** | **30%** |
+| Hito 1 — Idea y problema de IA | 10% |
+| Hito 2 — Modelo de negocio validado | 10% |
+| Hito 3 — Diseño de la solución con IA | 10% |
+| Hito 4 — Prototipo funcional v1 | 10% |
+| Hito 5 — Riesgos y gobernanza | 10% |
+| Hito 6 — Prototipo v2 refinado | 10% |
+| Hito 7 — Evaluación de viabilidad | 10% |
+| Presentación final | 30% |
+| **Total** | **100%** |
 
-*Ponderación propuesta; el/la docente puede ajustarla siempre que la suma respete el 30% de Tareas
-definido en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
+*Ver la fórmula de Nota Final completa en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
 
 ---
 
 ## 📍 Hito 1 — Idea y problema de IA formulado
 
-Ya lo hicieron: es el **Hito 1** trabajado en la [Clase 1](clases/clase1.md) (actividad
-formativa "radar estratégico de IA") y entregado en la [Clase 2](clases/clase2.md#hito-1-del-proyecto-de-problema-de-negocio-a-problema-de-prediccion).
+Ya lo hicieron: es el trabajo de la [Clase 1](clases/clase1.md) (actividad formativa "radar
+estratégico de IA") entregado en la [Clase 2](clases/clase2.md#hito-1-del-proyecto-de-problema-de-negocio-a-problema-de-prediccion).
 Revisen el detalle completo en esa página — incluye objetivo, formato, plazo y criterios.
 
 **En una frase:** elegir un proceso de negocio real, formularlo como un problema de Machine Learning
@@ -77,83 +100,184 @@ o de IA Generativa, y estimar cuánto vale tomar una mejor decisión gracias a e
 
 ---
 
-## 📍 Hito 2 — Prototipo funcional con herramientas de IA
+## 📍 Hito 2 — Modelo de negocio validado
 
 <div class="usm-deliverable" markdown>
-<span class="usm-deliverable-badge">Hito 2 · Tareas (30% de la nota final)</span>
+<span class="usm-deliverable-badge">Hito 2/7 · 10% de la Nota Final</span>
 
-**Objetivo:** construir una primera versión tangible —no solo una descripción en papel— de la
-solución formulada en el Hito 1, usando herramientas de IA que no requieren programar.
+**Objetivo:** traducir el problema del Hito 1 en un modelo de negocio completo, verificando que la
+componente de IA sea parte central de la propuesta de valor, no un agregado.
 
 **Instrucciones**
 
-1. Retomen el problema formulado en el Hito 1 (pueden ajustarlo si el trabajo de las semanas
-   intermedias —Business Model Canvas, Lean Canvas, IA Generativa y automatización— les hizo ver una
-   mejor oportunidad; si lo cambian, justifiquen por qué en una línea).
-2. Construyan un **prototipo funcional simple** de la solución. Ejemplos válidos:
-      - Un **GPT personalizado** (ChatGPT), un **Project** de Claude o un **Gem** de Gemini,
-        configurado con instrucciones y contexto para resolver la tarea del cliente/usuario final.
-      - Un flujo de **automatización no-código** (ej. Zapier o Make.com) que combine un disparador de
-        negocio con un paso de IA Generativa (redacción, clasificación, resumen).
-      - Un tablero o análisis exploratorio construido con *Advanced Data Analysis* (ChatGPT) u otra
-        herramienta equivalente, sobre datos de ejemplo representativos del problema.
-3. Documenten el prototipo: qué instrucciones/configuración usaron, 2-3 ejemplos de interacción
-   (capturas de pantalla o transcripciones) y qué limitaciones detectaron al probarlo.
-4. Actualicen el Business Model Canvas o Lean Canvas de la iniciativa con lo aprendido al construir
-   el prototipo.
+1. Construyan un **Business Model Canvas o Lean Canvas** completo de la iniciativa.
+2. Expliciten en qué bloque(s) del canvas aparece la IA (propuesta de valor, actividades clave,
+   recursos clave, estructura de costos, etc.) y por qué es central y no accesorio.
+3. Identifiquen al menos un competidor o alternativa actual (con o sin IA) y qué los diferenciaría.
 
-**Formato y entrega**
+**Formato y entrega:** documento o lámina con el canvas + media página de justificación, subido en
+AULA-USM. **Plazo:** miércoles 19 de agosto de 2026, 23:59.
 
-- Documento o presentación breve (máx. 4-5 láminas/páginas) + evidencia del prototipo (capturas,
-  enlace al GPT/Project/Gem si es compartible, o archivo del flujo de automatización).
-- Subido en AULA-USM en la tarea habilitada para esta clase.
-- **Plazo:** hasta las 23:59 del miércoles 21 de octubre de 2026.
-
-**Criterios de evaluación**
-
-- El prototipo efectivamente funciona y responde al problema formulado (no es solo una idea descrita).
-- Coherencia entre el prototipo, el Business/Lean Canvas actualizado y el problema del Hito 1.
-- Honestidad al documentar límites y fallas observadas al probar el prototipo.
-- Elección de herramienta razonable para el problema (no todo problema requiere IA Generativa; a
-  veces un flujo simple de automatización es la mejor solución).
+**Criterios de evaluación:** completitud del canvas · coherencia interna entre bloques · claridad de
+por qué la IA es central a la propuesta de valor.
 </div>
 
 ---
 
-## 📍 Hito 3 — Proyecto final y pitch
+## 📍 Hito 3 — Diseño de la solución con IA
 
 <div class="usm-deliverable" markdown>
-<span class="usm-deliverable-badge">Hito 3 · Tareas (30% de la nota final)</span>
+<span class="usm-deliverable-badge">Hito 3/7 · 10% de la Nota Final</span>
 
-**Objetivo:** consolidar el trabajo del semestre en un proyecto de negocio viable, con su prototipo
-refinado, una evaluación honesta de riesgos y viabilidad, y comunicarlo en un pitch ante el curso.
+**Objetivo:** especificar con precisión qué tipo de solución de IA resolverá el problema: predictiva
+(ML), generativa (ChatGPT/Claude/Gemini u otra), o una combinación de ambas.
 
 **Instrucciones**
 
-1. Refinen el prototipo del Hito 2 incorporando la retroalimentación recibida y los contenidos de
-   Ética, Riesgos y Gobernanza de la IA (Clases 17-18): identifiquen al menos un riesgo relevante
-   (sesgo, privacidad, dependencia del proveedor) y cómo lo mitigarían.
-2. Incluyan una **evaluación de viabilidad**, con la misma lógica de Evaluación Social/Privada de
-   Proyectos vista en las Clases 22-23: usuarios/clientes potenciales alcanzados, costo aproximado de
-   operar la solución, y beneficio esperado (ahorro, ingreso adicional o mejora de riesgo).
-3. Preparen un **documento final** (máx. 8 páginas o 10 láminas) que integre: problema (Hito 1),
-   prototipo (Hito 2), refinamiento y riesgos, y evaluación de viabilidad.
-4. Preparen un **pitch de 8-10 minutos** (+ preguntas) para presentar ante el curso, con demostración
-   en vivo o grabada del prototipo.
+1. Detallen qué dato de entrada usaría la solución y qué salida entrega (una predicción, una
+   clasificación, contenido generado, una recomendación).
+2. Justifiquen la elección de tecnología: ¿por qué ML predictivo, IA Generativa, o ambos, y no la
+   alternativa?
+3. Dibujen un flujo simple (puede ser a mano, fotografiado) de cómo la solución se inserta en el
+   proceso de negocio del Hito 2.
+
+**Formato y entrega:** documento breve (máx. 2 páginas) con la especificación y el flujo, subido en
+AULA-USM. **Plazo:** miércoles 2 de septiembre de 2026, 23:59.
+
+**Criterios de evaluación:** claridad técnica no-técnica de la especificación · justificación
+razonada de la tecnología elegida · coherencia con los hitos anteriores.
+</div>
+
+---
+
+## 📍 Hito 4 — Prototipo funcional v1
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 4/7 · 10% de la Nota Final</span>
+
+**Objetivo:** construir una primera versión tangible —no solo una descripción en papel— de la
+solución diseñada en el Hito 3, usando herramientas de IA que no requieren programar.
+
+**Instrucciones**
+
+1. Construyan un **prototipo funcional simple**. Ejemplos válidos:
+      - Un **GPT personalizado** (ChatGPT), un **Project** de Claude o un **Gem** de Gemini,
+        configurado con instrucciones y contexto para resolver la tarea del cliente/usuario final.
+      - Un flujo de **automatización no-código** (ej. Zapier o Make.com) que combine un disparador de
+        negocio con un paso de IA Generativa.
+      - Un análisis exploratorio con *Advanced Data Analysis* (ChatGPT) u otra herramienta
+        equivalente, sobre datos de ejemplo representativos del problema.
+2. Documenten el prototipo: qué instrucciones/configuración usaron, 2-3 ejemplos de interacción
+   (capturas o transcripciones) y qué limitaciones detectaron al probarlo.
+
+**Formato y entrega:** documento breve + evidencia del prototipo (capturas, enlace compartible, o
+archivo del flujo), subido en AULA-USM. **Plazo:** miércoles 23 de septiembre de 2026, 23:59.
+
+**Criterios de evaluación:** el prototipo efectivamente funciona · coherencia con el Hito 3 ·
+honestidad al documentar límites y fallas observadas.
+</div>
+
+---
+
+## 📍 Hito 5 — Riesgos y gobernanza
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 5/7 · 10% de la Nota Final</span>
+
+**Objetivo:** aplicar al propio prototipo los contenidos de ética, sesgos y gobernanza de datos
+vistos en las Clases 15-16.
+
+**Instrucciones**
+
+1. Identifiquen **al menos dos riesgos relevantes** del prototipo (ej. sesgo en los datos de
+   entrenamiento, alucinaciones, privacidad de datos de clientes, dependencia de un proveedor).
+2. Para cada riesgo, propongan una **mitigación concreta** (no genérica) aplicable a su caso.
+3. Indiquen qué información de su prototipo **no debería** exponerse a una herramienta pública de IA
+   sin resguardos, y por qué.
+
+**Formato y entrega:** documento breve (máx. 2 páginas), subido en AULA-USM. **Plazo:** miércoles 7
+de octubre de 2026, 23:59.
+
+**Criterios de evaluación:** especificidad de los riesgos identificados (no genéricos) · viabilidad
+real de las mitigaciones propuestas.
+</div>
+
+---
+
+## 📍 Hito 6 — Prototipo v2 refinado
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span>
+
+**Objetivo:** mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
+mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 19-20.
+
+**Instrucciones**
+
+1. Actualicen el prototipo aplicando al menos una mejora concreta sugerida en la retroalimentación
+   del Hito 4.
+2. Implementen al menos una de las mitigaciones de riesgo propuestas en el Hito 5.
+3. Documenten qué cambió respecto a la v1 y por qué.
+
+**Formato y entrega:** documento breve + evidencia actualizada del prototipo, subido en AULA-USM.
+**Plazo:** miércoles 21 de octubre de 2026, 23:59.
+
+**Criterios de evaluación:** evidencia real de mejora respecto al Hito 4 · integración efectiva de
+al menos una mitigación de riesgo.
+</div>
+
+---
+
+## 📍 Hito 7 — Evaluación de viabilidad
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 7/7 · 10% de la Nota Final</span>
+
+**Objetivo:** estimar, con la misma lógica de Evaluación Social/Privada de Proyectos vista en las
+Clases 22-23, si el proyecto vale la pena implementarlo.
+
+**Instrucciones**
+
+1. Estimen usuarios/clientes potenciales alcanzados por la solución.
+2. Estimen el costo aproximado de operar la solución (herramientas, tiempo, eventual desarrollo).
+3. Estimen el beneficio esperado (ahorro, ingreso adicional o reducción de riesgo), con supuestos
+   explícitos.
+4. Concluyan, con esos números, si el proyecto es viable y bajo qué condiciones.
+
+**Formato y entrega:** documento breve (máx. 2 páginas) con la evaluación de viabilidad, subido en
+AULA-USM. **Plazo:** miércoles 4 de noviembre de 2026, 23:59.
+
+**Criterios de evaluación:** razonabilidad y explicitud de los supuestos · coherencia de la
+conclusión de viabilidad con los números presentados.
+</div>
+
+---
+
+## 📍 Presentación final
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Presentación final · 30% de la Nota Final</span>
+
+**Objetivo:** consolidar los 7 hitos en un proyecto de negocio viable y comunicarlo en un pitch ante
+el curso.
+
+**Instrucciones**
+
+1. Preparen un **documento final** (máx. 8 páginas o 10 láminas) que integre: problema (H1), modelo
+   de negocio (H2), diseño (H3), prototipo (H4 y H6), riesgos y mitigaciones (H5), y evaluación de
+   viabilidad (H7).
+2. Preparen un **pitch de 8-10 minutos** (+ preguntas) con demostración en vivo o grabada del
+   prototipo final.
 
 **Formato y entrega**
 
 - Documento final en AULA-USM: **miércoles 11 de noviembre de 2026, hasta las 23:59**.
-- Presentación en vivo, repartida entre las sesiones del **9, 11 y 16 de noviembre** según el orden
+- Presentación en vivo, repartida entre las sesiones del **11 y 16 de noviembre**, según el orden
   que defina el equipo docente.
 
-**Criterios de evaluación**
-
-- Viabilidad del proyecto: la estimación de costos/beneficios es razonable y está bien justificada.
-- Calidad y funcionamiento del prototipo final, y evidencia de mejora respecto al Hito 2.
-- Tratamiento explícito de al menos un riesgo ético/de gobernanza y su mitigación.
-- Claridad, estructura y manejo del tiempo en el pitch; capacidad de responder preguntas del curso.
-
+**Criterios de evaluación:** viabilidad del proyecto bien justificada · calidad y funcionamiento del
+prototipo final · tratamiento explícito de riesgos y mitigaciones · claridad, estructura y manejo
+del tiempo en el pitch · capacidad de responder preguntas del curso.
 </div>
 
 ---

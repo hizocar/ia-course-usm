@@ -71,27 +71,35 @@ Aula invertida · Clases expositivas · Elaboración de informes/papers · Expos
 
 ## 7. Evaluación, calificación y aprobación
 
+!!! note "Adaptación de esta implementación"
+    El documento CCDD original define un esquema de Certámenes (50%) + Controles (20%) + Tareas
+    (30%), con una fórmula condicional de aprobación. **Esta implementación del curso reemplaza ese
+    esquema** por una evaluación 100% integrada en el [Proyecto del curso](proyecto.md): un único
+    proyecto aplicado con **7 hitos entregados cada dos semanas** y una **presentación final**, sin
+    certámenes ni controles separados. El detalle completo de cada hito está en la página del
+    Proyecto.
+
 | Procedimiento de evaluación | Cantidad | % |
 |---|---|---:|
-| Certámenes (C) | 2 a 3 | 50% |
-| Controles (CTL) | 3 a 4 | 20% |
-| Tareas (T) | 2 a 3 | 30% |
+| Hitos del proyecto (H1 a H7) | 7, cada uno 10% | 70% |
+| Presentación final del proyecto | 1 | 30% |
+| **Total** | | **100%** |
 
 **Cálculo de la Nota Final (NF):**
 
 ```
-Si prom(C) >= 55:
-    NF = C * 0,50 + CTL * 0,20 + T * 0,30
-    Para aprobar: prom(C) >= 50, prom(CTL) >= 50 y prom(T) >= 50
-Si no:
-    NF = min(54, C)
+NF = H1 + H2 + H3 + H4 + H5 + H6 + H7 + Presentación Final
+   = (7 hitos x 10% c/u) + (Presentación Final x 30%)
 ```
 
-- **Certamen Recuperativo (CR):** para estudiantes con inasistencia justificada a un certamen, evalúa todos los contenidos del curso. Si se rinde, el promedio de certámenes se calcula como `PC = (C1 + C2 + CR − min(C1, C2, CR)) / 2`.
-- **Tareas:** 2 a 3 en total, orientadas a reflexionar y poner en práctica los contenidos del curso.
-  En esta implementación, las 3 tareas son los 3 hitos de un único [Proyecto](proyecto.md) aplicado
-  que cada equipo desarrolla durante todo el semestre.
-- **Controles:** 3 a 4 en total, para reforzar los conceptos de los casos discutidos en sesiones previas. Si se rinden los cuatro, se promedian las tres mejores notas; en cualquier otro caso, los puntajes se dividen por cuatro.
+No existe una ponderación separada de certámenes o controles: cada hito y la presentación final se
+califican directamente sobre su peso en la Nota Final.
+
+- **Hitos (H1-H7):** entregas bisemanales del mismo proyecto, evaluadas con la rúbrica de cada hito
+  (ver [Proyecto](proyecto.md)). Un hito con inasistencia justificada puede recuperarse dentro de la
+  semana siguiente, previa coordinación con el/la docente.
+- **Presentación final:** documento final del proyecto + pitch en vivo ante el curso, en las últimas
+  sesiones del semestre.
 
 ## 8. Recursos para el aprendizaje
 
