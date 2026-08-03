@@ -719,6 +719,15 @@ gestión organizacional del futuro.</p>
 <p>Aprendizaje basado en problemas · Aprendizaje orientado a proyectos · Aprendizaje colaborativo ·
 Aula invertida · Clases expositivas · Elaboración de informes/papers · Exposiciones · Estudio de casos</p>
 <h2 id="7-evaluacion-calificacion-y-aprobacion">7. Evaluación, calificación y aprobación</h2>
+<div class="admonition note">
+<p class="admonition-title">Adaptación de esta implementación</p>
+<p>El documento CCDD original define un esquema de Certámenes (50%) + Controles (20%) + Tareas
+(30%), con una fórmula condicional de aprobación. <strong>Esta implementación del curso reemplaza ese
+esquema</strong> por una evaluación 100% integrada en el <a href="../proyecto/">Proyecto del curso</a>: un único
+proyecto aplicado con <strong>7 hitos entregados cada dos semanas</strong> y una <strong>presentación final</strong>, sin
+certámenes ni controles separados. El detalle completo de cada hito está en la página del
+Proyecto.</p>
+</div>
 <table>
 <thead>
 <tr>
@@ -729,35 +738,34 @@ Aula invertida · Clases expositivas · Elaboración de informes/papers · Expos
 </thead>
 <tbody>
 <tr>
-<td>Certámenes (C)</td>
-<td>2 a 3</td>
-<td style="text-align: right;">50%</td>
+<td>Hitos del proyecto (H1 a H7)</td>
+<td>7, cada uno 10%</td>
+<td style="text-align: right;">70%</td>
 </tr>
 <tr>
-<td>Controles (CTL)</td>
-<td>3 a 4</td>
-<td style="text-align: right;">20%</td>
-</tr>
-<tr>
-<td>Tareas (T)</td>
-<td>2 a 3</td>
+<td>Presentación final del proyecto</td>
+<td>1</td>
 <td style="text-align: right;">30%</td>
+</tr>
+<tr>
+<td><strong>Total</strong></td>
+<td></td>
+<td style="text-align: right;"><strong>100%</strong></td>
 </tr>
 </tbody>
 </table>
 <p><strong>Cálculo de la Nota Final (NF):</strong></p>
-<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Si prom(C) &gt;= 55:
-<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>    NF = C * 0,50 + CTL * 0,20 + T * 0,30
-<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>    Para aprobar: prom(C) &gt;= 50, prom(CTL) &gt;= 50 y prom(T) &gt;= 50
-<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>Si no:
-<a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a>    NF = min(54, C)
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>NF = H1 + H2 + H3 + H4 + H5 + H6 + H7 + Presentación Final
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>   = (7 hitos x 10% c/u) + (Presentación Final x 30%)
 </code></pre></div>
+<p>No existe una ponderación separada de certámenes o controles: cada hito y la presentación final se
+califican directamente sobre su peso en la Nota Final.</p>
 <ul>
-<li><strong>Certamen Recuperativo (CR):</strong> para estudiantes con inasistencia justificada a un certamen, evalúa todos los contenidos del curso. Si se rinde, el promedio de certámenes se calcula como <code>PC = (C1 + C2 + CR − min(C1, C2, CR)) / 2</code>.</li>
-<li><strong>Tareas:</strong> 2 a 3 en total, orientadas a reflexionar y poner en práctica los contenidos del curso.
-  En esta implementación, las 3 tareas son los 3 hitos de un único <a href="../proyecto/">Proyecto</a> aplicado
-  que cada equipo desarrolla durante todo el semestre.</li>
-<li><strong>Controles:</strong> 3 a 4 en total, para reforzar los conceptos de los casos discutidos en sesiones previas. Si se rinden los cuatro, se promedian las tres mejores notas; en cualquier otro caso, los puntajes se dividen por cuatro.</li>
+<li><strong>Hitos (H1-H7):</strong> entregas bisemanales del mismo proyecto, evaluadas con la rúbrica de cada hito
+  (ver <a href="../proyecto/">Proyecto</a>). Un hito con inasistencia justificada puede recuperarse dentro de la
+  semana siguiente, previa coordinación con el/la docente.</li>
+<li><strong>Presentación final:</strong> documento final del proyecto + pitch en vivo ante el curso, en las últimas
+  sesiones del semestre.</li>
 </ul>
 <h2 id="8-recursos-para-el-aprendizaje">8. Recursos para el aprendizaje</h2>
 <p><strong>Bibliografía básica</strong></p>
