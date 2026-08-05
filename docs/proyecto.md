@@ -27,6 +27,14 @@ Los mismos grupos de 3-4 personas formados en la actividad de la
 semestre**. Se recomienda no cambiar de grupo salvo fuerza mayor, ya que cada hito depende del
 trabajo del hito anterior.
 
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📋 Planilla de grupos y temas</strong>
+<span>Ahí quedan registrados los integrantes de cada grupo y la empresa/tema elegido para el Hito 1.</span>
+</div>
+[📝 Abrir planilla →](https://docs.google.com/spreadsheets/d/1YqxTeB0tYBO06IuaWqx7nJSKqRDuUgCYsSS-yIenmh0/edit?gid=0#gid=0){.usm-btn target="_blank" rel="noopener"}
+</div>
+
 ## 🗺️ Los 7 hitos + presentación final
 
 <div class="usm-card" markdown>

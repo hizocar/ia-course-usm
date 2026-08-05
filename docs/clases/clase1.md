@@ -211,6 +211,14 @@ semestre en un mismo proyecto de 7 hitos + presentación final, y esta actividad
 directamente el Hito 1 de la
 Clase 2.*
 
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📋 Inscripción de grupos de trabajo</strong>
+<span>Formen su grupo de 3-4 personas y anoten sus nombres y el tema/empresa elegida en la planilla del curso — es donde queda registrado su equipo para todo el semestre.</span>
+</div>
+[📝 Ir a la planilla de grupos →](https://docs.google.com/spreadsheets/d/1YqxTeB0tYBO06IuaWqx7nJSKqRDuUgCYsSS-yIenmh0/edit?gid=0#gid=0){.usm-btn target="_blank" rel="noopener"}
+</div>
+
 En grupos de 3-4 personas:
 
 1. Elijan una empresa real (chilena o global) que les interese profesionalmente — idealmente una
@@ -226,7 +234,9 @@ En grupos de 3-4 personas:
 5. Para uno de los tres procesos, evalúen en una frase si esa capacidad representa una **ventaja
    competitiva defendible** (¿es fácil de copiar por un competidor?) o solo una mejora operativa.
 6. Compartan un hallazgo con el curso.
-7. **Guarden sus notas**: el miércoles las usarán como punto de partida del Hito 1 del Proyecto.
+7. **Antes de terminar la clase**, anoten en la planilla el nombre de su grupo, sus integrantes y la
+   empresa/tema elegido — es el tema con el que trabajarán todo el proyecto.
+8. **Guarden sus notas**: el miércoles las usarán como punto de partida del Hito 1 del Proyecto.
 
 ---
 
