@@ -512,3 +512,54 @@
   padding: 0.05rem 0.45rem;
   border-radius: 999px;
 }
+
+/* Call-to-action box (ej. registro de grupos) --------------------------------*/
+.usm-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-left: 5px solid var(--usm-gold);
+  border-radius: 8px;
+  padding: 1rem 1.3rem;
+  margin: 1.2rem 0;
+  background: var(--md-default-bg-color);
+}
+
+.usm-cta-text strong {
+  display: block;
+  color: var(--usm-navy);
+  font-size: 1rem;
+  margin-bottom: 0.15rem;
+}
+
+[data-md-color-scheme="slate"] .usm-cta-text strong {
+  color: #eef1fb;
+}
+
+.usm-cta-text span {
+  font-size: 0.85rem;
+  opacity: 0.8;
+}
+
+.usm-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  background: var(--usm-gold);
+  color: var(--usm-navy-dark) !important;
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.88rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: transform 0.1s ease, background 0.15s ease;
+}
+
+.usm-btn:hover {
+  background: #f2c334;
+  transform: translateY(-1px);
+}
