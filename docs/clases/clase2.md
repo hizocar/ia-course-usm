@@ -162,8 +162,8 @@ permitiría tomar — a partir del trabajo hecho en la actividad formativa de la
 
 **Formato y entrega**
 
-- Un archivo por grupo (PDF o documento), subido en la **Plataforma Educativa Virtual AULA-USM**,
-  en la tarea habilitada para esta clase.
+- Un archivo por grupo (PDF o documento), enviado por correo a **sebastian.azocarm@usm.cl**, con el
+  **nombre del grupo en el asunto** (formato: `Hito 1 – Nombre del grupo`).
 - **Plazo:** hasta las 23:59 del miércoles 5 de agosto de 2026.
 
 **Criterios de evaluación**
@@ -178,9 +178,9 @@ permitiría tomar — a partir del trabajo hecho en la actividad formativa de la
 
 ## 📚 Para la próxima clase
 
-- Repasar los ejemplos de *scoring*, *churn* y *pricing* vistos hoy: en la Clase 3 se profundizará en
-  **IA Generativa**, con foco en cómo ChatGPT, Claude y Gemini generan contenido (no solo un número
-  o una categoría) y qué implica eso para la experiencia de cliente y el marketing.
+- Repasar los ejemplos de *scoring*, *churn* y *pricing* vistos hoy: en la [Clase 3](clase3.md) se
+  profundizará el uso práctico de **ChatGPT, Claude y Gemini** (prompts efectivos, GPTs/Projects/
+  Gems) para acelerar el trabajo del proyecto.
 - Traer identificado un ejemplo propio de uso de **ChatGPT, Claude, Gemini u otra herramienta de IA
   Generativa** en un contexto laboral o académico, con una opinión breve sobre sus límites.
 - Guarden el Hito 1: es la base directa del **Hito 2 — Modelo de negocio validado**, que se

@@ -30,6 +30,20 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase2.md)
 </div>
 
+<div class="usm-card" markdown>
+### 3️⃣ IA Generativa a Fondo
+**Lunes 10 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · Sesión formativa
+
+[Ir a la clase →](clase3.md)
 </div>
 
-> 🚧 Las clases 3 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 4️⃣ Business Model Canvas
+**Miércoles 12 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · Sesión formativa
+
+[Ir a la clase →](clase4.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 5 en adelante se irán publicando aquí a medida que avanza el semestre.

@@ -74,10 +74,18 @@ trabajo del hito anterior.
 </ul>
 </div>
 
-> 📤 Los 7 hitos son la aplicación de la [política de entregables](calendario.md): se suben en
-> AULA-USM el **miércoles** correspondiente, cada dos semanas (con una excepción de 3 semanas entre
-> el Hito 3 y el Hito 4 por el receso de Fiestas Patrias). La presentación final se reparte en dos
-> sesiones (incluye un lunes) por ser un evento en clase, no una entrega asíncrona.
+> 📤 Los 7 hitos son la aplicación de la [política de entregables](calendario.md): se envían por
+> **correo** el **miércoles** correspondiente, cada dos semanas (con una excepción de 3 semanas
+> entre el Hito 3 y el Hito 4 por el receso de Fiestas Patrias). La presentación final se reparte en
+> dos sesiones (incluye un lunes) por ser un evento en clase, no una entrega asíncrona.
+
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📧 Cómo se entregan los hitos</strong>
+<span>Todos los hitos y la presentación final se envían por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>).</span>
+</div>
+[✉️ sebastian.azocarm@usm.cl](mailto:sebastian.azocarm@usm.cl){.usm-btn}
+</div>
 
 ### Ponderación
 
@@ -123,8 +131,9 @@ componente de IA sea parte central de la propuesta de valor, no un agregado.
    recursos clave, estructura de costos, etc.) y por qué es central y no accesorio.
 3. Identifiquen al menos un competidor o alternativa actual (con o sin IA) y qué los diferenciaría.
 
-**Formato y entrega:** documento o lámina con el canvas + media página de justificación, subido en
-AULA-USM. **Plazo:** miércoles 19 de agosto de 2026, 23:59.
+**Formato y entrega:** documento o lámina con el canvas + media página de justificación, enviado
+por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 2 – Nombre del grupo`). **Plazo:**
+miércoles 19 de agosto de 2026, 23:59.
 
 **Criterios de evaluación:** completitud del canvas · coherencia interna entre bloques · claridad de
 por qué la IA es central a la propuesta de valor.
@@ -149,8 +158,9 @@ por qué la IA es central a la propuesta de valor.
 3. Dibujen un flujo simple (puede ser a mano, fotografiado) de cómo la solución se inserta en el
    proceso de negocio del Hito 2.
 
-**Formato y entrega:** documento breve (máx. 2 páginas) con la especificación y el flujo, subido en
-AULA-USM. **Plazo:** miércoles 2 de septiembre de 2026, 23:59.
+**Formato y entrega:** documento breve (máx. 2 páginas) con la especificación y el flujo, enviado
+por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 3 – Nombre del grupo`). **Plazo:**
+miércoles 2 de septiembre de 2026, 23:59.
 
 **Criterios de evaluación:** claridad técnica no-técnica de la especificación · justificación
 razonada de la tecnología elegida · coherencia con los hitos anteriores.
@@ -179,7 +189,8 @@ solución diseñada en el Hito 3, usando herramientas de IA que no requieren pro
    (capturas o transcripciones) y qué limitaciones detectaron al probarlo.
 
 **Formato y entrega:** documento breve + evidencia del prototipo (capturas, enlace compartible, o
-archivo del flujo), subido en AULA-USM. **Plazo:** miércoles 23 de septiembre de 2026, 23:59.
+archivo del flujo), enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 4 – Nombre del
+grupo`). **Plazo:** miércoles 23 de septiembre de 2026, 23:59.
 
 **Criterios de evaluación:** el prototipo efectivamente funciona · coherencia con el Hito 3 ·
 honestidad al documentar límites y fallas observadas.
@@ -203,8 +214,9 @@ vistos en las Clases 15-16.
 3. Indiquen qué información de su prototipo **no debería** exponerse a una herramienta pública de IA
    sin resguardos, y por qué.
 
-**Formato y entrega:** documento breve (máx. 2 páginas), subido en AULA-USM. **Plazo:** miércoles 7
-de octubre de 2026, 23:59.
+**Formato y entrega:** documento breve (máx. 2 páginas), enviado por correo a
+**sebastian.azocarm@usm.cl** (asunto: `Hito 5 – Nombre del grupo`). **Plazo:** miércoles 7 de
+octubre de 2026, 23:59.
 
 **Criterios de evaluación:** especificidad de los riesgos identificados (no genéricos) · viabilidad
 real de las mitigaciones propuestas.
@@ -227,8 +239,9 @@ mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 1
 2. Implementen al menos una de las mitigaciones de riesgo propuestas en el Hito 5.
 3. Documenten qué cambió respecto a la v1 y por qué.
 
-**Formato y entrega:** documento breve + evidencia actualizada del prototipo, subido en AULA-USM.
-**Plazo:** miércoles 21 de octubre de 2026, 23:59.
+**Formato y entrega:** documento breve + evidencia actualizada del prototipo, enviado por correo a
+**sebastian.azocarm@usm.cl** (asunto: `Hito 6 – Nombre del grupo`). **Plazo:** miércoles 21 de
+octubre de 2026, 23:59.
 
 **Criterios de evaluación:** evidencia real de mejora respecto al Hito 4 · integración efectiva de
 al menos una mitigación de riesgo.
@@ -252,8 +265,9 @@ Clases 22-23, si el proyecto vale la pena implementarlo.
    explícitos.
 4. Concluyan, con esos números, si el proyecto es viable y bajo qué condiciones.
 
-**Formato y entrega:** documento breve (máx. 2 páginas) con la evaluación de viabilidad, subido en
-AULA-USM. **Plazo:** miércoles 4 de noviembre de 2026, 23:59.
+**Formato y entrega:** documento breve (máx. 2 páginas) con la evaluación de viabilidad, enviado
+por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 7 – Nombre del grupo`). **Plazo:**
+miércoles 4 de noviembre de 2026, 23:59.
 
 **Criterios de evaluación:** razonabilidad y explicitud de los supuestos · coherencia de la
 conclusión de viabilidad con los números presentados.
@@ -279,7 +293,8 @@ el curso.
 
 **Formato y entrega**
 
-- Documento final en AULA-USM: **miércoles 11 de noviembre de 2026, hasta las 23:59**.
+- Documento final enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Presentación Final –
+  Nombre del grupo`): **miércoles 11 de noviembre de 2026, hasta las 23:59**.
 - Presentación en vivo, repartida entre las sesiones del **11 y 16 de noviembre**, según el orden
   que defina el equipo docente.
 
