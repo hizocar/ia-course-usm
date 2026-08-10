@@ -563,3 +563,75 @@
   background: #f2c334;
   transform: translateY(-1px);
 }
+
+/* Business Model Canvas (mini-visual) -----------------------------------------*/
+.usm-bmc {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-template-rows: auto auto auto;
+  grid-template-areas:
+    "partners activities value relations segments"
+    "partners resources  value channels  segments"
+    "costs    costs       costs revenue  revenue";
+  gap: 6px;
+  margin: 1.5rem 0;
+  font-size: 0.8rem;
+}
+
+.usm-bmc-block {
+  border: 1px solid var(--md-accent-fg-color--transparent);
+  border-radius: 6px;
+  padding: 0.6rem 0.7rem;
+  background: var(--md-default-bg-color);
+  border-top: 3px solid var(--usm-blue);
+}
+
+.usm-bmc-block strong {
+  display: block;
+  font-size: 0.8rem;
+  color: var(--usm-navy);
+  margin-bottom: 0.3rem;
+}
+
+[data-md-color-scheme="slate"] .usm-bmc-block strong {
+  color: #eef1fb;
+}
+
+.usm-bmc-block span {
+  display: block;
+  font-size: 0.72rem;
+  opacity: 0.8;
+}
+
+.usm-bmc-block.usm-bmc-value {
+  border-top-color: var(--usm-gold);
+  background: var(--md-accent-fg-color--transparent);
+}
+
+.usm-bmc-block.usm-bmc-cost,
+.usm-bmc-block.usm-bmc-revenue {
+  border-top-color: var(--usm-red);
+}
+
+.usm-bmc-partners { grid-area: partners; }
+.usm-bmc-activities { grid-area: activities; }
+.usm-bmc-resources { grid-area: resources; }
+.usm-bmc-value { grid-area: value; }
+.usm-bmc-relations { grid-area: relations; }
+.usm-bmc-channels { grid-area: channels; }
+.usm-bmc-segments { grid-area: segments; }
+.usm-bmc-cost { grid-area: costs; }
+.usm-bmc-revenue { grid-area: revenue; }
+
+@media (max-width: 640px) {
+  .usm-bmc {
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+      "partners  activities"
+      "partners  resources"
+      "value     value"
+      "relations channels"
+      "segments  segments"
+      "costs     revenue";
+  }
+}

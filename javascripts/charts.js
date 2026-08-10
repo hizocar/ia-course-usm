@@ -200,6 +200,98 @@ document$.subscribe(function () {
         },
       },
     },
+
+    /* ---------------- Clase 3 ---------------- */
+    "chart-genai-fortalezas": {
+      type: "radar",
+      data: {
+        labels: [
+          "Redacción y comunicación",
+          "Documentos largos",
+          "Integración empresarial",
+          "Multimodalidad (texto/imagen/video)",
+          "Búsqueda y datos actualizados",
+        ],
+        datasets: [
+          {
+            label: "ChatGPT",
+            data: [4.5, 3.5, 4, 3.5, 4],
+            borderColor: BLUE,
+            backgroundColor: "#005f9633",
+            pointBackgroundColor: BLUE,
+          },
+          {
+            label: "Claude",
+            data: [4, 4.5, 3.5, 3, 3],
+            borderColor: NAVY,
+            backgroundColor: "#1b2a5e33",
+            pointBackgroundColor: NAVY,
+          },
+          {
+            label: "Gemini",
+            data: [3.5, 3.5, 4.5, 4.5, 4.5],
+            borderColor: GOLD,
+            backgroundColor: "#e5b30033",
+            pointBackgroundColor: GOLD,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { labels: { color: textColor() } },
+          tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          r: {
+            min: 0,
+            max: 5,
+            angleLines: { color: gridColor() },
+            grid: { color: gridColor() },
+            pointLabels: { color: textColor() },
+            ticks: { display: false },
+          },
+        },
+      },
+    },
+
+    /* ---------------- Clase 4 ---------------- */
+    "chart-ia-bloques-bmc": {
+      type: "bar",
+      data: {
+        labels: [
+          "Propuesta de valor",
+          "Actividades clave",
+          "Recursos clave",
+          "Estructura de costos",
+          "Canales",
+          "Relación con clientes",
+          "Fuentes de ingreso",
+          "Socios clave",
+          "Segmentos de clientes",
+        ],
+        datasets: [
+          {
+            label: "Frecuencia con que la IA aparece en este bloque (1-5, ilustrativo)",
+            data: [5, 4.5, 4, 3.5, 2.5, 2.5, 2, 1.5, 1],
+            backgroundColor: [GOLD, BLUE, BLUE, RED, BLUE, BLUE, RED, GREY, GREY],
+            borderRadius: 6,
+          },
+        ],
+      },
+      options: {
+        indexAxis: "y",
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: (ctx) => `Frecuencia: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+          y: { grid: { display: false }, ticks: { color: textColor() } },
+        },
+      },
+    },
   };
 
   Object.keys(charts).forEach((id) => {
