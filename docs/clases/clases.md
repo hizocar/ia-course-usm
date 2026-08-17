@@ -39,11 +39,25 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 4️⃣ Business Model Canvas
-**Miércoles 12 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · Sesión formativa
+**Miércoles 12 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · ⚠️ No se dictó (bienvenida institucional) — lectura autónoma
 
 [Ir a la clase →](clase4.md)
 </div>
 
+<div class="usm-card" markdown>
+### 5️⃣ Lean Canvas y Validación
+**Lunes 17 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · Sesión formativa
+
+[Ir a la clase →](clase5.md)
 </div>
 
-> 🚧 Las clases 5 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 6️⃣ Taller — Cierre del Modelo de Negocio
+**Miércoles 19 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · 🚀 Hito 2/7 · 10%
+
+[Ir a la clase →](clase6.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 7 en adelante se irán publicando aquí a medida que avanza el semestre.

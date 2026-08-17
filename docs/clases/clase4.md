@@ -6,11 +6,13 @@
 <span class="usm-tag-gold">Unidad 1 · Introducción a la IA en los Negocios</span>
 </div>
 
-!!! note "Sesión formativa (sin hito)"
-    No hay entrega evaluada hoy — aunque caiga miércoles, esta fecha no corresponde a ninguno de los
-    7 hitos del proyecto (ver [política de entregables](../calendario.md)). Esta clase, junto con la
-    Clase 5 (Lean Canvas) y la Clase 6 (taller de cierre), prepara directamente el **Hito 2 —
-    Modelo de negocio validado**, que se entrega el miércoles 19 de agosto.
+!!! warning "Esta clase no se dictó en vivo"
+    El miércoles 12 de agosto no hubo clases por la **bienvenida institucional de la universidad**.
+    El contenido de esta página queda como **lectura autónoma**: revísenlo antes de la
+    [Clase 5](clase5.md), que parte con una verificación rápida de estos conceptos antes de pasar a
+    Lean Canvas. No hay entrega evaluada asociada a esta clase — junto con la Clase 5 y la Clase 6
+    (taller de cierre), prepara directamente el **Hito 2 — Modelo de negocio validado**, que se
+    entrega el miércoles 19 de agosto.
 
 ## 🎯 Objetivos de la sesión
 

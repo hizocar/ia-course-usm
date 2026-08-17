@@ -24,13 +24,13 @@
 ## 🗓️ Semana 2 (10 al 14 de agosto)
 
 - **Clase 3** — *lunes 10 de agosto*: IA Generativa a fondo — ChatGPT, Claude y Gemini en el trabajo comercial.
-- **Clase 4** — *miércoles 12 de agosto*: Business Model Canvas con foco en tecnologías inteligentes.
+- **Clase 4** — *miércoles 12 de agosto*: 🚫 **No hubo clases — Bienvenida institucional de la universidad.** Contenido de Business Model Canvas disponible como [lectura autónoma](clases/clase4.md).
 
 ---
 
 ## 🗓️ Semana 3 (17 al 21 de agosto)
 
-- **Clase 5** — *lunes 17 de agosto*: Lean Canvas y validación temprana de una iniciativa con IA.
+- **Clase 5** — *lunes 17 de agosto*: Repaso de Business Model Canvas + Lean Canvas y validación temprana de una iniciativa con IA.
 - **Clase 6** — *miércoles 19 de agosto*: Taller — construcción del modelo de negocio del proyecto. 🚀 **Hito 2/7 — Modelo de negocio validado**
 
 ---
