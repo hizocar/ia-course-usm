@@ -292,6 +292,44 @@ document$.subscribe(function () {
         },
       },
     },
+
+    /* ---------------- Clase 5 ---------------- */
+    "chart-experimentos-validacion": {
+      type: "bar",
+      data: {
+        labels: [
+          "Encuesta express",
+          "Entrevistas a 5 clientes",
+          "Landing page + métrica",
+          "Prototipo simulado (Mago de Oz)",
+        ],
+        datasets: [
+          {
+            label: "Velocidad (1-5, más alto = más rápido)",
+            data: [5, 4, 3, 2],
+            backgroundColor: GOLD,
+            borderRadius: 4,
+          },
+          {
+            label: "Costo (1-5, más alto = más costoso)",
+            data: [1, 1.5, 3, 3.5],
+            backgroundColor: RED,
+            borderRadius: 4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { labels: { color: textColor() } },
+          tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: textColor() } },
+          y: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+        },
+      },
+    },
   };
 
   Object.keys(charts).forEach((id) => {
