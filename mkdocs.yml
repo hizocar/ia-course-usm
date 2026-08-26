@@ -14,7 +14,11 @@ markdown_extensions:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist
   - pymdownx.tabbed
 
@@ -82,4 +86,6 @@ nav:
       - "Clase 4 · Business Model Canvas": clases/clase4.md
       - "Clase 5 · Lean Canvas y Validación": clases/clase5.md
       - "Clase 6 · Taller — Cierre del Modelo de Negocio": clases/clase6.md
+      - "Clase 7 · Analítica y Optimización de Procesos": clases/clase7.md
+      - "Clase 8 · Diseñando la Solución con IA": clases/clase8.md
   - Calendario: calendario.md

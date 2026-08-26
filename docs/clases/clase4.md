@@ -12,7 +12,7 @@
     [Clase 5](clase5.md), que parte con una verificación rápida de estos conceptos antes de pasar a
     Lean Canvas. No hay entrega evaluada asociada a esta clase — junto con la Clase 5 y la Clase 6
     (taller de cierre), prepara directamente el **Hito 2 — Modelo de negocio validado**, que se
-    entrega el miércoles 19 de agosto.
+    entrega el lunes 24 de agosto (fecha ajustada por la sesión perdida del 19 de agosto).
 
 ## 🎯 Objetivos de la sesión
 
@@ -89,7 +89,7 @@ modelo) y la **estructura de costos** (cómputo).
 ### 3. ¿Dónde va la IA en el canvas?
 
 <div class="usm-chart">
-<canvas id="chart-ia-bloques-bmc"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-ia-bloques-bmc"></canvas></div>
 <span class="usm-chart-caption">Con qué frecuencia la componente de IA aparece explícitamente en cada bloque, en canvas típicos de negocios con IA — ilustrativo, para orientar dónde poner atención.</span>
 </div>
 
@@ -108,7 +108,7 @@ de los dos es el caso propio, y por qué.
 
 ## ✏️ Actividad formativa: revisión del canvas propio
 
-*No se entrega ni se califica. Es preparación directa para el Hito 2 (miércoles 19 de agosto).*
+*No se entrega ni se califica. Es preparación directa para el Hito 2 (lunes 24 de agosto).*
 
 En su grupo de proyecto:
 

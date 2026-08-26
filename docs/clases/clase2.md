@@ -65,7 +65,7 @@ forma en que abaratar el costo de computar transformó qué tareas convenía aut
 y 90.
 
 <div class="usm-chart">
-<canvas id="chart-costo-prediccion"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-costo-prediccion"></canvas></div>
 <span class="usm-chart-caption">Evolución ilustrativa del costo relativo de predecir (índice base 100). Representa la idea central de "Prediction Machines", no una serie estadística oficial.</span>
 </div>
 
@@ -78,7 +78,7 @@ y 90.
 | **Por refuerzo** | Aprende por ensayo y error, recibiendo una recompensa según el resultado de sus acciones | Un sistema que ajusta precios dinámicamente y aprende qué estrategia maximiza ingresos | *RLHF (Reinforcement Learning from Human Feedback)*: personas evalúan las respuestas del modelo y esa retroalimentación se usa como "recompensa" para hacerlo más útil, seguro y alineado a instrucciones |
 
 <div class="usm-chart">
-<canvas id="chart-tipos-ml"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-tipos-ml"></canvas></div>
 <span class="usm-chart-caption">Distribución ilustrativa de los tipos de ML entre los casos de negocio más citados en clase (no es una estadística de mercado real).</span>
 </div>
 

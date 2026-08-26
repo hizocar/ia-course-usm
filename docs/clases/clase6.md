@@ -1,16 +1,17 @@
 # Clase 6 · Taller — Construcción del Modelo de Negocio del Proyecto
 
 <div class="usm-session-meta">
-<span>📅 Miércoles 19 de agosto de 2026</span>
+<span>📅 Lunes 24 de agosto de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 1 · Introducción a la IA en los Negocios</span>
 <span class="usm-tag-red">🚀 Hito 2/7 · 10%</span>
 </div>
 
-!!! warning "Día de entregable"
-    Hoy se entrega el **Hito 2 — Modelo de negocio validado**. Esta clase es un taller de trabajo en
-    equipo con retroalimentación de pares, no contenido nuevo: el objetivo es llegar a la versión
-    final del Business Model Canvas + Lean Canvas de su proyecto y enviarla antes de las 23:59.
+!!! warning "Día de entregable (fecha ajustada)"
+    Por la sesión perdida el miércoles 19 de agosto (ver [Calendario](../calendario.md)), este
+    taller y la entrega del **Hito 2 — Modelo de negocio validado** se trasladaron al **lunes 24 de
+    agosto**, como excepción puntual a la política de "entregables solo miércoles". Las clases
+    siguientes ya vuelven a las fechas originalmente planificadas.
 
 ## 🎯 Objetivos de la sesión
 
@@ -33,7 +34,7 @@ aplicándolas en sus propuestas y presentaciones.*
 | 0:40 – 1:00 | Retroalimentación de pares (intercambio entre grupos) |
 | 1:00 – 1:20 | Ajustes finales según la retroalimentación recibida |
 | 1:20 – 1:27 | Revisión del checklist final y envío del Hito 2 |
-| 1:27 – 1:30 | Cierre y vínculo con la Clase 7 (IA predictiva, prescriptiva y descriptiva) |
+| 1:27 – 1:30 | Cierre y vínculo con la Clase 7 (IA predictiva/prescriptiva/descriptiva + optimización de procesos) |
 
 ---
 
@@ -94,8 +95,9 @@ parejas de grupos).
 
 ## 📚 Para la próxima clase
 
-- La Clase 7 (lunes 24 de agosto) abre la Unidad de **IA para análisis predictivo, prescriptivo y
-  descriptivo** — el contenido técnico-conceptual que sostiene el próximo hito, el **Hito 3 —
-  Diseño de la solución con IA** (miércoles 2 de septiembre).
+- La [Clase 7](clase7.md) (miércoles 26 de agosto) abre **IA para análisis predictivo, prescriptivo
+  y descriptivo**, junto con **optimización de procesos internos con IA** — el contenido
+  técnico-conceptual que sostiene el próximo hito, el **Hito 3 — Diseño de la solución con IA**
+  (miércoles 2 de septiembre).
 - Guarden su Business Model Canvas y Lean Canvas finales: los usarán como base directa para
   especificar la solución en el Hito 3.

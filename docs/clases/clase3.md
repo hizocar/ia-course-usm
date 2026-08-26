@@ -79,7 +79,7 @@ hito, en vez de re-explicarlo cada semana.
 ### 3. Comparando resultados: mismo prompt, tres asistentes
 
 <div class="usm-chart">
-<canvas id="chart-genai-fortalezas"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-genai-fortalezas"></canvas></div>
 <span class="usm-chart-caption">Percepción cualitativa ilustrativa para la discusión en clase — no es un benchmark oficial ni una medición de calidad objetiva.</span>
 </div>
 

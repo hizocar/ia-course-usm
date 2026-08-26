@@ -117,7 +117,7 @@ profesional:
 > aprendizaje de este curso.
 
 <div class="usm-chart">
-<canvas id="chart-genai-uso"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-genai-uso"></canvas></div>
 <span class="usm-chart-caption">Percepción ilustrativa —para disparar la discusión en clase, no una encuesta oficial— de en qué tipo de tarea comercial suele apoyarse cada asistente.</span>
 </div>
 
@@ -159,7 +159,7 @@ forma distinta a la lógica industrial tradicional, gracias a tres mecanismos:
   y en cómo se asigna capital (Finanzas Corporativas).
 
 <div class="usm-chart">
-<canvas id="chart-ventaja-competitiva"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-ventaja-competitiva"></canvas></div>
 <span class="usm-chart-caption">Comparación ilustrativa (escala 1-5, percepción cualitativa para discusión en clase): empresa tradicional vs. empresa impulsada por IA.</span>
 </div>
 
@@ -181,7 +181,7 @@ IA hoy:
 - **Educación:** tutores adaptativos, detección temprana de riesgo de deserción estudiantil.
 
 <div class="usm-chart">
-<canvas id="chart-adopcion-industria"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-adopcion-industria"></canvas></div>
 <span class="usm-chart-caption">Madurez de adopción por industria: valores ilustrativos para orientar la discusión en clase, no una medición oficial.</span>
 </div>
 

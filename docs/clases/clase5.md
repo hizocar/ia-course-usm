@@ -10,7 +10,8 @@
     No hay entrega evaluada hoy. Esta clase parte con un repaso rápido del Business Model Canvas
     (la [Clase 4](clase4.md) quedó como lectura autónoma por la bienvenida institucional del 12 de
     agosto) y prepara, junto con la [Clase 6](clase6.md), el **Hito 2 — Modelo de negocio
-    validado**, que se entrega el miércoles 19 de agosto.
+    validado**, que se entrega el lunes 24 de agosto (fecha ajustada por la sesión perdida del 19
+    de agosto).
 
 ## 🎯 Objetivos de la sesión
 
@@ -102,7 +103,7 @@ hipótesis más riesgosa con el experimento **más barato y rápido** posible.
 | **Prototipo simulado ("Mago de Oz")**: alguien del equipo responde manualmente simulando la IA | Si la solución propuesta realmente resuelve el problema, antes de automatizarla | Costo medio, requiere más tiempo |
 
 <div class="usm-chart">
-<canvas id="chart-experimentos-validacion"></canvas>
+<div class="usm-chart-canvas-wrap"><canvas id="chart-experimentos-validacion"></canvas></div>
 <span class="usm-chart-caption">Comparación ilustrativa de costo y velocidad relativa de cada tipo de experimento — para orientar cuál probar primero, no una medición exacta.</span>
 </div>
 
@@ -114,7 +115,7 @@ hipótesis más riesgosa con el experimento **más barato y rápido** posible.
 
 ## ✏️ Actividad formativa: Lean Canvas + diseño del experimento
 
-*No se entrega ni se califica. Es preparación directa para el Hito 2 (miércoles 19 de agosto).*
+*No se entrega ni se califica. Es preparación directa para el Hito 2 (lunes 24 de agosto).*
 
 En su grupo de proyecto:
 
@@ -123,14 +124,14 @@ En su grupo de proyecto:
 2. Identifiquen, en una frase, cuál es la **hipótesis más riesgosa** de su modelo.
 3. Elijan **un experimento** de la tabla de la sección 4 (u otro que se ajuste mejor a su caso) para
    ponerla a prueba, y describan concretamente cómo lo ejecutarían esta semana.
-4. Traigan el Lean Canvas y el experimento diseñado a la Clase 6: ahí consolidarán todo en la
-   versión final del Hito 2.
+4. Traigan el Lean Canvas y el experimento diseñado a la Clase 6 (lunes 24 de agosto): ahí
+   consolidarán todo en la versión final del Hito 2.
 
 ---
 
 ## 📚 Para la próxima clase
 
-- Traer el Lean Canvas y el experimento de validación de hoy: en la Clase 6 se consolidan el
+- Traer el Lean Canvas y el experimento de validación de hoy: en la Clase 6 (lunes 24 de agosto) se consolidan el
   Business Model Canvas y el Lean Canvas en la versión final que se entrega como **Hito 2**.
 - Revisar el detalle completo del Hito 2 (objetivo, formato, criterios) en el
   [Proyecto del curso](../proyecto.md).

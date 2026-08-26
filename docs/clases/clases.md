@@ -53,11 +53,25 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 6️⃣ Taller — Cierre del Modelo de Negocio
-**Miércoles 19 de agosto** · Unidad 1 — Introducción a la IA en los Negocios · 🚀 Hito 2/7 · 10%
+**Lunes 24 de agosto** *(fecha ajustada)* · Unidad 1 — Introducción a la IA en los Negocios · 🚀 Hito 2/7 · 10%
 
 [Ir a la clase →](clase6.md)
 </div>
 
+<div class="usm-card" markdown>
+### 7️⃣ Analítica y Optimización de Procesos
+**Miércoles 26 de agosto** · Unidad 2 — Toma de Decisiones y Automatización Inteligente · Sesión formativa
+
+[Ir a la clase →](clase7.md)
 </div>
 
-> 🚧 Las clases 7 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 8️⃣ Diseñando la Solución con IA
+**Lunes 31 de agosto** · Unidad 2 — Toma de Decisiones y Automatización Inteligente · Sesión formativa
+
+[Ir a la clase →](clase8.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 9 en adelante se irán publicando aquí a medida que avanza el semestre.

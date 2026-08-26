@@ -44,31 +44,31 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% · Elegir la empresa/idea y formular el problema como problema de predicción o de IA Generativa.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 2 — Modelo de negocio validado<span class="usm-timeline-badge">19 ago · Clase 6</span></span>
+<span class="usm-timeline-title">Hito 2 — Modelo de negocio validado<span class="usm-timeline-badge">24 ago · Clase 6</span></span>
 <span class="usm-timeline-meta">10% · Business Model / Lean Canvas de la iniciativa con foco en la componente de IA.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 3 — Diseño de la solución con IA<span class="usm-timeline-badge">2 sep · Clase 10</span></span>
+<span class="usm-timeline-title">Hito 3 — Diseño de la solución con IA<span class="usm-timeline-badge">2 sep · Clase 9</span></span>
 <span class="usm-timeline-meta">10% · Especificar si la solución usa ML predictivo, IA Generativa, o ambos, y cómo se integra al negocio.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 4 — Prototipo funcional v1<span class="usm-timeline-badge">23 sep · Clase 14</span></span>
+<span class="usm-timeline-title">Hito 4 — Prototipo funcional v1<span class="usm-timeline-badge">23 sep · Clase 13</span></span>
 <span class="usm-timeline-meta">10% · Primera versión tangible construida con herramientas de IA sin programar.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 18</span></span>
+<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 17</span></span>
 <span class="usm-timeline-meta">10% · Identificar y mitigar riesgos éticos, de sesgo y de privacidad del prototipo.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 21</span></span>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 20</span></span>
 <span class="usm-timeline-meta">10% · Prototipo mejorado tras el Taller de Prototipado y la revisión de riesgos.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 25</span></span>
+<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 24</span></span>
 <span class="usm-timeline-meta">10% · Estimación de costos, usuarios alcanzados y beneficio esperado del proyecto.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 27-28</span></span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 26-27</span></span>
 <span class="usm-timeline-meta">30% · Documento final + pitch en vivo ante el curso.</span>
 </li>
 </ul>
@@ -133,7 +133,8 @@ componente de IA sea parte central de la propuesta de valor, no un agregado.
 
 **Formato y entrega:** documento o lámina con el canvas + media página de justificación, enviado
 por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 2 – Nombre del grupo`). **Plazo:**
-miércoles 19 de agosto de 2026, 23:59.
+lunes 24 de agosto de 2026, 23:59 *(fecha ajustada por la sesión perdida el 19 de agosto — ver
+[Calendario](calendario.md))*.
 
 **Criterios de evaluación:** completitud del canvas · coherencia interna entre bloques · claridad de
 por qué la IA es central a la propuesta de valor.
@@ -204,7 +205,7 @@ honestidad al documentar límites y fallas observadas.
 <span class="usm-deliverable-badge">Hito 5/7 · 10% de la Nota Final</span>
 
 **Objetivo:** aplicar al propio prototipo los contenidos de ética, sesgos y gobernanza de datos
-vistos en las Clases 15-16.
+vistos en las Clases 14-15.
 
 **Instrucciones**
 
@@ -230,7 +231,7 @@ real de las mitigaciones propuestas.
 <span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span>
 
 **Objetivo:** mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
-mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 19-20.
+mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 18-19.
 
 **Instrucciones**
 
@@ -255,7 +256,7 @@ al menos una mitigación de riesgo.
 <span class="usm-deliverable-badge">Hito 7/7 · 10% de la Nota Final</span>
 
 **Objetivo:** estimar, con la misma lógica de Evaluación Social/Privada de Proyectos vista en las
-Clases 22-23, si el proyecto vale la pena implementarlo.
+Clases 21-22, si el proyecto vale la pena implementarlo.
 
 **Instrucciones**
 
