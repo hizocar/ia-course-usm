@@ -13,6 +13,10 @@ document$.subscribe(function () {
 
   Chart.defaults.font.family = getComputedStyle(document.body).fontFamily;
   Chart.defaults.plugins.legend.labels.usePointStyle = true;
+  // Charts live in a fixed-height .usm-chart-canvas-wrap; disabling aspect-ratio lets Chart.js
+  // fill that box directly instead of computing its own height, which is what caused charts to
+  // shrink on repeated resize/re-render cycles.
+  Chart.defaults.maintainAspectRatio = false;
 
   const isDark = () =>
     document.body.getAttribute("data-md-color-scheme") === "slate";
@@ -327,6 +331,88 @@ document$.subscribe(function () {
         scales: {
           x: { grid: { display: false }, ticks: { color: textColor() } },
           y: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+        },
+      },
+    },
+
+    /* ---------------- Clase 7 ---------------- */
+    "chart-escalera-analitica": {
+      type: "bar",
+      data: {
+        labels: ["Descriptiva", "Diagnóstica", "Predictiva", "Prescriptiva"],
+        datasets: [
+          {
+            label: "Valor para el negocio (1-5, ilustrativo)",
+            data: [1.5, 2.5, 3.5, 5],
+            backgroundColor: BLUE,
+            borderRadius: 4,
+          },
+          {
+            label: "Dificultad / madurez de datos requerida (1-5, ilustrativo)",
+            data: [1, 2, 3.5, 5],
+            backgroundColor: GOLD,
+            borderRadius: 4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { labels: { color: textColor() } },
+          tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: textColor() } },
+          y: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+        },
+      },
+    },
+
+    "chart-matriz-priorizacion": {
+      type: "scatter",
+      data: {
+        datasets: [
+          {
+            label: "Procesos internos candidatos a optimizar",
+            data: [
+              { x: 8, y: 2, label: "Conciliación contable automática" },
+              { x: 7, y: 3, label: "Preselección de CVs" },
+              { x: 9, y: 7, label: "Mantenimiento predictivo de flota" },
+              { x: 3, y: 2, label: "Respuestas a FAQ internas de RR.HH." },
+              { x: 4, y: 8, label: "Rediseño completo del ERP" },
+              { x: 6, y: 5, label: "Previsión de demanda de insumos" },
+            ],
+            backgroundColor: BLUE,
+            pointRadius: 7,
+            pointHoverRadius: 9,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: {
+            callbacks: {
+              label: (ctx) => `${ctx.raw.label} — Impacto: ${ctx.raw.x}/10, Esfuerzo: ${ctx.raw.y}/10`,
+            },
+          },
+        },
+        scales: {
+          x: {
+            min: 0,
+            max: 10,
+            title: { display: true, text: "Impacto en el negocio →", color: textColor() },
+            grid: { color: gridColor() },
+            ticks: { color: textColor() },
+          },
+          y: {
+            min: 0,
+            max: 10,
+            title: { display: true, text: "Esfuerzo de implementación →", color: textColor() },
+            grid: { color: gridColor() },
+            ticks: { color: textColor() },
+          },
         },
       },
     },
