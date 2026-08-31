@@ -323,4 +323,5 @@ del tiempo en el pitch · capacidad de responder preguntas del curso.
 ---
 
 > 📚 El detalle semana a semana de las clases que alimentan cada hito está en el
-> [Calendario](calendario.md); el marco de evaluación completo está en el [Programa](programa.md).
+> [Calendario](calendario.md); el marco de evaluación completo está en el [Programa](programa.md);
+> las notas publicadas de cada hito están en [Notas](notas.md).
