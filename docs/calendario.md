@@ -57,8 +57,8 @@
 
 ## 🗓️ Semana 6 (7 al 11 de septiembre)
 
-- **Clase 10** — *lunes 7 de septiembre*: Chatbots y asistentes virtuales.
-- **Clase 11** — *miércoles 9 de septiembre*: Generación de contenido personalizado y marketing automatizado.
+- **Clase 10** — *lunes 7 de septiembre*: 🎤 **"Derriba la idea"** — sesión presencial: cada grupo presenta su proyecto (Hitos 1-3) y el resto del curso intenta derrumbarlo. *(sesión formativa; las objeciones se incorporan en el Hito 4)*
+- **Clase 11** — *miércoles 9 de septiembre*: Chatbots y asistentes virtuales + Generación de contenido personalizado y marketing automatizado.
 
 ---
 

@@ -165,6 +165,10 @@ miércoles 2 de septiembre de 2026, 23:59.
 
 **Criterios de evaluación:** claridad técnica no-técnica de la especificación · justificación
 razonada de la tecnología elegida · coherencia con los hitos anteriores.
+
+> 🎤 **Después del Hito 3:** en la [Clase 10](clases/clase10.md) (lunes 7 de septiembre) cada grupo
+> presenta en 4 minutos lo que lleva del proyecto y el resto del curso intenta derrumbar la idea
+> ("Derriba la idea"). No lleva nota, pero las objeciones recibidas se responden en el Hito 4.
 </div>
 
 ---
@@ -188,6 +192,9 @@ solución diseñada en el Hito 3, usando herramientas de IA que no requieren pro
         equivalente, sobre datos de ejemplo representativos del problema.
 2. Documenten el prototipo: qué instrucciones/configuración usaron, 2-3 ejemplos de interacción
    (capturas o transcripciones) y qué limitaciones detectaron al probarlo.
+3. Incluyan una sección breve **"Objeciones recibidas y cómo las abordamos"**: las 2-3 objeciones
+   más relevantes de la sesión ["Derriba la idea"](clases/clase10.md) (Clase 10) y, para cada una,
+   si cambió el proyecto, requiere un experimento, o solo una mejor explicación.
 
 **Formato y entrega:** documento breve + evidencia del prototipo (capturas, enlace compartible, o
 archivo del flujo), enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 4 – Nombre del

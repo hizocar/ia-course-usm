@@ -8,7 +8,7 @@
 
 !!! note "Sesión formativa (sin hito)"
     No hay entrega evaluada hoy. Esta clase prepara directamente el **Hito 3 — Diseño de la
-    solución con IA**, que se trabaja en la Clase 9 (taller) y se entrega el miércoles
+    solución con IA**, que se trabaja en la [Clase 9](clase9.md) (taller) y se entrega el miércoles
     2 de septiembre.
 
 ## 🎯 Objetivos de la sesión
@@ -106,7 +106,7 @@ En su grupo de proyecto:
 
 ## 📚 Para la próxima clase
 
-- La Clase 9 (miércoles 2 de septiembre) es un taller de cierre: se consolida esta
+- La [Clase 9](clase9.md) (miércoles 2 de septiembre) es un taller de cierre: se consolida esta
   especificación y se entrega como **Hito 3**.
 - Traer la especificación borrador de hoy (tecnología elegida, entrada/salida, flujo) lista para
   refinar en equipo.

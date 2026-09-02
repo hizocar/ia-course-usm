@@ -72,6 +72,20 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase8.md)
 </div>
 
+<div class="usm-card" markdown>
+### 9️⃣ Taller — Diseño de la Solución
+**Miércoles 2 de septiembre** · Unidad 2 — Toma de Decisiones y Automatización Inteligente · 🚀 Hito 3/7 · 10%
+
+[Ir a la clase →](clase9.md)
 </div>
 
-> 🚧 Las clases 9 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 🔟 "Derriba la Idea" — Defensa de Proyectos
+**Lunes 7 de septiembre** · Sesión presencial · 🎤 Todos los grupos presentan y atacan
+
+[Ir a la clase →](clase10.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 11 en adelante se irán publicando aquí a medida que avanza el semestre.
