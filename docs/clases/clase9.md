@@ -106,7 +106,7 @@ escrito, en 10 minutos:
 
 ## 📚 Para la próxima clase — "Derriba la idea"
 
-La [Clase 10](clase10.md) (lunes 7 de septiembre) es una sesión presencial en la que **cada grupo
+La [Clase 10](clase10.md) (miércoles 9 de septiembre) es una sesión presencial en la que **cada grupo
 presenta en 4 minutos** lo que lleva del proyecto (problema, modelo de negocio y diseño de la
 solución — Hitos 1 a 3) y **el resto del curso intenta derrumbar la idea**. Para prepararla:
 

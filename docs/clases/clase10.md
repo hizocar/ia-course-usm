@@ -1,7 +1,7 @@
 # Clase 10 · "Derriba la Idea" — Defensa de Proyectos ante el Curso
 
 <div class="usm-session-meta">
-<span>📅 Lunes 7 de septiembre de 2026</span>
+<span>📅 Miércoles 9 de septiembre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 2 · Toma de Decisiones y Automatización Inteligente</span>
 <span class="usm-tag-red">🎤 Sesión presencial · todos participan</span>
@@ -35,7 +35,7 @@ causas).*
 | 0:00 – 0:07 | Reglas de la dinámica, orden de presentación y reparto de frentes de ataque |
 | 0:07 – 1:20 | Rondas: **4 min de pitch + 3 min de ataques + 1 min de defensa** por grupo (~8 min × 9-10 grupos) |
 | 1:20 – 1:27 | Votación: "ataque más útil" y "mejor defensa" |
-| 1:27 – 1:30 | Cierre y vínculo con la Clase 11 y el Hito 4 |
+| 1:27 – 1:30 | Cierre: receso de Fiestas Patrias y vínculo con la Clase 11 y el Hito 4 |
 
 > ⏱️ Los tiempos se cronometran en voz alta. Un pitch que pasa de 4 minutos se corta: parte del
 > ejercicio es sintetizar.
@@ -126,7 +126,8 @@ Esto se incorpora en el **Hito 4** (miércoles 23 de septiembre) como una secci�
 
 ## 📚 Para la próxima clase
 
-- La Clase 11 (miércoles 9 de septiembre) retoma contenido: **chatbots y asistentes virtuales** y
-  **generación de contenido personalizado** — las dos formas más comunes de llevar IA Generativa a
-  la experiencia del cliente, y probablemente la base técnica de varios de sus prototipos.
+- Después del receso de Fiestas Patrias, la Clase 11 (lunes 21 de septiembre) retoma contenido:
+  **chatbots, asistentes virtuales y generación de contenido personalizado**, y cómo construir
+  prototipos de eso sin programar (GPTs, Projects, Gems, automatización) — la base técnica del
+  **Hito 4** (miércoles 23 de septiembre).
 - Traigan las objeciones registradas hoy: se usarán como referencia al diseñar el prototipo.

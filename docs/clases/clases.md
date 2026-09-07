@@ -81,7 +81,7 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 🔟 "Derriba la Idea" — Defensa de Proyectos
-**Lunes 7 de septiembre** · Sesión presencial · 🎤 Todos los grupos presentan y atacan
+**Miércoles 9 de septiembre** *(fecha ajustada)* · Sesión presencial · 🎤 Todos los grupos presentan y atacan
 
 [Ir a la clase →](clase10.md)
 </div>

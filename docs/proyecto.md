@@ -52,23 +52,23 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% · Especificar si la solución usa ML predictivo, IA Generativa, o ambos, y cómo se integra al negocio.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 4 — Prototipo funcional v1<span class="usm-timeline-badge">23 sep · Clase 13</span></span>
+<span class="usm-timeline-title">Hito 4 — Prototipo funcional v1<span class="usm-timeline-badge">23 sep · Clase 12</span></span>
 <span class="usm-timeline-meta">10% · Primera versión tangible construida con herramientas de IA sin programar.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 17</span></span>
+<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 16</span></span>
 <span class="usm-timeline-meta">10% · Identificar y mitigar riesgos éticos, de sesgo y de privacidad del prototipo.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 20</span></span>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 19</span></span>
 <span class="usm-timeline-meta">10% · Prototipo mejorado tras el Taller de Prototipado y la revisión de riesgos.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 24</span></span>
+<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 23</span></span>
 <span class="usm-timeline-meta">10% · Estimación de costos, usuarios alcanzados y beneficio esperado del proyecto.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 26-27</span></span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 25-26</span></span>
 <span class="usm-timeline-meta">30% · Documento final + pitch en vivo ante el curso.</span>
 </li>
 </ul>
@@ -166,7 +166,7 @@ miércoles 2 de septiembre de 2026, 23:59.
 **Criterios de evaluación:** claridad técnica no-técnica de la especificación · justificación
 razonada de la tecnología elegida · coherencia con los hitos anteriores.
 
-> 🎤 **Después del Hito 3:** en la [Clase 10](clases/clase10.md) (lunes 7 de septiembre) cada grupo
+> 🎤 **Después del Hito 3:** en la [Clase 10](clases/clase10.md) (miércoles 9 de septiembre) cada grupo
 > presenta en 4 minutos lo que lleva del proyecto y el resto del curso intenta derrumbar la idea
 > ("Derriba la idea"). No lleva nota, pero las objeciones recibidas se responden en el Hito 4.
 </div>
@@ -212,7 +212,7 @@ honestidad al documentar límites y fallas observadas.
 <span class="usm-deliverable-badge">Hito 5/7 · 10% de la Nota Final</span>
 
 **Objetivo:** aplicar al propio prototipo los contenidos de ética, sesgos y gobernanza de datos
-vistos en las Clases 14-15.
+vistos en las Clases 13-14.
 
 **Instrucciones**
 
@@ -238,7 +238,7 @@ real de las mitigaciones propuestas.
 <span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span>
 
 **Objetivo:** mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
-mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 18-19.
+mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 17-18.
 
 **Instrucciones**
 
@@ -263,7 +263,7 @@ al menos una mitigación de riesgo.
 <span class="usm-deliverable-badge">Hito 7/7 · 10% de la Nota Final</span>
 
 **Objetivo:** estimar, con la misma lógica de Evaluación Social/Privada de Proyectos vista en las
-Clases 21-22, si el proyecto vale la pena implementarlo.
+Clases 20-21, si el proyecto vale la pena implementarlo.
 
 **Instrucciones**
 

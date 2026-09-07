@@ -57,8 +57,12 @@
 
 ## 🗓️ Semana 6 (7 al 11 de septiembre)
 
-- **Clase 10** — *lunes 7 de septiembre*: 🎤 **"Derriba la idea"** — sesión presencial: cada grupo presenta su proyecto (Hitos 1-3) y el resto del curso intenta derrumbarlo. *(sesión formativa; las objeciones se incorporan en el Hito 4)*
-- **Clase 11** — *miércoles 9 de septiembre*: Chatbots y asistentes virtuales + Generación de contenido personalizado y marketing automatizado.
+> 📌 **Ajuste de calendario:** la clase del lunes 7 de septiembre se canceló. La sesión "Derriba la
+> idea" pasa al miércoles 9, y el contenido de chatbots y generación de contenido se integra a la
+> Clase 11 (21 de septiembre). **El Hito 4 se mantiene el miércoles 23 de septiembre.**
+
+- *lunes 7 de septiembre*: 🚫 **No hubo clases.**
+- **Clase 10** — *miércoles 9 de septiembre*: 🎤 **"Derriba la idea"** — sesión presencial: cada grupo presenta su proyecto (Hitos 1-3) y el resto del curso intenta derrumbarlo. *(sesión formativa; las objeciones se incorporan en el Hito 4)* Ver [Clase 10](clases/clase10.md).
 
 ---
 
@@ -71,22 +75,22 @@
 
 ## 🗓️ Semana 8 (21 al 25 de septiembre)
 
-- **Clase 12** — *lunes 21 de septiembre*: Construyendo prototipos sin programar — GPTs, Projects, Gems y automatización no-código.
-- **Clase 13** — *miércoles 23 de septiembre*: Taller de prototipado (parte 1). 🚀 **Hito 4/7 — Prototipo funcional v1**
+- **Clase 11** — *lunes 21 de septiembre*: Chatbots, asistentes virtuales y generación de contenido personalizado + Construyendo prototipos sin programar (GPTs, Projects, Gems y automatización no-código).
+- **Clase 12** — *miércoles 23 de septiembre*: Taller de prototipado (parte 1). 🚀 **Hito 4/7 — Prototipo funcional v1**
 
 ---
 
 ## 🗓️ Semana 9 (28 de septiembre al 2 de octubre)
 
-- **Clase 14** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos.
-- **Clase 15** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia.
+- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos.
+- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia.
 
 ---
 
 ## 🗓️ Semana 10 (5 al 9 de octubre)
 
-- **Clase 16** — *lunes 5 de octubre*: Taller — revisión de riesgos y gobernanza del prototipo.
-- **Clase 17** — *miércoles 7 de octubre*: Taller — cierre de la revisión de riesgos. 🚀 **Hito 5/7 — Riesgos y gobernanza**
+- **Clase 15** — *lunes 5 de octubre*: Taller — revisión de riesgos y gobernanza del prototipo.
+- **Clase 16** — *miércoles 7 de octubre*: Taller — cierre de la revisión de riesgos. 🚀 **Hito 5/7 — Riesgos y gobernanza**
 
 ---
 
@@ -95,41 +99,41 @@
 🏖️ **Feriado — Encuentro de Dos Mundos**
 > **Nota de calendario:** lunes 12 de octubre es feriado nacional; no hay clase ese día.
 
-- **Clase 18** — *miércoles 14 de octubre*: Taller de Prototipado de Negocios con IA (parte 2 — refinamiento).
+- **Clase 17** — *miércoles 14 de octubre*: Taller de Prototipado de Negocios con IA (parte 2 — refinamiento).
 
 ---
 
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
-- **Clase 19** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 3).
-- **Clase 20** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
+- **Clase 18** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 3).
+- **Clase 19** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
 
 ---
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 21** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA.
-- **Clase 22** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
+- **Clase 20** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA.
+- **Clase 21** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
 
 ---
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-- **Clase 23** — *lunes 2 de noviembre*: Taller — armando el caso de viabilidad del proyecto.
-- **Clase 24** — *miércoles 4 de noviembre*: Cierre del caso de viabilidad. 🚀 **Hito 7/7 — Evaluación de viabilidad**
+- **Clase 22** — *lunes 2 de noviembre*: Taller — armando el caso de viabilidad del proyecto.
+- **Clase 23** — *miércoles 4 de noviembre*: Cierre del caso de viabilidad. 🚀 **Hito 7/7 — Evaluación de viabilidad**
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 25** — *lunes 9 de noviembre*: Preparación y ensayo del pitch final. *(sesión formativa)*
-- **Clase 26** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
+- **Clase 24** — *lunes 9 de noviembre*: Preparación y ensayo del pitch final. *(sesión formativa)*
+- **Clase 25** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 27** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🚀 **Presentación Final — 30%**
-- **Clase 28** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
+- **Clase 26** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🚀 **Presentación Final — 30%**
+- **Clase 27** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
 
 🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*
