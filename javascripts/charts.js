@@ -416,6 +416,38 @@ document$.subscribe(function () {
         },
       },
     },
+    /* ---------------- Clase 11 ---------------- */
+    "chart-herramientas-prototipo": {
+      type: "bar",
+      data: {
+        labels: ["GPT personalizado", "Project (Claude)", "Gem (Gemini)", "Zapier / Make.com", "Advanced Data Analysis"],
+        datasets: [
+          {
+            label: "Rapidez para tener una v1 (1-5, ilustrativo)",
+            data: [5, 5, 5, 2.5, 3.5],
+            backgroundColor: GOLD,
+            borderRadius: 4,
+          },
+          {
+            label: "Cercanía a un proceso real de negocio (1-5, ilustrativo)",
+            data: [3, 3, 3.5, 5, 2.5],
+            backgroundColor: BLUE,
+            borderRadius: 4,
+          },
+        ],
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: { labels: { color: textColor() } },
+          tooltip: { callbacks: { label: (ctx) => `${ctx.dataset.label}: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { grid: { display: false }, ticks: { color: textColor() } },
+          y: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+        },
+      },
+    },
   };
 
   Object.keys(charts).forEach((id) => {
