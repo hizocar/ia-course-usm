@@ -126,7 +126,7 @@ Esto se incorpora en el **Hito 4** (miércoles 23 de septiembre) como una secci�
 
 ## 📚 Para la próxima clase
 
-- Después del receso de Fiestas Patrias, la Clase 11 (lunes 21 de septiembre) retoma contenido:
+- Después del receso de Fiestas Patrias, la [Clase 11](clase11.md) (lunes 21 de septiembre) retoma contenido:
   **chatbots, asistentes virtuales y generación de contenido personalizado**, y cómo construir
   prototipos de eso sin programar (GPTs, Projects, Gems, automatización) — la base técnica del
   **Hito 4** (miércoles 23 de septiembre).

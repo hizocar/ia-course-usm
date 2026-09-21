@@ -86,6 +86,20 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase10.md)
 </div>
 
+<div class="usm-card" markdown>
+### 1️⃣1️⃣ Chatbots, Contenido y Prototipos sin Programar
+**Lunes 21 de septiembre** · Unidad 2 — IA Generativa y Experiencia del Cliente · Sesión formativa (taller)
+
+[Ir a la clase →](clase11.md)
 </div>
 
-> 🚧 Las clases 11 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 1️⃣2️⃣ Taller de Prototipado — Prueba de Usuario
+**Miércoles 23 de septiembre** · Unidad 2 — IA Generativa y Experiencia del Cliente · 🚀 Hito 4/7 · 10%
+
+[Ir a la clase →](clase12.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 13 en adelante se irán publicando aquí a medida que avanza el semestre.
