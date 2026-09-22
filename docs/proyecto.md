@@ -181,6 +181,15 @@ razonada de la tecnología elegida · coherencia con los hitos anteriores.
 **Objetivo:** construir una primera versión tangible —no solo una descripción en papel— de la
 solución diseñada en el Hito 3, usando herramientas de IA que no requieren programar.
 
+**Alcance:** un prototipo aquí es algo que **otra persona puede usar** y que produce **la salida
+prometida en el Hito 3**, aunque por dentro sea simple, use datos inventados o tenga partes
+simuladas. **No se espera** programar, entrenar un modelo propio, desplegar una app ni integrarse
+con sistemas reales de la empresa, y **no deben usarse datos reales de clientes**. El mínimo
+aprobatorio es: instrucciones escritas + un insumo de ejemplo + 3 interacciones capturadas + la
+bitácora de pruebas. La [Clase 12](clases/clase12.md) tiene las recetas paso a paso de los cuatro
+caminos posibles (asistente configurado, análisis sobre datos de ejemplo, automatización no-código
+o simulación "Mago de Oz").
+
 **Instrucciones**
 
 1. Construyan un **prototipo funcional simple**. Ejemplos válidos:

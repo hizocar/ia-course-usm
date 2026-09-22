@@ -76,7 +76,7 @@
 ## 🗓️ Semana 8 (21 al 25 de septiembre)
 
 - **Clase 11** — *lunes 21 de septiembre*: Chatbots, asistentes virtuales y generación de contenido personalizado + Construyendo prototipos sin programar (GPTs, Projects, Gems y automatización no-código). Ver [Clase 11](clases/clase11.md).
-- **Clase 12** — *miércoles 23 de septiembre*: Taller de prototipado — prueba de usuario cruzada. 🚀 **Hito 4/7 — Prototipo funcional v1** Ver [Clase 12](clases/clase12.md).
+- **Clase 12** — *miércoles 23 de septiembre*: Taller — construcción guiada del prototipo, paso a paso, y prueba cruzada. 🚀 **Hito 4/7 — Prototipo funcional v1** Ver [Clase 12](clases/clase12.md).
 
 ---
 

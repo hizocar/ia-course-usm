@@ -6,6 +6,11 @@
 <span class="usm-tag-gold">Unidad 2 · IA Generativa y Experiencia del Cliente</span>
 </div>
 
+!!! tip "¿Buscas cómo construir el prototipo, paso a paso?"
+    Esta clase explica **qué** se puede construir y con qué herramientas. Si lo que necesitas es la
+    receta concreta —qué pasos seguir, qué cuenta como prototipo, cómo inventar los datos y un
+    ejemplo completo resuelto— está en la **[Clase 12](clase12.md)**.
+
 !!! note "Sesión formativa (sin hito) — manos a la obra"
     No hay entrega evaluada hoy, pero esta clase es la base directa del **Hito 4 — Prototipo
     funcional v1**, que se trabaja en la [Clase 12](clase12.md) y se entrega el **miércoles 23 de

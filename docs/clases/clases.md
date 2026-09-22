@@ -94,8 +94,8 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 </div>
 
 <div class="usm-card" markdown>
-### 1️⃣2️⃣ Taller de Prototipado — Prueba de Usuario
-**Miércoles 23 de septiembre** · Unidad 2 — IA Generativa y Experiencia del Cliente · 🚀 Hito 4/7 · 10%
+### 1️⃣2️⃣ Taller: Construimos el Prototipo en Clases
+**Miércoles 23 de septiembre** · Recetas paso a paso + entrega · 🚀 Hito 4/7 · 10%
 
 [Ir a la clase →](clase12.md)
 </div>
