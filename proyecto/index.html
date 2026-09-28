@@ -936,8 +936,8 @@ trabajo del hito anterior.</p>
 <span class="usm-timeline-meta">10% · Primera versión tangible construida con herramientas de IA sin programar.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">7 oct · Clase 16</span></span>
-<span class="usm-timeline-meta">10% · Identificar y mitigar riesgos éticos, de sesgo y de privacidad del prototipo.</span>
+<span class="usm-timeline-title">Hito 5 — Riesgos y gobernanza<span class="usm-timeline-badge">28 y 30 sep · Clases 13-14</span></span>
+<span class="usm-timeline-meta">10% (5% + 5%) · Se entrega <strong>en dos partes, durante la clase</strong>: auditoría de sesgo (parte A) y privacidad, mitigaciones y gobernanza (parte B).</span>
 </li>
 <li>
 <span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 19</span></span>
@@ -992,7 +992,7 @@ dos sesiones (incluye un lunes) por ser un evento en clase, no una entrega asín
 <td style="text-align: right;">10%</td>
 </tr>
 <tr>
-<td>Hito 5 — Riesgos y gobernanza</td>
+<td>Hito 5 — Riesgos y gobernanza <em>(A: 5% · B: 5%)</em></td>
 <td style="text-align: right;">10%</td>
 </tr>
 <tr>
@@ -1106,30 +1106,85 @@ honestidad al documentar límites y fallas observadas.</p>
 </div>
 <hr />
 <h2 id="hito-5-riesgos-y-gobernanza">📍 Hito 5 — Riesgos y gobernanza</h2>
+<div class="admonition danger">
+<p class="admonition-title">Este hito se entrega <strong>en clases</strong>, en dos partes</p>
+<p>A diferencia de los hitos anteriores, el Hito 5 <strong>no se entrega desde la casa</strong>. Se trabaja y se
+envía <strong>durante la sesión</strong>, en dos partes:</p>
+<table>
+<thead>
+<tr>
+<th>Parte</th>
+<th>Cuándo</th>
+<th style="text-align: right;">Peso</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>5A — Auditoría de sesgo</strong></td>
+<td>Lunes 28 de septiembre, en la <a href="../clases/clase13/">Clase 13</a></td>
+<td style="text-align: right;">5%</td>
+</tr>
+<tr>
+<td><strong>5B — Privacidad, mitigaciones y gobernanza</strong></td>
+<td>Miércoles 30 de septiembre, en la <a href="../clases/clase14/">Clase 14</a></td>
+<td style="text-align: right;">5%</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Solo se evalúa lo enviado entre las 17:30 y las 19:00 del día de la clase respectiva.</strong>
+Los correos recibidos fuera de ese horario <strong>no se evalúan</strong>, y la parte correspondiente queda
+con 0. Quien no asista pierde esa parte, salvo justificación presentada por los canales
+formales de la Universidad.</p>
+</div>
 <div class="usm-deliverable">
-<p><span class="usm-deliverable-badge">Hito 5/7 · 10% de la Nota Final</span></p>
-<p><strong>Objetivo:</strong> aplicar al propio prototipo los contenidos de ética, sesgos y gobernanza de datos
-vistos en las Clases 13-14.</p>
-<p><strong>Instrucciones</strong></p>
+<p><span class="usm-deliverable-badge">Hito 5A · 5% de la Nota Final · en clases</span></p>
+<p><strong>Objetivo:</strong> auditar el sesgo del propio prototipo del Hito 4, con evidencia.</p>
+<p><strong>Instrucciones</strong> <em>(se trabaja durante la <a href="../clases/clase13/">Clase 13</a>)</em></p>
 <ol>
-<li>Identifiquen <strong>al menos dos riesgos relevantes</strong> del prototipo (ej. sesgo en los datos de
-   entrenamiento, alucinaciones, privacidad de datos de clientes, dependencia de un proveedor).</li>
-<li>Para cada riesgo, propongan una <strong>mitigación concreta</strong> (no genérica) aplicable a su caso.</li>
-<li>Indiquen qué información de su prototipo <strong>no debería</strong> exponerse a una herramienta pública de IA
-   sin resguardos, y por qué.</li>
+<li>Identifiquen <strong>a quién afecta</strong> la salida del prototipo y cuál es la peor consecuencia concreta
+   para esa persona si el sistema se equivoca.</li>
+<li>Determinen <strong>de qué fuente</strong> vendría el sesgo en su caso (datos históricos, muestra, etiquetas,
+   diseño del problema, uso y retroalimentación).</li>
+<li>Revisen sus variables de entrada e identifiquen posibles <strong>variables proxy</strong> de un atributo
+   sensible.</li>
+<li>Ejecuten la <strong>prueba del par</strong>: dos casos idénticos salvo por un atributo sensible (o su proxy), y
+   registren ambas salidas.</li>
+<li>Elijan un <strong>criterio de equidad</strong> (paridad demográfica, igualdad de oportunidades o calibración) y
+   justifíquenlo en una línea.</li>
 </ol>
-<p><strong>Formato y entrega:</strong> documento breve (máx. 2 páginas), enviado por correo a
-<strong>sebastian.azocarm@usm.cl</strong> (asunto: <code>Hito 5 – Nombre del grupo</code>). <strong>Plazo:</strong> miércoles 7 de
-octubre de 2026, 23:59.</p>
-<p><strong>Criterios de evaluación:</strong> especificidad de los riesgos identificados (no genéricos) · viabilidad
-real de las mitigaciones propuestas.</p>
+<p><strong>Formato y entrega:</strong> la tabla de auditoría de sesgo (máx. 1 página, puede ser una foto legible del
+trabajo en clases), enviada a <strong>sebastian.azocarm@usm.cl</strong> con asunto
+<code>Hito 5A – Nombre del grupo</code>, <strong>entre las 17:30 y las 19:00 del lunes 28 de septiembre</strong>.</p>
+<p><strong>Criterios de evaluación:</strong> especificidad del riesgo identificado (no genérico) · evidencia real de
+la prueba del par · coherencia con el prototipo del Hito 4.</p>
+</div>
+<div class="usm-deliverable">
+<p><span class="usm-deliverable-badge">Hito 5B · 5% de la Nota Final · en clases</span></p>
+<p><strong>Objetivo:</strong> clasificar los datos del prototipo, proponer mitigaciones verificables y definir quién
+responde por la decisión.</p>
+<p><strong>Instrucciones</strong> <em>(se trabaja durante la <a href="../clases/clase14/">Clase 14</a>)</em></p>
+<ol>
+<li><strong>Clasifiquen los datos</strong> que usa el prototipo: no personal, personal o sensible, y si se pueden
+   minimizar.</li>
+<li>Completen la tabla de <strong>riesgos y mitigaciones</strong> con al menos <strong>dos riesgos</strong> (uno puede ser el
+   sesgo del Hito 5A), indicando tipo, a quién afecta y una mitigación <strong>concreta y verificable</strong>
+   (quién, cuándo, con qué umbral, qué pasa si falla).</li>
+<li>Indiquen qué información <strong>no debería</strong> exponerse a una herramienta pública de IA, y por qué.</li>
+<li>Escriban la frase de <strong>gobernanza</strong>: quién toma la decisión final y qué puede hacer la persona
+   afectada si el sistema se equivoca.</li>
+</ol>
+<p><strong>Formato y entrega:</strong> la plantilla completa (máx. 2 páginas), enviada a
+<strong>sebastian.azocarm@usm.cl</strong> con asunto <code>Hito 5B – Nombre del grupo</code>, <strong>entre las 17:30 y las 19:00
+del miércoles 30 de septiembre</strong>.</p>
+<p><strong>Criterios de evaluación:</strong> clasificación correcta de los datos · mitigaciones verificables, no
+genéricas · claridad de la definición de gobernanza.</p>
 </div>
 <hr />
 <h2 id="hito-6-prototipo-v2-refinado">📍 Hito 6 — Prototipo v2 refinado</h2>
 <div class="usm-deliverable">
 <p><span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span></p>
 <p><strong>Objetivo:</strong> mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
-mitigaciones de riesgo del Hito 5, tras el Taller de Prototipado de las Clases 17-18.</p>
+mitigaciones de riesgo del Hito 5, tras los talleres de prototipado de las Clases 15-18.</p>
 <p><strong>Instrucciones</strong></p>
 <ol>
 <li>Actualicen el prototipo aplicando al menos una mejora concreta sugerida en la retroalimentación
