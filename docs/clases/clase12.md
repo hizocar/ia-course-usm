@@ -325,7 +325,7 @@ Grupo: [nombre]    Proyecto: [empresa / idea]
 
 ## 📚 Para la próxima clase — mirando al Hito 5
 
-- Las Clases 13 y 14 (28 y 30 de septiembre) tratan **ética, sesgos, privacidad y protección de
-  datos**, y preparan el **Hito 5 — Riesgos y gobernanza** (miércoles 7 de octubre).
+- Las Clases [13](clase13.md) y [14](clase14.md) (28 y 30 de septiembre) tratan **ética, sesgos,
+  privacidad y protección de datos**, y preparan el **Hito 5 — Riesgos y gobernanza** (miércoles 7 de octubre).
 - Lleguen el lunes con una respuesta a esta pregunta: **¿qué dato de su prototipo no debería nunca
   pegarse en una herramienta pública de IA, y por qué?**

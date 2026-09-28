@@ -100,6 +100,20 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase12.md)
 </div>
 
+<div class="usm-card" markdown>
+### 1️⃣3️⃣ Ética y Sesgos Algorítmicos
+**Lunes 28 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · Auditoría del propio prototipo
+
+[Ir a la clase →](clase13.md)
 </div>
 
-> 🚧 Las clases 13 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 1️⃣4️⃣ Privacidad y Transparencia
+**Miércoles 30 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · Plantilla del Hito 5
+
+[Ir a la clase →](clase14.md)
+</div>
+
+</div>
+
+> 🚧 Las clases 15 en adelante se irán publicando aquí a medida que avanza el semestre.

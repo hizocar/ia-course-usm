@@ -448,6 +448,39 @@ document$.subscribe(function () {
         },
       },
     },
+    /* ---------------- Clase 13 ---------------- */
+    "chart-fuentes-sesgo": {
+      type: "bar",
+      data: {
+        labels: [
+          "Datos históricos",
+          "Muestra no representativa",
+          "Etiquetas mal definidas",
+          "Diseño del problema",
+          "Uso y retroalimentación",
+        ],
+        datasets: [
+          {
+            label: "Frecuencia relativa con que aparece (1-5, ilustrativo)",
+            data: [5, 4, 3.5, 3, 2.5],
+            backgroundColor: [RED, GOLD, BLUE, BLUE, GREY],
+            borderRadius: 6,
+          },
+        ],
+      },
+      options: {
+        indexAxis: "y",
+        responsive: true,
+        plugins: {
+          legend: { display: false },
+          tooltip: { callbacks: { label: (ctx) => `Frecuencia: ${ctx.raw} / 5` } },
+        },
+        scales: {
+          x: { min: 0, max: 5, grid: { color: gridColor() }, ticks: { color: textColor() } },
+          y: { grid: { display: false }, ticks: { color: textColor() } },
+        },
+      },
+    },
   };
 
   Object.keys(charts).forEach((id) => {

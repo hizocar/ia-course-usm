@@ -82,8 +82,8 @@
 
 ## 🗓️ Semana 9 (28 de septiembre al 2 de octubre)
 
-- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos.
-- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia.
+- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos — auditoría de sesgo del propio prototipo. Ver [Clase 13](clases/clase13.md).
+- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia — plantilla de riesgos del Hito 5. Ver [Clase 14](clases/clase14.md).
 
 ---
 
