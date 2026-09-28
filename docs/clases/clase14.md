@@ -4,12 +4,15 @@
 <span>📅 Miércoles 30 de septiembre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Ética, Riesgos y Gobernanza de la IA</span>
+<span class="usm-tag-red">🚀 Hito 5B · 5% · se entrega en clases</span>
 </div>
 
-!!! note "Sesión formativa (sin hito) — cierra la preparación del Hito 5"
-    No hay entrega evaluada hoy. Esta clase completa lo que empezó la [Clase 13](clase13.md) y
-    termina con la **plantilla del Hito 5** llena a medias: lo que salga de aquí se pule en el
-    taller de la Clase 15 y se entrega el **miércoles 7 de octubre**.
+!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+    Hoy se cierra el **Hito 5** con su segunda parte: **Hito 5B — Riesgos, mitigaciones y
+    gobernanza (5%)**. Como la parte A de la [Clase 13](clase13.md), se trabaja y se envía
+    **durante la sesión**.
+
+    **Los correos recibidos fuera del horario de clases no se evalúan** y la parte queda con 0.
 
 ## 🎯 Objetivos de la sesión
 
@@ -32,8 +35,9 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:10 – 0:30 | Qué es un dato personal · marco legal en Chile, en simple |
 | 0:30 – 0:45 | Minimización, anonimización y el error de "subir todo al chat" |
 | 0:45 – 1:05 | Transparencia y explicabilidad: qué le debemos decir al usuario |
-| 1:05 – 1:25 | **Taller: plantilla de riesgos y mitigaciones del Hito 5** |
-| 1:25 – 1:30 | Cierre y vínculo con la Clase 15 (taller de riesgos) |
+| 1:05 – 1:22 | **Taller: plantilla de riesgos y mitigaciones (Hito 5B)** |
+| 1:22 – 1:28 | **Envío del Hito 5B** (correo desde la sala, antes de las 19:00) |
+| 1:28 – 1:30 | Cierre y vínculo con la Clase 15 (taller de prototipado) |
 
 ---
 
@@ -103,9 +107,9 @@ simples la dan naturalmente; los complejos requieren trabajo extra o una alterna
 
 ---
 
-## ✏️ Taller: plantilla de riesgos del Hito 5
+## ✏️ Taller y entrega del Hito 5B
 
-*Lo que completen hoy es el borrador de la entrega del 7 de octubre.*
+*Esto **sí** se entrega hoy, antes de las 19:00. Vale el 5% de la nota final.*
 
 Con la tabla de sesgo de la Clase 13 y su prototipo abierto, completen:
 
@@ -127,6 +131,13 @@ Con la tabla de sesgo de la Clase 13 y su prototipo abierto, completen:
 > *"En nuestro proyecto, la decisión final la toma __________, con apoyo del sistema. Si el sistema
 > se equivoca, la persona afectada puede __________."*
 
+### 📤 Cómo entregar el Hito 5B
+
+- [ ] Máximo dos páginas, con las secciones A, B y C completas.
+- [ ] Al menos **dos riesgos** con mitigación verificable (el sesgo del Hito 5A puede ser uno).
+- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 5B – Nombre del grupo`.
+- [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
+
 !!! tip "Qué distingue una mitigación buena de una genérica"
     ❌ "Revisaremos periódicamente el modelo para evitar sesgos."
     ✅ "Antes de cada campaña, comparamos la tasa de recomendación entre comunas de alto y bajo
@@ -137,7 +148,8 @@ Con la tabla de sesgo de la Clase 13 y su prototipo abierto, completen:
 
 ## 📚 Para la próxima clase
 
-- La Clase 15 (lunes 5 de octubre) es el **taller de revisión de riesgos**: se pulen estas tablas con
-  retroalimentación cruzada entre grupos.
-- El **Hito 5** se entrega el miércoles 7 de octubre — ver [Proyecto](../proyecto.md#hito-5-riesgos-y-gobernanza).
-- Traigan la plantilla de hoy completa al menos en la sección A y con dos riesgos identificados.
+- Con el Hito 5 cerrado hoy, las Clases 15 a 18 son **talleres de prototipado**: el objetivo es
+  llevar las mitigaciones que acaban de definir al prototipo y dejarlo listo para el **Hito 6 —
+  Prototipo v2** (miércoles 21 de octubre).
+- Traigan a la Clase 15 su prototipo del Hito 4 y la tabla de mitigaciones de hoy: esa tabla es la
+  lista de trabajo.

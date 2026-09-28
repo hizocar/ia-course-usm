@@ -82,15 +82,18 @@
 
 ## 🗓️ Semana 9 (28 de septiembre al 2 de octubre)
 
-- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos — auditoría de sesgo del propio prototipo. Ver [Clase 13](clases/clase13.md).
-- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia — plantilla de riesgos del Hito 5. Ver [Clase 14](clases/clase14.md).
+> ⚠️ **Entrega en clases:** el Hito 5 se divide en dos partes y se entrega **durante la sesión**
+> (17:30 a 19:00). Los correos enviados fuera de ese horario **no se evalúan**.
+
+- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos — auditoría de sesgo del propio prototipo. 🚀 **Hito 5A/7 — Auditoría de sesgo (5%)** Ver [Clase 13](clases/clase13.md).
+- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia. 🚀 **Hito 5B/7 — Riesgos, mitigaciones y gobernanza (5%)** Ver [Clase 14](clases/clase14.md).
 
 ---
 
 ## 🗓️ Semana 10 (5 al 9 de octubre)
 
-- **Clase 15** — *lunes 5 de octubre*: Taller — revisión de riesgos y gobernanza del prototipo.
-- **Clase 16** — *miércoles 7 de octubre*: Taller — cierre de la revisión de riesgos. 🚀 **Hito 5/7 — Riesgos y gobernanza**
+- **Clase 15** — *lunes 5 de octubre*: Taller de Prototipado de Negocios con IA (parte 1) — incorporar las mitigaciones del Hito 5 al prototipo.
+- **Clase 16** — *miércoles 7 de octubre*: Taller de Prototipado de Negocios con IA (parte 2) — mejoras de la bitácora del Hito 4.
 
 ---
 
@@ -99,13 +102,13 @@
 🏖️ **Feriado — Encuentro de Dos Mundos**
 > **Nota de calendario:** lunes 12 de octubre es feriado nacional; no hay clase ese día.
 
-- **Clase 17** — *miércoles 14 de octubre*: Taller de Prototipado de Negocios con IA (parte 2 — refinamiento).
+- **Clase 17** — *miércoles 14 de octubre*: Taller de Prototipado de Negocios con IA (parte 3 — refinamiento).
 
 ---
 
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
-- **Clase 18** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 3).
+- **Clase 18** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 4 — cierre).
 - **Clase 19** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
 
 ---

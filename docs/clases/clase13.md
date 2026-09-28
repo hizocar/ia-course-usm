@@ -4,12 +4,16 @@
 <span>📅 Lunes 28 de septiembre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Ética, Riesgos y Gobernanza de la IA</span>
+<span class="usm-tag-red">🚀 Hito 5A · 5% · se entrega en clases</span>
 </div>
 
-!!! note "Sesión formativa (sin hito) — pero con trabajo sobre su propio prototipo"
-    No hay entrega evaluada hoy. Esta clase y la [Clase 14](clase14.md) preparan el **Hito 5 —
-    Riesgos y gobernanza** (miércoles 7 de octubre). El ejercicio de hoy es una **auditoría de sesgo
-    del prototipo que ya construyeron** en el Hito 4: no es un caso hipotético, es el suyo.
+!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+    El **Hito 5** se divide en dos partes que se entregan **durante la sesión**, no desde la casa.
+    Hoy corresponde el **Hito 5A — Auditoría de sesgo (5%)**: lo que produzcan en el taller de esta
+    clase se envía antes de que termine la sesión.
+
+    **Los correos recibidos fuera del horario de clases no se evalúan** y la parte queda con 0.
+    La parte B se entrega el miércoles 30 en la [Clase 14](clase14.md).
 
 ## 🎯 Objetivos de la sesión
 
@@ -31,8 +35,9 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:10 – 0:30 | ¿Qué es un sesgo algorítmico? Cinco fuentes, con casos |
 | 0:30 – 0:45 | Variables proxy: cómo discrimina un modelo que "no mira" el atributo sensible |
 | 0:45 – 1:05 | Métricas de equidad: por qué no se pueden cumplir todas a la vez |
-| 1:05 – 1:25 | **Taller: auditoría de sesgo de su propio prototipo** |
-| 1:25 – 1:30 | Cierre y vínculo con la Clase 14 (privacidad y datos) |
+| 1:05 – 1:22 | **Taller: auditoría de sesgo de su propio prototipo** |
+| 1:22 – 1:28 | **Envío del Hito 5A** (correo desde la sala, antes de las 19:00) |
+| 1:28 – 1:30 | Cierre y vínculo con la Clase 14 (privacidad y datos) |
 
 ---
 
@@ -103,9 +108,9 @@ cliente, **eso es parte de su superficie de riesgo**.
 
 ---
 
-## ✏️ Taller: auditoría de sesgo de su prototipo
+## ✏️ Taller y entrega del Hito 5A
 
-*No se entrega hoy. Lo que registren aquí va directo al Hito 5.*
+*Esto **sí** se entrega hoy, antes de las 19:00. Vale el 5% de la nota final.*
 
 En su grupo, con el prototipo del Hito 4 abierto:
 
@@ -119,18 +124,29 @@ En su grupo, con el prototipo del Hito 4 abierto:
 5. **Elijan un criterio de equidad** de la sección 4 y escriban en una línea por qué es el adecuado
    para su caso.
 
-Registren todo en esta tabla — es media página del Hito 5:
+Registren todo en esta tabla — es el entregable de hoy:
 
 | Riesgo de sesgo detectado | Fuente | A quién afecta | Evidencia (prueba del par) | Mitigación posible |
 |---|---|---|---|---|
 | | | | | |
+
+### 📤 Cómo entregar el Hito 5A
+
+- [ ] Una página como máximo. Puede ser un documento o **una foto legible** del trabajo hecho en clases.
+- [ ] Incluye la tabla completa, la evidencia de la prueba del par y el criterio de equidad elegido.
+- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 5A – Nombre del grupo`.
+- [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
+
+> ⚠️ Envíen aunque esté imperfecto. Una tabla incompleta entregada a tiempo se evalúa; una tabla
+> perfecta enviada a las 21:00 no.
 
 ---
 
 ## 📚 Para la próxima clase
 
 - La [Clase 14](clase14.md) (miércoles 30 de septiembre) cubre **privacidad, protección de datos y
-  transparencia**, y cierra con la plantilla completa de riesgos del **Hito 5**.
-- Traigan la tabla de auditoría de hoy, aunque esté incompleta.
+  transparencia**, y ahí se entrega el **Hito 5B (5%)**, también durante la sesión.
+- Traigan la tabla de auditoría de hoy: el riesgo de sesgo que identificaron puede ser uno de los
+  dos riesgos que pide la parte B.
 - Piensen en la pregunta que quedó abierta desde la Clase 12: **¿qué dato de su prototipo no debería
   nunca pegarse en una herramienta pública de IA, y por qué?**

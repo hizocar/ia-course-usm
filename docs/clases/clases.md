@@ -3,6 +3,10 @@
 Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se dicta los
 **lunes y miércoles a las 17:30**. El detalle de fechas está en el [Calendario](../calendario.md).
 
+!!! danger "Hito 5: se entrega en clases (28 y 30 de septiembre)"
+    El Hito 5 se divide en dos partes que se trabajan y envían **durante la sesión**, entre las
+    17:30 y las 19:00. **Los correos fuera de ese horario no se evalúan.**
+
 !!! warning "Evaluación 100% por proyecto"
     El curso no tiene certámenes ni controles: se evalúa íntegramente con los **7 hitos** del
     [Proyecto del curso](../proyecto.md) (10% cada uno) más una **presentación final** (30%). Los
@@ -102,14 +106,14 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣3️⃣ Ética y Sesgos Algorítmicos
-**Lunes 28 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · Auditoría del propio prototipo
+**Lunes 28 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · 🚀 Hito 5A · 5% · entrega en clases
 
 [Ir a la clase →](clase13.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 1️⃣4️⃣ Privacidad y Transparencia
-**Miércoles 30 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · Plantilla del Hito 5
+**Miércoles 30 de septiembre** · Unidad 3 — Ética, Riesgos y Gobernanza · 🚀 Hito 5B · 5% · entrega en clases
 
 [Ir a la clase →](clase14.md)
 </div>
