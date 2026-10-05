@@ -85,15 +85,15 @@
 > ⚠️ **Entrega en clases:** el Hito 5 se divide en dos partes y se entrega **durante la sesión**
 > (17:30 a 19:00). Los correos enviados fuera de ese horario **no se evalúan**.
 
-- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos — auditoría de sesgo del propio prototipo. 🚀 **Hito 5A/7 — Auditoría de sesgo (5%)** Ver [Clase 13](clases/clase13.md).
-- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia. 🚀 **Hito 5B/7 — Riesgos, mitigaciones y gobernanza (5%)** Ver [Clase 14](clases/clase14.md).
+- **Clase 13** — *lunes 28 de septiembre*: Ética y sesgos algorítmicos — auditoría de sesgo del propio prototipo. ✅ **Hito 5A/7 entregado — Auditoría de sesgo (5%)** Ver [Clase 13](clases/clase13.md).
+- **Clase 14** — *miércoles 30 de septiembre*: Privacidad, protección de datos y transparencia. ✅ **Hito 5B/7 entregado — Riesgos, mitigaciones y gobernanza (5%)** Ver [Clase 14](clases/clase14.md).
 
 ---
 
 ## 🗓️ Semana 10 (5 al 9 de octubre)
 
-- **Clase 15** — *lunes 5 de octubre*: Taller de Prototipado de Negocios con IA (parte 1) — incorporar las mitigaciones del Hito 5 al prototipo.
-- **Clase 16** — *miércoles 7 de octubre*: Taller de Prototipado de Negocios con IA (parte 2) — mejoras de la bitácora del Hito 4.
+- **Clase 15** — *lunes 5 de octubre*: Taller de Prototipado (1) — del backlog de mitigaciones al prototipo: resguardos sin programar e implementación de la primera mitigación. Ver [Clase 15](clases/clase15.md).
+- **Clase 16** — *miércoles 7 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**: comparación v1 vs. v2. Ver [Clase 16](clases/clase16.md).
 
 ---
 
