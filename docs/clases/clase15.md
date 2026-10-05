@@ -1,7 +1,7 @@
 # Clase 15 · Taller de Prototipado (1) — De las Mitigaciones al Prototipo
 
 <div class="usm-session-meta">
-<span>📅 Lunes 5 de octubre de 2026</span>
+<span>📅 Miércoles 7 de octubre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Taller de Prototipado de Negocios con IA</span>
 </div>
@@ -110,7 +110,8 @@ En su grupo de proyecto, durante los 35 minutos de taller:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 16](clase16.md) (miércoles 7 de octubre) es la segunda parte del taller: se trabajan las
+- No hay clase el **lunes 12 de octubre** (feriado, Encuentro de Dos Mundos).
+- La [Clase 16](clase16.md) (miércoles 14 de octubre) es la segunda parte del taller: se trabajan las
   **mejoras de la bitácora del Hito 4** y se arma la **prueba de regresión** que demuestra que el v2
   es mejor que el v1 sin haber roto lo que ya funcionaba.
 - Traigan el backlog priorizado de hoy y las capturas del "antes".

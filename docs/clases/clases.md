@@ -120,14 +120,14 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣5️⃣ Taller — De las Mitigaciones al Prototipo
-**Lunes 5 de octubre** · Taller de Prototipado (1) · Camino al Hito 6
+**Miércoles 7 de octubre** *(fecha ajustada)* · Taller de Prototipado (1) · Camino al Hito 6
 
 [Ir a la clase →](clase15.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 1️⃣6️⃣ Taller — Mejoras y Prueba de Regresión
-**Miércoles 7 de octubre** · Taller de Prototipado (2) · Comparación v1 vs. v2
+**Miércoles 14 de octubre** · Taller de Prototipado (2) · Comparación v1 vs. v2
 
 [Ir a la clase →](clase16.md)
 </div>

@@ -1,7 +1,7 @@
 # Clase 16 · Taller de Prototipado (2) — Mejoras y Prueba de Regresión
 
 <div class="usm-session-meta">
-<span>📅 Miércoles 7 de octubre de 2026</span>
+<span>📅 Miércoles 14 de octubre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Taller de Prototipado de Negocios con IA</span>
 </div>
@@ -27,7 +27,7 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:10 | Qué quedó implementado el lunes: ronda rápida por grupo |
+| 0:00 – 0:10 | Qué quedó implementado la semana pasada: ronda rápida por grupo |
 | 0:10 – 0:25 | Qué es una prueba de regresión y por qué un prototipo de IA la necesita |
 | 0:25 – 0:40 | Armar el set de casos fijos (el "banco de pruebas" del proyecto) |
 | 0:40 – 1:15 | **Taller: implementar mejoras y correr la comparación v1 vs. v2** |
@@ -101,7 +101,7 @@ Tres compensaciones habituales al endurecer un prototipo:
 1. **Escriban el banco de casos** (6-8), con la mezcla de la sección 2. Déjenlo en un documento aparte.
 2. **Corran los casos en el prototipo actual** si aún no lo habían hecho, y guarden los resultados
    como "v1".
-3. **Implementen las mejoras pendientes** del backlog del lunes.
+3. **Implementen las mejoras pendientes** del backlog de la Clase 15.
 4. **Vuelvan a correr los mismos casos** y registren los resultados como "v2".
 5. **Completen la tabla de comparación** y marquen explícitamente cualquier regresión.
 6. Anoten lo que queda pendiente para las Clases 17 y 18.
@@ -120,7 +120,6 @@ Tres compensaciones habituales al endurecer un prototipo:
 
 ## 📚 Para la próxima clase
 
-- No hay clase el **lunes 12 de octubre** (feriado, Encuentro de Dos Mundos).
-- La Clase 17 (miércoles 14 de octubre) continúa el refinamiento: se cierran las mejoras pendientes y
-  se prepara la documentación del **Hito 6**.
+- La Clase 17 (lunes 19 de octubre) cierra el prototipo v2: se resuelven las mejoras pendientes y se
+  arma la documentación del **Hito 6**, que se entrega el miércoles 21 de octubre.
 - Traigan el banco de casos y la tabla de comparación v1 vs. v2, aunque esté a medio llenar.

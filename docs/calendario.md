@@ -92,8 +92,12 @@
 
 ## 🗓️ Semana 10 (5 al 9 de octubre)
 
-- **Clase 15** — *lunes 5 de octubre*: Taller de Prototipado (1) — del backlog de mitigaciones al prototipo: resguardos sin programar e implementación de la primera mitigación. Ver [Clase 15](clases/clase15.md).
-- **Clase 16** — *miércoles 7 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**: comparación v1 vs. v2. Ver [Clase 16](clases/clase16.md).
+> 📌 **Ajuste de calendario:** el **lunes 5 de octubre no hubo clases**. El taller de prototipado se
+> traslada al miércoles 7 y las sesiones siguientes corren un lugar. **Las fechas de los hitos no
+> cambian: el Hito 6 se mantiene el miércoles 21 de octubre.**
+
+- *lunes 5 de octubre*: 🚫 **No hubo clases.**
+- **Clase 15** — *miércoles 7 de octubre*: Taller de Prototipado (1) — del backlog de mitigaciones al prototipo: resguardos sin programar e implementación de la primera mitigación. Ver [Clase 15](clases/clase15.md).
 
 ---
 
@@ -102,41 +106,41 @@
 🏖️ **Feriado — Encuentro de Dos Mundos**
 > **Nota de calendario:** lunes 12 de octubre es feriado nacional; no hay clase ese día.
 
-- **Clase 17** — *miércoles 14 de octubre*: Taller de Prototipado de Negocios con IA (parte 3 — refinamiento).
+- **Clase 16** — *miércoles 14 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**: comparación v1 vs. v2. Ver [Clase 16](clases/clase16.md).
 
 ---
 
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
-- **Clase 18** — *lunes 19 de octubre*: Taller de Prototipado de Negocios con IA (parte 4 — cierre).
-- **Clase 19** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
+- **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (3) — cierre del prototipo v2 y documentación del hito.
+- **Clase 18** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
 
 ---
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 20** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA.
-- **Clase 21** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
+- **Clase 19** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA.
+- **Clase 20** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
 
 ---
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-- **Clase 22** — *lunes 2 de noviembre*: Taller — armando el caso de viabilidad del proyecto.
-- **Clase 23** — *miércoles 4 de noviembre*: Cierre del caso de viabilidad. 🚀 **Hito 7/7 — Evaluación de viabilidad**
+- **Clase 21** — *lunes 2 de noviembre*: Taller — armando el caso de viabilidad del proyecto.
+- **Clase 22** — *miércoles 4 de noviembre*: Cierre del caso de viabilidad. 🚀 **Hito 7/7 — Evaluación de viabilidad**
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 24** — *lunes 9 de noviembre*: Preparación y ensayo del pitch final. *(sesión formativa)*
-- **Clase 25** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
+- **Clase 23** — *lunes 9 de noviembre*: Preparación y ensayo del pitch final. *(sesión formativa)*
+- **Clase 24** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 26** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🚀 **Presentación Final — 30%**
-- **Clase 27** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
+- **Clase 25** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🚀 **Presentación Final — 30%**
+- **Clase 26** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
 
 🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*

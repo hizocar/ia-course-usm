@@ -60,15 +60,15 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% (5% + 5%) · Se entrega <strong>en dos partes, durante la clase</strong>: auditoría de sesgo (parte A) y privacidad, mitigaciones y gobernanza (parte B).</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 19</span></span>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 18</span></span>
 <span class="usm-timeline-meta">10% · Prototipo mejorado tras el Taller de Prototipado y la revisión de riesgos.</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 23</span></span>
+<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 22</span></span>
 <span class="usm-timeline-meta">10% · Estimación de costos, usuarios alcanzados y beneficio esperado del proyecto.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 25-26</span></span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 24-25</span></span>
 <span class="usm-timeline-meta">30% · Documento final + pitch en vivo ante el curso.</span>
 </li>
 </ul>
@@ -290,7 +290,7 @@ genéricas · claridad de la definición de gobernanza.
 <span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span>
 
 **Objetivo:** mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
-mitigaciones de riesgo del Hito 5, tras los talleres de prototipado de las Clases 15-18.
+mitigaciones de riesgo del Hito 5, tras los talleres de prototipado de las Clases 15-17.
 
 **Instrucciones**
 
@@ -315,7 +315,7 @@ al menos una mitigación de riesgo.
 <span class="usm-deliverable-badge">Hito 7/7 · 10% de la Nota Final</span>
 
 **Objetivo:** estimar, con la misma lógica de Evaluación Social/Privada de Proyectos vista en las
-Clases 20-21, si el proyecto vale la pena implementarlo.
+Clases 19-20, si el proyecto vale la pena implementarlo.
 
 **Instrucciones**
 
