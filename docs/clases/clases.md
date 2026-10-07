@@ -3,9 +3,10 @@
 Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se dicta los
 **lunes y miércoles a las 17:30**. El detalle de fechas está en el [Calendario](../calendario.md).
 
-!!! danger "Hito 5: se entrega en clases (28 y 30 de septiembre)"
-    El Hito 5 se divide en dos partes que se trabajan y envían **durante la sesión**, entre las
-    17:30 y las 19:00. **Los correos fuera de ese horario no se evalúan.**
+!!! danger "Hitos 5 y 6: se entregan en clases"
+    Ambos hitos se dividen en avances que se trabajan y envían **durante la sesión**, entre las
+    17:30 y las 19:00: el **Hito 5** el 28 y 30 de septiembre, y el **Hito 6** el 14 y 19 de
+    octubre. **Los correos fuera de ese horario no se evalúan.**
 
 !!! warning "Evaluación 100% por proyecto"
     El curso no tiene certámenes ni controles: se evalúa íntegramente con los **7 hitos** del
@@ -127,11 +128,18 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣6️⃣ Taller — Mejoras y Prueba de Regresión
-**Miércoles 14 de octubre** · Taller de Prototipado (2) · Comparación v1 vs. v2
+**Miércoles 14 de octubre** · Taller de Prototipado (2) · 🚀 Hito 6A · 5% · entrega en clases
 
 [Ir a la clase →](clase16.md)
 </div>
 
+<div class="usm-card" markdown>
+### 1️⃣7️⃣ Taller — Cierre del Prototipo v2
+**Lunes 19 de octubre** · Taller de Prototipado (3) · 🚀 Hito 6B · 5% · entrega en clases
+
+[Ir a la clase →](clase17.md)
 </div>
 
-> 🚧 Las clases 17 en adelante se irán publicando aquí a medida que avanza el semestre.
+</div>
+
+> 🚧 Las clases 18 en adelante se irán publicando aquí a medida que avanza el semestre.

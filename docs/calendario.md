@@ -7,10 +7,13 @@
 >
 > 🚀 **Evaluación 100% por proyecto:** el curso se evalúa íntegramente a través del
 > [Proyecto del curso](proyecto.md) — un único proyecto que el equipo formado en la Clase 1
-> desarrolla durante todo el semestre, con **7 hitos (10% cada uno = 70%)** entregados
-> aproximadamente **cada dos semanas, los miércoles**, más una **presentación final (30%)**. No hay
-> certámenes ni controles separados. Ver el detalle completo de cada hito en
-> [Proyecto](proyecto.md) y la fórmula en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).
+> desarrolla durante todo el semestre, con **7 hitos (10% cada uno = 70%)** más una **presentación
+> final (30%)**. No hay certámenes ni controles separados.
+>
+> 📤 **Modalidad de entrega (actualizada):** los hitos 1 a 4 se entregaron por correo con plazo hasta
+> las 23:59. **Desde el Hito 5, cada clase deja un avance que se trabaja y se envía durante la
+> sesión**, entre las **17:30 y las 19:00**; la suma de los avances es el hito. **Los correos
+> enviados fuera del horario de clases no se evalúan.**
 
 ---
 
@@ -97,7 +100,7 @@
 > cambian: el Hito 6 se mantiene el miércoles 21 de octubre.**
 
 - *lunes 5 de octubre*: 🚫 **No hubo clases.**
-- **Clase 15** — *miércoles 7 de octubre*: Taller de Prototipado (1) — del backlog de mitigaciones al prototipo: resguardos sin programar e implementación de la primera mitigación. Ver [Clase 15](clases/clase15.md).
+- **Clase 15** — *miércoles 7 de octubre*: Taller de Prototipado (1) — del backlog de mitigaciones al prototipo. 🚀 **Hito 6A — Primera mitigación implementada (4%)** Ver [Clase 15](clases/clase15.md).
 
 ---
 
@@ -106,34 +109,34 @@
 🏖️ **Feriado — Encuentro de Dos Mundos**
 > **Nota de calendario:** lunes 12 de octubre es feriado nacional; no hay clase ese día.
 
-- **Clase 16** — *miércoles 14 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**: comparación v1 vs. v2. Ver [Clase 16](clases/clase16.md).
+- **Clase 16** — *miércoles 14 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**. 🚀 **Hito 6B — Comparación v1 vs. v2 (3%)** Ver [Clase 16](clases/clase16.md).
 
 ---
 
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
-- **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (3) — cierre del prototipo v2 y documentación del hito.
-- **Clase 18** — *miércoles 21 de octubre*: Cierre del prototipo refinado. 🚀 **Hito 6/7 — Prototipo v2 refinado**
+- **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (3) — cierre del prototipo v2 y documentación. 🚀 **Hito 6C — Prototipo v2 cerrado (3%)** Ver [Clase 17](clases/clase17.md).
+- **Clase 18** — *miércoles 21 de octubre*: Evaluación Social de Iniciativas basadas en IA. 🚀 **Hito 7A — Impacto social (2,5%)**
 
 ---
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 19** — *lunes 26 de octubre*: Evaluación Social de Iniciativas basadas en IA.
-- **Clase 20** — *miércoles 28 de octubre*: Evaluación Privada de Iniciativas basadas en IA.
+- **Clase 19** — *lunes 26 de octubre*: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)**
+- **Clase 20** — *miércoles 28 de octubre*: Taller — costos de operar la solución. 🚀 **Hito 7C — Costos (2,5%)**
 
 ---
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-- **Clase 21** — *lunes 2 de noviembre*: Taller — armando el caso de viabilidad del proyecto.
-- **Clase 22** — *miércoles 4 de noviembre*: Cierre del caso de viabilidad. 🚀 **Hito 7/7 — Evaluación de viabilidad**
+- **Clase 21** — *lunes 2 de noviembre*: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)**
+- **Clase 22** — *miércoles 4 de noviembre*: Taller — estructura del pitch final. 🚀 **Presentación Final · Avance 1 (5%)**
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 23** — *lunes 9 de noviembre*: Preparación y ensayo del pitch final. *(sesión formativa)*
+- **Clase 23** — *lunes 9 de noviembre*: Ensayo del pitch con retroalimentación. 🚀 **Presentación Final · Avance 2 (5%)**
 - **Clase 24** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
 
 ---

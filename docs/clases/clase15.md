@@ -4,13 +4,17 @@
 <span>📅 Miércoles 7 de octubre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Taller de Prototipado de Negocios con IA</span>
+<span class="usm-tag-red">🚀 Hito 6A · 4% · se entrega en clases</span>
 </div>
 
-!!! note "Sesión de taller (sin entrega)"
-    No hay entrega evaluada hoy. Con el **Hito 5** ya cerrado (partes A y B, entregadas en clases el
-    28 y el 30 de septiembre), empieza el bloque de talleres que lleva el prototipo del Hito 4 a su
-    **versión 2**, que se entrega el **miércoles 21 de octubre** ([Hito 6](../proyecto.md#hito-6-prototipo-v2-refinado)).
-    Traigan computador y el prototipo funcionando.
+!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+    Desde ahora **cada clase deja un avance que se entrega durante la sesión**, y la suma de los
+    avances es el hito. El [Hito 6](../proyecto.md#hito-6-prototipo-v2-refinado) se construye en tres:
+    **6A hoy (4%)**, 6B el 14 de octubre (3%) y 6C el 19 de octubre (3%).
+
+    Hoy corresponde el **Hito 6A — Primera mitigación implementada**. **Los correos recibidos fuera
+    del horario de clases no se evalúan** y el avance queda con 0. Traigan computador y el prototipo
+    funcionando.
 
 ## 🎯 Objetivos de la sesión
 
@@ -31,8 +35,10 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:00 – 0:10 | Retroalimentación general del Hito 5 y qué viene hasta el 21 de octubre |
 | 0:10 – 0:25 | De la tabla de mitigaciones al backlog: priorizar por impacto vs. esfuerzo |
 | 0:25 – 0:45 | Los cuatro resguardos que se pueden implementar sin programar |
-| 0:45 – 1:20 | **Taller: implementar la primera mitigación** |
-| 1:20 – 1:30 | Registro del "antes" y cierre |
+| 0:45 – 1:15 | **Taller: implementar la primera mitigación** |
+| 1:15 – 1:22 | Registro del "antes" y del "después" |
+| 1:22 – 1:28 | **Envío del Hito 6A** (correo desde la sala, antes de las 19:00) |
+| 1:28 – 1:30 | Cierre |
 
 ---
 
@@ -90,9 +96,11 @@ Sin el "antes", el Hito 6 queda en "lo mejoramos" sin prueba.
 
 ---
 
-## ✏️ Taller: implementar la primera mitigación
+## ✏️ Taller y entrega del Hito 6A
 
-En su grupo de proyecto, durante los 35 minutos de taller:
+*Esto **sí** se entrega hoy, antes de las 19:00. Vale el 4% de la nota final.*
+
+En su grupo de proyecto, durante el taller:
 
 1. **Unifiquen las dos listas** (mejoras del Hito 4 + mitigaciones del Hito 5B) en un solo backlog.
 2. **Prioricen**: marquen las dos de mayor impacto y menor esfuerzo.
@@ -105,6 +113,18 @@ En su grupo de proyecto, durante los 35 minutos de taller:
 |---:|---|---|---|---|---|
 | 1 | | | | | |
 | 2 | | | | | |
+
+### 📤 Cómo entregar el Hito 6A
+
+- [ ] El **backlog priorizado** (la tabla de arriba, con al menos dos filas).
+- [ ] El **cambio concreto** implementado: el texto exacto que agregaron o quitaron del prototipo.
+- [ ] Captura del **antes** (la falla original) y del **después** (el mismo caso ya corregido).
+- [ ] Máximo dos páginas; se aceptan capturas.
+- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 6A – Nombre del grupo`.
+- [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
+
+> ⚠️ Si alcanzaron a implementar solo una parte del cambio, envíen eso. Un avance parcial entregado
+> a tiempo se evalúa; uno completo enviado mañana, no.
 
 ---
 

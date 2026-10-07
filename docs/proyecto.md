@@ -60,24 +60,25 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% (5% + 5%) · Se entrega <strong>en dos partes, durante la clase</strong>: auditoría de sesgo (parte A) y privacidad, mitigaciones y gobernanza (parte B).</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">21 oct · Clase 18</span></span>
-<span class="usm-timeline-meta">10% · Prototipo mejorado tras el Taller de Prototipado y la revisión de riesgos.</span>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">7, 14 y 19 oct · Clases 15-17</span></span>
+<span class="usm-timeline-meta">10% · Tres avances entregados <strong>en clases</strong>: primera mitigación implementada (4%), comparación v1 vs. v2 (3%) y prototipo v2 cerrado (3%).</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">4 nov · Clase 22</span></span>
-<span class="usm-timeline-meta">10% · Estimación de costos, usuarios alcanzados y beneficio esperado del proyecto.</span>
+<span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">21, 26, 28 oct y 2 nov · Clases 18-21</span></span>
+<span class="usm-timeline-meta">10% · Cuatro avances entregados <strong>en clases</strong> (2,5% cada uno): evaluación social, evaluación privada, costos y beneficios.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11 y 16 nov · Clases 24-25</span></span>
-<span class="usm-timeline-meta">30% · Documento final + pitch en vivo ante el curso.</span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">4, 9, 11 y 16 nov · Clases 22-25</span></span>
+<span class="usm-timeline-meta">30% · Dos avances en clases (estructura del pitch 5% y ensayo 5%) + documento final y pitch en vivo (20%).</span>
 </li>
 </ul>
 </div>
 
-> 📤 Los 7 hitos son la aplicación de la [política de entregables](calendario.md): se envían por
-> **correo** el **miércoles** correspondiente, cada dos semanas (con una excepción de 3 semanas
-> entre el Hito 3 y el Hito 4 por el receso de Fiestas Patrias). La presentación final se reparte en
-> dos sesiones (incluye un lunes) por ser un evento en clase, no una entrega asíncrona.
+> 📤 **Cambio de modalidad desde el Hito 5.** Los hitos 1 a 4 se entregaron por correo, con plazo
+> hasta las 23:59 del día indicado. **Desde el Hito 5, cada clase deja un avance que se trabaja y se
+> envía durante la sesión**, y la suma de los avances es el hito completo. Solo se evalúa lo enviado
+> **entre las 17:30 y las 19:00** del día de la clase: los correos fuera de ese horario no se
+> evalúan y el avance queda con 0.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
@@ -96,9 +97,9 @@ trabajo del hito anterior.
 | Hito 3 — Diseño de la solución con IA | 10% |
 | Hito 4 — Prototipo funcional v1 | 10% |
 | Hito 5 — Riesgos y gobernanza *(A: 5% · B: 5%)* | 10% |
-| Hito 6 — Prototipo v2 refinado | 10% |
-| Hito 7 — Evaluación de viabilidad | 10% |
-| Presentación final | 30% |
+| Hito 6 — Prototipo v2 refinado *(A: 4% · B: 3% · C: 3%)* | 10% |
+| Hito 7 — Evaluación de viabilidad *(4 avances de 2,5%)* | 10% |
+| Presentación final *(2 avances de 5% + 20% documento y pitch)* | 30% |
 | **Total** | **100%** |
 
 *Ver la fórmula de Nota Final completa en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
@@ -286,51 +287,129 @@ genéricas · claridad de la definición de gobernanza.
 
 ## 📍 Hito 6 — Prototipo v2 refinado
 
+!!! danger "Este hito se construye **en clases**, en tres avances"
+    Como el Hito 5, el Hito 6 **no se entrega desde la casa**: se arma en el taller y se envía
+    **durante la sesión**. Cada clase deja un avance, y **la suma de los tres es el Hito 6**.
+
+    | Avance | Cuándo | Qué se entrega | Peso |
+    |---|---|---|---:|
+    | **6A — Primera mitigación implementada** | Miércoles 7 de octubre, en la [Clase 15](clases/clase15.md) | Backlog priorizado + un cambio implementado, con el antes y el después | 4% |
+    | **6B — Mejoras y comparación** | Miércoles 14 de octubre, en la [Clase 16](clases/clase16.md) | Banco de casos + tabla v1 vs. v2 | 3% |
+    | **6C — Prototipo v2 cerrado** | Lunes 19 de octubre, en la [Clase 17](clases/clase17.md) | Prototipo final + documentación del cambio | 3% |
+
+    **Solo se evalúa lo enviado entre las 17:30 y las 19:00 del día de la clase respectiva.**
+    Los correos recibidos fuera de ese horario **no se evalúan** y el avance queda con 0. Quien no
+    asista pierde ese avance, salvo justificación por los canales formales de la Universidad.
+
 <div class="usm-deliverable" markdown>
-<span class="usm-deliverable-badge">Hito 6/7 · 10% de la Nota Final</span>
+<span class="usm-deliverable-badge">Hito 6A · 4% de la Nota Final · en clases</span>
 
-**Objetivo:** mejorar el prototipo del Hito 4 incorporando la retroalimentación recibida y las
-mitigaciones de riesgo del Hito 5, tras los talleres de prototipado de las Clases 15-17.
+**Objetivo:** convertir las listas de mejoras y mitigaciones en un backlog priorizado, e implementar
+el primer cambio en el prototipo.
 
-**Instrucciones**
+**Instrucciones** *(se trabaja durante la [Clase 15](clases/clase15.md))*
 
-1. Actualicen el prototipo aplicando al menos una mejora concreta sugerida en la retroalimentación
-   del Hito 4.
-2. Implementen al menos una de las mitigaciones de riesgo propuestas en el Hito 5.
-3. Documenten qué cambió respecto a la v1 y por qué.
+1. Unifiquen en un solo **backlog** las mejoras pendientes de la bitácora del Hito 4 y las
+   mitigaciones de la tabla del Hito 5B.
+2. **Prioricen** por impacto y esfuerzo, y marquen las dos primeras.
+3. Traduzcan la primera a un **cambio concreto**: riesgo → mitigación declarada → texto exacto del
+   cambio en el prototipo.
+4. **Impleméntenlo** y prueben el caso que fallaba.
+5. Guarden el **"antes"**: configuración previa del prototipo y captura de la falla original.
 
-**Formato y entrega:** documento breve + evidencia actualizada del prototipo, enviado por correo a
-**sebastian.azocarm@usm.cl** (asunto: `Hito 6 – Nombre del grupo`). **Plazo:** miércoles 21 de
-octubre de 2026, 23:59.
+**Formato y entrega:** backlog priorizado + el cambio implementado con captura del antes y el
+después (máx. 2 páginas), enviado a **sebastian.azocarm@usm.cl** con asunto
+`Hito 6A – Nombre del grupo`, **entre las 17:30 y las 19:00 del miércoles 7 de octubre**.
 
-**Criterios de evaluación:** evidencia real de mejora respecto al Hito 4 · integración efectiva de
-al menos una mitigación de riesgo.
+**Criterios de evaluación:** priorización justificada · el cambio es concreto y está implementado ·
+existe evidencia del antes y el después.
+</div>
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 6B · 3% de la Nota Final · en clases</span>
+
+**Objetivo:** demostrar, con evidencia comparable, que el prototipo v2 mejora al v1.
+
+**Instrucciones** *(se trabaja durante la [Clase 16](clases/clase16.md))*
+
+1. Definan el **banco de casos**: entre 6 y 8 entradas fijas y escritas textualmente (3 normales,
+   2 borde, 1-2 adversarias y 1-2 de riesgo, incluida la prueba del par del Hito 5A).
+2. **Corran los casos en el v1** y guarden los resultados.
+3. Implementen las mejoras pendientes de la bitácora del Hito 4 y **vuelvan a correr los mismos
+   casos** en el v2.
+4. Completen la **tabla de comparación** caso a caso, con el veredicto de cada fila: mejora, sin
+   cambio o regresión.
+5. Señalen explícitamente **al menos una regresión o compensación** detectada (si no encontraron
+   ninguna, expliquen cómo lo verificaron).
+
+**Formato y entrega:** banco de casos + tabla de comparación (máx. 2 páginas, se aceptan capturas),
+enviado a **sebastian.azocarm@usm.cl** con asunto `Hito 6B – Nombre del grupo`, **entre las 17:30 y
+las 19:00 del miércoles 14 de octubre**.
+
+**Criterios de evaluación:** los casos son fijos y comparables entre versiones · la evidencia
+muestra el antes y el después · honestidad al reportar regresiones.
+</div>
+
+<div class="usm-deliverable" markdown>
+<span class="usm-deliverable-badge">Hito 6C · 3% de la Nota Final · en clases</span>
+
+**Objetivo:** cerrar el prototipo v2 con la mitigación de riesgo integrada y documentar qué cambió.
+
+**Instrucciones** *(se trabaja durante la [Clase 17](clases/clase17.md))*
+
+1. Implementen **al menos una mitigación** de la tabla del Hito 5B, y verifíquenla con el caso de
+   riesgo del banco.
+2. Resuelvan las **regresiones** detectadas en el avance 6A.
+3. Documenten el cambio: configuración final del prototipo (instrucciones completas) y una tabla
+   **qué cambió / por qué / qué lo demuestra**.
+4. Dejen registrado lo que **no** alcanzaron a resolver y por qué — es insumo del Hito 7 y de la
+   presentación final.
+
+**Formato y entrega:** documento de cierre + evidencia del prototipo v2 (máx. 3 páginas), enviado a
+**sebastian.azocarm@usm.cl** con asunto `Hito 6C – Nombre del grupo`, **entre las 17:30 y las 19:00
+del lunes 19 de octubre**.
+
+**Criterios de evaluación:** integración efectiva de al menos una mitigación · evidencia real de
+mejora respecto al Hito 4 · claridad de la documentación del cambio.
 </div>
 
 ---
 
 ## 📍 Hito 7 — Evaluación de viabilidad
 
+!!! danger "Este hito se construye **en clases**, en cuatro avances"
+    Cada sesión deja una pieza de la evaluación de viabilidad, y la suma de las cuatro es el Hito 7.
+    Se envían **durante la sesión**; fuera del horario de clases no se evalúan.
+
+    | Avance | Cuándo | Qué se entrega | Peso |
+    |---|---|---|---:|
+    | **7A — Impacto social** | Miércoles 21 de octubre, Clase 18 | Beneficios y costos sociales de la iniciativa | 2,5% |
+    | **7B — Evaluación privada** | Lunes 26 de octubre, Clase 19 | Flujo privado: quién gana, quién paga | 2,5% |
+    | **7C — Costos de operar** | Miércoles 28 de octubre, Clase 20 | Estructura de costos de la solución, con supuestos | 2,5% |
+    | **7D — Beneficio y conclusión** | Lunes 2 de noviembre, Clase 21 | Beneficio esperado y veredicto de viabilidad | 2,5% |
+
 <div class="usm-deliverable" markdown>
-<span class="usm-deliverable-badge">Hito 7/7 · 10% de la Nota Final</span>
+<span class="usm-deliverable-badge">Hito 7 · 10% de la Nota Final · en cuatro avances</span>
 
-**Objetivo:** estimar, con la misma lógica de Evaluación Social/Privada de Proyectos vista en las
-Clases 19-20, si el proyecto vale la pena implementarlo.
+**Objetivo:** estimar, con la lógica de Evaluación Social y Privada de Proyectos, si el proyecto vale
+la pena implementarlo.
 
-**Instrucciones**
+**Qué pide cada avance**
 
-1. Estimen usuarios/clientes potenciales alcanzados por la solución.
-2. Estimen el costo aproximado de operar la solución (herramientas, tiempo, eventual desarrollo).
-3. Estimen el beneficio esperado (ahorro, ingreso adicional o reducción de riesgo), con supuestos
-   explícitos.
-4. Concluyan, con esos números, si el proyecto es viable y bajo qué condiciones.
+| Avance | Contenido |
+|---|---|
+| **7A** | Quiénes se benefician y quiénes se ven perjudicados por la solución, más allá de la empresa; efectos no monetarios relevantes (tiempo, acceso, riesgo evitado). |
+| **7B** | Cuántos usuarios o transacciones alcanza la solución, quién captura el valor y a través de qué mecanismo. |
+| **7C** | Costo de operar: herramientas y licencias, cómputo, tiempo de personas, mantención del prototipo; cada cifra con su supuesto explícito. |
+| **7D** | Beneficio esperado (ahorro, ingreso adicional o reducción de riesgo) y la conclusión: ¿es viable, y bajo qué condiciones deja de serlo? |
 
-**Formato y entrega:** documento breve (máx. 2 páginas) con la evaluación de viabilidad, enviado
-por correo a **sebastian.azocarm@usm.cl** (asunto: `Hito 7 – Nombre del grupo`). **Plazo:**
-miércoles 4 de noviembre de 2026, 23:59.
+**Formato de cada avance:** máximo 2 páginas, enviado a **sebastian.azocarm@usm.cl** con asunto
+`Hito 7X – Nombre del grupo` (reemplazando X por A, B, C o D), **entre las 17:30 y las 19:00** del
+día de la clase correspondiente.
 
-**Criterios de evaluación:** razonabilidad y explicitud de los supuestos · coherencia de la
-conclusión de viabilidad con los números presentados.
+**Criterios de evaluación:** razonabilidad y explicitud de los supuestos · trazabilidad entre
+avances (las cifras del 7D deben ser coherentes con las del 7B y 7C) · coherencia de la conclusión
+de viabilidad con los números presentados.
 </div>
 
 ---
@@ -351,8 +430,18 @@ el curso.
 2. Preparen un **pitch de 8-10 minutos** (+ preguntas) con demostración en vivo o grabada del
    prototipo final.
 
+**Cómo se reparte el 30%**
+
+| Componente | Cuándo | Peso |
+|---|---|---:|
+| **Avance 1 — Estructura del pitch** | Miércoles 4 de noviembre, Clase 22 | 5% |
+| **Avance 2 — Ensayo con retroalimentación** | Lunes 9 de noviembre, Clase 23 | 5% |
+| **Documento final + pitch en vivo** | 11 y 16 de noviembre | 20% |
+
 **Formato y entrega**
 
+- Los dos avances se entregan **en clases**, entre las 17:30 y las 19:00 del día respectivo
+  (asunto: `Pitch A – Nombre del grupo` y `Pitch B – Nombre del grupo`).
 - Documento final enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Presentación Final –
   Nombre del grupo`): **miércoles 11 de noviembre de 2026, hasta las 23:59**.
 - Presentación en vivo, repartida entre las sesiones del **11 y 16 de noviembre**, según el orden

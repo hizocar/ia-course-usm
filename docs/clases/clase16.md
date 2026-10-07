@@ -4,12 +4,16 @@
 <span>📅 Miércoles 14 de octubre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Taller de Prototipado de Negocios con IA</span>
+<span class="usm-tag-red">🚀 Hito 6B · 3% · se entrega en clases</span>
 </div>
 
-!!! note "Sesión de taller (sin entrega)"
-    No hay entrega evaluada hoy. Seguimos construyendo el **prototipo v2** del
-    [Hito 6](../proyecto.md#hito-6-prototipo-v2-refinado) (miércoles 21 de octubre). Hoy el foco está
-    en las mejoras pendientes de la bitácora del Hito 4 y en **demostrar** que el v2 es mejor.
+!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+    El **Hito 6** se construye en **tres avances entregados en clases** (6A el 7 de octubre, 6B hoy,
+    6C el 19), y la suma de los tres es el hito completo. Hoy corresponde el **Hito 6B — Mejoras y
+    comparación v1 vs. v2 (3%)**.
+
+    **Los correos recibidos fuera del horario de clases no se evalúan** y el avance queda con 0.
+    El avance C se entrega el lunes 19 en la [Clase 17](clase17.md).
 
 ## 🎯 Objetivos de la sesión
 
@@ -30,8 +34,10 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:00 – 0:10 | Qué quedó implementado la semana pasada: ronda rápida por grupo |
 | 0:10 – 0:25 | Qué es una prueba de regresión y por qué un prototipo de IA la necesita |
 | 0:25 – 0:40 | Armar el set de casos fijos (el "banco de pruebas" del proyecto) |
-| 0:40 – 1:15 | **Taller: implementar mejoras y correr la comparación v1 vs. v2** |
-| 1:15 – 1:30 | Lectura de resultados, regresiones detectadas y cierre |
+| 0:40 – 1:12 | **Taller: implementar mejoras y correr la comparación v1 vs. v2** |
+| 1:12 – 1:22 | Lectura de resultados y regresiones detectadas |
+| 1:22 – 1:28 | **Envío del Hito 6A** (correo desde la sala, antes de las 19:00) |
+| 1:28 – 1:30 | Cierre |
 
 ---
 
@@ -96,7 +102,9 @@ Tres compensaciones habituales al endurecer un prototipo:
 
 ---
 
-## ✏️ Taller: implementar y comparar
+## ✏️ Taller y entrega del Hito 6A
+
+*Esto **sí** se entrega hoy, antes de las 19:00. Vale el 3% de la nota final.*
 
 1. **Escriban el banco de casos** (6-8), con la mezcla de la sección 2. Déjenlo en un documento aparte.
 2. **Corran los casos en el prototipo actual** si aún no lo habían hecho, y guarden los resultados
@@ -104,7 +112,19 @@ Tres compensaciones habituales al endurecer un prototipo:
 3. **Implementen las mejoras pendientes** del backlog de la Clase 15.
 4. **Vuelvan a correr los mismos casos** y registren los resultados como "v2".
 5. **Completen la tabla de comparación** y marquen explícitamente cualquier regresión.
-6. Anoten lo que queda pendiente para las Clases 17 y 18.
+6. Anoten lo que queda pendiente para la Clase 17.
+
+### 📤 Cómo entregar el Hito 6B
+
+- [ ] El **banco de casos** (6-8 entradas, escritas textualmente).
+- [ ] La **tabla de comparación** v1 vs. v2, con el veredicto de cada fila.
+- [ ] Al menos una **regresión o compensación** señalada explícitamente (o cómo verificaron que no hay).
+- [ ] Máximo dos páginas; se aceptan capturas de pantalla.
+- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 6B – Nombre del grupo`.
+- [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
+
+> ⚠️ Si no alcanzaron a correr los 8 casos, envíen los que sí tienen. Una comparación parcial
+> entregada a tiempo se evalúa; una completa enviada mañana, no.
 
 !!! tip "Usen el asistente para esto también"
     ```text
@@ -120,6 +140,6 @@ Tres compensaciones habituales al endurecer un prototipo:
 
 ## 📚 Para la próxima clase
 
-- La Clase 17 (lunes 19 de octubre) cierra el prototipo v2: se resuelven las mejoras pendientes y se
-  arma la documentación del **Hito 6**, que se entrega el miércoles 21 de octubre.
-- Traigan el banco de casos y la tabla de comparación v1 vs. v2, aunque esté a medio llenar.
+- La [Clase 17](clase17.md) (lunes 19 de octubre) cierra el prototipo v2 y ahí se entrega el
+  **Hito 6C (3%)**, también durante la sesión.
+- Lleguen con las regresiones de hoy identificadas: resolverlas es la mitad del trabajo del lunes.
