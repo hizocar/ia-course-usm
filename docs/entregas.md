@@ -38,7 +38,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Backlog priorizado + cambio implementado con antes y después*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6a){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -47,7 +47,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Banco de casos + tabla de comparación*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6b){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -56,7 +56,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Configuración final + documentación del cambio*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6c){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -65,7 +65,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Beneficios y costos sociales de la iniciativa*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7a){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -74,7 +74,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Quién gana, quién paga, a cuántos alcanza*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7b){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -83,7 +83,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Estructura de costos con supuestos explícitos*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7c){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
@@ -92,21 +92,21 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 
 *Beneficio esperado y veredicto de viabilidad*
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7d){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
 ### 🎤 Pitch · Avance 1 · 5%
 **Miércoles 4 de noviembre** · Estructura del pitch
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=pitcha){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
 ### 🎤 Pitch · Avance 2 · 5%
 **Lunes 9 de noviembre** · Ensayo con retroalimentación
 
-[📬 Abrir buzón](#){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=pitchb){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 </div>

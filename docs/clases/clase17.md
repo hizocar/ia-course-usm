@@ -135,7 +135,7 @@ En su grupo de proyecto:
 <strong>📤 Entrega aquí el Hito 6C — Prototipo v2 cerrado</strong>
 <span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
 </div>
-[📬 Abrir buzón](../entregas.md#hito-6c-3){.usm-btn}
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6c){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).
