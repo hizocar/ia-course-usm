@@ -3,10 +3,11 @@
 Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se dicta los
 **lunes y miércoles a las 17:30**. El detalle de fechas está en el [Calendario](../calendario.md).
 
-!!! danger "Hitos 5 y 6: se entregan en clases"
-    Ambos hitos se dividen en avances que se trabajan y envían **durante la sesión**, entre las
-    17:30 y las 19:00: el **Hito 5** el 28 y 30 de septiembre, y el **Hito 6** el 14 y 19 de
-    octubre. **Los correos fuera de ese horario no se evalúan.**
+!!! danger "Desde el Hito 5: se entrega en clases"
+    Cada clase deja un **avance** que se trabaja y se envía **durante la sesión**, entre las 17:30 y
+    las 19:00; la suma de los avances es el hito. El **Hito 5** (28 y 30 de septiembre) se recibió
+    por correo; desde el **Hito 6** la entrega es por el [buzón de cada clase](../entregas.md), que
+    **se cierra a las 19:20**. **Lo enviado fuera del horario no se evalúa.**
 
 !!! warning "Evaluación 100% por proyecto"
     El curso no tiene certámenes ni controles: se evalúa íntegramente con los **7 hitos** del
@@ -121,21 +122,21 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣5️⃣ Taller — De las Mitigaciones al Prototipo
-**Miércoles 7 de octubre** *(fecha ajustada)* · Taller de Prototipado (1) · Camino al Hito 6
+**Miércoles 7 de octubre** *(fecha ajustada)* · Taller de Prototipado (1) · 🚀 Hito 6A · 4% · 📬 buzón en clases
 
 [Ir a la clase →](clase15.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 1️⃣6️⃣ Taller — Mejoras y Prueba de Regresión
-**Miércoles 14 de octubre** · Taller de Prototipado (2) · 🚀 Hito 6A · 5% · entrega en clases
+**Miércoles 14 de octubre** · Taller de Prototipado (2) · 🚀 Hito 6B · 3% · 📬 buzón en clases
 
 [Ir a la clase →](clase16.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 1️⃣7️⃣ Taller — Cierre del Prototipo v2
-**Lunes 19 de octubre** · Taller de Prototipado (3) · 🚀 Hito 6B · 5% · entrega en clases
+**Lunes 19 de octubre** · Taller de Prototipado (3) · 🚀 Hito 6C · 3% · 📬 buzón en clases
 
 [Ir a la clase →](clase17.md)
 </div>

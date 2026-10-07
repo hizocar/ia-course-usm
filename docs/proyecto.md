@@ -79,10 +79,22 @@ trabajo del hito anterior.
 > envía durante la sesión**, y la suma de los avances es el hito completo. Solo se evalúa lo enviado
 > **entre las 17:30 y las 19:00** del día de la clase: los correos fuera de ese horario no se
 > evalúan y el avance queda con 0.
+>
+> 📬 **Desde el Hito 6 el canal es el buzón.** Cada clase tiene su propio
+> [buzón de entrega](entregas.md): se sube **un PDF por grupo** con el nombre del grupo. El buzón
+> **se cierra solo a las 19:20** y lo recibido queda archivado en el repositorio del curso.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
-<strong>📧 Cómo se entregan los hitos</strong>
+<strong>📬 Buzones de entrega (Hito 6 en adelante)</strong>
+<span>Un buzón por avance, al final de cada clase. Cierra a las <strong>19:20</strong>; solo se evalúa lo recibido <strong>hasta las 19:00</strong>.</span>
+</div>
+[📬 Ver buzones](entregas.md){.usm-btn}
+</div>
+
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📧 Cómo se entregaron los hitos 1 a 5</strong>
 <span>Todos los hitos y la presentación final se envían por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>).</span>
 </div>
 [✉️ sebastian.azocarm@usm.cl](mailto:sebastian.azocarm@usm.cl){.usm-btn}

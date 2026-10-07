@@ -120,7 +120,8 @@ Tres compensaciones habituales al endurecer un prototipo:
 - [ ] La **tabla de comparación** v1 vs. v2, con el veredicto de cada fila.
 - [ ] Al menos una **regresión o compensación** señalada explícitamente (o cómo verificaron que no hay).
 - [ ] Máximo dos páginas; se aceptan capturas de pantalla.
-- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 6B – Nombre del grupo`.
+- [ ] Subido al **buzón del Hito 6B** (abajo), con el **nombre del grupo** escrito igual
+      que en la planilla del curso.
 - [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
 
 > ⚠️ Si no alcanzaron a correr los 8 casos, envíen los que sí tienen. Una comparación parcial
@@ -143,3 +144,17 @@ Tres compensaciones habituales al endurecer un prototipo:
 - La [Clase 17](clase17.md) (lunes 19 de octubre) cierra el prototipo v2 y ahí se entrega el
   **Hito 6C (3%)**, también durante la sesión.
 - Lleguen con las regresiones de hoy identificadas: resolverlas es la mitad del trabajo del lunes.
+
+---
+
+## 📬 Buzón del Hito 6B
+
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📤 Entrega aquí el Hito 6B — Comparación v1 vs. v2</strong>
+<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+</div>
+[📬 Abrir buzón](../entregas.md#hito-6b-3){.usm-btn}
+</div>
+
+Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).

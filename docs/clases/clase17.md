@@ -109,7 +109,8 @@ En su grupo de proyecto:
 - [ ] Evidencia del caso de riesgo: antes y después.
 - [ ] Párrafo de lo que quedó pendiente.
 - [ ] Máximo tres páginas; se aceptan capturas.
-- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 6C – Nombre del grupo`.
+- [ ] Subido al **buzón del Hito 6C** (abajo), con el **nombre del grupo** escrito igual
+      que en la planilla del curso.
 - [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
 
 > 📌 Con este envío queda cerrado el **Hito 6** (6A + 6B + 6C = 10%). El prototipo ya no se modifica para
@@ -124,3 +125,17 @@ En su grupo de proyecto:
   en clases: 7A (21 oct), 7B (26 oct), 7C (28 oct) y 7D (2 nov).
 - Traigan el párrafo de pendientes de hoy: varias de esas limitaciones son costos o supuestos que
   aparecerán en la evaluación de viabilidad.
+
+---
+
+## 📬 Buzón del Hito 6C
+
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📤 Entrega aquí el Hito 6C — Prototipo v2 cerrado</strong>
+<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+</div>
+[📬 Abrir buzón](../entregas.md#hito-6c-3){.usm-btn}
+</div>
+
+Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).

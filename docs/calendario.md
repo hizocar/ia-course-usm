@@ -14,6 +14,9 @@
 > las 23:59. **Desde el Hito 5, cada clase deja un avance que se trabaja y se envía durante la
 > sesión**, entre las **17:30 y las 19:00**; la suma de los avances es el hito. **Los correos
 > enviados fuera del horario de clases no se evalúan.**
+>
+> 📬 **Buzones:** desde el Hito 6, cada avance se entrega en el [buzón de su clase](entregas.md)
+> (un PDF por grupo). El buzón **cierra a las 19:20**; solo se evalúa lo recibido hasta las 19:00.
 
 ---
 

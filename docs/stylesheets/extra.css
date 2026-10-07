@@ -538,20 +538,29 @@
   background: var(--md-default-bg-color);
 }
 
-.usm-cta-text strong {
+.usm-cta-text > strong {
   display: block;
   color: var(--usm-navy);
   font-size: 1rem;
   margin-bottom: 0.15rem;
 }
 
-[data-md-color-scheme="slate"] .usm-cta-text strong {
+[data-md-color-scheme="slate"] .usm-cta-text > strong {
   color: #eef1fb;
 }
 
 .usm-cta-text span {
+  display: block;
   font-size: 0.85rem;
   opacity: 0.8;
+}
+
+/* Negritas dentro del texto secundario: inline, sin romper el párrafo */
+.usm-cta-text span strong {
+  display: inline;
+  font-size: inherit;
+  color: inherit;
+  margin: 0;
 }
 
 .usm-btn {

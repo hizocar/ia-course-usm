@@ -120,7 +120,8 @@ En su grupo de proyecto, durante el taller:
 - [ ] El **cambio concreto** implementado: el texto exacto que agregaron o quitaron del prototipo.
 - [ ] Captura del **antes** (la falla original) y del **después** (el mismo caso ya corregido).
 - [ ] Máximo dos páginas; se aceptan capturas.
-- [ ] Correo a **sebastian.azocarm@usm.cl**, asunto `Hito 6A – Nombre del grupo`.
+- [ ] Subido al **buzón del Hito 6A** (abajo), con el **nombre del grupo** escrito igual
+      que en la planilla del curso.
 - [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
 
 > ⚠️ Si alcanzaron a implementar solo una parte del cambio, envíen eso. Un avance parcial entregado
@@ -135,3 +136,17 @@ En su grupo de proyecto, durante el taller:
   **mejoras de la bitácora del Hito 4** y se arma la **prueba de regresión** que demuestra que el v2
   es mejor que el v1 sin haber roto lo que ya funcionaba.
 - Traigan el backlog priorizado de hoy y las capturas del "antes".
+
+---
+
+## 📬 Buzón del Hito 6A
+
+<div class="usm-cta" markdown>
+<div class="usm-cta-text">
+<strong>📤 Entrega aquí el Hito 6A — Primera mitigación implementada</strong>
+<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+</div>
+[📬 Abrir buzón](../entregas.md#hito-6a-4){.usm-btn}
+</div>
+
+Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).
