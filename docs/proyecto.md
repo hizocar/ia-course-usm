@@ -94,8 +94,8 @@ trabajo del hito anterior.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
-<strong>📧 Cómo se entregaron los hitos 1 a 5</strong>
-<span>Todos los hitos y la presentación final se envían por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>).</span>
+<strong>📧 Por correo: hitos 1 a 5, avance 6A y documento final</strong>
+<span>Los hitos 1 a 5 y el avance 6A se enviaron por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>). Por este medio solo queda el <strong>documento final</strong> de la presentación; todo lo demás va al buzón.</span>
 </div>
 [✉️ sebastian.azocarm@usm.cl](mailto:sebastian.azocarm@usm.cl){.usm-btn}
 </div>
@@ -381,7 +381,7 @@ la documentación del cambio.
 
     | Avance | Cuándo | Qué se entrega | Peso |
     |---|---|---|---:|
-    | **7A — Impacto social** | Miércoles 21 de octubre, Clase 18 | Beneficios y costos sociales de la iniciativa | 2,5% |
+    | **7A — Impacto social** | Miércoles 21 de octubre, en la [Clase 18](clases/clase18.md) | Beneficios y costos sociales de la iniciativa | 2,5% |
     | **7B — Evaluación privada** | Lunes 26 de octubre, Clase 19 | Flujo privado: quién gana, quién paga | 2,5% |
     | **7C — Costos de operar** | Miércoles 28 de octubre, Clase 20 | Estructura de costos de la solución, con supuestos | 2,5% |
     | **7D — Beneficio y conclusión** | Lunes 2 de noviembre, Clase 21 | Beneficio esperado y veredicto de viabilidad | 2,5% |
@@ -401,9 +401,9 @@ la pena implementarlo.
 | **7C** | Costo de operar: herramientas y licencias, cómputo, tiempo de personas, mantención del prototipo; cada cifra con su supuesto explícito. |
 | **7D** | Beneficio esperado (ahorro, ingreso adicional o reducción de riesgo) y la conclusión: ¿es viable, y bajo qué condiciones deja de serlo? |
 
-**Formato de cada avance:** máximo 2 páginas, enviado a **sebastian.azocarm@usm.cl** con asunto
-`Hito 7X – Nombre del grupo` (reemplazando X por A, B, C o D), **entre las 17:30 y las 19:00** del
-día de la clase correspondiente.
+**Formato de cada avance:** máximo 2 páginas, un PDF por grupo subido al
+[buzón del avance](entregas.md) (7A, 7B, 7C o 7D), **entre las 17:30 y las 19:00** del día de la
+clase correspondiente. El buzón se cierra a las 19:20; lo recibido después de las 19:00 no se evalúa.
 
 **Criterios de evaluación:** razonabilidad y explicitud de los supuestos · trazabilidad entre
 avances (las cifras del 7D deben ser coherentes con las del 7B y 7C) · coherencia de la conclusión
@@ -438,8 +438,8 @@ el curso.
 
 **Formato y entrega**
 
-- Los dos avances se entregan **en clases**, entre las 17:30 y las 19:00 del día respectivo
-  (asunto: `Pitch A – Nombre del grupo` y `Pitch B – Nombre del grupo`).
+- Los dos avances se entregan **en clases**, entre las 17:30 y las 19:00 del día respectivo, en el
+  [buzón de cada avance](entregas.md) (Pitch · Avance 1 y Pitch · Avance 2).
 - Documento final enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Presentación Final –
   Nombre del grupo`): **miércoles 11 de noviembre de 2026, hasta las 23:59**.
 - Presentación en vivo, repartida entre las sesiones del **11 y 16 de noviembre**, según el orden

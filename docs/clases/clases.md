@@ -141,6 +141,13 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase17.md)
 </div>
 
+<div class="usm-card" markdown>
+### 1️⃣8️⃣ Evaluación Social de Iniciativas con IA
+**Miércoles 21 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7A · 2,5% · 📬 buzón en clases
+
+[Ir a la clase →](clase18.md)
 </div>
 
-> 🚧 Las clases 18 en adelante se irán publicando aquí a medida que avanza el semestre.
+</div>
+
+> 🚧 Las clases 19 en adelante se irán publicando aquí a medida que avanza el semestre.

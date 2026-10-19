@@ -187,7 +187,7 @@ En su grupo de proyecto, en este orden (si el tiempo no alcanza, lo primero es l
 
 ## 📚 Para la próxima clase
 
-- La Clase 18 (miércoles 21 de octubre) abre la última unidad: **Evaluación Social de Iniciativas
+- La [Clase 18](clase18.md) (miércoles 21 de octubre) abre la última unidad: **Evaluación Social de Iniciativas
   basadas en IA**, y con ella empieza el **Hito 7**, que también se construye en avances entregados
   en clases: 7A (21 oct), 7B (26 oct), 7C (28 oct) y 7D (2 nov).
 - Traigan el párrafo de pendientes de hoy: varias de esas limitaciones son costos o supuestos que
