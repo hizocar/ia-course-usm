@@ -36,9 +36,33 @@ hito, 30% la presentación final).</p>
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
 (6%). **—** = no se encontró entrega · **Pendiente** = entrega recibida que aún no se puede corregir.*
 
+### Puntaje acumulado a la fecha
+
+Hasta el Hito 6A se ha evaluado el **54% de la nota final** (Hitos 1 a 4: 10% cada uno · 5A y 5B: 5%
+cada uno · 6A: 4%). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
+**promedio a la fecha** es ese mismo puntaje expresado sobre 100.
+
+| Grupo | Puntos acumulados | De un máximo de | Promedio a la fecha |
+|---|---:|---:|---:|
+| energIA | 45,13 | 54 | **83,6** |
+| IA Solution | 44,05 | 54 | **81,6** |
+| Inteligencia Sansana | 43,60 | 49 | **89,0** |
+| Lanyardigans | 35,05 | 54 | **64,9** |
+| los3x2 | 43,05 | 54 | **79,7** |
+| Los Republicanos | 46,60 | 54 | **86,3** |
+| los_capi | 35,55 | 54 | **65,8** |
+| mafilia | 41,75 | 54 | **77,3** |
+| six_pack | 44,25 | 54 | **81,9** |
+| Starcompany | 45,15 | 54 | **83,6** |
+| Torque AI | Pendiente | — | — |
+
+*Las entregas marcadas con **—** (sin entrega) cuentan como 0. Las **pendientes** todavía no entran
+al cálculo: por eso Inteligencia Sansana se calcula sobre 49% en vez de 54% (falta su 5B). Faltan
+por evaluar el Hito 6C, el Hito 7 y la presentación final (46%).*
+
 !!! warning "Torque AI"
-    Sus entregas de los Hitos 3, 4 y 5B se recibieron por correo y están en revisión; sus notas se
-    publicarán aquí.
+    Sus entregas de los Hitos 3, 4 y 5B llegaron por correo, pero **todavía no se han corregido**.
+    Sus notas y su puntaje acumulado se publicarán aquí apenas estén listas.
 
 ## 📍 Hito 1 — Idea y problema de IA
 
