@@ -148,6 +148,60 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 [Ir a la clase →](clase18.md)
 </div>
 
+<div class="usm-card" markdown>
+### 1️⃣9️⃣ Evaluación Privada de Iniciativas con IA
+**Lunes 26 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7B · 2,5% · 📬 buzón en clases
+
+[Ir a la clase →](clase19.md)
 </div>
 
-> 🚧 Las clases 19 en adelante se irán publicando aquí a medida que avanza el semestre.
+<div class="usm-card" markdown>
+### 2️⃣0️⃣ Taller — Costos de Operar la Solución
+**Miércoles 28 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7C · 2,5% · 📬 buzón en clases
+
+[Ir a la clase →](clase20.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣1️⃣ Taller — Beneficio y Veredicto de Viabilidad
+**Lunes 2 de noviembre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7D · 2,5% · 📬 buzón en clases
+
+[Ir a la clase →](clase21.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣2️⃣ Taller — Estructura del Pitch Final
+**Miércoles 4 de noviembre** · Presentación Final · 🎤 Avance 1 · 5% · 📬 buzón en clases
+
+[Ir a la clase →](clase22.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣3️⃣ Ensayo del Pitch con Retroalimentación
+**Lunes 9 de noviembre** · Presentación Final · 🎤 Avance 2 · 5% · 📬 buzón en clases
+
+[Ir a la clase →](clase23.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣4️⃣ Presentaciones Finales (1) y Documento Final
+**Miércoles 11 de noviembre** · Presentación Final · 🎤 20% · 📤 documento final hasta las 23:59
+
+[Ir a la clase →](clase24.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣5️⃣ Presentaciones Finales (2)
+**Lunes 16 de noviembre** · Presentación Final · 🎤 20% · pitch en vivo
+
+[Ir a la clase →](clase25.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣6️⃣ Cierre del Curso
+**Miércoles 18 de noviembre** · Retroalimentación final · Sesión formativa
+
+[Ir a la clase →](clase26.md)
+</div>
+
+</div>

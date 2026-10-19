@@ -130,28 +130,28 @@
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 19** — *lunes 26 de octubre*: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)**
-- **Clase 20** — *miércoles 28 de octubre*: Taller — costos de operar la solución. 🚀 **Hito 7C — Costos (2,5%)**
+- **Clase 19** — *lunes 26 de octubre*: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)** Ver [Clase 19](clases/clase19.md).
+- **Clase 20** — *miércoles 28 de octubre*: Taller — costos de operar la solución. 🚀 **Hito 7C — Costos (2,5%)** Ver [Clase 20](clases/clase20.md).
 
 ---
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-- **Clase 21** — *lunes 2 de noviembre*: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)**
-- **Clase 22** — *miércoles 4 de noviembre*: Taller — estructura del pitch final. 🚀 **Presentación Final · Avance 1 (5%)**
+- **Clase 21** — *lunes 2 de noviembre*: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)** Ver [Clase 21](clases/clase21.md).
+- **Clase 22** — *miércoles 4 de noviembre*: Taller — estructura del pitch final. 🚀 **Presentación Final · Avance 1 (5%)** Ver [Clase 22](clases/clase22.md).
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 23** — *lunes 9 de noviembre*: Ensayo del pitch con retroalimentación. 🚀 **Presentación Final · Avance 2 (5%)**
-- **Clase 24** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🚀 **Presentación Final — 30%**
+- **Clase 23** — *lunes 9 de noviembre*: Ensayo del pitch con retroalimentación. 🚀 **Presentación Final · Avance 2 (5%)** Ver [Clase 23](clases/clase23.md).
+- **Clase 24** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🎤 **Presentación Final — documento + pitch (20%)** Ver [Clase 24](clases/clase24.md).
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 25** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🚀 **Presentación Final — 30%**
-- **Clase 26** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final.
+- **Clase 25** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🎤 **Presentación Final — documento + pitch (20%)** Ver [Clase 25](clases/clase25.md).
+- **Clase 26** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final. Ver [Clase 26](clases/clase26.md).
 
 🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*

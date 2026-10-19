@@ -199,7 +199,7 @@ la dejan fuera.
 
 ## 📚 Para la próxima clase
 
-- La Clase 19 (lunes 26 de octubre) toma el mismo proyecto desde la empresa: **Evaluación Privada**.
+- La [Clase 19](clase19.md) (lunes 26 de octubre) toma el mismo proyecto desde la empresa: **Evaluación Privada**.
   Ahí se entrega el **Hito 7B**: cuántos usuarios o transacciones alcanza la solución, quién captura
   el valor y a través de qué mecanismo.
 - Traigan la tabla de hoy: los beneficios que descartaron como transferencias suelen ser exactamente

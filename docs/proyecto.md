@@ -382,9 +382,9 @@ la documentación del cambio.
     | Avance | Cuándo | Qué se entrega | Peso |
     |---|---|---|---:|
     | **7A — Impacto social** | Miércoles 21 de octubre, en la [Clase 18](clases/clase18.md) | Beneficios y costos sociales de la iniciativa | 2,5% |
-    | **7B — Evaluación privada** | Lunes 26 de octubre, Clase 19 | Flujo privado: quién gana, quién paga | 2,5% |
-    | **7C — Costos de operar** | Miércoles 28 de octubre, Clase 20 | Estructura de costos de la solución, con supuestos | 2,5% |
-    | **7D — Beneficio y conclusión** | Lunes 2 de noviembre, Clase 21 | Beneficio esperado y veredicto de viabilidad | 2,5% |
+    | **7B — Evaluación privada** | Lunes 26 de octubre, en la [Clase 19](clases/clase19.md) | Flujo privado: quién gana, quién paga | 2,5% |
+    | **7C — Costos de operar** | Miércoles 28 de octubre, en la [Clase 20](clases/clase20.md) | Estructura de costos de la solución, con supuestos | 2,5% |
+    | **7D — Beneficio y conclusión** | Lunes 2 de noviembre, en la [Clase 21](clases/clase21.md) | Beneficio esperado y veredicto de viabilidad | 2,5% |
 
 <div class="usm-deliverable" markdown>
 <span class="usm-deliverable-badge">Hito 7 · 10% de la Nota Final · en cuatro avances</span>
@@ -432,9 +432,9 @@ el curso.
 
 | Componente | Cuándo | Peso |
 |---|---|---:|
-| **Avance 1 — Estructura del pitch** | Miércoles 4 de noviembre, Clase 22 | 5% |
-| **Avance 2 — Ensayo con retroalimentación** | Lunes 9 de noviembre, Clase 23 | 5% |
-| **Documento final + pitch en vivo** | 11 y 16 de noviembre | 20% |
+| **Avance 1 — Estructura del pitch** | Miércoles 4 de noviembre, en la [Clase 22](clases/clase22.md) | 5% |
+| **Avance 2 — Ensayo con retroalimentación** | Lunes 9 de noviembre, en la [Clase 23](clases/clase23.md) | 5% |
+| **Documento final + pitch en vivo** | 11 y 16 de noviembre, [Clases 24](clases/clase24.md) y [25](clases/clase25.md) | 20% |
 
 **Formato y entrega**
 
