@@ -4,16 +4,16 @@
 <span>📅 Miércoles 14 de octubre de 2026</span>
 <span>⏱️ 90 minutos</span>
 <span class="usm-tag-gold">Unidad 3 · Taller de Prototipado de Negocios con IA</span>
-<span class="usm-tag-red">🚀 Hito 6B · 3% · se entrega en clases</span>
+<span class="usm-tag-red">⚠️ No se dictó · lectura previa de la Clase 17</span>
 </div>
 
-!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
-    El **Hito 6** se construye en **tres avances entregados en clases** (6A el 7 de octubre, 6B hoy,
-    6C el 19), y la suma de los tres es el hito completo. Hoy corresponde el **Hito 6B — Mejoras y
-    comparación v1 vs. v2 (3%)**.
+!!! warning "Esta clase no se dictó en vivo"
+    El miércoles 14 de octubre no hubo clases. El contenido de esta página queda como **lectura
+    previa** de la [Clase 17](clase17.md) (lunes 19 de octubre), donde el banco de casos y la
+    comparación v1 vs. v2 se trabajan en el taller junto con el cierre del prototipo.
 
-    **Los correos recibidos fuera del horario de clases no se evalúan** y el avance queda con 0.
-    El avance C se entrega el lunes 19 en la [Clase 17](clase17.md).
+    **No hay entrega asociada a esta fecha:** el Hito 6B se integra al **Hito 6C (6%)**, que se
+    entrega durante la Clase 17. El Hito 6 queda en 6A (4%) + 6C (6%) = 10%.
 
 ## 🎯 Objetivos de la sesión
 
@@ -36,7 +36,7 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:25 – 0:40 | Armar el set de casos fijos (el "banco de pruebas" del proyecto) |
 | 0:40 – 1:12 | **Taller: implementar mejoras y correr la comparación v1 vs. v2** |
 | 1:12 – 1:22 | Lectura de resultados y regresiones detectadas |
-| 1:22 – 1:28 | **Envío del Hito 6A** (correo desde la sala, antes de las 19:00) |
+| 1:22 – 1:28 | Envío del avance |
 | 1:28 – 1:30 | Cierre |
 
 ---
@@ -102,9 +102,9 @@ Tres compensaciones habituales al endurecer un prototipo:
 
 ---
 
-## ✏️ Taller y entrega del Hito 6A
+## ✏️ Taller
 
-*Esto **sí** se entrega hoy, antes de las 19:00. Vale el 3% de la nota final.*
+*Estos pasos se realizan en la [Clase 17](clase17.md) y forman parte del **Hito 6C**.*
 
 1. **Escriban el banco de casos** (6-8), con la mezcla de la sección 2. Déjenlo en un documento aparte.
 2. **Corran los casos en el prototipo actual** si aún no lo habían hecho, y guarden los resultados
@@ -114,18 +114,8 @@ Tres compensaciones habituales al endurecer un prototipo:
 5. **Completen la tabla de comparación** y marquen explícitamente cualquier regresión.
 6. Anoten lo que queda pendiente para la Clase 17.
 
-### 📤 Cómo entregar el Hito 6B
-
-- [ ] El **banco de casos** (6-8 entradas, escritas textualmente).
-- [ ] La **tabla de comparación** v1 vs. v2, con el veredicto de cada fila.
-- [ ] Al menos una **regresión o compensación** señalada explícitamente (o cómo verificaron que no hay).
-- [ ] Máximo dos páginas; se aceptan capturas de pantalla.
-- [ ] Subido al **buzón del Hito 6B** (abajo), con el **nombre del grupo** escrito igual
-      que en la planilla del curso.
-- [ ] **Enviado entre las 17:30 y las 19:00 de hoy.** Fuera de ese horario no se evalúa.
-
-> ⚠️ Si no alcanzaron a correr los 8 casos, envíen los que sí tienen. Una comparación parcial
-> entregada a tiempo se evalúa; una completa enviada mañana, no.
+> 📌 El banco de casos, la tabla de comparación y la regresión señalada se entregan dentro del
+> **Hito 6C**, en el [buzón de la Clase 17](clase17.md#buzon-del-hito-6c).
 
 !!! tip "Usen el asistente para esto también"
     ```text
@@ -141,20 +131,7 @@ Tres compensaciones habituales al endurecer un prototipo:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 17](clase17.md) (lunes 19 de octubre) cierra el prototipo v2 y ahí se entrega el
-  **Hito 6C (3%)**, también durante la sesión.
-- Lleguen con las regresiones de hoy identificadas: resolverlas es la mitad del trabajo del lunes.
+- La [Clase 17](clase17.md) (lunes 19 de octubre) trabaja este contenido en el taller, cierra el
+  prototipo v2 y ahí se entrega el **Hito 6C (6%)**, durante la sesión.
+- Si pueden, escriban el banco de casos antes de llegar: ahorra la primera media hora del taller.
 
----
-
-## 📬 Buzón del Hito 6B
-
-<div class="usm-cta" markdown>
-<div class="usm-cta-text">
-<strong>📤 Entrega aquí el Hito 6B — Comparación v1 vs. v2</strong>
-<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
-</div>
-[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6b){.usm-btn target="_blank" rel="noopener"}
-</div>
-
-Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).

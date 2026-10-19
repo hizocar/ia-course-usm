@@ -10,7 +10,8 @@
 !!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
     Desde ahora **cada clase deja un avance que se entrega durante la sesión**, y la suma de los
     avances es el hito. El [Hito 6](../proyecto.md#hito-6-prototipo-v2-refinado) se construye en tres:
-    **6A hoy (4%)**, 6B el 14 de octubre (3%) y 6C el 19 de octubre (3%).
+    **6A hoy (4%)**, 6B el 14 de octubre (3%) y 6C el 19 de octubre (3%). *(Ajuste: el 14 de
+    octubre no hubo clases; el 6B se integró al 6C, que pasó a valer 6%.)*
 
     Hoy corresponde el **Hito 6A — Primera mitigación implementada**. **Los correos recibidos fuera
     del horario de clases no se evalúan** y el avance queda con 0. Traigan computador y el prototipo
@@ -132,9 +133,9 @@ En su grupo de proyecto, durante el taller:
 ## 📚 Para la próxima clase
 
 - No hay clase el **lunes 12 de octubre** (feriado, Encuentro de Dos Mundos).
-- La [Clase 16](clase16.md) (miércoles 14 de octubre) es la segunda parte del taller: se trabajan las
-  **mejoras de la bitácora del Hito 4** y se arma la **prueba de regresión** que demuestra que el v2
-  es mejor que el v1 sin haber roto lo que ya funcionaba.
+- La [Clase 16](clase16.md) (miércoles 14 de octubre) **no se dictó**. La segunda parte del taller
+  — **mejoras de la bitácora del Hito 4** y **prueba de regresión** — se trabaja en la
+  [Clase 17](clase17.md) (lunes 19 de octubre), junto con el cierre del prototipo v2.
 - Traigan el backlog priorizado de hoy y las capturas del "antes".
 
 ---

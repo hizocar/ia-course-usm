@@ -42,19 +42,17 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 </div>
 
 <div class="usm-card" markdown>
-### 🚀 Hito 6B · 3%
-**Miércoles 14 de octubre** · Comparación v1 vs. v2
+### 🚫 Hito 6B · sin entrega
+**Miércoles 14 de octubre** · 🚫 No hubo clases
 
-*Banco de casos + tabla de comparación*
-
-[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6b){.usm-btn target="_blank" rel="noopener"}
+*Se integra al Hito 6C, que pasa a valer 6%. Este buzón no se usa.*
 </div>
 
 <div class="usm-card" markdown>
-### 🚀 Hito 6C · 3%
-**Lunes 19 de octubre** · Prototipo v2 cerrado
+### 🚀 Hito 6C · 6%
+**Lunes 19 de octubre** · Comparación v1 vs. v2 y prototipo v2 cerrado
 
-*Configuración final + documentación del cambio*
+*Banco de casos + tabla v1 vs. v2 + configuración final + documentación del cambio*
 
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito6c){.usm-btn target="_blank" rel="noopener"}
 </div>

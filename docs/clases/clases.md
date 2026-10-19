@@ -128,15 +128,15 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 </div>
 
 <div class="usm-card" markdown>
-### 1️⃣6️⃣ Taller — Mejoras y Prueba de Regresión
-**Miércoles 14 de octubre** · Taller de Prototipado (2) · 🚀 Hito 6B · 3% · 📬 buzón en clases
+### 1️⃣6️⃣ Mejoras y Prueba de Regresión
+**Miércoles 14 de octubre** · ⚠️ No se dictó — lectura previa de la Clase 17 · el Hito 6B se integra al 6C
 
 [Ir a la clase →](clase16.md)
 </div>
 
 <div class="usm-card" markdown>
-### 1️⃣7️⃣ Taller — Cierre del Prototipo v2
-**Lunes 19 de octubre** · Taller de Prototipado (3) · 🚀 Hito 6C · 3% · 📬 buzón en clases
+### 1️⃣7️⃣ Taller — Prueba de Regresión y Cierre del Prototipo v2
+**Lunes 19 de octubre** *(sesión ajustada)* · Taller de Prototipado (2) · 🚀 Hito 6C · 6% · 📬 buzón en clases
 
 [Ir a la clase →](clase17.md)
 </div>

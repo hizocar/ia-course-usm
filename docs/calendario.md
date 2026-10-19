@@ -112,13 +112,18 @@
 🏖️ **Feriado — Encuentro de Dos Mundos**
 > **Nota de calendario:** lunes 12 de octubre es feriado nacional; no hay clase ese día.
 
-- **Clase 16** — *miércoles 14 de octubre*: Taller de Prototipado (2) — mejoras de la bitácora y **prueba de regresión**. 🚀 **Hito 6B — Comparación v1 vs. v2 (3%)** Ver [Clase 16](clases/clase16.md).
+> 📌 **Ajuste de calendario:** el **miércoles 14 de octubre no hubo clases**, así que esta semana no
+> tuvo sesiones. La prueba de regresión de la Clase 16 se trabaja en la Clase 17 (lunes 19) y el
+> **Hito 6B se integra al 6C, que pasa a valer 6%**. **Las fechas de los hitos siguientes no cambian.**
+
+- *lunes 12 de octubre*: 🏖️ Feriado.
+- *miércoles 14 de octubre*: 🚫 **No hubo clases.** El contenido de la [Clase 16](clases/clase16.md) (prueba de regresión) queda como lectura previa de la Clase 17.
 
 ---
 
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
-- **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (3) — cierre del prototipo v2 y documentación. 🚀 **Hito 6C — Prototipo v2 cerrado (3%)** Ver [Clase 17](clases/clase17.md).
+- **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (2) — prueba de regresión, comparación v1 vs. v2 y cierre del prototipo v2. 🚀 **Hito 6C — Comparación y prototipo v2 cerrado (6%)** Ver [Clase 17](clases/clase17.md).
 - **Clase 18** — *miércoles 21 de octubre*: Evaluación Social de Iniciativas basadas en IA. 🚀 **Hito 7A — Impacto social (2,5%)**
 
 ---
