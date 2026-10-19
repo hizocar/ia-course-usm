@@ -22,19 +22,19 @@ hito, 30% la presentación final).</p>
 | Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A |
 |---|---:|---:|---:|---:|---:|---:|---:|
 | energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 |
-| IA Solution | 100 | 97 | 97 | 97 | — | 99 | — |
-| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | Pendiente | 90 |
-| Lanyardigans | 100 | 86 | 84 | — | 74 | 87 | — |
-| los3x2 | 100 | 92 | 93 | 96 | — | 99 | — |
-| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | — |
-| los_capi | 100 | 93 | — | 76 | 83 | 90 | — |
-| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | — |
-| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | — |
-| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | — |
-| Torque AI | — | — | Pendiente | Pendiente | — | Pendiente | — |
+| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 |
+| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 0 | 90 |
+| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 |
+| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 |
+| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 |
+| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 |
+| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 |
+| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 |
+| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 |
+| Torque AI | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
-(6%). **—** = no se encontró entrega · **Pendiente** = entrega recibida que aún no se puede corregir.*
+(6%). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
 
 ### Puntaje acumulado a la fecha
 
@@ -46,7 +46,7 @@ cada uno · 6A: 4%). Los **puntos acumulados** son la suma de cada nota multipli
 |---|---:|---:|---:|
 | energIA | 45,13 | 54 | **83,6** |
 | IA Solution | 44,05 | 54 | **81,6** |
-| Inteligencia Sansana | 43,60 | 49 | **89,0** |
+| Inteligencia Sansana | 43,60 | 54 | **80,7** |
 | Lanyardigans | 35,05 | 54 | **64,9** |
 | los3x2 | 43,05 | 54 | **79,7** |
 | Los Republicanos | 46,60 | 54 | **86,3** |
@@ -54,15 +54,9 @@ cada uno · 6A: 4%). Los **puntos acumulados** son la suma de cada nota multipli
 | mafilia | 41,75 | 54 | **77,3** |
 | six_pack | 44,25 | 54 | **81,9** |
 | Starcompany | 45,15 | 54 | **83,6** |
-| Torque AI | Pendiente | — | — |
+| Torque AI | 0,00 | 54 | **0,0** |
 
-*Las entregas marcadas con **—** (sin entrega) cuentan como 0. Las **pendientes** todavía no entran
-al cálculo: por eso Inteligencia Sansana se calcula sobre 49% en vez de 54% (falta su 5B). Faltan
-por evaluar el Hito 6C, el Hito 7 y la presentación final (46%).*
-
-!!! warning "Torque AI"
-    Sus entregas de los Hitos 3, 4 y 5B llegaron por correo, pero **todavía no se han corregido**.
-    Sus notas y su puntaje acumulado se publicarán aquí apenas estén listas.
+*Faltan por evaluar el Hito 6C, el Hito 7 y la presentación final (46% de la nota final).*
 
 ## 📍 Hito 1 — Idea y problema de IA
 
@@ -111,6 +105,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | Análisis táctico predictivo de rivales (Universidad Católica) | 100 | **84** |
 | six_pack | Predicción de quiebres de stock (CCU) | 100 | **86** |
 | Starcompany | Carro de compra inteligente con IA (Walmart) | 100 | **82** |
+| Torque AI | — | 0 | **0** |
 
 > ✅ **Lanyardigans:** su Hito 2 se encontró en una revisión posterior del correo (enviado el 24 de
 > agosto a las 23:49, dentro del plazo), así que también recibe el 100 del Hito 1.
@@ -278,12 +273,13 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | Lanyardigans | **84** |
 | los3x2 | **93** |
 | Los Republicanos | **94** |
-| los_capi | Sin entrega |
+| los_capi | **0** |
 | mafilia | **87** |
 | six_pack | **90** |
 | Starcompany | **81** |
+| Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **los_capi**. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **los_capi**, que queda con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
@@ -390,15 +386,16 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | energIA | **43** |
 | IA Solution | **97** |
 | Inteligencia Sansana | **85** |
-| Lanyardigans | Sin entrega |
+| Lanyardigans | **0** |
 | los3x2 | **96** |
 | Los Republicanos | **82** |
 | los_capi | **76** |
 | mafilia | **69** |
 | six_pack | **86** |
 | Starcompany | **91** |
+| Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **Lanyardigans**. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **Lanyardigans**, que queda con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
@@ -500,17 +497,18 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | Grupo | Hito 5A |
 |---|---:|
 | energIA | **88** |
-| IA Solution | Sin entrega |
+| IA Solution | **0** |
 | Inteligencia Sansana | **78** |
 | Lanyardigans | **74** |
-| los3x2 | Sin entrega |
+| los3x2 | **0** |
 | Los Republicanos | **97** |
 | los_capi | **83** |
 | mafilia | **79** |
 | six_pack | **77** |
 | Starcompany | **98** |
+| Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution** y **los3x2**. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution** y **los3x2**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
@@ -609,7 +607,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 |---|---:|
 | energIA | **97** |
 | IA Solution | **99** |
-| Inteligencia Sansana | Pendiente |
+| Inteligencia Sansana | **0** |
 | Lanyardigans | **87** |
 | los3x2 | **99** |
 | Los Republicanos | **97** |
@@ -617,8 +615,9 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | **76** |
 | six_pack | **84** |
 | Starcompany | **97** |
+| Torque AI | **0** |
 
-> ⏳ **Inteligencia Sansana:** entregó un enlace a Google Docs que pide permiso de acceso. Queda pendiente hasta que el grupo lo comparta o envíe el PDF.
+> ⚠️ **Inteligencia Sansana:** entregó un enlace a Google Docs que pide permiso de acceso, así que no se pudo revisar y queda con 0.
 
 ### Detalle de la evaluación por grupo
 
@@ -720,17 +719,18 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | Grupo | Hito 6A |
 |---|---:|
 | energIA | **72** |
-| IA Solution | Sin entrega |
+| IA Solution | **0** |
 | Inteligencia Sansana | **90** |
-| Lanyardigans | Sin entrega |
-| los3x2 | Sin entrega |
-| Los Republicanos | Sin entrega |
-| los_capi | Sin entrega |
-| mafilia | Sin entrega |
-| six_pack | Sin entrega |
-| Starcompany | Sin entrega |
+| Lanyardigans | **0** |
+| los3x2 | **0** |
+| Los Republicanos | **0** |
+| los_capi | **0** |
+| mafilia | **0** |
+| six_pack | **0** |
+| Starcompany | **0** |
+| Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution**, **Lanyardigans**, **los3x2**, **Los Republicanos**, **los_capi**, **mafilia**, **six_pack** y **Starcompany**. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution**, **Lanyardigans**, **los3x2**, **Los Republicanos**, **los_capi**, **mafilia**, **six_pack** y **Starcompany**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
