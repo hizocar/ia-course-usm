@@ -759,7 +759,7 @@
   
     <li class="md-nav__item">
       <a href="../clases/clase17/" class="md-nav__link">
-        Clase 17 · Taller — Cierre del Prototipo v2
+        Clase 17 · Taller — Regresión y Cierre del Prototipo v2
       </a>
     </li>
   
@@ -1009,8 +1009,8 @@ trabajo del hito anterior.</p>
 <span class="usm-timeline-meta">10% (5% + 5%) · Se entrega <strong>en dos partes, durante la clase</strong>: auditoría de sesgo (parte A) y privacidad, mitigaciones y gobernanza (parte B).</span>
 </li>
 <li>
-<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">7, 14 y 19 oct · Clases 15-17</span></span>
-<span class="usm-timeline-meta">10% · Tres avances entregados <strong>en clases</strong>: primera mitigación implementada (4%), comparación v1 vs. v2 (3%) y prototipo v2 cerrado (3%).</span>
+<span class="usm-timeline-title">Hito 6 — Prototipo v2 refinado<span class="usm-timeline-badge">7 y 19 oct · Clases 15 y 17</span></span>
+<span class="usm-timeline-meta">10% · Dos avances entregados <strong>en clases</strong>: primera mitigación implementada (4%) y comparación v1 vs. v2 con prototipo v2 cerrado (6%). <em>El 14 de octubre no hubo clases: el avance B se integró al C.</em></span>
 </li>
 <li>
 <span class="usm-timeline-title">Hito 7 — Evaluación de viabilidad<span class="usm-timeline-badge">21, 26, 28 oct y 2 nov · Clases 18-21</span></span>
@@ -1262,9 +1262,9 @@ genéricas · claridad de la definición de gobernanza.</p>
 <hr />
 <h2 id="hito-6-prototipo-v2-refinado">📍 Hito 6 — Prototipo v2 refinado</h2>
 <div class="admonition danger">
-<p class="admonition-title">Este hito se construye <strong>en clases</strong>, en tres avances</p>
+<p class="admonition-title">Este hito se construye <strong>en clases</strong>, en dos avances</p>
 <p>Como el Hito 5, el Hito 6 <strong>no se entrega desde la casa</strong>: se arma en el taller y se envía
-<strong>durante la sesión</strong>. Cada clase deja un avance, y <strong>la suma de los tres es el Hito 6</strong>.</p>
+<strong>durante la sesión</strong>. Cada clase deja un avance, y <strong>la suma de los avances es el Hito 6</strong>.</p>
 <table>
 <thead>
 <tr>
@@ -1282,16 +1282,16 @@ genéricas · claridad de la definición de gobernanza.</p>
 <td style="text-align: right;">4%</td>
 </tr>
 <tr>
-<td><strong>6B — Mejoras y comparación</strong></td>
-<td>Miércoles 14 de octubre, en la <a href="../clases/clase16/">Clase 16</a></td>
-<td>Banco de casos + tabla v1 vs. v2</td>
-<td style="text-align: right;">3%</td>
+<td><em>6B — Mejoras y comparación</em></td>
+<td><em>Miércoles 14 de octubre</em> — <strong>no hubo clases</strong></td>
+<td>Se integra al 6C</td>
+<td style="text-align: right;">—</td>
 </tr>
 <tr>
-<td><strong>6C — Prototipo v2 cerrado</strong></td>
+<td><strong>6C — Comparación y prototipo v2 cerrado</strong></td>
 <td>Lunes 19 de octubre, en la <a href="../clases/clase17/">Clase 17</a></td>
-<td>Prototipo final + documentación del cambio</td>
-<td style="text-align: right;">3%</td>
+<td>Banco de casos + tabla v1 vs. v2 + prototipo final + documentación del cambio</td>
+<td style="text-align: right;">6%</td>
 </tr>
 </tbody>
 </table>
@@ -1320,44 +1320,33 @@ después (máx. 2 páginas), enviado a <strong>sebastian.azocarm@usm.cl</strong>
 existe evidencia del antes y el después.</p>
 </div>
 <div class="usm-deliverable">
-<p><span class="usm-deliverable-badge">Hito 6B · 3% de la Nota Final · en clases</span></p>
-<p><strong>Objetivo:</strong> demostrar, con evidencia comparable, que el prototipo v2 mejora al v1.</p>
-<p><strong>Instrucciones</strong> <em>(se trabaja durante la <a href="../clases/clase16/">Clase 16</a>)</em></p>
+<p><span class="usm-deliverable-badge">Hito 6C · 6% de la Nota Final · en clases</span></p>
+<p><strong>Objetivo:</strong> demostrar, con evidencia comparable, que el prototipo v2 mejora al v1, y cerrarlo con
+la mitigación de riesgo integrada y el cambio documentado.</p>
+<p><em>Ajuste de calendario: el miércoles 14 de octubre no hubo clases, así que el antiguo avance 6B
+(banco de casos y comparación) se integra a este avance, que pasa de 3% a 6%.</em></p>
+<p><strong>Instrucciones</strong> <em>(se trabaja durante la <a href="../clases/clase17/">Clase 17</a>; lectura previa en la
+<a href="../clases/clase16/">Clase 16</a>)</em></p>
 <ol>
 <li>Definan el <strong>banco de casos</strong>: entre 6 y 8 entradas fijas y escritas textualmente (3 normales,
    2 borde, 1-2 adversarias y 1-2 de riesgo, incluida la prueba del par del Hito 5A).</li>
 <li><strong>Corran los casos en el v1</strong> y guarden los resultados.</li>
-<li>Implementen las mejoras pendientes de la bitácora del Hito 4 y <strong>vuelvan a correr los mismos
-   casos</strong> en el v2.</li>
-<li>Completen la <strong>tabla de comparación</strong> caso a caso, con el veredicto de cada fila: mejora, sin
-   cambio o regresión.</li>
-<li>Señalen explícitamente <strong>al menos una regresión o compensación</strong> detectada (si no encontraron
+<li>Implementen <strong>al menos una mitigación</strong> de la tabla del Hito 5B y las mejoras pendientes de la
+   bitácora del Hito 4, y <strong>vuelvan a correr los mismos casos</strong> en el v2.</li>
+<li>Completen la <strong>tabla de comparación</strong> caso a caso, con el veredicto de cada fila (mejora, sin
+   cambio o regresión), y señalen <strong>al menos una regresión o compensación</strong> (si no encontraron
    ninguna, expliquen cómo lo verificaron).</li>
-</ol>
-<p><strong>Formato y entrega:</strong> banco de casos + tabla de comparación (máx. 2 páginas, se aceptan capturas),
-enviado a <strong>sebastian.azocarm@usm.cl</strong> con asunto <code>Hito 6B – Nombre del grupo</code>, <strong>entre las 17:30 y
-las 19:00 del miércoles 14 de octubre</strong>.</p>
-<p><strong>Criterios de evaluación:</strong> los casos son fijos y comparables entre versiones · la evidencia
-muestra el antes y el después · honestidad al reportar regresiones.</p>
-</div>
-<div class="usm-deliverable">
-<p><span class="usm-deliverable-badge">Hito 6C · 3% de la Nota Final · en clases</span></p>
-<p><strong>Objetivo:</strong> cerrar el prototipo v2 con la mitigación de riesgo integrada y documentar qué cambió.</p>
-<p><strong>Instrucciones</strong> <em>(se trabaja durante la <a href="../clases/clase17/">Clase 17</a>)</em></p>
-<ol>
-<li>Implementen <strong>al menos una mitigación</strong> de la tabla del Hito 5B, y verifíquenla con el caso de
-   riesgo del banco.</li>
-<li>Resuelvan las <strong>regresiones</strong> detectadas en el avance 6A.</li>
-<li>Documenten el cambio: configuración final del prototipo (instrucciones completas) y una tabla
-   <strong>qué cambió / por qué / qué lo demuestra</strong>.</li>
+<li>Resuelvan las regresiones y documenten el cambio: configuración final del prototipo
+   (instrucciones completas) y una tabla <strong>qué cambió / por qué / qué lo demuestra</strong>.</li>
 <li>Dejen registrado lo que <strong>no</strong> alcanzaron a resolver y por qué — es insumo del Hito 7 y de la
    presentación final.</li>
 </ol>
-<p><strong>Formato y entrega:</strong> documento de cierre + evidencia del prototipo v2 (máx. 3 páginas), enviado a
-<strong>sebastian.azocarm@usm.cl</strong> con asunto <code>Hito 6C – Nombre del grupo</code>, <strong>entre las 17:30 y las 19:00
-del lunes 19 de octubre</strong>.</p>
-<p><strong>Criterios de evaluación:</strong> integración efectiva de al menos una mitigación · evidencia real de
-mejora respecto al Hito 4 · claridad de la documentación del cambio.</p>
+<p><strong>Formato y entrega:</strong> documento de cierre + evidencia del prototipo v2 (máx. 4 páginas, se aceptan
+capturas), subido en PDF al <a href="../entregas/">buzón del Hito 6C</a> <strong>entre las 17:30 y las 19:00 del lunes
+19 de octubre</strong>.</p>
+<p><strong>Criterios de evaluación:</strong> los casos son fijos y comparables entre versiones · integración
+efectiva y verificada de al menos una mitigación · honestidad al reportar regresiones · claridad de
+la documentación del cambio.</p>
 </div>
 <hr />
 <h2 id="hito-7-evaluacion-de-viabilidad">📍 Hito 7 — Evaluación de viabilidad</h2>
