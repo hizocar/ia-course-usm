@@ -1,0 +1,1432 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="ICS64225 - Inteligencia Artificial y Estrategia Empresarial (USM)">
+      
+      
+        <meta name="author" content="Sebastian Azocar">
+      
+      
+        <link rel="canonical" href="https://hizocar.github.io/ia-course-usm/clases/clase18/">
+      
+      <link rel="icon" href="../../images/usm_favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-8.5.10">
+    
+    
+      
+        <title>Clase 18 · Evaluación Social de Iniciativas con IA - Inteligencia Artificial y Estrategia Empresarial</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.975780f9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#clase-18-evaluacion-social-de-iniciativas-basadas-en-ia" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../.." title="Inteligencia Artificial y Estrategia Empresarial" class="md-header__button md-logo" aria-label="Inteligencia Artificial y Estrategia Empresarial" data-md-component="logo">
+      
+  <img src="../../images/usm_shield.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Inteligencia Artificial y Estrategia Empresarial
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Clase 18 · Evaluación Social de Iniciativas con IA
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 6H7c-3.31 0-6 2.69-6 6s2.69 6 6 6h10c3.31 0 6-2.69 6-6s-2.69-6-6-6zm0 10H7c-2.21 0-4-1.79-4-4s1.79-4 4-4h10c2.21 0 4 1.79 4 4s-1.79 4-4 4zM7 9c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z"/></svg>
+            </label>
+          
+        
+          
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="amber"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M17 7H7a5 5 0 0 0-5 5 5 5 0 0 0 5 5h10a5 5 0 0 0 5-5 5 5 0 0 0-5-5m0 8a3 3 0 0 1-3-3 3 3 0 0 1 3-3 3 3 0 0 1 3 3 3 3 0 0 1-3 3Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Pestañas" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../.." class="md-tabs__link">
+      Home
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../programa/" class="md-tabs__link">
+      Programa
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../proyecto/" class="md-tabs__link">
+      Proyecto
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../clases/" class="md-tabs__link md-tabs__link--active">
+        Clases
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../entregas/" class="md-tabs__link">
+      Entregas
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../calendario/" class="md-tabs__link">
+      Calendario
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../notas/" class="md-tabs__link">
+      Notas
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Inteligencia Artificial y Estrategia Empresarial" class="md-nav__button md-logo" aria-label="Inteligencia Artificial y Estrategia Empresarial" data-md-component="logo">
+      
+  <img src="../../images/usm_shield.png" alt="logo">
+
+    </a>
+    Inteligencia Artificial y Estrategia Empresarial
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../programa/" class="md-nav__link">
+        Programa
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../proyecto/" class="md-nav__link">
+        Proyecto
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Clases
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Clases" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Clases
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clases/" class="md-nav__link">
+        🏫 Clases
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase1/" class="md-nav__link">
+        Clase 1 · Presentación e Introducción a la IA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase2/" class="md-nav__link">
+        Clase 2 · Machine Learning para Negocios
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase3/" class="md-nav__link">
+        Clase 3 · IA Generativa a Fondo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase4/" class="md-nav__link">
+        Clase 4 · Business Model Canvas
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase5/" class="md-nav__link">
+        Clase 5 · Lean Canvas y Validación
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase6/" class="md-nav__link">
+        Clase 6 · Taller — Cierre del Modelo de Negocio
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase7/" class="md-nav__link">
+        Clase 7 · Analítica y Optimización de Procesos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase8/" class="md-nav__link">
+        Clase 8 · Diseñando la Solución con IA
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase9/" class="md-nav__link">
+        Clase 9 · Taller — Diseño de la Solución
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase10/" class="md-nav__link">
+        Clase 10 · Derriba la Idea
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase11/" class="md-nav__link">
+        Clase 11 · Chatbots y Prototipos sin Programar
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase12/" class="md-nav__link">
+        Clase 12 · Taller: Construimos el Prototipo (Hito 4)
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase13/" class="md-nav__link">
+        Clase 13 · Ética y Sesgos Algorítmicos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase14/" class="md-nav__link">
+        Clase 14 · Privacidad y Transparencia
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase15/" class="md-nav__link">
+        Clase 15 · Taller — De las Mitigaciones al Prototipo
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase16/" class="md-nav__link">
+        Clase 16 · Taller — Mejoras y Prueba de Regresión
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../clase17/" class="md-nav__link">
+        Clase 17 · Taller — Regresión y Cierre del Prototipo v2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Clase 18 · Evaluación Social de Iniciativas con IA
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Clase 18 · Evaluación Social de Iniciativas con IA
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-la-sesion" class="md-nav__link">
+    🎯 Objetivos de la sesión
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agenda-90-min" class="md-nav__link">
+    🗓️ Agenda (90 min)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contenidos" class="md-nav__link">
+    📖 Contenidos
+  </a>
+  
+    <nav class="md-nav" aria-label="📖 Contenidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-el-mismo-proyecto-dos-preguntas" class="md-nav__link">
+    1. El mismo proyecto, dos preguntas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-quienes-ganan-y-quienes-pierden" class="md-nav__link">
+    2. Quiénes ganan y quiénes pierden
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-medir-antes-de-monetizar" class="md-nav__link">
+    3. Medir antes de monetizar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-la-trampa-de-las-transferencias" class="md-nav__link">
+    4. La trampa de las transferencias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#taller-y-entrega-del-hito-7a" class="md-nav__link">
+    ✏️ Taller y entrega del Hito 7A
+  </a>
+  
+    <nav class="md-nav" aria-label="✏️ Taller y entrega del Hito 7A">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#como-entregar-el-hito-7a" class="md-nav__link">
+    📤 Cómo entregar el Hito 7A
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-la-proxima-clase" class="md-nav__link">
+    📚 Para la próxima clase
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#buzon-del-hito-7a" class="md-nav__link">
+    📬 Buzón del Hito 7A
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../entregas/" class="md-nav__link">
+        Entregas
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../calendario/" class="md-nav__link">
+        Calendario
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../notas/" class="md-nav__link">
+        Notas
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-la-sesion" class="md-nav__link">
+    🎯 Objetivos de la sesión
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#agenda-90-min" class="md-nav__link">
+    🗓️ Agenda (90 min)
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contenidos" class="md-nav__link">
+    📖 Contenidos
+  </a>
+  
+    <nav class="md-nav" aria-label="📖 Contenidos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#1-el-mismo-proyecto-dos-preguntas" class="md-nav__link">
+    1. El mismo proyecto, dos preguntas
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#2-quienes-ganan-y-quienes-pierden" class="md-nav__link">
+    2. Quiénes ganan y quiénes pierden
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#3-medir-antes-de-monetizar" class="md-nav__link">
+    3. Medir antes de monetizar
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#4-la-trampa-de-las-transferencias" class="md-nav__link">
+    4. La trampa de las transferencias
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#taller-y-entrega-del-hito-7a" class="md-nav__link">
+    ✏️ Taller y entrega del Hito 7A
+  </a>
+  
+    <nav class="md-nav" aria-label="✏️ Taller y entrega del Hito 7A">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#como-entregar-el-hito-7a" class="md-nav__link">
+    📤 Cómo entregar el Hito 7A
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#para-la-proxima-clase" class="md-nav__link">
+    📚 Para la próxima clase
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#buzon-del-hito-7a" class="md-nav__link">
+    📬 Buzón del Hito 7A
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<h1 id="clase-18-evaluacion-social-de-iniciativas-basadas-en-ia">Clase 18 · Evaluación Social de Iniciativas basadas en IA</h1>
+<div class="usm-session-meta">
+<span>📅 Miércoles 21 de octubre de 2026</span>
+<span>⏱️ 90 minutos</span>
+<span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
+<span class="usm-tag-red">🚀 Hito 7A · 2,5% · se entrega en clases</span>
+</div>
+
+<div class="admonition danger">
+<p class="admonition-title">Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00</p>
+<p>Hoy empieza el <a href="../../proyecto/#hito-7-evaluacion-de-viabilidad">Hito 7 — Evaluación de viabilidad</a>,
+que se construye en <strong>cuatro avances entregados en clases</strong> (2,5% cada uno): <strong>7A hoy</strong>, 7B el
+26 de octubre, 7C el 28 de octubre y 7D el 2 de noviembre.</p>
+<p>Hoy corresponde el <strong>Hito 7A — Impacto social</strong>. Se sube al buzón <strong>durante la sesión</strong>; lo
+recibido fuera del horario de clases no se evalúa y el avance queda con 0.</p>
+</div>
+<h2 id="objetivos-de-la-sesion">🎯 Objetivos de la sesión</h2>
+<ul>
+<li>Distinguir la <strong>evaluación privada</strong> (¿le conviene a la empresa?) de la <strong>evaluación social</strong>
+  (¿la sociedad queda mejor?) de una misma iniciativa con IA.</li>
+<li>Identificar a <strong>quiénes afecta</strong> la solución más allá de la empresa, para bien y para mal.</li>
+<li>Medir los efectos en <strong>unidades físicas</strong> antes de intentar ponerles precio.</li>
+<li>Reconocer las <strong>transferencias</strong>: lo que una parte gana porque otra lo pierde no es beneficio social.</li>
+<li>Producir el mapa de actores y la tabla de efectos del Hito 7A.</li>
+</ul>
+<p><em>Resultado de aprendizaje asociado: </em><em>CTS6 · RDA 3.2</em><em> — Implementa un dominio avanzado de
+plataformas y programas, evaluando procedimientos y técnicas innovadoras.</em></p>
+<hr />
+<h2 id="agenda-90-min">🗓️ Agenda (90 min)</h2>
+<table>
+<thead>
+<tr>
+<th>Tiempo</th>
+<th>Bloque</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0:00 – 0:10</td>
+<td>Cierre del Hito 6 y qué pide el Hito 7: cuatro avances, una conclusión</td>
+</tr>
+<tr>
+<td>0:10 – 0:25</td>
+<td>Privada vs. social: el mismo proyecto, dos preguntas distintas</td>
+</tr>
+<tr>
+<td>0:25 – 0:40</td>
+<td>Quiénes ganan y quiénes pierden: el mapa de actores de una solución con IA</td>
+</tr>
+<tr>
+<td>0:40 – 0:50</td>
+<td>Medir antes de monetizar · la trampa de las transferencias</td>
+</tr>
+<tr>
+<td>0:50 – 1:20</td>
+<td><strong>Taller: mapa de actores y tabla de efectos (Hito 7A)</strong></td>
+</tr>
+<tr>
+<td>1:20 – 1:28</td>
+<td><strong>Envío del Hito 7A</strong> (buzón, antes de las 19:00)</td>
+</tr>
+<tr>
+<td>1:28 – 1:30</td>
+<td>Cierre y vínculo con la Clase 19 (evaluación privada)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2 id="contenidos">📖 Contenidos</h2>
+<h3 id="1-el-mismo-proyecto-dos-preguntas">1. El mismo proyecto, dos preguntas</h3>
+<p>Ya conocen la evaluación de proyectos desde los cursos de la carrera. Lo que cambia aquí es el
+objeto: una solución con IA tiene efectos que <strong>no pasan por el flujo de caja de la empresa</strong>, y
+algunos de ellos son justamente los riesgos que analizaron en el Hito 5.</p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Evaluación privada</th>
+<th>Evaluación social</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Pregunta</strong></td>
+<td>¿Le conviene a la empresa?</td>
+<td>¿La sociedad queda mejor con el proyecto que sin él?</td>
+</tr>
+<tr>
+<td><strong>Punto de vista</strong></td>
+<td>El dueño o inversionista</td>
+<td>El conjunto de personas afectadas</td>
+</tr>
+<tr>
+<td><strong>Precios</strong></td>
+<td>De mercado</td>
+<td>Sociales (costo de oportunidad real de los recursos)</td>
+</tr>
+<tr>
+<td><strong>Impuestos y subsidios</strong></td>
+<td>Costo o ingreso</td>
+<td><strong>Transferencia</strong>: no cuentan</td>
+</tr>
+<tr>
+<td><strong>Externalidades</strong></td>
+<td>No aparecen</td>
+<td>Se incluyen, aunque nadie las pague</td>
+</tr>
+<tr>
+<td><strong>En el curso</strong></td>
+<td>Avances 7B, 7C y 7D</td>
+<td><strong>Avance 7A (hoy)</strong></td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>💡 Los dos resultados pueden apuntar en direcciones distintas, y esa diferencia es información de
+negocio. Un proyecto con buen resultado privado y costo social alto suele terminar enfrentando
+reclamos, regulación o daño reputacional: pierde su <strong>licencia social para operar</strong>.</p>
+</blockquote>
+<h3 id="2-quienes-ganan-y-quienes-pierden">2. Quiénes ganan y quiénes pierden</h3>
+<p>Sigamos con el ejemplo que venimos usando desde la Clase 13: un modelo que le dice a un equipo de
+cobranza <strong>a qué clientes en mora llamar primero</strong>.</p>
+<pre class="mermaid"><code>flowchart TD
+    S["Modelo de priorización&lt;br/&gt;de cobranza"] --&gt; E["Empresa&lt;br/&gt;recupera antes"]
+    S --&gt; C["Clientes en mora&lt;br/&gt;contactados a tiempo"]
+    S --&gt; T["Ejecutivos&lt;br/&gt;menos llamadas inútiles"]
+    S --&gt; X["Clientes de comunas&lt;br/&gt;menos priorizadas&lt;br/&gt;(prueba del par, Hito 5A)"]
+    S --&gt; P["Titulares de los datos&lt;br/&gt;(privacidad, Hito 5B)"]
+    S --&gt; Q["Comunidad / Estado&lt;br/&gt;menos casos judiciales"]</code></pre>
+<p>Cuatro preguntas para armar el mapa de su propio proyecto:</p>
+<ol>
+<li><strong>¿Quién usa la solución?</strong> (el usuario interno o el cliente final)</li>
+<li><strong>¿Sobre quién decide o recomienda?</strong> (a menudo, alguien que nunca ve el sistema)</li>
+<li><strong>¿Qué trabajo cambia?</strong> (tareas que se eliminan, se reasignan o aparecen)</li>
+<li><strong>¿Quién queda fuera o es tratado distinto?</strong> (aquí entra directo su auditoría de sesgo)</li>
+</ol>
+<p>Efectos sociales frecuentes en iniciativas con IA:</p>
+<table>
+<thead>
+<tr>
+<th>Efecto</th>
+<th>Signo habitual</th>
+<th>Ejemplo</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Tiempo ahorrado</td>
+<td>➕</td>
+<td>Menos horas de espera, de traslado o de trabajo repetitivo</td>
+</tr>
+<tr>
+<td>Riesgo evitado</td>
+<td>➕</td>
+<td>Fallas, accidentes o quiebres de stock que no ocurren</td>
+</tr>
+<tr>
+<td>Recursos no desperdiciados</td>
+<td>➕</td>
+<td>Menos merma, menos viajes, menos energía</td>
+</tr>
+<tr>
+<td>Acceso ampliado</td>
+<td>➕</td>
+<td>Un servicio que llega a quienes antes no atendía</td>
+</tr>
+<tr>
+<td>Exclusión o trato desigual</td>
+<td>➖</td>
+<td>El sesgo detectado en el Hito 5A</td>
+</tr>
+<tr>
+<td>Exposición de datos personales</td>
+<td>➖</td>
+<td>El riesgo de privacidad del Hito 5B</td>
+</tr>
+<tr>
+<td>Cambio en el empleo</td>
+<td>➕ / ➖</td>
+<td>Depende de si las horas liberadas se reasignan o se recortan</td>
+</tr>
+<tr>
+<td>Dependencia de un proveedor</td>
+<td>➖</td>
+<td>Si el proveedor cambia precio o condiciones, el servicio se cae</td>
+</tr>
+</tbody>
+</table>
+<h3 id="3-medir-antes-de-monetizar">3. Medir antes de monetizar</h3>
+<p>El error más común es saltar directo a los pesos y terminar con una cifra que nadie puede defender.
+El orden correcto:</p>
+<pre class="mermaid"><code>flowchart LR
+    A["Efecto&lt;br/&gt;(qué cambia)"] --&gt; B["Unidad física&lt;br/&gt;(horas, personas,&lt;br/&gt;viajes, kg)"]
+    B --&gt; C["Cantidad&lt;br/&gt;con supuesto explícito"]
+    C --&gt; D{"¿Hay un precio&lt;br/&gt;defendible?"}
+    D --&gt;|Sí| E["Monetizar&lt;br/&gt;citando la fuente"]
+    D --&gt;|No| F["Dejarlo en unidades físicas:&lt;br/&gt;igual cuenta"]</code></pre>
+<p>En el ejemplo: <em>"3 ejecutivos dejan de hacer unas 40 llamadas inútiles al día cada uno; a 3
+minutos por llamada son unas 6 horas diarias liberadas (supuesto ilustrativo)."</em> Eso ya es
+evidencia, aunque todavía no tenga precio.</p>
+<blockquote>
+<p>📌 Para valorar el tiempo en una evaluación social en Chile, la referencia son los <strong>precios
+sociales</strong> que publica el Ministerio de Desarrollo Social y Familia para el Sistema Nacional de
+Inversiones. Si los usan, citen la fuente y el año. Si un efecto no tiene un precio defendible,
+déjenlo en unidades físicas: es mejor que inventar una cifra.</p>
+</blockquote>
+<h3 id="4-la-trampa-de-las-transferencias">4. La trampa de las transferencias</h3>
+<p>Lo que una parte gana <strong>porque otra lo pierde</strong> no es beneficio social: es plata que cambia de
+bolsillo.</p>
+<table>
+<thead>
+<tr>
+<th>Efecto</th>
+<th>¿Beneficio social?</th>
+<th>Por qué</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>La empresa recupera más deuda</td>
+<td>❌ Transferencia</td>
+<td>Lo que la empresa gana, el cliente lo paga</td>
+</tr>
+<tr>
+<td>El cliente evita intereses y costos judiciales</td>
+<td>✅ En parte</td>
+<td>Los costos judiciales consumen recursos reales (tiempo de tribunales, abogados)</td>
+</tr>
+<tr>
+<td>La empresa paga menos impuesto por un crédito tributario</td>
+<td>❌ Transferencia</td>
+<td>Lo que la empresa ahorra, el Estado lo deja de recibir</td>
+</tr>
+<tr>
+<td>Las horas liberadas se usan en otra tarea productiva</td>
+<td>✅</td>
+<td>El recurso queda disponible para producir otra cosa</td>
+</tr>
+<tr>
+<td>Las horas liberadas se traducen en despidos</td>
+<td>⚠️ Depende</td>
+<td>Sin reubicación, hay un costo social de transición que no se puede omitir</td>
+</tr>
+</tbody>
+</table>
+<blockquote>
+<p>⚠️ <strong>Para el proyecto:</strong> si su mayor "beneficio social" es que la empresa gana más, revisen la
+tabla. Probablemente es un beneficio privado, y va en el 7B.</p>
+</blockquote>
+<hr />
+<h2 id="taller-y-entrega-del-hito-7a">✏️ Taller y entrega del Hito 7A</h2>
+<p><em>Esto </em><em>sí</em><em> se entrega hoy, antes de las 19:00. Vale el 2,5% de la nota final.</em></p>
+<p>En su grupo de proyecto:</p>
+<p><strong>A. Mapa de actores.</strong> Al menos <strong>cuatro actores</strong>, de los cuales tres están <strong>fuera de la
+empresa</strong>. Pueden dibujarlo a mano y sacarle una foto.</p>
+<p><strong>B. Tabla de efectos sociales</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: right;">#</th>
+<th>Efecto</th>
+<th>¿A quién afecta?</th>
+<th style="text-align: center;">Signo (➕/➖)</th>
+<th>Unidad física</th>
+<th>Cantidad aproximada y supuesto</th>
+<th>¿Se puede monetizar?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: right;">1</td>
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">2</td>
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">3</td>
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">4</td>
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: right;">5</td>
+<td></td>
+<td></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>C. Transferencias.</strong> Al menos <strong>una</strong> cosa que parece beneficio pero es transferencia, y por qué
+la dejan fuera.</p>
+<p><strong>D. Conclusión en tres líneas</strong></p>
+<blockquote>
+<p><em>"Con el proyecto, la sociedad queda <strong><em>_</em></strong><strong><em> porque </em></strong><strong><em>_</em></strong>. El costo lo pagan
+principalmente <strong><em>_</em></strong><strong><em>, y lo mitigamos con </em></strong><strong><em>_</em></strong>."</em></p>
+</blockquote>
+<h3 id="como-entregar-el-hito-7a">📤 Cómo entregar el Hito 7A</h3>
+<ul class="task-list">
+<li class="task-list-item"><input type="checkbox" disabled/> Mapa de actores con al menos tres actores fuera de la empresa.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Tabla de efectos con al menos <strong>tres beneficios</strong> y <strong>dos costos o perjudicados</strong>, cada uno en
+      su unidad física.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Al menos un efecto <strong>cuantificado</strong> con su supuesto explícito.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Al menos un efecto negativo conectado a un riesgo del <strong>Hito 5</strong>, con su mitigación.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Una transferencia identificada y excluida.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Conclusión de tres líneas.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Máximo dos páginas; se aceptan fotos del mapa.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> Subido al <strong>buzón del Hito 7A</strong> (abajo), con el <strong>nombre del grupo</strong> escrito igual que en la
+      planilla del curso.</li>
+<li class="task-list-item"><input type="checkbox" disabled/> <strong>Enviado entre las 17:30 y las 19:00 de hoy.</strong> Fuera de ese horario no se evalúa.</li>
+</ul>
+<blockquote>
+<p>⚠️ Las cantidades de hoy (usuarios, horas, transacciones) son la base de los avances 7B, 7C y 7D:
+el criterio de evaluación del Hito 7 incluye la <strong>trazabilidad</strong> entre avances. Escriban los
+supuestos de forma que puedan reutilizarlos el lunes.</p>
+</blockquote>
+<div class="admonition tip">
+<p class="admonition-title">Usen el asistente para ampliar el mapa, no para cerrarlo</p>
+<p><div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>Mi proyecto es [descripción en dos líneas]. La solución con IA hace [qué hace] y la usa [quién].
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a>1. Lista los actores fuera de la empresa que se ven afectados, positiva o negativamente.
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a>2. Para cada uno, propone un efecto y una unidad física para medirlo.
+<a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a>3. Señala cuáles de esos efectos son en realidad transferencias.
+</code></pre></div>
+Después descarten lo genérico y quédense con lo que pueden sostener con un supuesto. Un mapa
+con cuatro actores bien justificados vale más que uno con doce de relleno.</p>
+</div>
+<hr />
+<h2 id="para-la-proxima-clase">📚 Para la próxima clase</h2>
+<ul>
+<li>La Clase 19 (lunes 26 de octubre) toma el mismo proyecto desde la empresa: <strong>Evaluación Privada</strong>.
+  Ahí se entrega el <strong>Hito 7B</strong>: cuántos usuarios o transacciones alcanza la solución, quién captura
+  el valor y a través de qué mecanismo.</li>
+<li>Traigan la tabla de hoy: los beneficios que descartaron como transferencias suelen ser exactamente
+  los que aparecen en la evaluación privada.</li>
+</ul>
+<hr />
+<h2 id="buzon-del-hito-7a">📬 Buzón del Hito 7A</h2>
+<div class="usm-cta">
+<div class="usm-cta-text">
+<strong>📤 Entrega aquí el Hito 7A — Impacto social</strong>
+<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+</div>
+<p><a class="usm-btn" href="https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7a" rel="noopener" target="_blank">📬 Abrir buzón</a></p>
+</div>
+<p>Ver todos los buzones y las reglas de entrega en <a href="../../entregas/">Entregas</a>.</p>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <a href="#" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Volver al principio
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Pie" >
+      
+        
+        <a href="../clase17/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: Clase 17 · Taller — Regresión y Cierre del Prototipo v2" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              Clase 17 · Taller — Regresión y Cierre del Prototipo v2
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../entregas/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: Entregas" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Siguiente
+              </span>
+              Entregas
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+      
+      
+    
+    <a href="https://github.com/hizocar" target="_blank" rel="noopener" title="github.com" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": ["navigation.instant", "navigation.top", "navigation.tabs", "content.code.annotate", "search.suggest", "search.highlight"], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.config.lang": "es", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "B\u00fasqueda", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version.title": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/chart.js@4/dist/chart.umd.min.js"></script>
+      
+        <script src="../../javascripts/charts.js"></script>
+      
+    
+    
+  </body>
+</html>
