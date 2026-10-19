@@ -3,16 +3,16 @@
 <span class="usm-hero-tag">Entregas en clases</span>
 <h1>📬 Buzones de entrega</h1>
 <p>Cada avance del proyecto tiene su propio buzón. Se abre durante la clase, se cierra
-automáticamente a las <strong>19:20</strong> del mismo día, y lo recibido queda archivado en el
+automáticamente a las <strong>19:30</strong> del mismo día, y lo recibido queda archivado en el
 repositorio del curso.</p>
 </div>
 </div>
 
 !!! danger "Las tres reglas del buzón"
     1. **Un PDF por grupo**, con el **nombre del grupo** escrito igual que en la planilla del curso.
-    2. **Solo se evalúa lo enviado hasta las 19:00.** El buzón acepta hasta las 19:20 como margen de
+    2. **Solo se evalúa lo enviado hasta las 19:00.** El buzón acepta hasta las 19:30 como margen de
        cierre, pero lo que llegue después de las 19:00 queda registrado como fuera de plazo.
-    3. **A las 19:20 el buzón se cierra solo.** No hay forma de entregar después, salvo
+    3. **A las 19:30 el buzón se cierra solo.** No hay forma de entregar después, salvo
        justificación presentada por los canales formales de la Universidad.
 
 ## Cómo funciona
@@ -21,7 +21,7 @@ repositorio del curso.</p>
 flowchart LR
     A["El grupo sube<br/>su PDF al buzón"] --> B["Queda registrada<br/>la hora exacta"]
     B --> C["El archivo se guarda en<br/>el repositorio de entregas"]
-    C --> D["19:20: el buzón<br/>se cierra solo"]
+    C --> D["19:30: el buzón<br/>se cierra solo"]
 ```
 
 Cada envío queda en el repositorio [ia-course-entregas](https://github.com/hizocar/ia-course-entregas)

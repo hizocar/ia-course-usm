@@ -82,12 +82,12 @@ trabajo del hito anterior.
 >
 > 📬 **Desde el Hito 6 el canal es el buzón.** Cada clase tiene su propio
 > [buzón de entrega](entregas.md): se sube **un PDF por grupo** con el nombre del grupo. El buzón
-> **se cierra solo a las 19:20** y lo recibido queda archivado en el repositorio del curso.
+> **se cierra solo a las 19:30** y lo recibido queda archivado en el repositorio del curso.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>📬 Buzones de entrega (Hito 6 en adelante)</strong>
-<span>Un buzón por avance, al final de cada clase. Cierra a las <strong>19:20</strong>; solo se evalúa lo recibido <strong>hasta las 19:00</strong>.</span>
+<span>Un buzón por avance, al final de cada clase. Cierra a las <strong>19:30</strong>; solo se evalúa lo recibido <strong>hasta las 19:00</strong>.</span>
 </div>
 [📬 Ver buzones](entregas.md){.usm-btn}
 </div>
@@ -403,7 +403,7 @@ la pena implementarlo.
 
 **Formato de cada avance:** máximo 2 páginas, un PDF por grupo subido al
 [buzón del avance](entregas.md) (7A, 7B, 7C o 7D), **entre las 17:30 y las 19:00** del día de la
-clase correspondiente. El buzón se cierra a las 19:20; lo recibido después de las 19:00 no se evalúa.
+clase correspondiente. El buzón se cierra a las 19:30; lo recibido después de las 19:00 no se evalúa.
 
 **Criterios de evaluación:** razonabilidad y explicitud de los supuestos · trazabilidad entre
 avances (las cifras del 7D deben ser coherentes con las del 7B y 7C) · coherencia de la conclusión

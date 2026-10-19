@@ -16,7 +16,7 @@
 > enviados fuera del horario de clases no se evalúan.**
 >
 > 📬 **Buzones:** desde el Hito 6, cada avance se entrega en el [buzón de su clase](entregas.md)
-> (un PDF por grupo). El buzón **cierra a las 19:20**; solo se evalúa lo recibido hasta las 19:00.
+> (un PDF por grupo). El buzón **cierra a las 19:30**; solo se evalúa lo recibido hasta las 19:00.
 
 ---
 

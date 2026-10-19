@@ -7,7 +7,7 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
     Cada clase deja un **avance** que se trabaja y se envía **durante la sesión**, entre las 17:30 y
     las 19:00; la suma de los avances es el hito. El **Hito 5** (28 y 30 de septiembre) se recibió
     por correo; desde el **Hito 6** la entrega es por el [buzón de cada clase](../entregas.md), que
-    **se cierra a las 19:20**. **Lo enviado fuera del horario no se evalúa.**
+    **se cierra a las 19:30**. **Lo enviado fuera del horario no se evalúa.**
 
 !!! warning "Evaluación 100% por proyecto"
     El curso no tiene certámenes ni controles: se evalúa íntegramente con los **7 hitos** del

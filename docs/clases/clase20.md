@@ -171,7 +171,7 @@ En su grupo de proyecto:
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>📤 Entrega aquí el Hito 7C — Costos de operar</strong>
-<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:20</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:30</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
 </div>
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7c){.usm-btn target="_blank" rel="noopener"}
 </div>
