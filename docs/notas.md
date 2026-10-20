@@ -23,7 +23,7 @@ hito, 30% la presentación final).</p>
 |---|---:|---:|---:|---:|---:|---:|---:|---:|
 | energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 |
 | IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 |
-| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 0 | 90 | 89 |
+| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 |
 | Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 |
 | los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 |
 | Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 |
@@ -31,7 +31,7 @@ hito, 30% la presentación final).</p>
 | mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 |
 | six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 |
 | Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 |
-| Torque AI | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 41 |
+| Torque AI | 100 | 73 | 85 | 69 | 0 | 66 | 0 | 41 |
 
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
 (6%). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
@@ -46,7 +46,7 @@ cada uno · 6A: 4% · 6C: 6%). Los **puntos acumulados** son la suma de cada not
 |---|---:|---:|---:|
 | energIA | 49,45 | 60 | **82,4** |
 | IA Solution | 49,33 | 60 | **82,2** |
-| Inteligencia Sansana | 48,94 | 60 | **81,6** |
+| Inteligencia Sansana | 53,44 | 60 | **89,1** |
 | Lanyardigans | 40,39 | 60 | **67,3** |
 | los3x2 | 48,99 | 60 | **81,7** |
 | Los Republicanos | 52,48 | 60 | **87,5** |
@@ -54,7 +54,7 @@ cada uno · 6A: 4% · 6C: 6%). Los **puntos acumulados** son la suma de cada not
 | mafilia | 45,89 | 60 | **76,5** |
 | six_pack | 48,99 | 60 | **81,7** |
 | Starcompany | 49,65 | 60 | **82,8** |
-| Torque AI | 2,46 | 60 | **4,1** |
+| Torque AI | 38,46 | 60 | **64,1** |
 
 *Faltan por evaluar el Hito 7 y la presentación final (40% de la nota final).*
 
@@ -105,13 +105,16 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | Análisis táctico predictivo de rivales (Universidad Católica) | 100 | **84** |
 | six_pack | Predicción de quiebres de stock (CCU) | 100 | **86** |
 | Starcompany | Carro de compra inteligente con IA (Walmart) | 100 | **82** |
-| Torque AI | — | 0 | **0** |
+| Torque AI | Asesor de compra y financiamiento automotriz con IA (Automotora Guillermo Morales) | 100 | **73** |
 
 > ✅ **Lanyardigans:** su Hito 2 se encontró en una revisión posterior del correo (enviado el 24 de
 > agosto a las 23:49, dentro del plazo), así que también recibe el 100 del Hito 1.
 >
 > 📌 **mafilia:** desde el Hito 3 el grupo cambió de proyecto (dimensionamiento de módulos de
 > atención en el Registro Civil). La nota del Hito 2 se mantiene con el proyecto original.
+>
+> ✅ **Torque AI:** su Hito 2 se encontró en una revisión posterior del correo (enviado el 24 de
+> agosto a las 23:59, dentro del plazo), así que también recibe el 100 del Hito 1.
 
 ### Detalle de la evaluación por grupo
 
@@ -238,6 +241,13 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     habilitador central; el punto más débil —coincidente con la retroalimentación de pares que el
     propio grupo recibió— es no identificar un competidor o alternativa externa concreta.
 
+??? note "Torque AI — 73/100"
+    **Completitud (30):** 25/30 — Lean Canvas completo en grilla, con los 9 bloques más el concepto de alto nivel y los adoptadores tempranos. Las métricas están bien definidas (recomendación → cotización → venta, tasa de aprobación). No hay ninguna cifra, y los costos ("cómputo/hosting del modelo, mantención de datos…") y el segmento quedan genéricos.
+    **Coherencia (25):** 21/25 — El segmento de primer crédito calza con la propuesta (un plan que el cliente realmente puede pagar) y con los ingresos (margen más comisión por crédito colocado). Pero cobrar comisión por cada crédito colocado tensiona la promesa de reducir la "venta a presión", y la ventaja injusta se basa en el historial de aprobaciones de una automotora cuyos early adopters no tienen historial crediticio.
+    **Claridad IA (30):** 17/30 — La IA aparece en Solución ("asistente basado en IA que cruza presupuesto, pie, cuota y stock"), en Ventaja injusta y en Costos. Pero no hay justificación de por qué es central y no accesoria (falta la media página pedida), ni se dice qué haría la IA que no haga un simulador con filtros.
+    **Competidor (15):** 10/15 — El bloque "Alternativas existentes" nombra vendedores, portales con filtros, simuladores de crédito y la comparación manual, pero no nombra a ningún competidor concreto. La diferenciación se reduce al "todo en una herramienta" y al historial propio frente a los "portales genéricos". El anexo es retroalimentación a otro grupo (Walmart), no análisis propio.
+    **Comentario:** el canvas está completo y bien ordenado, y las métricas del embudo están bien elegidas. Lo más importante es justificar por qué la IA es central (qué recomienda que un simulador no puede) y contrastarse con un competidor con nombre.
+
 ## 📍 Hito 3 — Diseño de la solución con IA
 
 ### Pauta de evaluación (100 puntos)
@@ -277,7 +287,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | **87** |
 | six_pack | **90** |
 | Starcompany | **81** |
-| Torque AI | **0** |
+| Torque AI | **85** |
 
 > ⚠️ **Sin entrega:** no se encontró entrega de **los_capi**, que queda con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
@@ -351,6 +361,14 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Comentario:** especificación ordenada, con buen cuidado sobre el uso autorizado del historial; la mejora clave es responder por qué IA Generativa y no plantillas, la objeción que ya les hicieron sus pares.
     **Nota:** Se recibieron tres archivos: el diseño (.docx), la retroalimentación que recibieron (PDF) y la que el grupo dio a otro equipo (PDF); solo el primero se evaluó como entrega propia.
 
+??? note "Torque AI — 85/100"
+    **Entrada y salida (25):** 22/25 — Entradas con origen (presupuesto, pie, cuota máxima y uso en web/WhatsApp; stock e historial de ventas y aprobaciones; tasas y políticas de las financieras) y salida concreta: Top 3 de "Paquetes de Movilidad" con el ejemplo del Kia Rio 2023. La salida promete una probabilidad de aprobación "según tu perfil", pero entre las entradas no hay ningún dato del perfil crediticio del cliente (renta, historial de crédito).
+    **Tecnología (30):** 23/30 — Explican qué aporta cada tecnología (probabilidad de aprobación y score de compatibilidad con ML; explicación conversacional con IA Generativa) y contrastan con el proceso sin IA (filtro de catálogo y simulador separados). No responden la objeción de sus pares: por qué la explicación tiene que ser generada y no una plantilla.
+    **Flujo (25):** 21/25 — Diagrama de 4 cajas que termina con el cliente agendando un test drive o pidiendo el crédito con el vendedor; el vendedor solo aparece al final, y queda fuera el uso en el piso de ventas que el Lean Canvas declaraba como canal.
+    **Coherencia (20):** 19/20 — Calza con el Lean Canvas del Hito 2 (mismas entradas, propuesta vehículo + crédito, canales web/WhatsApp, ventaja injusta basada en el historial de aprobaciones y métrica de tasa de aprobación).
+    **Comentario:** diseño claro y bien aterrizado en la automotora, con un ejemplo de salida que se entiende de inmediato; la mejora clave es agregar los datos del perfil del cliente que necesita la predicción de aprobación y justificar la IA Generativa frente a una plantilla.
+    **Nota:** Se corrigió el envío de las 22:27 (por enlace a OneDrive); el envío anterior de las 18:29 no se corrigió. El documento incluye la retroalimentación recibida, pero el diseño no se modificó a partir de ella.
+
 ## 📍 Hito 4 — Prototipo funcional v1
 
 ### Pauta de evaluación (100 puntos)
@@ -393,7 +411,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | **69** |
 | six_pack | **86** |
 | Starcompany | **91** |
-| Torque AI | **0** |
+| Torque AI | **69** |
 
 > ⚠️ **Sin entrega:** no se encontró entrega de **Lanyardigans**, que queda con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
@@ -467,6 +485,13 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Comentario:** buena bitácora y objeciones trabajadas con evidencia. Para la v2: capturas legibles con la entrada visible y activar la IA generativa real que hoy está simulada.
     **Nota:** El enlace al prototipo (claude.ai/artifact) no se pudo abrir desde la cuenta del corrector; se corrigió con las capturas del PDF.
 
+??? note "Torque AI — 69/100"
+    **Funciona y evidencia (35):** 23/35 — Las instrucciones son completas y precisas (filtros, factor de cuota 0,029375, orden por preferencia y formato). Pero el documento no trae ninguna captura: las 3 interacciones son transcripciones en texto, sin nombrar la herramienta ni dar enlace, y del catálogo solo hay un extracto de 4 autos, sin el archivo completo.
+    **Coherencia con H3 (20):** 15/20 — Entrega el Top 3 de vehículo con pie, cuota, holgura y justificación que prometía el Hito 3. Pero elimina la probabilidad de aprobación del modelo predictivo, que era central en el diseño ("92% de probabilidad de aprobarlo"); la omisión se explica, aunque ni siquiera se simula.
+    **Bitácora (25):** 16/25 — 5 pruebas con casos numéricos concretos y límites reales (sin scoring, sin CAE ni seguros). Pero la falla de la prueba 2 está mal descrita: la cuota del MG ZS anotada ($258.510) difiere en unos $8.800 de la que da su propia fórmula ($249.688), y se registra como un "leve desfase en céntimos".
+    **Objeciones (20):** 15/20 — Tres objeciones con respuesta y acción (alcance reducido, etiqueta de simulación, A/B frente a una plantilla), pero sin la clasificación pedida. Las tres coinciden con la retroalimentación escrita que recibieron en el Hito 3, más que con la sesión de la Clase 10.
+    **Comentario:** el diseño del asistente es de los más rigurosos del curso (fórmula explícita, holgura y aviso cerca del límite). Lo que más falta son capturas reales de la herramienta, el catálogo completo y una bitácora que describa las fallas tal como ocurrieron.
+
 ## 📍 Hito 5A — Auditoría de sesgo
 
 ### Pauta de evaluación (100 puntos)
@@ -508,7 +533,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | Starcompany | **98** |
 | Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution** y **los3x2**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution**, **los3x2** y **Torque AI**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
@@ -607,7 +632,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 |---|---:|
 | energIA | **97** |
 | IA Solution | **99** |
-| Inteligencia Sansana | **0** |
+| Inteligencia Sansana | **90** |
 | Lanyardigans | **87** |
 | los3x2 | **99** |
 | Los Republicanos | **97** |
@@ -615,9 +640,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | mafilia | **76** |
 | six_pack | **84** |
 | Starcompany | **97** |
-| Torque AI | **0** |
-
-> ⚠️ **Inteligencia Sansana:** entregó un enlace a Google Docs que pide permiso de acceso, así que no se pudo revisar y queda con 0.
+| Torque AI | **66** |
 
 ### Detalle de la evaluación por grupo
 
@@ -636,6 +659,15 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Gobernanza (25):** 25/25 — Decide el supervisor de despacho. El destinatario puede pedir revisión y mantener la entrega a domicilio, porque ningún envío queda retenido por su score.
     **Nota final:** 89/90 en Clasificación + Mitigaciones + Gobernanza, reescalado a 99/100.
     **Comentario:** entrega sobresaliente, con la cadena 5A → riesgo → mitigación bien hilada. Le falta explicitar por qué cada dato no debe ir a una IA pública.
+
+??? note "Inteligencia Sansana — 90/100"
+    **Clasificación (25):** 24/25 — Siete datos bien clasificados, con un dato sensible identificado (las alergias pueden revelar salud) y proxies (ubicación y presupuesto como indicadores socioeconómicos). La minimización es concreta: solo el ingrediente a evitar, comuna o tienda en vez de dirección o GPS, y no guardar nada después de la sesión.
+    **Mitigaciones (40):** 34/40 — Dos mitigaciones verificables. Para el sesgo por comuna, al menos 10 pruebas del par: falla si cambia la receta sin una diferencia logística. Para la alucinación, tres casos de prueba (producto inexistente, stock "No", sin dato nutricional). La de privacidad es una lista de reglas sin prueba ni responsable, y en ninguna se dice qué pasa si la prueba falla.
+    **IA pública (no se considera en la nota):** 7/10 — Indican que no se deben exponer combinaciones de identidad con alergias, ubicación exacta, presupuesto o historial real de compras, porque juntas permiten perfilar o identificar al usuario. Va como una nota breve, no como una sección propia.
+    **Gobernanza (25):** 23/25 — Decide el usuario, con apoyo del sistema. Puede rechazar la recomendación, corregir datos, pedir otra alternativa y reportar el error, aunque no se dice a quién ni qué se hace con el reporte.
+    **Nota final:** 81/90 en Clasificación + Mitigaciones + Gobernanza, reescalado a 90/100.
+    **Comentario:** clasificación muy completa y pruebas bien definidas para el sesgo y la alucinación. Como mejora, decir quién ejecuta las pruebas y qué pasa si fallan, por ejemplo que la versión no se publique.
+    **Nota:** El 01-10 se envió un enlace sin acceso; el PDF llegó el 19-10. Se corrigió el PDF.
 
 ??? note "Lanyardigans — 87/100"
     **Clasificación (25):** 22/25 — Los cinco datos de AgendaMont están bien clasificados como personales no sensibles, con decisiones de minimización: ID interno, solo la existencia del conflicto de horario y criterios estandarizados en vez de comentarios libres. No se retoma el proxy de edad o antigüedad detectado en el 5A.
@@ -693,6 +725,14 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Nota final:** 87/90 en Clasificación + Mitigaciones + Gobernanza, reescalado a 97/100.
     **Comentario:** entrega sobresaliente, con riesgos medidos en el propio prototipo y transparencia y explicabilidad bien distinguidas. Como mejora, agregar una vía de reclamo hacia la empresa.
 
+??? note "Torque AI — 66/100"
+    **Clasificación (25):** 16/25 — Clasifican solo dos grupos de datos y no hay columna de decisión. La minimización existe: el prompt prohíbe pedir RUT, sueldo, salud o antecedentes de crédito, y el catálogo es ficticio. Pero afirman que presupuesto, pie y cuota máxima "no revelan situación socioeconómica", cuando la capacidad de pago es justamente un indicador socioeconómico.
+    **Mitigaciones (40):** 21/40 — Tres riesgos con tipo y afectado, pero las mitigaciones no son verificables: no dicen quién, cuándo, con qué umbral ni qué pasa si fallan. Redondear al millar y no estimar porcentajes de aprobación es un cambio concreto. La del riesgo 2 ("no pidas RUT…") no resuelve el caso del dato entregado voluntariamente, y la del riesgo 3 queda en "a futuro".
+    **IA pública (no se considera en la nota):** 3/10 — Solo se indica que en la herramienta pública se usan datos sintéticos. No dicen qué información no debería ir ni por qué.
+    **Gobernanza (25):** 22/25 — La decisión se reparte entre el cliente (qué cotizar) y la entidad financiera (el crédito). El recurso es claro: acudir a un vendedor humano para revisar el stock oficial y hacer una simulación manual. Falta el recurso frente a un rechazo del crédito, que es el riesgo 3.
+    **Nota final:** 59/90 en Clasificación + Mitigaciones + Gobernanza, reescalado a 66/100.
+    **Comentario:** los riesgos están bien elegidos para un simulador de crédito (la cuota y la aprobación inventadas). Lo más importante es convertir cada mitigación en una regla verificable, por ejemplo: "si la cuota difiere más de X del cálculo con el factor, no se muestra", con un responsable y una consecuencia.
+
 ## 📍 Hito 6A — Primera mitigación implementada
 
 ### Pauta de evaluación (100 puntos)
@@ -730,7 +770,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 | Starcompany | **0** |
 | Torque AI | **0** |
 
-> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution**, **Lanyardigans**, **los3x2**, **Los Republicanos**, **los_capi**, **mafilia**, **six_pack** y **Starcompany**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
+> ⚠️ **Sin entrega:** no se encontró entrega de **IA Solution**, **Lanyardigans**, **los3x2**, **Los Republicanos**, **los_capi**, **mafilia**, **six_pack**, **Starcompany** y **Torque AI**, que quedan con 0. Si tu grupo la envió, reenvía el correo original a **sebastian.azocarm@usm.cl**.
 
 ### Detalle de la evaluación por grupo
 
@@ -874,7 +914,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Mitigación verificada (30):** 20/30 — La mitigación de alucinación está escrita (el texto exacto agregado al prompt) y se ve el mismo caso antes y después: la cuota de $198.452 con un 94 % de aprobación inventado pasa a $198.000 referenciales, sin porcentaje. Pero son transcripciones sin captura, la mitigación de privacidad no se prueba con ningún caso y no se dice cuándo no funciona.
     **Documentación y cierre (20):** 8/20 — El backlog indica el cambio concreto de cada ítem, pero no hay una tabla con "qué lo demuestra". La configuración final es un resumen de cinco líneas, no las instrucciones completas, y no hay párrafo de pendientes.
     **Comentario:** el antes y el después de la cuota inventada está bien elegido y muestra una mejora real. Pero faltó lo central del avance: un banco fijo de 6 a 8 casos corrido en ambas versiones y la tabla de comparación.
-    **Nota:** No hay entregas anteriores del grupo; se corrigió solo con este PDF, que reúne contenido de los avances 6A, 6B y 6C.
+    **Nota:** Se corrigió con este PDF, que reúne contenido de los avances 6A, 6B y 6C.
 
 ---
 
