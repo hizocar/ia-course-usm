@@ -19,44 +19,44 @@ hito, 30% la presentación final).</p>
 
 ## 📋 Resumen por grupo
 
-| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A |
-|---|---:|---:|---:|---:|---:|---:|---:|
-| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 |
-| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 |
-| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 0 | 90 |
-| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 |
-| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 |
-| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 |
-| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 |
-| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 |
-| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 |
-| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 |
-| Torque AI | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 |
+| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 |
+| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 0 | 90 | 89 |
+| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 |
+| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 |
+| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 |
+| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 | 81 |
+| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 |
+| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 |
+| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 |
+| Torque AI | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 41 |
 
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
 (6%). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
 
 ### Puntaje acumulado a la fecha
 
-Hasta el Hito 6A se ha evaluado el **54% de la nota final** (Hitos 1 a 4: 10% cada uno · 5A y 5B: 5%
-cada uno · 6A: 4%). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
+Hasta el Hito 6C se ha evaluado el **60% de la nota final** (Hitos 1 a 4: 10% cada uno · 5A y 5B: 5%
+cada uno · 6A: 4% · 6C: 6%). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
 **promedio a la fecha** es ese mismo puntaje expresado sobre 100.
 
 | Grupo | Puntos acumulados | De un máximo de | Promedio a la fecha |
 |---|---:|---:|---:|
-| energIA | 45,13 | 54 | **83,6** |
-| IA Solution | 44,05 | 54 | **81,6** |
-| Inteligencia Sansana | 43,60 | 54 | **80,7** |
-| Lanyardigans | 35,05 | 54 | **64,9** |
-| los3x2 | 43,05 | 54 | **79,7** |
-| Los Republicanos | 46,60 | 54 | **86,3** |
-| los_capi | 35,55 | 54 | **65,8** |
-| mafilia | 41,75 | 54 | **77,3** |
-| six_pack | 44,25 | 54 | **81,9** |
-| Starcompany | 45,15 | 54 | **83,6** |
-| Torque AI | 0,00 | 54 | **0,0** |
+| energIA | 49,45 | 60 | **82,4** |
+| IA Solution | 49,33 | 60 | **82,2** |
+| Inteligencia Sansana | 48,94 | 60 | **81,6** |
+| Lanyardigans | 40,39 | 60 | **67,3** |
+| los3x2 | 48,99 | 60 | **81,7** |
+| Los Republicanos | 52,48 | 60 | **87,5** |
+| los_capi | 40,41 | 60 | **67,3** |
+| mafilia | 45,89 | 60 | **76,5** |
+| six_pack | 48,99 | 60 | **81,7** |
+| Starcompany | 49,65 | 60 | **82,8** |
+| Torque AI | 2,46 | 60 | **4,1** |
 
-*Faltan por evaluar el Hito 6C, el Hito 7 y la presentación final (46% de la nota final).*
+*Faltan por evaluar el Hito 7 y la presentación final (40% de la nota final).*
 
 ## 📍 Hito 1 — Idea y problema de IA
 
@@ -746,6 +746,135 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Antes y después (40):** 37/40 — Capturas del mismo caso antes y después: a "¿Cuánto me demoro exactamente desde mi casa hasta Jumbo?" antes pedía "ubicación o dirección de salida", y ahora pide solo la comuna y advierte que no se necesita GPS. Repiten además "Quiero algo saludable", la prueba de inyección y el par Las Condes/La Pintana. No señalan qué captura del antes es la falla que se corrige.
     **Comentario:** buen uso de capturas comparables y un cambio realmente implementado. Como mejora, marcar explícitamente qué caso fallaba y unirlo a la fila del riesgo en el 5B.
     **Nota:** Entregado el 07-10 a las 19:10; corregido según decisión del profesor.
+
+## 📍 Hito 6C — Comparación v1 vs. v2 y prototipo v2 cerrado
+
+### Pauta de evaluación (100 puntos)
+
+| Dimensión | Puntos | Qué evalúa |
+|---|---:|---|
+| **1. Banco de casos** | 20 | 6 a 8 casos **fijos y escritos textualmente**, con casos normales, de borde, adversarios y al menos uno de riesgo del Hito 5. |
+| **2. Comparación v1 vs. v2 y regresiones** | 30 | Tabla caso a caso con el resultado de cada versión y un veredicto por fila; al menos una **regresión o compensación** señalada, o cómo verificaron que no hay. |
+| **3. Mitigación verificada** | 30 | Al menos una mitigación del Hito 5B **implementada y verificada** con el caso de riesgo: salida antes y después, y en qué situaciones no funciona. |
+| **4. Documentación del cambio y cierre** | 20 | Tabla qué cambió / por qué / qué lo demuestra, configuración final del prototipo y párrafo de lo pendiente. |
+| **Total** | **100** | |
+
+??? info "Escalas de cada dimensión"
+    **Banco de casos (20):** 18-20 6-8 casos textuales con la mezcla completa · 13-17 casos fijos
+    con mezcla incompleta o menos de 6 · 7-12 casos vagos o no reproducibles · 0-6 ausente.
+
+    **Comparación y regresiones (30):** 27-30 tabla completa con veredicto y regresión o
+    compensación señalada · 20-26 tabla completa sin señalar regresiones ni explicar su ausencia ·
+    10-19 comparación parcial o sin v1 real · 0-9 ausente.
+
+    **Mitigación verificada (30):** 27-30 implementada, verificada con antes y después y con su
+    límite · 20-26 verificada sin acotar el límite · 10-19 declarada sin verificación · 0-9 ausente.
+
+    **Documentación y cierre (20):** 18-20 las tres piezas claras · 12-17 falta una pieza · 6-11
+    faltan dos · 0-5 ausente.
+
+> 📌 El 14 de octubre no hubo clases: el antiguo avance 6B (banco de casos y comparación) se
+> integró a este avance, que vale **6%** de la nota final. Se entregó por el
+> [buzón](entregas.md) durante la [Clase 17](clases/clase17.md).
+
+### Notas por grupo
+
+| Grupo | Hito 6C |
+|---|---:|
+| energIA | **72** |
+| IA Solution | **88** |
+| Inteligencia Sansana | **89** |
+| Lanyardigans | **89** |
+| los3x2 | **99** |
+| Los Republicanos | **98** |
+| los_capi | **81** |
+| mafilia | **69** |
+| six_pack | **79** |
+| Starcompany | **75** |
+| Torque AI | **41** |
+
+### Detalle de la evaluación por grupo
+
+??? note "energIA — 72/100"
+    **Banco de casos (20):** 17/20 — Ocho entradas fijas y escritas textualmente (3 normales, 2 borde, 2 adversarias, 1 de riesgo), con un protocolo explícito: mismo CSV, mismos pesos y mismos umbrales. El caso de riesgo es el seguimiento de activos incompletos del 5B. Falta la prueba del par del 5A: dos activos iguales salvo la zona u otro proxy.
+    **Comparación y regresiones (30):** 18/30 — Tabla de 8 filas con veredicto y una compensación bien razonada (más detalle por activo). Además verifican que los 57 puntajes no cambian. Pero v1 y v2 son reproducciones locales de la fórmula, no ejecuciones del asistente, y los casos 6 y 7 quedaron sin correr.
+    **Mitigación verificada (30):** 18/30 — La cadena está clara (riesgo del 5B → tabla "Activos pendientes por datos incompletos") y el límite está bien acotado: la tabla no crea órdenes de trabajo ni garantiza inspecciones. El antes y el después de 009, 030 y 048 salen del cálculo local, no de una salida del prototipo, así que la mitigación sigue sin verificarse en la herramienta.
+    **Documentación y cierre (20):** 19/20 — Tabla qué cambió / por qué / qué lo demuestra con tres filas, configuración final completa y pendientes honestos. La columna "qué lo demuestra" vuelve a apoyarse en la reproducción local.
+    **Comentario:** documento riguroso y muy honesto sobre el alcance de su evidencia. Pero por segundo avance seguido el prototipo no se ejecuta: falta correr el banco en el asistente configurado y capturar las salidas, que es justo lo que este hito pedía demostrar.
+
+??? note "IA Solution — 88/100"
+    **Banco de casos (20):** 18/20 — Siete casos fijos con la mezcla completa: 3 normales, 2 borde, 1 adversario y la prueba del par Las Condes / La Pintana del 5A. Los casos 2 a 4 son fichas de datos sin la pregunta textual, y el 4 ("sin dirección completa, sin historial") no se puede reproducir tal cual.
+    **Comparación y regresiones (30):** 27/30 — Tabla completa, con veredicto y explicación por fila. Detectan y corrigen una regresión real: la frase de verificación llevaba el WhatsApp a unas 55 palabras, sobre el límite de 40. Los casos de control (2, 4, 5 y 6) confirman que lo anterior no se rompió. Los resultados vienen resumidos y no se adjuntan las transcripciones que menciona el documento.
+    **Mitigación verificada (30):** 23/30 — Entregan el texto exacto del paso 7 y un límite bien acotado: depende de que el modelo aplique la regla, y el filtro de RUT no se probó con otros formatos. Pero el caso de riesgo da lo mismo antes y después, porque la v1 ya no mostraba disparidad. La única evidencia nueva es el "OK" que anota el propio asistente después de una verificación "mental", y eso es una autoevaluación, no una verificación. El cambio observable está en el caso 3, que ahora ofrece ambas opciones.
+    **Documentación y cierre (20):** 20/20 — Tabla qué cambió / por qué / qué lo demuestra con tres filas (incluida la regresión), configuración final completa y pendientes concretos.
+    **Comentario:** la regresión del límite de palabras es justo el tipo de hallazgo que buscaba el hito. Para la presentación, conviene verificar el par desde fuera del modelo (correr A y B varias veces y comparar los mensajes) en vez de confiar en una columna que llena el propio asistente.
+
+??? note "Inteligencia Sansana — 89/100"
+    **Banco de casos (20):** 18/20 — Siete entradas fijas con la mezcla completa: 3 normales, 2 borde, 1 adversaria y dos de riesgo (privacidad en el caso 5 y el par Las Condes / La Pintana en el 7). Los casos 2 y 3 son fragmentos ("$15.000, 2 personas, sin gluten") que funcionan más como datos incompletos que como uso normal.
+    **Comparación y regresiones (30):** 25/30 — Tabla completa con veredicto por fila, basada en capturas archivadas. Declaran que no hay regresiones, pero la "compensación" que señalan (no hay tiempos reales sin mapas) ya existía en la v1. Además, la captura del par muestra un cambio que la tabla no registra: la v1 incluía imágenes de los platos y la etiqueta de stock, y la v2 responde solo con texto.
+    **Mitigación verificada (30):** 28/30 — El bloque [PRIVACIDAD Y MINIMIZACIÓN DE DATOS] está implementado y verificado con capturas del mismo caso: antes pedía "ubicación o dirección de salida", y ahora pide solo comuna, tienda y medio de transporte. El límite queda acotado: las capturas no prueban el borrado en el backend. Es el mismo cambio, con la misma evidencia, del 6A.
+    **Documentación y cierre (20):** 18/20 — Configuración final completa con el catálogo, y pendientes claros. La tabla qué cambió / por qué / qué lo demuestra tiene una sola fila, y no se implementaron las mejoras pendientes del Hito 4, como los sustitutos ante un quiebre de stock.
+    **Comentario:** evidencia visual sólida y comparable. Faltó revisar las capturas buscando regresiones: el cambio de formato entre versiones era la compensación que había que señalar. También convenía avanzar con algo más que el cambio del 6A.
+
+??? note "Lanyardigans — 89/100"
+    **Banco de casos (20):** 16/20 — Seis entradas exactas y fijas, cada una ligada a una prueba del Hito 4: 2 normales, 2 borde y 2 adversarias, una de ellas con una instrucción escondida. No hay un caso etiquetado de riesgo, porque la prueba del par del 5A (P017 contra P044, sin historial) va implícita en C1, y falta un tercer caso normal.
+    **Comparación y regresiones (30):** 28/30 — La tabla tiene una columna propia para regresiones y compensaciones, y el análisis es muy honesto. La v2 deja de dar puntajes numéricos, P031 queda fuera en C3, ya no pide lugar ni requisitos, y en C5 ya no ofrece alternativas. Además verificaron que el cambio en la aceptación no rompió la detección de choques. No hay capturas: los resultados vienen descritos.
+    **Mitigación verificada (30):** 25/30 — Cadena completa: riesgo del 5A → el historial pasa a "confianza de evidencia", con una plaza reservada para perfiles nuevos → en C1, P044 pasa de estar 14,1 puntos bajo P017 a empatar con él. Reconocen que es una sola corrida y que el desempate necesita el dato de invitaciones. Pero el antes y el después no se muestran (ni captura ni transcripción), y parte del empate se explica porque la v2 dejó de puntuar.
+    **Documentación y cierre (20):** 20/20 — Tabla riesgo → cambio → antes → después → verificación con cuatro filas, configuración final completa y pendientes concretos: bloqueo de agenda concurrente, OTP y repetir cada caso tres veces.
+    **Comentario:** uno de los análisis de compensaciones más maduros del curso. Para la presentación, adjunten las capturas de C1 en ambas versiones y recuperen un puntaje visible, para que la mitigación no dependa de que el modelo haya dejado de puntuar.
+    **Nota:** Los resultados de la v1 se citan del Hito 4, que no está en el correo del curso; se tomaron tal como vienen descritos.
+
+??? note "los3x2 — 99/100"
+    **Banco de casos (20):** 20/20 — Ocho casos con todos los valores de entrada escritos y lo que se espera de cada uno: 3 normales, 2 borde, 1 adversario y 2 de riesgo del 5A (calibración de UG2 y brecha por cuadrilla).
+    **Comparación y regresiones (30):** 30/30 — Corrieron el banco completo en el HTML de cada versión con un navegador automatizado, después de cada uno de los cuatro cambios. Detectaron una regresión (B2 quedaba bloqueado por el rango estricto en v2_1) y la corrigieron con una tolerancia. También señalan una compensación (N3 converge en 8 clics en vez de 1) y explican cómo verificaron que no hay otras regresiones.
+    **Mitigación verificada (30):** 29/30 — El intervalo por UG se verificó con el caso R1: capturas del antes (±1,22) y del después (±1,41), y la cobertura real de UG2 pasa de 89,1 % a 93,3 %. El límite es honesto: sigue bajo el 95 %, σ se midió con el mismo conjunto de prueba y R2 queda abierto. En pantalla el cambio es pequeño y solo se ve en el IC.
+    **Documentación y cierre (20):** 20/20 — Cada cambio tiene qué, por qué, qué lo demuestra y una columna de "cuándo no funciona". La configuración final está completa (modelo, rangos, regla de bloqueo, σ por UG, registro) y los pendientes son claros.
+    **Comentario:** entrega ejemplar: un cambio a la vez y el banco completo después de cada uno, como pedía la clase. El pendiente más importante es R2, que conviene llevar a la presentación como un límite de gobernanza.
+
+??? note "Los Republicanos — 98/100"
+    **Banco de casos (20):** 20/20 — Ocho entradas con todos los parámetros explícitos (3 normales, 2 borde, 1 adversaria y 2 de riesgo), y declaran el criterio de mantener literalmente los mismos valores en v1 y v2.
+    **Comparación y regresiones (30):** 30/30 — Corrieron ambos HTML con un navegador automatizado sobre las mismas 8 entradas, con veredicto por fila y 0 errores de JavaScript. Identifican bien la compensación de A1: quien anotaba identificadores libres ya no puede hacerlo, aunque el campo puede quedar vacío. También aclaran que esto no garantiza la ausencia de regresiones fuera del banco.
+    **Mitigación verificada (30):** 28/30 — Capturas del antes y el después en tres casos: A1 (la cadena con nombre, RUT y correo antes se aceptaba y ahora se rechaza), B1 (revisión manual sin porcentaje) y N1 (alerta de RO). Los límites están acotados: faltan formatos alternativos y el par Chile/Brasil no prueba causalidad. El riesgo de sesgo por país (R1) sigue sin mitigar, y lo dicen.
+    **Documentación y cierre (20):** 20/20 — Tabla de cinco cambios con su origen y su evidencia, configuración de la interfaz y del motor con el HTML final incrustado en el PDF, y pendientes concretos.
+    **Comentario:** comparación rigurosa y muy honesta con lo que el prototipo no demuestra. Lo pendiente es la diferencia entre Chile y Brasil: si aíslan el efecto del país fijando los costos, sabrán si es sesgo o solo una diferencia de mercado.
+
+??? note "los_capi — 81/100"
+    **Banco de casos (20):** 19/20 — Ocho entradas textuales con la mezcla completa: 3 normales (una con dato parcial), 2 borde, 1 adversaria y 2 de riesgo (el par de comunas y la privacidad). En el caso 7 no se dice qué producto se usa.
+    **Comparación y regresiones (30):** 22/30 — La tabla está completa, con veredicto por fila, y detectan y resuelven una regresión en el caso 3: la regla de 4 semanas bloqueaba un caso normal. Pero no hay capturas ni transcripciones. Además, la v1 descrita (unidades por producto, sin clima ni promociones) no corresponde al prototipo de Gemini del Hito 4, que sugería cajas por sucursal según el clima y las promociones.
+    **Mitigación verificada (30):** 21/30 — El cambio está escrito (sin columna de comuna y con la instrucción de no usarla) y el límite está bien acotado: no cubre proxies indirectos y se probó con un solo par. Pero el antes del caso 7 (Las Condes 150 / Pudahuel 110) no coincide con el par registrado en el 5A (Vitacura 160 / La Pintana 140), y ninguna de las dos salidas tiene captura.
+    **Documentación y cierre (20):** 19/20 — Tabla de cuatro cambios, configuración final completa y pendientes concretos: datos reales, un solo par, variación entre corridas y un tope arbitrario. En el caso 3, la v2 entrega "~100" aunque la fórmula de la configuración suma un 10 % de margen.
+    **Comentario:** la estructura sigue bien la clase, y el ajuste de la regresión del caso 3 es justo el tipo de hallazgo que se buscaba. Falta evidencia, igual que en el 5A: capturas de cada caso en ambas versiones, sobre el prototipo del Hito 4 o con una explicación de por qué cambió.
+
+??? note "mafilia — 69/100"
+    **Banco de casos (20):** 15/20 — Siete casos con la mezcla completa, y los normales traen sucursal, reservas y vencimientos. Pero el caso borde 4 ("historial incompleto, 0 reservas") y el de riesgo 7 ("comuna periférica vs. central con igual población") no traen cifras, así que no se pueden repetir igual en ambas versiones.
+    **Comparación y regresiones (30):** 21/30 — Tabla de 7 filas con veredicto, y señalan una compensación: el piso de 3 módulos sobredimensiona las oficinas pequeñas. Pero los resultados son solo cifras, sin capturas ni respuestas. En los casos 1 a 3, la "mejora" es solo la frase de gobernanza agregada, y en el par el centro baja de 5 a 4 módulos sin explicación.
+    **Mitigación verificada (30):** 19/30 — El protocolo de arranque en frío y el piso de 3 módulos están escritos en la v2, y en el par se pasa de 1 y 5 módulos a 3 y 4. Pero no hay evidencia de la ejecución, la regla del "peso del 70 % a vencimientos y densidad comunal" no dice cómo se calcula, y no se acota cuándo la mitigación no funciona.
+    **Documentación y cierre (20):** 14/20 — Están las instrucciones completas de la v1 y la v2, y los pendientes (integración en tiempo real, contingencias). Falta la tabla qué cambió / por qué / qué lo demuestra.
+    **Comentario:** el piso de atención y el aviso al jefe de oficina son mitigaciones razonables, y la compensación está bien vista. Para que la comparación demuestre algo, el par necesita cifras exactas (mismos vencimientos, distintas reservas web) y capturas de ambas salidas.
+    **Nota:** El PDF tiene 11 páginas por el formato (tablas partidas y el banco de casos repetido); no se descontó.
+
+??? note "six_pack — 79/100"
+    **Banco de casos (20):** 20/20 — Siete entradas textuales completas con la mezcla pedida: 3 normales (riesgo alto, medio y bajo), 2 borde (volumen ausente y cliente nuevo, que junto con el caso 1 forma el par del 5A), 1 adversaria y 1 de privacidad.
+    **Comparación y regresiones (30):** 13/30 — Muy honestos: solo el caso 7 tiene un resultado observado en ambas versiones, y los otros seis quedan como "esperado" o "sin verificar". Señalan una posible compensación (un saludo con el ID es menos personal) y advierten que no pueden descartar regresiones. Pero la comparación queda parcial.
+    **Mitigación verificada (30):** 28/30 — Bloque de privacidad implementado (texto exacto en la configuración) y verificado con capturas del mismo caso. La v1 muestra el nombre del encargado y la v2 identifica el local solo por su ID, con los mismos 30 packs, 87 % y prioridad ALTA. El límite está acotado (un caso sintético, no reemplaza el control de acceso). Las capturas son del 6A, no de esta sesión.
+    **Documentación y cierre (20):** 18/20 — Configuración final completa, tabla qué cambió / por qué / qué lo demuestra (de una fila) y pendientes honestos, incluida la mitigación por historial insuficiente que todavía no se implementa.
+    **Comentario:** banco de casos muy bien construido y una mitigación bien demostrada. Faltó correr los otros seis casos en ambas versiones: el banco ya estaba listo, y esa comparación era lo que más pesaba en este avance.
+    **Nota:** Entregado a las 19:00:06; corregido según decisión del profesor.
+
+??? note "Starcompany — 75/100"
+    **Banco de casos (20):** 19/20 — Ocho casos con la mezcla completa, tomados de la bitácora del Hito 4, de la prueba del 6A y del par A del 5A (4 contra 5 integrantes con $30.000). Los casos de chat (7 y 8) se describen más de lo que se transcriben.
+    **Comparación y regresiones (30):** 25/30 — Tabla completa con veredicto por fila y una regresión bien detectada y corregida: exigir 2 productos por categoría hacía saltar el aviso en el caso 2 (vegetariano), que antes funcionaba bien. Pero varios resultados de la v2 son deducciones más que salidas observadas ("ningún gatillo se activa", "el Chocolate se mantiene si el presupuesto alcanza"), y no hay capturas.
+    **Mitigación verificada (30):** 20/30 — El texto exacto del aviso y la eliminación de la regla de −0,4 están en las instrucciones de la v2. Pero no se muestran los carritos de 4 y 5 integrantes después del cambio (caso 6). Además, la regla de −0,4 estaba en el motor de puntajes (5A) y el documento solo muestra una línea en las instrucciones del asistente. Tampoco se dice en qué casos la mitigación no funciona.
+    **Documentación y cierre (20):** 11/20 — Instrucciones completas de la v1 y la v2, con los cambios marcados. Falta la tabla qué cambió / por qué / qué lo demuestra, y lo pendiente solo aparece como estado en el backlog, sin explicar por qué no se resolvió.
+    **Comentario:** la regresión del caso 2 es un hallazgo muy bueno y está bien resuelta. Para cerrar faltan las salidas reales del caso 6 en ambas versiones, con captura, el límite de cada mitigación y el párrafo de pendientes.
+
+??? note "Torque AI — 41/100"
+    **Banco de casos (20):** 4/20 — No hay banco de casos. El documento trae solo dos entradas textuales: el caso de $200.000 al mes (antes y después) y la prueba con $180.000. No se identifican casos borde, adversarios ni de riesgo.
+    **Comparación y regresiones (30):** 9/30 — No hay tabla v1 vs. v2. Solo un caso se compara entre versiones, y la "prueba de regresión" se corre únicamente en la v2, así que no muestra si algo empeoró.
+    **Mitigación verificada (30):** 20/30 — La mitigación de alucinación está escrita (el texto exacto agregado al prompt) y se ve el mismo caso antes y después: la cuota de $198.452 con un 94 % de aprobación inventado pasa a $198.000 referenciales, sin porcentaje. Pero son transcripciones sin captura, la mitigación de privacidad no se prueba con ningún caso y no se dice cuándo no funciona.
+    **Documentación y cierre (20):** 8/20 — El backlog indica el cambio concreto de cada ítem, pero no hay una tabla con "qué lo demuestra". La configuración final es un resumen de cinco líneas, no las instrucciones completas, y no hay párrafo de pendientes.
+    **Comentario:** el antes y el después de la cuota inventada está bien elegido y muestra una mejora real. Pero faltó lo central del avance: un banco fijo de 6 a 8 casos corrido en ambas versiones y la tabla de comparación.
+    **Nota:** No hay entregas anteriores del grupo; se corrigió solo con este PDF, que reúne contenido de los avances 6A, 6B y 6C.
 
 ---
 
