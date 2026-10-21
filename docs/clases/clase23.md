@@ -1,4 +1,4 @@
-# Clase 23 · Presentaciones Finales (2)
+# Clase 23 · Presentaciones Finales (2) y Cierre del Curso
 
 <div class="usm-session-meta">
 <span>📅 Lunes 16 de noviembre de 2026</span>
@@ -7,19 +7,20 @@
 <span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + prototipo 10%</span>
 </div>
 
-!!! info "Segunda jornada de presentaciones"
-    Presentan **cuatro grupos**, en el orden sorteado (abajo). Las reglas,
-    la evaluación de pares y la pauta del profesor son las mismas de la
-    [primera jornada](clase22.md#reglas-de-las-tres-jornadas).
+!!! info "Segunda jornada de presentaciones y última clase del semestre"
+    Presentan los **cinco grupos** que faltan, en el orden sorteado (abajo), con las mismas
+    [reglas y pautas](clase22.md#reglas-de-las-dos-jornadas) del lunes 9. Después se cierra el
+    curso.
 
 ## 🎤 Orden de hoy
 
 | Orden | Grupo |
 |---:|---|
-| 1 | IA Solution |
-| 2 | Inteligencia Sansana |
-| 3 | Lanyardigans |
-| 4 | Starcompany |
+| 1 | Lanyardigans |
+| 2 | Starcompany |
+| 3 | energIA |
+| 4 | los_capi |
+| 5 | six_pack |
 
 *Sorteado el 21 de octubre; ver la [Clase 22](clase22.md#orden-de-presentacion).*
 
@@ -27,18 +28,10 @@
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:08 | Instrucciones y orden |
-| 0:08 – 1:20 | **Cuatro presentaciones**: 10 min de pitch + 5 min de preguntas + 3 min para que los grupos evalúen |
-| 1:20 – 1:30 | Cierre de la jornada |
-
----
-
-## 📋 Recordatorio rápido
-
-- **Pitch de 8 a 10 minutos**, aviso al minuto 9, preguntas a los 10.
-- **5 minutos de preguntas**, del curso y del profesor.
-- Se proyecta el **PDF subido al buzón**; la demo, en vivo o con su respaldo grabado.
-- **Evaluación de pares** al terminar cada presentación (en «Código del día», **ICS64225**).
+| 0:00 – 0:05 | Instrucciones y orden |
+| 0:05 – 1:15 | **Cinco presentaciones** de 14 minutos: 8 de pitch + 4 de preguntas + 2 para que los grupos evalúen |
+| 1:15 – 1:28 | Cierre del curso: retroalimentación general y evaluación del curso |
+| 1:28 – 1:30 | Cierre |
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
@@ -53,7 +46,45 @@
 
 ---
 
-## 📚 Para la próxima clase
+## 🏁 Cierre del curso
 
-- La [Clase 24](clase24.md) (miércoles 18 de noviembre, **presencial**) es la tercera jornada de
-  presentaciones y el cierre del curso.
+### El recorrido del semestre
+
+```mermaid
+flowchart LR
+    H1["H1<br/>Idea y problema"] --> H2["H2<br/>Modelo de negocio"]
+    H2 --> H3["H3<br/>Diseño de la solución"]
+    H3 --> H4["H4<br/>Prototipo v1"]
+    H4 --> H5["H5<br/>Riesgos y gobernanza"]
+    H5 --> H6["H6<br/>Prototipo v2"]
+    H6 --> H7["H7<br/>Viabilidad"]
+    H7 --> P["Presentación final"]
+```
+
+### Lo que se llevan
+
+| Habilidad | Dónde la practicaron |
+|---|---|
+| Distinguir cuándo un problema es de ML predictivo, de IA generativa o de ninguno | Hitos 1 y 3 |
+| Prototipar sin programar y demostrar que funciona con casos fijos | Hitos 4 y 6 |
+| Detectar sesgo y riesgo de privacidad antes de que lo detecte otro | Hito 5 |
+| Ponerle números a una iniciativa y decir qué supuesto la decide | Hito 7 |
+| Convencer a un comité con evidencia, en ocho minutos | Presentación final |
+
+> 💡 Las herramientas que usaron este semestre van a cambiar. La pregunta **"¿cómo sé que esto
+> funciona, a quién afecta y si se paga?"** no va a cambiar.
+
+### Evaluación del curso
+
+Cada grupo responde, en una línea por pregunta:
+
+1. ¿Qué parte del curso les sirvió más para el proyecto?
+2. ¿Qué parte cambiarían o sacarían?
+3. ¿La modalidad de **entrega en el horario de clases** les ayudó o les jugó en contra?
+4. ¿Qué tema les faltó?
+
+Las notas finales se publican en la página de [Notas](../notas.md).
+
+---
+
+🏁 **Fin del semestre.** Gracias por el trabajo de estos meses.

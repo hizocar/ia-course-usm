@@ -14,7 +14,7 @@ liderar organizaciones más ágiles, competitivas y visionarias en la era de la 
 <div class="usm-fact"><span class="usm-fact-label">Horario</span><span class="usm-fact-value">17:30 – 19:00</span></div>
 <div class="usm-fact"><span class="usm-fact-label">Duración</span><span class="usm-fact-value">90 min / clase</span></div>
 <div class="usm-fact"><span class="usm-fact-label">Inicio</span><span class="usm-fact-value">3 de agosto 2026</span></div>
-<div class="usm-fact"><span class="usm-fact-label">Término</span><span class="usm-fact-value">18 de noviembre 2026</span></div>
+<div class="usm-fact"><span class="usm-fact-label">Término</span><span class="usm-fact-value">16 de noviembre 2026</span></div>
 </div>
 
 > 🗓️ Revisa el detalle semana a semana en [**Calendario**](calendario.md).
@@ -51,7 +51,7 @@ más una **presentación final (30%)** suman el 100% de la nota.
 </li>
 <li>
 <span class="usm-timeline-title">Presentación final</span>
-<span class="usm-timeline-meta">11, 16 y 18 de noviembre · 30%</span>
+<span class="usm-timeline-meta">9 y 16 de noviembre · 30%</span>
 </li>
 </ul>
 

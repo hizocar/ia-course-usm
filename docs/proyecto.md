@@ -68,8 +68,8 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% · Cuatro avances entregados <strong>en clases</strong> (2,5% cada uno): evaluación social, evaluación privada, costos y beneficios.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11, 16 y 18 nov · Clases 22-24</span></span>
-<span class="usm-timeline-meta">30% · Dos PDF en el buzón hasta el 10 de noviembre y pitch en vivo: evaluación de pares (10%), del profesor (10%) y prototipo final completo (10%).</span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">9 y 16 nov · Clases 22-23</span></span>
+<span class="usm-timeline-meta">30% · Dos PDF en el buzón hasta el 8 de noviembre y pitch en vivo: evaluación de pares (10%), del profesor (10%) y prototipo final completo (10%).</span>
 </li>
 </ul>
 </div>
@@ -424,13 +424,13 @@ final y comunicarlo en un pitch ante el curso.
 
 | Qué | Cuándo |
 |---|---|
-| Semana sin clases para preparar | Martes 3 al martes 10 de noviembre ([guía](clases/preparacion-final.md)) |
-| Buzones de la entrega final | Abren el martes 3 · cierran el **martes 10 de noviembre, 23:59**, para **todos** los grupos |
-| Presentaciones en vivo (presenciales) | Miércoles 11, lunes 16 y miércoles 18 de noviembre ([Clases 22](clases/clase22.md), [23](clases/clase23.md) y [24](clases/clase24.md)) |
+| Sin clases, para preparar | Martes 3 al domingo 8 de noviembre ([guía](clases/preparacion-final.md)) |
+| Buzones de la entrega final | Abren el martes 3 · cierran el **domingo 8 de noviembre, 23:59**, para **todos** los grupos |
+| Presentaciones en vivo (presenciales) | **Lunes 9** (6 grupos) y **lunes 16 de noviembre** (5 grupos) ([Clases 22](clases/clase22.md) y [23](clases/clase23.md)) |
 
 **Qué se entrega** *(dos PDF por grupo, en los [buzones de la entrega final](entregas.md))*
 
-1. **La presentación en PDF**: las 8 a 12 láminas del pitch de 8 a 10 minutos. Se presenta con
+1. **La presentación en PDF**: las 8 a 10 láminas del pitch de 8 minutos. Se presenta con
    ese archivo: después del cierre no se aceptan versiones nuevas.
 2. **El prototipo explicado en PDF**: parte con un **resumen ejecutivo** de una página y documenta
    el prototipo final según la lista de requisitos de abajo.
@@ -460,7 +460,7 @@ demo (25) · riesgos y mitigaciones (15) · claridad, estructura y tiempo (20) �
 para quién · configuración final completa · al menos 3 interacciones reales con capturas · banco de
 casos y comparación v1 vs. v2 · una mitigación verificada · datos sin información real de clientes
 · límites · cómo probarlo · coherencia con la presentación. El detalle de cada requisito está en la
-[guía de la semana sin clases](clases/preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
+[guía de preparación](clases/preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
 </div>
 
 ---

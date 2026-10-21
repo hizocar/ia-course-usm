@@ -5,7 +5,7 @@
 <p>Cada avance del proyecto tiene su propio buzón. Se abre en el horario de clases, se cierra
 automáticamente a las <strong>19:30</strong> del mismo día, y lo recibido queda archivado en el
 archivo privado del curso. Los dos buzones de la <strong>entrega final</strong> están abiertos del 3 al
-10 de noviembre.</p>
+8 de noviembre.</p>
 </div>
 </div>
 
@@ -94,7 +94,7 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 
 <div class="usm-card" markdown>
 ### 🎤 Final · Presentación en PDF
-**Martes 3 al martes 10 de noviembre, hasta las 23:59** · Las láminas del pitch
+**Martes 3 al domingo 8 de noviembre, hasta las 23:59** · Las láminas del pitch
 
 *Se presenta con este archivo. Máximo 25 MB.*
 
@@ -103,7 +103,7 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 
 <div class="usm-card" markdown>
 ### 🎤 Final · Prototipo explicado
-**Martes 3 al martes 10 de noviembre, hasta las 23:59** · Con resumen ejecutivo
+**Martes 3 al domingo 8 de noviembre, hasta las 23:59** · Con resumen ejecutivo
 
 *Se evalúa con la lista de requisitos del prototipo final (10%). Máximo 25 MB.*
 
@@ -112,7 +112,7 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 
 <div class="usm-card" markdown>
 ### 🗳️ Evaluación de pares
-**11, 16 y 18 de noviembre, de 17:00 a 20:00** · Durante las presentaciones
+**Lunes 9 y lunes 16 de noviembre, de 17:00 a 20:00** · Durante las presentaciones
 
 *Cada grupo evalúa a los que presentan (10%). En «Código del día», **ICS64225**.*
 
@@ -127,9 +127,9 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 
 !!! info "La entrega final es distinta"
     Los buzones de la **presentación en PDF** y del **prototipo explicado** no se abren en una
-    clase: aceptan envíos desde el **martes 3** hasta el **martes 10 de noviembre a las 23:59**,
+    clase: aceptan envíos desde el **martes 3** hasta el **domingo 8 de noviembre a las 23:59**,
     para todos los grupos. A esa hora se cierran solos. Ver la
-    [guía de la semana sin clases](clases/preparacion-final.md).
+    [guía de preparación](clases/preparacion-final.md).
 
 ## Preguntas frecuentes
 

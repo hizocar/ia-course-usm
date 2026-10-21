@@ -20,8 +20,8 @@
 >
 > 🏫💻 **Modalidad desde el 21 de octubre:** los **lunes** son clases **presenciales** y los
 > **miércoles**, **asincrónicas**: no hay sesión en sala y el avance se sube al buzón en el mismo
-> horario (17:30 a 19:00). Las **presentaciones finales** (11, 16 y 18 de noviembre) son
-> **presenciales** los tres días.
+> horario (17:30 a 19:00). Las **presentaciones finales** son los **lunes 9 y 16 de noviembre**,
+> presenciales.
 
 ---
 
@@ -142,29 +142,30 @@
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-> 📌 **Ajuste de calendario:** para preparar la presentación final, **no hay clases del martes 3 al
-> martes 10 de noviembre**. Las presentaciones duran **tres jornadas presenciales** (11, 16 y 18 de
-> noviembre) y se eliminan los dos avances del pitch: el 30% de la presentación final queda en
-> **10% evaluación de pares + 10% evaluación del profesor + 10% prototipo final completo**.
+> 📌 **Ajuste de calendario:** las presentaciones finales son **solo los lunes**: **lunes 9** (6
+> grupos) y **lunes 16 de noviembre** (5 grupos y cierre del curso). Para prepararlas, **no hay
+> clases del martes 3 al domingo 8 de noviembre**. Se eliminan los dos avances del pitch: el 30% de
+> la presentación final queda en **10% evaluación de pares + 10% evaluación del profesor + 10%
+> prototipo final completo**.
 
 - **Clase 21** — *lunes 2 de noviembre* · 🏫 **presencial**: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)** Ver [Clase 21](clases/clase21.md).
-- *miércoles 4 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final. Ver la [guía de la semana sin clases](clases/preparacion-final.md).
+- *miércoles 4 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final. Ver la [guía de preparación](clases/preparacion-final.md).
+- *domingo 8 de noviembre, 23:59*: 📤 **Cierre del buzón final** — presentación en PDF y prototipo explicado con resumen ejecutivo, para **todos los grupos**. Ver [Entregas](entregas.md).
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- *lunes 9 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final.
-- *martes 10 de noviembre, 23:59*: 📤 **Cierre del buzón final** — presentación en PDF y prototipo explicado con resumen ejecutivo, para **todos los grupos**. Ver [Entregas](entregas.md).
-- **Clase 22** — *miércoles 11 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (1), 4 grupos. Ver [Clase 22](clases/clase22.md).
+- **Clase 22** — *lunes 9 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (1), 6 grupos. Ver [Clase 22](clases/clase22.md).
+- *miércoles 11 de noviembre*: sin clase.
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 23** — *lunes 16 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (2), 4 grupos. Ver [Clase 23](clases/clase23.md).
-- **Clase 24** — *miércoles 18 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (3), 3 grupos, y cierre del curso. Ver [Clase 24](clases/clase24.md).
+- **Clase 23** — *lunes 16 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (2), 5 grupos, y cierre del curso. Ver [Clase 23](clases/clase23.md).
+- *miércoles 18 de noviembre*: sin clase.
 
 🎤 **Presentación Final — 30%** (pares 10% · profesor 10% · prototipo final 10%)
 
-🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*
+🏁 **Última clase: lunes 16 de noviembre de 2026**

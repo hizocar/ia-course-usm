@@ -1,20 +1,20 @@
-# Semana sin clases · Preparación de la Presentación Final
+# Sin clases · Preparación de la Presentación Final
 
 <div class="usm-session-meta">
-<span>📅 Martes 3 al martes 10 de noviembre de 2026</span>
+<span>📅 Martes 3 al domingo 8 de noviembre de 2026</span>
 <span>🏖️ Sin clases</span>
 <span class="usm-tag-gold">Presentación Final del Proyecto</span>
-<span class="usm-tag-red">📤 Buzón final: hasta el martes 10 de noviembre, 23:59</span>
+<span class="usm-tag-red">📤 Buzón final: hasta el domingo 8 de noviembre, 23:59</span>
 </div>
 
 !!! danger "Antes de presentar, cada grupo sube dos PDF"
-    Entre el **martes 3** y el **martes 10 de noviembre a las 23:59**, cada grupo sube a los
+    Entre el **martes 3** y el **domingo 8 de noviembre a las 23:59**, cada grupo sube a los
     [buzones de la entrega final](../entregas.md):
 
     1. **La presentación en PDF**, con las láminas que van a proyectar.
     2. **El prototipo explicado en PDF**, que parte con un **resumen ejecutivo** de una página.
 
-    El plazo es el mismo para **todos los grupos**, presenten el 11, el 16 o el 18 de noviembre. Se
+    El plazo es el mismo para **todos los grupos**, presenten el lunes 9 o el lunes 16. Se
     presenta con el PDF subido: después del cierre no se aceptan versiones nuevas.
 
 > ⚠️ **Si falta un PDF.** Sin el **prototipo explicado** en el buzón, el componente *prototipo final
@@ -22,8 +22,8 @@
 > igual con el archivo que traiga, pero pierde el requisito 10 del prototipo (*coherencia con la
 > presentación*), porque no hay contra qué compararlo.
 
-No hay clases el **miércoles 4** ni el **lunes 9 de noviembre**. Esta semana es para cerrar el
-proyecto: terminar el prototipo final, armar la presentación y ensayarla. Esta página reúne todo lo
+No hay clase el **miércoles 4 de noviembre**. Estos días son para cerrar el proyecto: terminar el
+prototipo final, armar la presentación y ensayarla. Esta página reúne todo lo
 que necesitan.
 
 ---
@@ -33,14 +33,13 @@ que necesitan.
 | Qué | Cuándo |
 |---|---|
 | Hito 7D, último avance del Hito 7 | Lunes 2 de noviembre, en la [Clase 21](clase21.md) (presencial) |
-| Semana sin clases | Martes 3 al martes 10 de noviembre |
-| Buzones de la entrega final | Abren el **martes 3** · cierran el **martes 10 de noviembre, 23:59** |
-| 🎤 Presentaciones (1) | Miércoles 11 de noviembre, [Clase 22](clase22.md) · **presencial** · [orden sorteado](clase22.md#orden-de-presentacion) |
-| 🎤 Presentaciones (2) | Lunes 16 de noviembre, [Clase 23](clase23.md) · **presencial** |
-| 🎤 Presentaciones (3) y cierre del curso | Miércoles 18 de noviembre, [Clase 24](clase24.md) · **presencial** |
+| Sin clases | Martes 3 al domingo 8 de noviembre |
+| Buzones de la entrega final | Abren el **martes 3** · cierran el **domingo 8 de noviembre, 23:59** |
+| 🎤 Presentaciones (1): 6 grupos | Lunes 9 de noviembre, [Clase 22](clase22.md) · **presencial** · [orden sorteado](clase22.md#orden-de-presentacion) |
+| 🎤 Presentaciones (2): 5 grupos y cierre del curso | Lunes 16 de noviembre, [Clase 23](clase23.md) · **presencial** |
 
-> 📌 Las tres jornadas de presentaciones son **presenciales**, aunque dos caen en miércoles: se
-> presenta en vivo, ante el curso y el profesor.
+> 📌 Las presentaciones son **solo los lunes**, en la sala. Los miércoles 11 y 18 de noviembre no
+> hay clase.
 
 ---
 
@@ -58,24 +57,24 @@ Las pautas completas están en la página del [Proyecto](../proyecto.md#presenta
 
 ## 📄 Entregable 1 · La presentación en PDF
 
-Son las láminas con las que presentan, exportadas a PDF. **8 a 12 láminas** para un pitch de **8 a
-10 minutos**, más preguntas.
+Son las láminas con las que presentan, exportadas a PDF. **8 a 10 láminas** para un pitch de **8
+minutos**, más 4 de preguntas.
 
-### La historia: diez preguntas, diez minutos
+### La historia: diez preguntas, ocho minutos
 
 | # | Lámina | Pregunta que responde | Viene de | Tiempo |
 |---:|---|---|---|---:|
-| 1 | El problema | ¿Qué duele, a quién y cuánto cuesta? | Hito 1 | 1:00 |
-| 2 | Por qué IA, por qué ahora | ¿Qué hace la IA que antes no se podía? | Hitos 1 y 3 | 0:45 |
-| 3 | El modelo de negocio | ¿Quién paga, por qué y cómo llega? | Hito 2 | 1:00 |
-| 4 | La solución | ¿Qué hace y cómo se integra al trabajo? | Hito 3 | 1:00 |
-| 5 | **Demo** | ¿Funciona de verdad? | Hitos 4 y 6 | 2:00 |
-| 6 | La evidencia | ¿Cómo sabemos que el v2 es mejor? | Hito 6 | 0:45 |
-| 7 | Riesgos y mitigaciones | ¿Qué puede salir mal y qué hicimos? | Hito 5 | 0:45 |
+| 1 | El problema | ¿Qué duele, a quién y cuánto cuesta? | Hito 1 | 0:45 |
+| 2 | Por qué IA, por qué ahora | ¿Qué hace la IA que antes no se podía? | Hitos 1 y 3 | 0:30 |
+| 3 | El modelo de negocio | ¿Quién paga, por qué y cómo llega? | Hito 2 | 0:45 |
+| 4 | La solución | ¿Qué hace y cómo se integra al trabajo? | Hito 3 | 0:45 |
+| 5 | **Demo** | ¿Funciona de verdad? | Hitos 4 y 6 | 1:45 |
+| 6 | La evidencia | ¿Cómo sabemos que el v2 es mejor? | Hito 6 | 0:30 |
+| 7 | Riesgos y mitigaciones | ¿Qué puede salir mal y qué hicimos? | Hito 5 | 0:30 |
 | 8 | Impacto social | ¿Quién gana y quién paga fuera de la empresa? | Hito 7A | 0:30 |
-| 9 | Viabilidad | ¿Se paga, y qué supuesto lo decide? | Hitos 7B-7D | 1:30 |
+| 9 | Viabilidad | ¿Se paga, y qué supuesto lo decide? | Hitos 7B-7D | 1:15 |
 | 10 | Veredicto y pedido | ¿Qué recomendamos y qué necesitamos? | Hito 7D | 0:45 |
-| | | | **Total** | **10:00** |
+| | | | **Total** | **8:00** |
 
 Es una estructura de partida: pueden fusionar o reordenar láminas, pero las diez preguntas tienen
 que quedar respondidas.
@@ -100,7 +99,7 @@ Cada lámina dice su **conclusión**, no su tema:
 - **Guionada:** exactamente qué se escribe y qué se espera que responda.
 - **Con respaldo:** graben la demo antes y pongan el video o las capturas en el PDF. Si falla la
   conexión en la sala, pasan al respaldo sin perder tiempo.
-- **Dos minutos.** Una demo larga se come la lámina de viabilidad, que es la que decide.
+- **Menos de dos minutos.** Una demo larga se come la lámina de viabilidad, que es la que decide.
 
 ---
 
@@ -177,7 +176,7 @@ Preparen cinco, con una respuesta de 30 segundos cada una. Ya las conocen: son l
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>📤 Presentación en PDF</strong>
-<span>Un <strong>PDF por grupo</strong>, máximo 25 MB. Abre el martes 3 de noviembre y cierra el <strong>martes 10 de noviembre a las 23:59</strong>.</span>
+<span>Un <strong>PDF por grupo</strong>, máximo 25 MB. Abre el martes 3 de noviembre y cierra el <strong>domingo 8 de noviembre a las 23:59</strong>.</span>
 </div>
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=final-presentacion){.usm-btn target="_blank" rel="noopener"}
 </div>
@@ -185,7 +184,7 @@ Preparen cinco, con una respuesta de 30 segundos cada una. Ya las conocen: son l
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>📤 Prototipo explicado y resumen ejecutivo</strong>
-<span>Un <strong>PDF por grupo</strong>, máximo 25 MB. Abre el martes 3 de noviembre y cierra el <strong>martes 10 de noviembre a las 23:59</strong>.</span>
+<span>Un <strong>PDF por grupo</strong>, máximo 25 MB. Abre el martes 3 de noviembre y cierra el <strong>domingo 8 de noviembre a las 23:59</strong>.</span>
 </div>
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=final-prototipo){.usm-btn target="_blank" rel="noopener"}
 </div>

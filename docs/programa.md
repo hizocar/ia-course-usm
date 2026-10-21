@@ -99,7 +99,7 @@ califican directamente sobre su peso en la Nota Final.
   (ver [Proyecto](proyecto.md)). Un hito con inasistencia justificada puede recuperarse dentro de la
   semana siguiente, previa coordinación con el/la docente.
 - **Presentación final:** presentación en PDF y prototipo explicado con resumen ejecutivo, más un
-  pitch en vivo ante el curso en las tres últimas sesiones: evaluación de pares (10%), del profesor
+  pitch en vivo ante el curso en las dos últimas sesiones: evaluación de pares (10%), del profesor
   (10%) y cumplimiento de los requisitos del prototipo final (10%).
 
 ## 8. Recursos para el aprendizaje

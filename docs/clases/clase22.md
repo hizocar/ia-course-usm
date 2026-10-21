@@ -1,18 +1,18 @@
 # Clase 22 · Presentaciones Finales (1)
 
 <div class="usm-session-meta">
-<span>📅 Miércoles 11 de noviembre de 2026</span>
+<span>📅 Lunes 9 de noviembre de 2026</span>
 <span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Presentación Final del Proyecto</span>
 <span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + prototipo 10%</span>
 </div>
 
-!!! warning "Sesión presencial, aunque es miércoles"
-    Las tres jornadas de presentaciones (11, 16 y 18 de noviembre) son **en la sala**: se presenta
-    en vivo, ante el curso y el profesor, y los grupos evalúan a sus compañeros en el momento.
+!!! info "Primera de dos jornadas de presentaciones"
+    Las presentaciones son los **lunes 9 y 16 de noviembre**, en la sala: se presenta en vivo, ante
+    el curso y el profesor, y los grupos evalúan a sus compañeros en el momento.
 
-    Los dos PDF de la entrega final se subieron hasta el **martes 10 de noviembre, 23:59**
-    ([guía de la semana sin clases](preparacion-final.md)). Hoy se presenta con ese archivo.
+    Los dos PDF de la entrega final se subieron hasta el **domingo 8 de noviembre, 23:59**
+    ([guía de preparación](preparacion-final.md)). Hoy se presenta con ese archivo.
 
 ## 🎯 Objetivos de la sesión
 
@@ -25,37 +25,38 @@ aplicándolas en sus propuestas y presentaciones.*
 
 ---
 
-## 🗓️ Agenda (90 min)
-
-| Tiempo | Bloque |
-|---|---|
-| 0:00 – 0:08 | Instrucciones, orden y cómo funciona la evaluación de pares |
-| 0:08 – 1:20 | **Cuatro presentaciones**: 10 min de pitch + 5 min de preguntas + 3 min para que los grupos evalúen |
-| 1:20 – 1:30 | Cierre de la jornada |
-
-### Orden de presentación
+## 🎤 Orden de presentación
 
 Sorteado el 21 de octubre (Python 3.12, `random.seed(20261021)` sobre la lista de grupos de la
 página de [Notas](../notas.md)).
 
 | Jornada | Orden |
 |---|---|
-| **Miércoles 11 de noviembre** (hoy) | 1. Torque AI · 2. Los Republicanos · 3. los3x2 · 4. mafilia |
-| **Lunes 16 de noviembre** ([Clase 23](clase23.md)) | 1. IA Solution · 2. Inteligencia Sansana · 3. Lanyardigans · 4. Starcompany |
-| **Miércoles 18 de noviembre** ([Clase 24](clase24.md)) | 1. energIA · 2. los_capi · 3. six_pack |
+| **Lunes 9 de noviembre** (hoy) | 1. Torque AI · 2. Los Republicanos · 3. los3x2 · 4. mafilia · 5. IA Solution · 6. Inteligencia Sansana |
+| **Lunes 16 de noviembre** ([Clase 23](clase23.md)) | 1. Lanyardigans · 2. Starcompany · 3. energIA · 4. los_capi · 5. six_pack |
 
-Si dos grupos quieren intercambiar su turno, avisen al profesor antes del lunes 9 de noviembre.
+Si dos grupos quieren intercambiar su turno, avisen al profesor antes del lunes 2 de noviembre.
 
 ---
 
-## 📋 Reglas de las tres jornadas
+## 🗓️ Agenda (90 min)
 
-- **Tiempo:** pitch de **8 a 10 minutos**. Al minuto 9 se avisa que queda uno; a los 10 se pasa a
+| Tiempo | Bloque |
+|---|---|
+| 0:00 – 0:06 | Instrucciones, orden y cómo funciona la evaluación de pares |
+| 0:06 – 1:30 | **Seis presentaciones** de 14 minutos: 8 de pitch + 4 de preguntas + 2 para que los grupos evalúen |
+
+---
+
+## 📋 Reglas de las dos jornadas
+
+- **Tiempo:** pitch de **8 minutos**. Al minuto 7 se avisa que queda uno; a los 8 se pasa a
   preguntas.
-- **Preguntas:** 5 minutos, del curso y del profesor.
+- **Preguntas:** 4 minutos, del curso y del profesor.
 - **Material:** se proyecta el **PDF subido al buzón**. La demo puede ser en vivo o con el respaldo
   grabado que incluyeron.
-- **Puntualidad:** el grupo que presenta llega antes de las 17:30 con su demo probada.
+- **Puntualidad:** el grupo llega antes de las 17:30 con su demo probada. Con seis turnos no hay
+  margen para esperar.
 - **Todos presentan:** cada integrante presenta al menos una parte del pitch.
 - **Audiencia:** cada grupo que no presenta prepara al menos una pregunta por presentación.
 
@@ -81,14 +82,15 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 - El **puntaje** de cada evaluación es la suma de los cuatro criterios × 5 (de 20 a 100).
 - La **nota de pares** de un grupo es el promedio de los puntajes que le pusieron los demás grupos.
 - Un grupo **no puede evaluarse a sí mismo**. Si un grupo evalúa dos veces al mismo, vale la última.
-- El formulario solo está abierto los días de presentación, de 17:00 a 20:00. Cada evaluación queda
-  registrada con el grupo que la envió y la hora: el profesor descarta las que no correspondan, por
-  ejemplo de un grupo que no estaba en la sala o enviadas antes de que el grupo presentara.
+- El formulario solo está abierto los dos lunes de presentación, de 17:00 a 20:00. Cada evaluación
+  queda registrada con el grupo que la envió y la hora: el profesor descarta las que no
+  correspondan, por ejemplo de un grupo que no estaba en la sala o enviadas antes de que el grupo
+  presentara.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>🗳️ Evaluación de pares</strong>
-<span>Abierta los días <strong>11, 16 y 18 de noviembre, de 17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
+<span>Abierta los <strong>lunes 9 y 16 de noviembre, de 17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
 </div>
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>
@@ -102,17 +104,17 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 | **Viabilidad bien justificada** | 25 | El veredicto sale de los números del Hito 7 y nombra su supuesto crítico |
 | **Prototipo en la demo** | 25 | La demo muestra el prototipo final resolviendo un caso del banco de pruebas |
 | **Riesgos y mitigaciones** | 15 | Los riesgos del Hito 5 aparecen con su mitigación implementada |
-| **Claridad, estructura y tiempo** | 20 | Títulos-mensaje, historia que se sigue y pitch de 8 a 10 minutos |
+| **Claridad, estructura y tiempo** | 20 | Títulos-mensaje, historia que se sigue y pitch dentro de los 8 minutos |
 | **Respuesta a preguntas** | 15 | Respuestas breves, con evidencia, que reconocen los límites cuando corresponde |
 | **Total** | **100** | |
 
 El **10% restante** es el **prototipo final completo**, evaluado sobre el PDF del prototipo con la
-lista de requisitos de la [guía de la semana sin clases](preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
+lista de requisitos de la [guía de preparación](preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
 
 ---
 
 ## 📚 Para la próxima clase
 
-- **Lunes 16 de noviembre** ([Clase 23](clase23.md)): segunda jornada de presentaciones, presencial.
-- **Miércoles 18 de noviembre** ([Clase 24](clase24.md)): tercera jornada y cierre del curso,
-  presencial.
+- No hay clase el **miércoles 11 de noviembre**.
+- **Lunes 16 de noviembre** ([Clase 23](clase23.md)): segunda jornada de presentaciones y cierre
+  del curso, presencial.

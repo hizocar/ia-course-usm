@@ -16,8 +16,8 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 !!! info "Modalidad desde el 21 de octubre"
     **Lunes: presencial** en sala. **Miércoles: asincrónico**, sin sesión en sala; el avance se
-    sube al buzón en el mismo horario (17:30 a 19:00). Las **presentaciones finales** del 11, 16 y
-    18 de noviembre son **presenciales** los tres días.
+    sube al buzón en el mismo horario (17:30 a 19:00). Las **presentaciones finales** son los
+    **lunes 9 y 16 de noviembre**, presenciales.
 
 !!! tip "🚀 Proyecto del curso"
     Las clases no son solo teoría suelta: alimentan un [**Proyecto único de 7 hitos + presentación
@@ -174,31 +174,24 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 </div>
 
 <div class="usm-card" markdown>
-### 🏖️ Semana sin clases · Preparación de la Presentación Final
-**3 al 10 de noviembre** · 📤 presentación y prototipo en PDF hasta el martes 10, 23:59
+### 🏖️ Sin clases · Preparación de la Presentación Final
+**3 al 8 de noviembre** · 📤 presentación y prototipo en PDF hasta el domingo 8, 23:59
 
 [Ver la guía →](preparacion-final.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 2️⃣2️⃣ Presentaciones Finales (1)
-**Miércoles 11 de noviembre** · 🏫 presencial · 🎤 4 grupos · 🗳️ evaluación de pares
+**Lunes 9 de noviembre** · 🏫 presencial · 🎤 6 grupos · 🗳️ evaluación de pares
 
 [Ir a la clase →](clase22.md)
 </div>
 
 <div class="usm-card" markdown>
-### 2️⃣3️⃣ Presentaciones Finales (2)
-**Lunes 16 de noviembre** · 🏫 presencial · 🎤 4 grupos · 🗳️ evaluación de pares
+### 2️⃣3️⃣ Presentaciones Finales (2) y Cierre
+**Lunes 16 de noviembre** · 🏫 presencial · 🎤 5 grupos · 🏁 cierre del curso
 
 [Ir a la clase →](clase23.md)
-</div>
-
-<div class="usm-card" markdown>
-### 2️⃣4️⃣ Presentaciones Finales (3) y Cierre
-**Miércoles 18 de noviembre** · 🏫 presencial · 🎤 3 grupos · 🏁 cierre del curso
-
-[Ir a la clase →](clase24.md)
 </div>
 
 </div>

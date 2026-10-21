@@ -39,7 +39,7 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:35 – 0:50 | ¿Bajo qué condiciones deja de ser viable? Punto de quiebre y sensibilidad |
 | 0:50 – 1:20 | **Taller: flujo, punto de quiebre y veredicto (Hito 7D)** |
 | 1:20 – 1:28 | **Envío del Hito 7D** (buzón, antes de las 19:00) |
-| 1:28 – 1:30 | Cierre del Hito 7 y qué viene: semana sin clases y entrega final |
+| 1:28 – 1:30 | Cierre del Hito 7 y qué viene: días sin clases y entrega final |
 
 ---
 
@@ -171,13 +171,14 @@ En su grupo de proyecto, con la hoja de supuestos del 7B y el 7C abierta:
 
 ## 📚 Para la próxima clase
 
-- **No hay clases del martes 3 al martes 10 de noviembre.** Es la semana para preparar la
-  presentación final: la [guía de la semana sin clases](preparacion-final.md) explica qué entregar
-  y cómo se evalúa.
-- **Hasta el martes 10 de noviembre a las 23:59**, cada grupo sube al buzón la **presentación en
+- **No hay clases del martes 3 al domingo 8 de noviembre.** Son los días para preparar la
+  presentación final: la [guía de preparación](preparacion-final.md) explica qué entregar y cómo se
+  evalúa.
+- **Hasta el domingo 8 de noviembre a las 23:59**, cada grupo sube al buzón la **presentación en
   PDF** y el **prototipo explicado en PDF con resumen ejecutivo**.
-- Las presentaciones son el **11, 16 y 18 de noviembre**, presenciales
-  ([Clase 22](clase22.md)). El pitch es la versión de 10 minutos de todo el semestre.
+- Las presentaciones son el **lunes 9 y el lunes 16 de noviembre**, presenciales
+  ([Clase 22](clase22.md), con el orden sorteado). El pitch es la versión de 8 minutos de todo el
+  semestre.
 
 ---
 
