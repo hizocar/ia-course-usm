@@ -17,6 +17,11 @@
 >
 > 📬 **Buzones:** desde el Hito 6, cada avance se entrega en el [buzón de su clase](entregas.md)
 > (un PDF por grupo). El buzón **cierra a las 19:30**; solo se evalúa lo recibido hasta las 19:00.
+>
+> 🏫💻 **Modalidad desde el 21 de octubre:** los **lunes** son clases **presenciales** y los
+> **miércoles**, **asincrónicas**: no hay sesión en sala y el avance se sube al buzón en el mismo
+> horario (17:30 a 19:00). Las **presentaciones finales** (11, 16 y 18 de noviembre) son
+> **presenciales** los tres días.
 
 ---
 
@@ -130,28 +135,36 @@
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 19** — *lunes 26 de octubre*: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)** Ver [Clase 19](clases/clase19.md).
-- **Clase 20** — *miércoles 28 de octubre*: Taller — costos de operar la solución. 🚀 **Hito 7C — Costos (2,5%)** Ver [Clase 20](clases/clase20.md).
+- **Clase 19** — *lunes 26 de octubre* · 🏫 **presencial**: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)** Ver [Clase 19](clases/clase19.md).
+- **Clase 20** — *miércoles 28 de octubre* · 💻 **asincrónica**: Taller — costos de operar la solución (sin sesión presencial; el avance se sube al buzón entre 17:30 y 19:00). 🚀 **Hito 7C — Costos (2,5%)** Ver [Clase 20](clases/clase20.md).
 
 ---
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-- **Clase 21** — *lunes 2 de noviembre*: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)** Ver [Clase 21](clases/clase21.md).
-- **Clase 22** — *miércoles 4 de noviembre*: Taller — estructura del pitch final. 🚀 **Presentación Final · Avance 1 (5%)** Ver [Clase 22](clases/clase22.md).
+> 📌 **Ajuste de calendario:** para preparar la presentación final, **no hay clases del martes 3 al
+> martes 10 de noviembre**. Las presentaciones duran **tres jornadas presenciales** (11, 16 y 18 de
+> noviembre) y se eliminan los dos avances del pitch: el 30% de la presentación final queda en
+> **10% evaluación de pares + 10% evaluación del profesor + 10% prototipo final completo**.
+
+- **Clase 21** — *lunes 2 de noviembre* · 🏫 **presencial**: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)** Ver [Clase 21](clases/clase21.md).
+- *miércoles 4 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final. Ver la [guía de la semana sin clases](clases/preparacion-final.md).
 
 ---
 
 ## 🗓️ Semana 15 (9 al 13 de noviembre)
 
-- **Clase 23** — *lunes 9 de noviembre*: Ensayo del pitch con retroalimentación. 🚀 **Presentación Final · Avance 2 (5%)** Ver [Clase 23](clases/clase23.md).
-- **Clase 24** — *miércoles 11 de noviembre*: 📤 Entrega del documento final + 🎤 Presentaciones (parte 1). 🎤 **Presentación Final — documento + pitch (20%)** Ver [Clase 24](clases/clase24.md).
+- *lunes 9 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final.
+- *martes 10 de noviembre, 23:59*: 📤 **Cierre del buzón final** — presentación en PDF y prototipo explicado con resumen ejecutivo, para **todos los grupos**. Ver [Entregas](entregas.md).
+- **Clase 22** — *miércoles 11 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (1), 4 grupos. Ver [Clase 22](clases/clase22.md).
 
 ---
 
 ## 🗓️ Semana 16 (16 al 20 de noviembre)
 
-- **Clase 25** — *lunes 16 de noviembre*: 🎤 Presentaciones finales (parte 2). 🎤 **Presentación Final — documento + pitch (20%)** Ver [Clase 25](clases/clase25.md).
-- **Clase 26** — *miércoles 18 de noviembre*: Cierre del curso y retroalimentación final. Ver [Clase 26](clases/clase26.md).
+- **Clase 23** — *lunes 16 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (2), 4 grupos. Ver [Clase 23](clases/clase23.md).
+- **Clase 24** — *miércoles 18 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (3), 3 grupos, y cierre del curso. Ver [Clase 24](clases/clase24.md).
+
+🎤 **Presentación Final — 30%** (pares 10% · profesor 10% · prototipo final 10%)
 
 🏁 **Término de clases: miércoles 18 de noviembre de 2026** *(tercera semana de noviembre)*

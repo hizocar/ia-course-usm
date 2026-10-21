@@ -2,15 +2,20 @@
 
 <div class="usm-session-meta">
 <span>📅 Miércoles 28 de octubre de 2026</span>
-<span>⏱️ 90 minutos</span>
+<span>⏱️ 90 minutos · 💻 asincrónica</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
-<span class="usm-tag-red">🚀 Hito 7C · 2,5% · se entrega en clases</span>
+<span class="usm-tag-red">🚀 Hito 7C · 2,5% · se entrega en el horario de clases</span>
 </div>
 
-!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+!!! warning "Clase asincrónica: hoy no hay sesión presencial"
+    Los miércoles son asincrónicos: trabajen esta página con su grupo, a su ritmo, siguiendo la ruta
+    de abajo. **La entrega no cambia:** el Hito 7C se sube al buzón **entre las 17:30 y las 19:00
+    de hoy**, desde donde estén.
+
+!!! danger "Entrega en el horario de clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
     Tercer avance del [Hito 7](../proyecto.md#hito-7-evaluacion-de-viabilidad): **Hito 7C — Costos
-    de operar (2,5%)**. Se trabaja y se sube al buzón **durante la sesión**; lo recibido fuera del
-    horario de clases no se evalúa y el avance queda con 0.
+    de operar (2,5%)**. Se sube al buzón **entre las 17:30 y las 19:00**; lo recibido fuera de ese
+    horario no se evalúa y el avance queda con 0.
 
     Los costos se agregan a la **misma hoja de supuestos** del 7B.
 
@@ -27,17 +32,17 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 
 ---
 
-## 🗓️ Agenda (90 min)
+## 🗓️ Ruta de trabajo sugerida (90 min, a su ritmo)
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:10 | Qué mostraron los 7B: embudos y supuestos críticos |
+| 0:00 – 0:10 | Revisen su 7B: el embudo y el supuesto crítico que marcaron |
 | 0:10 – 0:25 | Inversión vs. operación · fijos vs. variables |
 | 0:25 – 0:40 | Los costos que no se ven: supervisión, mantención, errores y cumplimiento |
 | 0:40 – 0:50 | Cómo estimar sin cotización · costo por transacción |
 | 0:50 – 1:20 | **Taller: estructura de costos del proyecto (Hito 7C)** |
 | 1:20 – 1:28 | **Envío del Hito 7C** (buzón, antes de las 19:00) |
-| 1:28 – 1:30 | Cierre y vínculo con la Clase 21 (beneficio y veredicto) |
+| 1:28 – 1:30 | Revisen qué traer a la Clase 21 (lunes 2, **presencial**) |
 
 ---
 
@@ -160,7 +165,7 @@ En su grupo de proyecto:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 21](clase21.md) (lunes 2 de noviembre) cierra el Hito 7: **beneficio esperado y
+- La [Clase 21](clase21.md) (lunes 2 de noviembre, **presencial**) cierra el Hito 7: **beneficio esperado y
   veredicto de viabilidad**, con el **Hito 7D**.
 - Traigan la hoja de supuestos completa (7B + 7C): en el 7D se arma el flujo con esas mismas cifras.
 

@@ -98,8 +98,9 @@ califican directamente sobre su peso en la Nota Final.
 - **Hitos (H1-H7):** entregas bisemanales del mismo proyecto, evaluadas con la rúbrica de cada hito
   (ver [Proyecto](proyecto.md)). Un hito con inasistencia justificada puede recuperarse dentro de la
   semana siguiente, previa coordinación con el/la docente.
-- **Presentación final:** documento final del proyecto + pitch en vivo ante el curso, en las últimas
-  sesiones del semestre.
+- **Presentación final:** presentación en PDF y prototipo explicado con resumen ejecutivo, más un
+  pitch en vivo ante el curso en las tres últimas sesiones: evaluación de pares (10%), del profesor
+  (10%) y cumplimiento de los requisitos del prototipo final (10%).
 
 ## 8. Recursos para el aprendizaje
 

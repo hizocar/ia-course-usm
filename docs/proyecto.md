@@ -68,8 +68,8 @@ trabajo del hito anterior.
 <span class="usm-timeline-meta">10% · Cuatro avances entregados <strong>en clases</strong> (2,5% cada uno): evaluación social, evaluación privada, costos y beneficios.</span>
 </li>
 <li class="usm-current">
-<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">4, 9, 11 y 16 nov · Clases 22-25</span></span>
-<span class="usm-timeline-meta">30% · Dos avances en clases (estructura del pitch 5% y ensayo 5%) + documento final y pitch en vivo (20%).</span>
+<span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">11, 16 y 18 nov · Clases 22-24</span></span>
+<span class="usm-timeline-meta">30% · Dos PDF en el buzón hasta el 10 de noviembre y pitch en vivo: evaluación de pares (10%), del profesor (10%) y prototipo final completo (10%).</span>
 </li>
 </ul>
 </div>
@@ -94,8 +94,8 @@ trabajo del hito anterior.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
-<strong>📧 Por correo: hitos 1 a 5, avance 6A y documento final</strong>
-<span>Los hitos 1 a 5 y el avance 6A se enviaron por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>). Por este medio solo queda el <strong>documento final</strong> de la presentación; todo lo demás va al buzón.</span>
+<strong>📧 Por correo: hitos 1 a 5 y avance 6A</strong>
+<span>Los hitos 1 a 5 y el avance 6A se enviaron por correo a <strong>sebastian.azocarm@usm.cl</strong>, un correo por grupo, con el <strong>nombre del grupo en el asunto</strong> (formato: <code>Hito X – Nombre del grupo</code>). Desde el Hito 6C, todo se entrega en el buzón, incluida la presentación final.</span>
 </div>
 [✉️ sebastian.azocarm@usm.cl](mailto:sebastian.azocarm@usm.cl){.usm-btn}
 </div>
@@ -109,9 +109,9 @@ trabajo del hito anterior.
 | Hito 3 — Diseño de la solución con IA | 10% |
 | Hito 4 — Prototipo funcional v1 | 10% |
 | Hito 5 — Riesgos y gobernanza *(A: 5% · B: 5%)* | 10% |
-| Hito 6 — Prototipo v2 refinado *(A: 4% · B: 3% · C: 3%)* | 10% |
+| Hito 6 — Prototipo v2 refinado *(A: 4% · C: 6%)* | 10% |
 | Hito 7 — Evaluación de viabilidad *(4 avances de 2,5%)* | 10% |
-| Presentación final *(2 avances de 5% + 20% documento y pitch)* | 30% |
+| Presentación final *(pares 10% · profesor 10% · prototipo final 10%)* | 30% |
 | **Total** | **100%** |
 
 *Ver la fórmula de Nota Final completa en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
@@ -417,37 +417,45 @@ de viabilidad con los números presentados.
 <div class="usm-deliverable" markdown>
 <span class="usm-deliverable-badge">Presentación final · 30% de la Nota Final</span>
 
-**Objetivo:** consolidar los 7 hitos en un proyecto de negocio viable y comunicarlo en un pitch ante
-el curso.
+**Objetivo:** consolidar los 7 hitos en un proyecto de negocio viable, documentar el prototipo
+final y comunicarlo en un pitch ante el curso.
 
-**Instrucciones**
+**Calendario**
 
-1. Preparen un **documento final** (máx. 8 páginas o 10 láminas) que integre: problema (H1), modelo
-   de negocio (H2), diseño (H3), prototipo (H4 y H6), riesgos y mitigaciones (H5), y evaluación de
-   viabilidad (H7).
-2. Preparen un **pitch de 8-10 minutos** (+ preguntas) con demostración en vivo o grabada del
-   prototipo final.
+| Qué | Cuándo |
+|---|---|
+| Semana sin clases para preparar | Martes 3 al martes 10 de noviembre ([guía](clases/preparacion-final.md)) |
+| Buzones de la entrega final | Abren el martes 3 · cierran el **martes 10 de noviembre, 23:59**, para **todos** los grupos |
+| Presentaciones en vivo (presenciales) | Miércoles 11, lunes 16 y miércoles 18 de noviembre ([Clases 22](clases/clase22.md), [23](clases/clase23.md) y [24](clases/clase24.md)) |
+
+**Qué se entrega** *(dos PDF por grupo, en los [buzones de la entrega final](entregas.md))*
+
+1. **La presentación en PDF**: las 8 a 12 láminas del pitch de 8 a 10 minutos. Se presenta con
+   ese archivo: después del cierre no se aceptan versiones nuevas.
+2. **El prototipo explicado en PDF**: parte con un **resumen ejecutivo** de una página y documenta
+   el prototipo final según la lista de requisitos de abajo.
 
 **Cómo se reparte el 30%**
 
-| Componente | Cuándo | Peso |
+| Componente | Quién evalúa | Peso |
 |---|---|---:|
-| **Avance 1 — Estructura del pitch** | Miércoles 4 de noviembre, en la [Clase 22](clases/clase22.md) | 5% |
-| **Avance 2 — Ensayo con retroalimentación** | Lunes 9 de noviembre, en la [Clase 23](clases/clase23.md) | 5% |
-| **Documento final + pitch en vivo** | 11 y 16 de noviembre, [Clases 24](clases/clase24.md) y [25](clases/clase25.md) | 20% |
+| **Evaluación de pares** | Los demás grupos, con un formulario, al terminar cada presentación | 10% |
+| **Evaluación del profesor** | El profesor, durante la presentación | 10% |
+| **Prototipo final completo** | El profesor, sobre el PDF del prototipo | 10% |
 
-**Formato y entrega**
+**Evaluación de pares (10%).** Cada grupo de la sala califica de 1 a 5: problema y propuesta ·
+prototipo · viabilidad · presentación. El puntaje de cada evaluación es la suma × 5 (de 20 a 100) y
+la nota de pares es el promedio de lo que pusieron los demás grupos. Nadie se evalúa a sí mismo.
 
-- Los dos avances se entregan **en clases**, entre las 17:30 y las 19:00 del día respectivo, en el
-  [buzón de cada avance](entregas.md) (Pitch · Avance 1 y Pitch · Avance 2).
-- Documento final enviado por correo a **sebastian.azocarm@usm.cl** (asunto: `Presentación Final –
-  Nombre del grupo`): **miércoles 11 de noviembre de 2026, hasta las 23:59**.
-- Presentación en vivo, repartida entre las sesiones del **11 y 16 de noviembre**, según el orden
-  que defina el equipo docente.
+**Evaluación del profesor (10%, 100 puntos).** Viabilidad bien justificada (25) · prototipo en la
+demo (25) · riesgos y mitigaciones (15) · claridad, estructura y tiempo (20) · respuesta a preguntas
+(15).
 
-**Criterios de evaluación:** viabilidad del proyecto bien justificada · calidad y funcionamiento del
-prototipo final · tratamiento explícito de riesgos y mitigaciones · claridad, estructura y manejo
-del tiempo en el pitch · capacidad de responder preguntas del curso.
+**Prototipo final completo (10%, 10 requisitos de 10 puntos).** Resumen ejecutivo · qué hace y
+para quién · configuración final completa · al menos 3 interacciones reales con capturas · banco de
+casos y comparación v1 vs. v2 · una mitigación verificada · datos sin información real de clientes
+· límites · cómo probarlo · coherencia con la presentación. El detalle de cada requisito está en la
+[guía de la semana sin clases](clases/preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
 </div>
 
 ---

@@ -2,7 +2,7 @@
 
 <div class="usm-session-meta">
 <span>📅 Lunes 2 de noviembre de 2026</span>
-<span>⏱️ 90 minutos</span>
+<span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
 <span class="usm-tag-red">🚀 Hito 7D · 2,5% · se entrega en clases</span>
 </div>
@@ -39,7 +39,7 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:35 – 0:50 | ¿Bajo qué condiciones deja de ser viable? Punto de quiebre y sensibilidad |
 | 0:50 – 1:20 | **Taller: flujo, punto de quiebre y veredicto (Hito 7D)** |
 | 1:20 – 1:28 | **Envío del Hito 7D** (buzón, antes de las 19:00) |
-| 1:28 – 1:30 | Cierre del Hito 7 y vínculo con la Clase 22 (pitch final) |
+| 1:28 – 1:30 | Cierre del Hito 7 y qué viene: semana sin clases y entrega final |
 
 ---
 
@@ -171,9 +171,13 @@ En su grupo de proyecto, con la hoja de supuestos del 7B y el 7C abierta:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 22](clase22.md) (miércoles 4 de noviembre) empieza la preparación de la **presentación
-  final**: estructura del pitch, con el **Avance 1 (5%)**.
-- Traigan los siete hitos a mano: el pitch es la versión de 10 minutos de todo el semestre.
+- **No hay clases del martes 3 al martes 10 de noviembre.** Es la semana para preparar la
+  presentación final: la [guía de la semana sin clases](preparacion-final.md) explica qué entregar
+  y cómo se evalúa.
+- **Hasta el martes 10 de noviembre a las 23:59**, cada grupo sube al buzón la **presentación en
+  PDF** y el **prototipo explicado en PDF con resumen ejecutivo**.
+- Las presentaciones son el **11, 16 y 18 de noviembre**, presenciales
+  ([Clase 22](clase22.md)). El pitch es la versión de 10 minutos de todo el semestre.
 
 ---
 

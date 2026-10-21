@@ -47,11 +47,11 @@ más una **presentación final (30%)** suman el 100% de la nota.
 </li>
 <li>
 <span class="usm-timeline-title">Hitos 2 a 7 — Modelo de negocio, diseño, prototipo, riesgos y viabilidad</span>
-<span class="usm-timeline-meta">cada 2 semanas, hasta el 4 de noviembre · 10% c/u</span>
+<span class="usm-timeline-meta">cada 2 semanas, hasta el 2 de noviembre · 10% c/u</span>
 </li>
 <li>
 <span class="usm-timeline-title">Presentación final</span>
-<span class="usm-timeline-meta">11 y 16 de noviembre · 30%</span>
+<span class="usm-timeline-meta">11, 16 y 18 de noviembre · 30%</span>
 </li>
 </ul>
 

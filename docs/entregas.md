@@ -2,9 +2,10 @@
 <div>
 <span class="usm-hero-tag">Entregas en clases</span>
 <h1>📬 Buzones de entrega</h1>
-<p>Cada avance del proyecto tiene su propio buzón. Se abre durante la clase, se cierra
+<p>Cada avance del proyecto tiene su propio buzón. Se abre en el horario de clases, se cierra
 automáticamente a las <strong>19:30</strong> del mismo día, y lo recibido queda archivado en el
-repositorio del curso.</p>
+repositorio del curso. Los dos buzones de la <strong>entrega final</strong> están abiertos del 3 al
+10 de noviembre.</p>
 </div>
 </div>
 
@@ -94,17 +95,30 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 </div>
 
 <div class="usm-card" markdown>
-### 🎤 Pitch · Avance 1 · 5%
-**Miércoles 4 de noviembre** · Estructura del pitch
+### 🎤 Final · Presentación en PDF
+**Martes 3 al martes 10 de noviembre, hasta las 23:59** · Las láminas del pitch
 
-[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=pitcha){.usm-btn target="_blank" rel="noopener"}
+*Se presenta con este archivo. Máximo 25 MB.*
+
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=final-presentacion){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 <div class="usm-card" markdown>
-### 🎤 Pitch · Avance 2 · 5%
-**Lunes 9 de noviembre** · Ensayo con retroalimentación
+### 🎤 Final · Prototipo explicado
+**Martes 3 al martes 10 de noviembre, hasta las 23:59** · Con resumen ejecutivo
 
-[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=pitchb){.usm-btn target="_blank" rel="noopener"}
+*Se evalúa con la lista de requisitos del prototipo final (10%). Máximo 25 MB.*
+
+[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=final-prototipo){.usm-btn target="_blank" rel="noopener"}
+</div>
+
+<div class="usm-card" markdown>
+### 🗳️ Evaluación de pares
+**11, 16 y 18 de noviembre, de 17:00 a 20:00** · Durante las presentaciones
+
+*Cada grupo evalúa a los que presentan, con el código del día (10%).*
+
+[🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 </div>
@@ -112,6 +126,12 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 !!! warning "Entregas anteriores"
     Los avances del **Hito 5** (28 y 30 de septiembre) se recibieron por correo, antes de habilitar
     el buzón. Desde el Hito 6 en adelante, la entrega es por este medio.
+
+!!! info "La entrega final es distinta"
+    Los buzones de la **presentación en PDF** y del **prototipo explicado** no se abren en una
+    clase: aceptan envíos desde el **martes 3** hasta el **martes 10 de noviembre a las 23:59**,
+    para todos los grupos. A esa hora se cierran solos. Ver la
+    [guía de la semana sin clases](clases/preparacion-final.md).
 
 ## Preguntas frecuentes
 

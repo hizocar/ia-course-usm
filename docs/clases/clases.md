@@ -12,8 +12,12 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 !!! warning "Evaluación 100% por proyecto"
     El curso no tiene certámenes ni controles: se evalúa íntegramente con los **7 hitos** del
     [Proyecto del curso](../proyecto.md) (10% cada uno) más una **presentación final** (30%). Los
-    hitos se publican, trabajan y reciben **los miércoles**, aproximadamente cada dos semanas. Las
-    sesiones de los lunes son de contenido y trabajo formativo, sin nota directa.
+    avances se trabajan y se entregan en el horario de clases.
+
+!!! info "Modalidad desde el 21 de octubre"
+    **Lunes: presencial** en sala. **Miércoles: asincrónico**, sin sesión en sala; el avance se
+    sube al buzón en el mismo horario (17:30 a 19:00). Las **presentaciones finales** del 11, 16 y
+    18 de noviembre son **presenciales** los tres días.
 
 !!! tip "🚀 Proyecto del curso"
     Las clases no son solo teoría suelta: alimentan un [**Proyecto único de 7 hitos + presentación
@@ -143,65 +147,58 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣8️⃣ Evaluación Social de Iniciativas con IA
-**Miércoles 21 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7A · 2,5% · 📬 buzón en clases
+**Miércoles 21 de octubre** · 💻 asincrónica · 🚀 Hito 7A · 2,5% · 📬 buzón de 17:30 a 19:00
 
 [Ir a la clase →](clase18.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 1️⃣9️⃣ Evaluación Privada de Iniciativas con IA
-**Lunes 26 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7B · 2,5% · 📬 buzón en clases
+**Lunes 26 de octubre** · 🏫 presencial · 🚀 Hito 7B · 2,5% · 📬 buzón en clases
 
 [Ir a la clase →](clase19.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 2️⃣0️⃣ Taller — Costos de Operar la Solución
-**Miércoles 28 de octubre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7C · 2,5% · 📬 buzón en clases
+**Miércoles 28 de octubre** · 💻 asincrónica · 🚀 Hito 7C · 2,5% · 📬 buzón de 17:30 a 19:00
 
 [Ir a la clase →](clase20.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 2️⃣1️⃣ Taller — Beneficio y Veredicto de Viabilidad
-**Lunes 2 de noviembre** · Unidad 3 — Evaluación Social y Privada · 🚀 Hito 7D · 2,5% · 📬 buzón en clases
+**Lunes 2 de noviembre** · 🏫 presencial · 🚀 Hito 7D · 2,5% · 📬 buzón en clases
 
 [Ir a la clase →](clase21.md)
 </div>
 
 <div class="usm-card" markdown>
-### 2️⃣2️⃣ Taller — Estructura del Pitch Final
-**Miércoles 4 de noviembre** · Presentación Final · 🎤 Avance 1 · 5% · 📬 buzón en clases
+### 🏖️ Semana sin clases · Preparación de la Presentación Final
+**3 al 10 de noviembre** · 📤 presentación y prototipo en PDF hasta el martes 10, 23:59
+
+[Ver la guía →](preparacion-final.md)
+</div>
+
+<div class="usm-card" markdown>
+### 2️⃣2️⃣ Presentaciones Finales (1)
+**Miércoles 11 de noviembre** · 🏫 presencial · 🎤 4 grupos · 🗳️ evaluación de pares
 
 [Ir a la clase →](clase22.md)
 </div>
 
 <div class="usm-card" markdown>
-### 2️⃣3️⃣ Ensayo del Pitch con Retroalimentación
-**Lunes 9 de noviembre** · Presentación Final · 🎤 Avance 2 · 5% · 📬 buzón en clases
+### 2️⃣3️⃣ Presentaciones Finales (2)
+**Lunes 16 de noviembre** · 🏫 presencial · 🎤 4 grupos · 🗳️ evaluación de pares
 
 [Ir a la clase →](clase23.md)
 </div>
 
 <div class="usm-card" markdown>
-### 2️⃣4️⃣ Presentaciones Finales (1) y Documento Final
-**Miércoles 11 de noviembre** · Presentación Final · 🎤 20% · 📤 documento final hasta las 23:59
+### 2️⃣4️⃣ Presentaciones Finales (3) y Cierre
+**Miércoles 18 de noviembre** · 🏫 presencial · 🎤 3 grupos · 🏁 cierre del curso
 
 [Ir a la clase →](clase24.md)
-</div>
-
-<div class="usm-card" markdown>
-### 2️⃣5️⃣ Presentaciones Finales (2)
-**Lunes 16 de noviembre** · Presentación Final · 🎤 20% · pitch en vivo
-
-[Ir a la clase →](clase25.md)
-</div>
-
-<div class="usm-card" markdown>
-### 2️⃣6️⃣ Cierre del Curso
-**Miércoles 18 de noviembre** · Retroalimentación final · Sesión formativa
-
-[Ir a la clase →](clase26.md)
 </div>
 
 </div>

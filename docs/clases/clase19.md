@@ -2,7 +2,7 @@
 
 <div class="usm-session-meta">
 <span>📅 Lunes 26 de octubre de 2026</span>
-<span>⏱️ 90 minutos</span>
+<span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
 <span class="usm-tag-red">🚀 Hito 7B · 2,5% · se entrega en clases</span>
 </div>
@@ -174,8 +174,8 @@ En su grupo de proyecto:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 20](clase20.md) (miércoles 28 de octubre) es el taller de **costos de operar la
-  solución**, y ahí se entrega el **Hito 7C**.
+- La [Clase 20](clase20.md) (miércoles 28 de octubre, **asincrónica**) es el taller de **costos de
+  operar la solución**: no hay sesión en sala, y el **Hito 7C** se sube al buzón entre 17:30 y 19:00.
 - Traigan la hoja de supuestos en formato editable (planilla): los costos se agregan a la misma hoja.
 - Revisen el prototipo del Hito 6: qué herramientas usa, cuántas consultas hace y quién lo supervisa.
   Todo eso cuesta.
