@@ -8,15 +8,25 @@
 </div>
 
 !!! info "Última jornada de presentaciones y última clase del semestre"
-    Presentan los **tres grupos** que faltan, según el orden publicado en la [Clase 22](clase22.md),
+    Presentan los **tres grupos** que faltan, en el orden sorteado (abajo),
     con las mismas [reglas y pautas](clase22.md#reglas-de-las-tres-jornadas). Después se cierra el
     curso. Es **presencial**, aunque sea miércoles.
+
+## 🎤 Orden de hoy
+
+| Orden | Grupo |
+|---:|---|
+| 1 | energIA |
+| 2 | los_capi |
+| 3 | six_pack |
+
+*Sorteado el 21 de octubre; ver la [Clase 22](clase22.md#orden-de-presentacion).*
 
 ## 🗓️ Agenda (90 min)
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:05 | Instrucciones y **código del día** |
+| 0:00 – 0:05 | Instrucciones y orden |
 | 0:05 – 0:59 | **Tres presentaciones**: 10 min de pitch + 5 min de preguntas + 3 min para que los grupos evalúen |
 | 0:59 – 1:15 | Retroalimentación general de las presentaciones y del semestre |
 | 1:15 – 1:28 | Evaluación del curso: qué mantener, qué cambiar |
@@ -25,7 +35,7 @@
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>🗳️ Evaluación de pares</strong>
-<span>Abierta hoy de <strong>17:00 a 20:00</strong>. Pide el código del día.</span>
+<span>Abierta hoy de <strong>17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
 </div>
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>

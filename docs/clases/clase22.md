@@ -29,12 +29,22 @@ aplicándolas en sus propuestas y presentaciones.*
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:08 | Instrucciones, orden, **código del día** y cómo funciona la evaluación de pares |
+| 0:00 – 0:08 | Instrucciones, orden y cómo funciona la evaluación de pares |
 | 0:08 – 1:20 | **Cuatro presentaciones**: 10 min de pitch + 5 min de preguntas + 3 min para que los grupos evalúen |
 | 1:20 – 1:30 | Cierre de la jornada |
 
-Presentan **4 grupos el 11, 4 el 16 y 3 el 18 de noviembre**. El orden lo define el profesor y se
-publica en esta página antes de la primera jornada.
+### Orden de presentación
+
+Sorteado el 21 de octubre (Python 3.12, `random.seed(20261021)` sobre la lista de grupos de la
+página de [Notas](../notas.md)).
+
+| Jornada | Orden |
+|---|---|
+| **Miércoles 11 de noviembre** (hoy) | 1. Torque AI · 2. Los Republicanos · 3. los3x2 · 4. mafilia |
+| **Lunes 16 de noviembre** ([Clase 23](clase23.md)) | 1. IA Solution · 2. Inteligencia Sansana · 3. Lanyardigans · 4. Starcompany |
+| **Miércoles 18 de noviembre** ([Clase 24](clase24.md)) | 1. energIA · 2. los_capi · 3. six_pack |
+
+Si dos grupos quieren intercambiar su turno, avisen al profesor antes del lunes 9 de noviembre.
 
 ---
 
@@ -57,8 +67,8 @@ Al terminar las preguntas de cada presentación, **cada grupo de la sala** abre 
 evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 
 1. Abran el [formulario de evaluación de pares](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){target="_blank" rel="noopener"}.
-2. Elijan **su grupo** y el **grupo que presentó**, y escriban el **código del día** que anuncia el
-   profesor.
+2. Elijan **su grupo** y el **grupo que presentó**. En el campo **"Código del día"** escriban
+   **ICS64225**.
 3. Califiquen los cuatro criterios de 1 a 5 y, si quieren, agreguen un comentario breve.
 
 | Criterio | Pregunta |
@@ -71,13 +81,14 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 - El **puntaje** de cada evaluación es la suma de los cuatro criterios × 5 (de 20 a 100).
 - La **nota de pares** de un grupo es el promedio de los puntajes que le pusieron los demás grupos.
 - Un grupo **no puede evaluarse a sí mismo**. Si un grupo evalúa dos veces al mismo, vale la última.
-- El formulario solo está abierto los días de presentación, de 17:00 a 20:00. El profesor puede
-  descartar evaluaciones que no correspondan, por ejemplo de un grupo que no estaba en la sala.
+- El formulario solo está abierto los días de presentación, de 17:00 a 20:00. Cada evaluación queda
+  registrada con el grupo que la envió y la hora: el profesor descarta las que no correspondan, por
+  ejemplo de un grupo que no estaba en la sala o enviadas antes de que el grupo presentara.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>🗳️ Evaluación de pares</strong>
-<span>Abierta los días <strong>11, 16 y 18 de noviembre, de 17:00 a 20:00</strong>. Pide el código del día.</span>
+<span>Abierta los días <strong>11, 16 y 18 de noviembre, de 17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
 </div>
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>

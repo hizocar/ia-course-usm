@@ -82,7 +82,7 @@ trabajo del hito anterior.
 >
 > 📬 **Desde el Hito 6 el canal es el buzón.** Cada clase tiene su propio
 > [buzón de entrega](entregas.md): se sube **un PDF por grupo** con el nombre del grupo. El buzón
-> **se cierra solo a las 19:30** y lo recibido queda archivado en el repositorio del curso.
+> **se cierra solo a las 19:30** y lo recibido queda archivado en el archivo privado del curso.
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
@@ -434,6 +434,11 @@ final y comunicarlo en un pitch ante el curso.
    ese archivo: después del cierre no se aceptan versiones nuevas.
 2. **El prototipo explicado en PDF**: parte con un **resumen ejecutivo** de una página y documenta
    el prototipo final según la lista de requisitos de abajo.
+
+> ⚠️ **Si falta un PDF.** Sin el **prototipo explicado** en el buzón, el componente *prototipo final
+> completo* queda con 0 (10% de la nota final). Sin la **presentación en PDF**, el grupo presenta
+> igual con el archivo que traiga, pero pierde el requisito 10 del prototipo (*coherencia con la
+> presentación*), porque no hay contra qué compararlo.
 
 **Cómo se reparte el 30%**
 

@@ -17,6 +17,11 @@
     El plazo es el mismo para **todos los grupos**, presenten el 11, el 16 o el 18 de noviembre. Se
     presenta con el PDF subido: después del cierre no se aceptan versiones nuevas.
 
+> ⚠️ **Si falta un PDF.** Sin el **prototipo explicado** en el buzón, el componente *prototipo final
+> completo* queda con 0 (10% de la nota final). Sin la **presentación en PDF**, el grupo presenta
+> igual con el archivo que traiga, pero pierde el requisito 10 del prototipo (*coherencia con la
+> presentación*), porque no hay contra qué compararlo.
+
 No hay clases el **miércoles 4** ni el **lunes 9 de noviembre**. Esta semana es para cerrar el
 proyecto: terminar el prototipo final, armar la presentación y ensayarla. Esta página reúne todo lo
 que necesitan.
@@ -30,7 +35,7 @@ que necesitan.
 | Hito 7D, último avance del Hito 7 | Lunes 2 de noviembre, en la [Clase 21](clase21.md) (presencial) |
 | Semana sin clases | Martes 3 al martes 10 de noviembre |
 | Buzones de la entrega final | Abren el **martes 3** · cierran el **martes 10 de noviembre, 23:59** |
-| 🎤 Presentaciones (1) | Miércoles 11 de noviembre, [Clase 22](clase22.md) · **presencial** |
+| 🎤 Presentaciones (1) | Miércoles 11 de noviembre, [Clase 22](clase22.md) · **presencial** · [orden sorteado](clase22.md#orden-de-presentacion) |
 | 🎤 Presentaciones (2) | Lunes 16 de noviembre, [Clase 23](clase23.md) · **presencial** |
 | 🎤 Presentaciones (3) y cierre del curso | Miércoles 18 de noviembre, [Clase 24](clase24.md) · **presencial** |
 

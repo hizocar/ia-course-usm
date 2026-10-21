@@ -4,7 +4,7 @@
 <h1>📬 Buzones de entrega</h1>
 <p>Cada avance del proyecto tiene su propio buzón. Se abre en el horario de clases, se cierra
 automáticamente a las <strong>19:30</strong> del mismo día, y lo recibido queda archivado en el
-repositorio del curso. Los dos buzones de la <strong>entrega final</strong> están abiertos del 3 al
+archivo privado del curso. Los dos buzones de la <strong>entrega final</strong> están abiertos del 3 al
 10 de noviembre.</p>
 </div>
 </div>
@@ -21,13 +21,11 @@ repositorio del curso. Los dos buzones de la <strong>entrega final</strong> est�
 ```mermaid
 flowchart LR
     A["El grupo sube<br/>su PDF al buzón"] --> B["Queda registrada<br/>la hora exacta"]
-    B --> C["El archivo se guarda en<br/>el repositorio de entregas"]
+    B --> C["El archivo se guarda en<br/>el archivo privado del curso"]
     C --> D["19:30: el buzón<br/>se cierra solo"]
 ```
 
-Cada envío queda en el repositorio [ia-course-entregas](https://github.com/hizocar/ia-course-entregas)
-como `entregas/<avance>/<nombre-del-grupo>.pdf`, junto a un registro con la hora de recepción. Si un
-grupo reenvía, se guarda la última versión y el registro conserva ambos envíos.
+Cada envío queda guardado en un archivo **privado** del curso, al que solo accede el profesor, junto a un registro con la hora de recepción. Si un grupo reenvía, se guarda la última versión y el registro conserva ambos envíos.
 
 ## Buzón de cada avance
 
@@ -116,7 +114,7 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
 ### 🗳️ Evaluación de pares
 **11, 16 y 18 de noviembre, de 17:00 a 20:00** · Durante las presentaciones
 
-*Cada grupo evalúa a los que presentan, con el código del día (10%).*
+*Cada grupo evalúa a los que presentan (10%). En «Código del día», **ICS64225**.*
 
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>
@@ -148,5 +146,5 @@ grupo reenvía, se guarda la última versión y el registro conserva ambos enví
     Universidad. Avisa a **sebastian.azocarm@usm.cl** apenas tengas el respaldo.
 
 ??? question "¿Dónde queda mi entrega?"
-    En el repositorio [ia-course-entregas](https://github.com/hizocar/ia-course-entregas), en la
-    carpeta del avance correspondiente.
+    En el archivo privado del curso, en la carpeta del avance correspondiente. Al enviar, el buzón
+    muestra la hora de recepción: guarden esa pantalla como comprobante.
