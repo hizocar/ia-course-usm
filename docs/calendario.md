@@ -124,7 +124,7 @@
 ## 🗓️ Semana 12 (19 al 23 de octubre)
 
 - **Clase 17** — *lunes 19 de octubre*: Taller de Prototipado (2) — prueba de regresión, comparación v1 vs. v2 y cierre del prototipo v2. 🚀 **Hito 6C — Comparación y prototipo v2 cerrado (6%)** Ver [Clase 17](clases/clase17.md).
-- **Clase 18** — *miércoles 21 de octubre*: Evaluación Social de Iniciativas basadas en IA. 🚀 **Hito 7A — Impacto social (2,5%)** Ver [Clase 18](clases/clase18.md).
+- **Clase 18** — *miércoles 21 de octubre* · 💻 **asincrónica**: Evaluación Social de Iniciativas basadas en IA (sin sesión presencial; el avance se sube al buzón entre 17:30 y 19:00). 🚀 **Hito 7A — Impacto social (2,5%)** Ver [Clase 18](clases/clase18.md).
 
 ---
 

@@ -2,18 +2,24 @@
 
 <div class="usm-session-meta">
 <span>📅 Miércoles 21 de octubre de 2026</span>
-<span>⏱️ 90 minutos</span>
+<span>⏱️ 90 minutos · 💻 asincrónica</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
-<span class="usm-tag-red">🚀 Hito 7A · 2,5% · se entrega en clases</span>
+<span class="usm-tag-red">🚀 Hito 7A · 2,5% · se entrega en el horario de clases</span>
 </div>
 
-!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+!!! warning "Clase asincrónica: hoy no hay sesión presencial"
+    Desde hoy, **las clases de los miércoles son asincrónicas** y **las de los lunes son
+    presenciales**. Hoy no hay sala: trabajen esta página con su grupo, a su ritmo, siguiendo la
+    ruta de abajo. **La entrega no cambia:** el Hito 7A se sube al buzón **entre las 17:30 y las
+    19:00 de hoy**, desde donde estén.
+
+!!! danger "Entrega en el horario de clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
     Hoy empieza el [Hito 7 — Evaluación de viabilidad](../proyecto.md#hito-7-evaluacion-de-viabilidad),
     que se construye en **cuatro avances entregados en clases** (2,5% cada uno): **7A hoy**, 7B el
     26 de octubre, 7C el 28 de octubre y 7D el 2 de noviembre.
 
-    Hoy corresponde el **Hito 7A — Impacto social**. Se sube al buzón **durante la sesión**; lo
-    recibido fuera del horario de clases no se evalúa y el avance queda con 0.
+    Hoy corresponde el **Hito 7A — Impacto social**. Se sube al buzón **entre las 17:30 y las 19:00**;
+    lo recibido fuera de ese horario no se evalúa y el avance queda con 0.
 
 ## 🎯 Objetivos de la sesión
 
@@ -29,17 +35,17 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 
 ---
 
-## 🗓️ Agenda (90 min)
+## 🗓️ Ruta de trabajo sugerida (90 min, a su ritmo)
 
 | Tiempo | Bloque |
 |---|---|
-| 0:00 – 0:10 | Cierre del Hito 6 y qué pide el Hito 7: cuatro avances, una conclusión |
+| 0:00 – 0:10 | Lean el aviso de arriba y qué pide el Hito 7: cuatro avances, una conclusión |
 | 0:10 – 0:25 | Privada vs. social: el mismo proyecto, dos preguntas distintas |
 | 0:25 – 0:40 | Quiénes ganan y quiénes pierden: el mapa de actores de una solución con IA |
 | 0:40 – 0:50 | Medir antes de monetizar · la trampa de las transferencias |
 | 0:50 – 1:20 | **Taller: mapa de actores y tabla de efectos (Hito 7A)** |
 | 1:20 – 1:28 | **Envío del Hito 7A** (buzón, antes de las 19:00) |
-| 1:28 – 1:30 | Cierre y vínculo con la Clase 19 (evaluación privada) |
+| 1:28 – 1:30 | Revisen qué traer a la Clase 19 (lunes 26, **presencial**) |
 
 ---
 
@@ -199,7 +205,7 @@ la dejan fuera.
 
 ## 📚 Para la próxima clase
 
-- La [Clase 19](clase19.md) (lunes 26 de octubre) toma el mismo proyecto desde la empresa: **Evaluación Privada**.
+- La [Clase 19](clase19.md) (lunes 26 de octubre, **presencial en sala**) toma el mismo proyecto desde la empresa: **Evaluación Privada**.
   Ahí se entrega el **Hito 7B**: cuántos usuarios o transacciones alcanza la solución, quién captura
   el valor y a través de qué mecanismo.
 - Traigan la tabla de hoy: los beneficios que descartaron como transferencias suelen ser exactamente
