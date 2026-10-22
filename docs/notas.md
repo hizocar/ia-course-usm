@@ -19,44 +19,44 @@ hito, 30% la presentación final).</p>
 
 ## 📋 Resumen por grupo
 
-| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|
-| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 |
-| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 |
-| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 |
-| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 |
-| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 |
-| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 |
-| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 | 81 |
-| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 |
-| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 |
-| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 |
-| Torque AI | 100 | 73 | 85 | 69 | 0 | 66 | 0 | 41 |
+| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C | Hito 7A |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 | 83 |
+| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 | 95 |
+| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 | 0 |
+| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 | 98 |
+| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 | 98 |
+| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 | 66 |
+| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 | 81 | 95 |
+| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 | 88 |
+| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 | 94 |
+| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 | 95 |
+| Torque AI | 100 | 73 | 85 | 69 | 0 | 66 | 0 | 41 | 30 |
 
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
-(6%). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
+(6%); el Hito 7, de cuatro avances de 2,5% (7A a 7D). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
 
 ### Puntaje acumulado a la fecha
 
-Hasta el Hito 6C se ha evaluado el **60% de la nota final** (Hitos 1 a 4: 10% cada uno · 5A y 5B: 5%
-cada uno · 6A: 4% · 6C: 6%). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
+Hasta el Hito 7A se ha evaluado el **62,5% de la nota final** (Hitos 1 a 4: 10% cada uno · 5A y 5B: 5%
+cada uno · 6A: 4% · 6C: 6% · 7A: 2,5%). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
 **promedio a la fecha** es ese mismo puntaje expresado sobre 100.
 
 | Grupo | Puntos acumulados | De un máximo de | Promedio a la fecha |
 |---|---:|---:|---:|
-| energIA | 49,45 | 60 | **82,4** |
-| IA Solution | 49,33 | 60 | **82,2** |
-| Inteligencia Sansana | 53,44 | 60 | **89,1** |
-| Lanyardigans | 40,39 | 60 | **67,3** |
-| los3x2 | 48,99 | 60 | **81,7** |
-| Los Republicanos | 52,48 | 60 | **87,5** |
-| los_capi | 40,41 | 60 | **67,3** |
-| mafilia | 45,89 | 60 | **76,5** |
-| six_pack | 48,99 | 60 | **81,7** |
-| Starcompany | 49,65 | 60 | **82,8** |
-| Torque AI | 38,46 | 60 | **64,1** |
+| energIA | 51,52 | 62,5 | **82,4** |
+| IA Solution | 51,70 | 62,5 | **82,7** |
+| Inteligencia Sansana | 53,44 | 62,5 | **85,5** |
+| Lanyardigans | 42,84 | 62,5 | **68,5** |
+| los3x2 | 51,44 | 62,5 | **82,3** |
+| Los Republicanos | 54,13 | 62,5 | **86,6** |
+| los_capi | 42,79 | 62,5 | **68,5** |
+| mafilia | 48,09 | 62,5 | **76,9** |
+| six_pack | 51,34 | 62,5 | **82,1** |
+| Starcompany | 52,02 | 62,5 | **83,2** |
+| Torque AI | 39,21 | 62,5 | **62,7** |
 
-*Faltan por evaluar el Hito 7 y la presentación final (40% de la nota final).*
+*Faltan por evaluar los avances 7B, 7C y 7D y la presentación final (37,5% de la nota final).*
 
 ## 📍 Hito 1 — Idea y problema de IA
 
@@ -916,6 +916,161 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Comentario:** el antes y el después de la cuota inventada está bien elegido y muestra una mejora real. Pero faltó lo central del avance: un banco fijo de 6 a 8 casos corrido en ambas versiones y la tabla de comparación.
     **Nota:** Se corrigió con este PDF, que reúne contenido de los avances 6A, 6B y 6C.
 
+---
+
+## 📍 Hito 7A — Impacto social
+
+### Pauta de evaluación (100 puntos)
+
+| Dimensión | Puntos | Qué evalúa |
+|---|---:|---|
+| **1. Mapa de actores** | 15 | Al menos **cuatro actores**, tres de ellos **fuera de la empresa**, con el efecto que recibe cada uno. |
+| **2. Tabla de efectos sociales** | 35 | Al menos **tres beneficios y dos costos**, cada uno en su **unidad física**; al menos uno **cuantificado con su supuesto explícito**; sin beneficios privados ni efectos contados dos veces. |
+| **3. Conexión con el Hito 5** | 20 | Al menos un efecto negativo que viene de un riesgo **propio** del 5A o del 5B, con su mitigación. |
+| **4. Transferencias** | 15 | Al menos una transferencia **identificada y excluida**, con la razón correcta: lo que una parte gana, otra lo pierde. |
+| **5. Conclusión** | 15 | Tres líneas: cómo queda la sociedad, quién paga el costo y cómo se mitiga, en coherencia con la tabla. |
+| **Total** | **100** | |
+
+??? info "Escalas de cada dimensión"
+    **Mapa de actores (15):** 14-15 cuatro o más actores, tres externos, con el efecto de cada uno ·
+    10-13 cumple el mínimo con actores genéricos o sin el efecto de cada uno · 5-9 menos de tres
+    actores externos · 0-4 ausente.
+
+    **Tabla de efectos (35):** 31-35 tres beneficios y dos costos en unidades físicas, al menos uno
+    cuantificado con su supuesto, sin beneficios privados ni dobles conteos · 24-30 cumple los mínimos
+    con unidades o supuestos débiles, o algún doble conteo · 15-23 faltan efectos, unidades o
+    cuantificación · 0-14 ausente o centrada en beneficios privados.
+
+    **Conexión con el Hito 5 (20):** 18-20 riesgo propio del 5A o 5B con una mitigación concreta y
+    coherente con lo ya implementado · 12-17 conectado, con mitigación genérica o cifras que no
+    calzan con lo registrado antes · 6-11 riesgo genérico sin conexión explícita · 0-5 ausente.
+
+    **Transferencias (15):** 14-15 identificada y excluida con la razón correcta · 9-13 identificada
+    con una razón incompleta, o una transferencia aparece como beneficio en la tabla · 4-8 confundida
+    con otro concepto · 0-3 ausente.
+
+    **Conclusión (15):** 14-15 cómo queda la sociedad, quién paga y cómo se mitiga, coherente con la
+    tabla · 9-13 falta una de las tres piezas · 4-8 genérica · 0-3 ausente.
+
+> 📌 Se entregó por el [buzón](entregas.md) durante la [Clase 18](clases/clase18.md), que fue
+> asincrónica, y vale **2,5%** de la nota final. Como en avances anteriores, el límite de dos páginas
+> no se descontó cuando el exceso venía del formato.
+
+!!! warning "Entrega después de las 19:00"
+    **Inteligencia Sansana** subió su avance a las **19:15:54**. Según la regla publicada en la
+    [Clase 18](clases/clase18.md) y en los [buzones](entregas.md), lo recibido después de las 19:00
+    no se evalúa: el avance queda con **0**. Igual se revisó, y la corrección está abajo como
+    retroalimentación para el 7B.
+
+### Notas por grupo
+
+| Grupo | Hito 7A |
+|---|---:|
+| energIA | **83** |
+| IA Solution | **95** |
+| Inteligencia Sansana | **0** |
+| Lanyardigans | **98** |
+| los3x2 | **98** |
+| Los Republicanos | **66** |
+| los_capi | **95** |
+| mafilia | **88** |
+| six_pack | **94** |
+| Starcompany | **95** |
+| Torque AI | **30** |
+
+### Detalle de la evaluación por grupo
+
+??? note "energIA — 83/100"
+    **Mapa de actores (15):** 13/15 — Cuatro actores, tres de ellos externos (clientes residenciales, empresas e instituciones, contratistas y cuadrillas), con una lectura de qué recibe cada uno. "Empresas e instituciones" queda genérico, y no aparecen los clientes de sectores con menos sensores, que eran los afectados de su propio Hito 5A.
+    **Tabla de efectos (35):** 27/35 — Tres beneficios y dos costos con unidad física, y una cuantificación bien declarada: 6 fallas al mes (20 fallas × 30%), marcada como escenario académico. Pero las filas 1 y 2 cuentan los mismos 6 eventos dos veces sin decirlo, el efecto sobre los clientes queda en "fallas" y no en clientes u horas sin suministro, y los dos costos recaen en ENEL y sus equipos.
+    **Conexión con el Hito 5 (20):** 15/20 — El riesgo de datos incompletos del 5B se conecta con su mitigación implementada: tabla de pendientes, sin imputar ni asignar cero, y revisión humana. Falta el riesgo de sesgo del 5A (subestimar fallas en sectores con menos sensores), que era el costo social más directo del proyecto.
+    **Transferencias (15):** 15/15 — Excluyen los menores pagos a contratistas por emergencias con la razón correcta, y precisan que solo cuentan los recursos reales liberados (horas-hombre, traslados, materiales).
+    **Conclusión (15):** 13/15 — Sigue el formato de tres líneas y es coherente con la tabla, pero el costo queda solo en ENEL y su equipo: ningún actor externo aparece como perjudicado.
+    **Comentario:** análisis prudente y honesto con el alcance de los datos sintéticos. Para el 7B, separen el mismo evento visto desde el cliente (horas sin suministro) y desde la empresa (intervenciones evitadas), y recuperen a los clientes de sectores con menos telemetría.
+
+??? note "IA Solution — 95/100"
+    **Mapa de actores (15):** 15/15 — Cuatro actores fuera de Chilexpress (destinatarios, tiendas, puntos de retiro y comunidad) y dos internos, con el signo de cada efecto. El efecto mixto sobre los destinatarios está bien marcado.
+    **Tabla de efectos (35):** 32/35 — Tres beneficios y dos costos, todos en unidades físicas y trazados al Hito 1: 2.304 fallos evitados al día (80.000 × 8% × 60% × 60%) y 5.760 contactos innecesarios (9.600 marcados − 3.840 fallos reales). Contar los falsos positivos como un costo es justo lo que pedía la clase. Falta la columna "¿se puede monetizar?", y los 4 km por intento y el 10% de redirección son supuestos ilustrativos (lo declaran).
+    **Conexión con el Hito 5 (20):** 18/20 — El efecto 5 es la cara social del sesgo por proxy de comuna del 5B, con la mitigación del 6C y el riesgo estructural que sigue abierto. Pero la "verificación de equidad" que anota cada respuesta es la misma autoevaluación del asistente que se observó en el 6C: la verificación real es la auditoría por comuna que proponen.
+    **Transferencias (15):** 15/15 — Excluyen las compensaciones a las tiendas y también los ≈ $89 MM mensuales del Hito 1, como beneficio privado que va al 7B.
+    **Conclusión (15):** 15/15 — Tres líneas con cifras: quién gana (kilómetros y esperas), quién paga (5.760 contactos al día) y cómo se mitiga.
+    **Comentario:** uno de los avances más completos, con cifras trazables y una tabla de supuestos lista para el 7B. Para la presentación, muestren la auditoría de contactos por comuna como condición para operar.
+
+??? note "Inteligencia Sansana — 0/100 (fuera de plazo)"
+    **Entrega:** subida al buzón a las 19:15:54, después del corte de las 19:00. Según la regla publicada, no se evalúa y el avance queda con 0. Lo que sigue es solo retroalimentación: con la pauta, el documento habría obtenido 78/100.
+    **Mapa de actores (15):** 12/15 — Cinco actores, con tres externos (clientes, hogares y otros supermercados) y el efecto de cada uno. "Usuarios cuyos datos utiliza el sistema" son los mismos clientes con otro riesgo, y el mapa va como lista, sin relaciones.
+    **Tabla de efectos (35):** 23/35 — Buena base común (piloto de 100 usuarios con 4 usos al mes) y un efecto bien cuantificado: 67 horas al mes (400 usos × 10 min). Pero "mayor acceso" cuenta usos (400 recomendaciones), no un efecto; los dos costos no tienen cantidad (uno queda en "0 diferencias en 1 par"), y falta la columna "¿se puede monetizar?".
+    **Conexión con el Hito 5 (20):** 17/20 — Los dos costos vienen de sus riesgos del 5A (par Las Condes–La Pintana) y del 5B (sin dirección exacta ni GPS), con la mitigación de la v2. Falta decir qué queda abierto después de mitigar, más allá de ampliar las pruebas.
+    **Transferencias (15):** 15/15 — Excluyen el aumento de ventas de Cencosud que viene de otros supermercados, con la razón correcta.
+    **Conclusión (15):** 11/15 — Son tres párrafos y no tres líneas, y no dicen quién paga el costo, solo qué riesgos existen.
+    **Comentario:** el ahorro de tiempo está bien construido. Para el 7B, cuantifiquen también los costos (cuántas personas, cuántos datos) con la misma base de 100 usuarios, y suban el avance antes de las 19:00.
+    **Nota:** 3 páginas, por el formato.
+
+??? note "Lanyardigans — 98/100"
+    **Mapa de actores (15):** 15/15 — Seis actores, cinco fuera de SUD, incluidos los trabajadores nuevos, los titulares de los datos y las otras productoras (marcadas como transferencia), con el efecto de cada uno.
+    **Tabla de efectos (35):** 34/35 — Cuatro beneficios y dos costos, todos con unidad, cantidad y supuesto trazado al Hito 2: 52 h al mes de coordinación (40 h × 30% × 4,33 semanas) y 10 h al mes de espera (15 min × 2 cupos × 20 eventos). Aclaran que las horas liberadas son beneficio social solo si se reasignan, y separan la parte de multa del incidente evitado. La fila 1 recae en el equipo de SUD, que es un efecto más privado que social.
+    **Conexión con el Hito 5 (20):** 19/20 — Dos costos conectados: la exclusión de perfiles nuevos (5A: de 5 al mes sin mitigar al empate P017–P044 del 6C) y la exposición de contactos (5B: de 6 a 0). Como se vio en el 6C, parte del empate se explica porque la v2 dejó de puntuar.
+    **Transferencias (15):** 15/15 — Dos bien razonadas: las multas y compensaciones al cliente, y los trabajadores que llegan desde otras productoras.
+    **Conclusión (15):** 15/15 — Tres líneas con quién gana, quién paga y la mitigación de cada costo.
+    **Comentario:** entrega ejemplar en una sola página, con los supuestos listos para el 7B. Para la presentación, muestren la plaza reservada como la decisión de diseño que convierte un costo social en un beneficio.
+
+??? note "los3x2 — 98/100"
+    **Mapa de actores (15):** 15/15 — Cinco actores, tres externos (Estado, comunidades y ecosistema aguas abajo, proveedores de reactivos), con el flujo que conecta a cada uno con la planta. Descartan los actores genéricos con una razón.
+    **Tabla de efectos (35):** 33/35 — Efectos medidos con la base simulada: ≈ 3.285 t al año de cobre recuperado, −8,9% de cobre en relaves, +35 t al año netas de reactivos y la cobertura de UG2. Evitan sumar dos veces la misma tonelada (filas 1 y 2). Falta un supuesto para reproducir las 3.285 t: la ley de cabeza del mineral no está en la lista S1 a S5.
+    **Conexión con el Hito 5 (20):** 20/20 — Dos costos conectados al 5A y al 5B: la exposición de las cuadrillas, con la brecha ajustada por mineral declarada como pendiente, y las predicciones demasiado seguras en UG2, con la cobertura de 89,1% a 93,3% que ya verificaron en el 6C.
+    **Transferencias (15):** 15/15 — Los impuestos y excedentes al Estado (sumarlos contaría dos veces el cobre recuperado) y la venta de espumante, que es un pago y no el costo real.
+    **Conclusión (15):** 15/15 — Qué mejora, quién paga y cómo se mitiga, con cifras.
+    **Comentario:** evaluación social sólida y bien trazada a los hitos anteriores. Para el 7B, agreguen la ley de cabeza a los supuestos: sin ella, nadie puede rehacer el cálculo del cobre.
+
+??? note "Los Republicanos — 66/100"
+    **Mapa de actores (15):** 15/15 — Seis grupos con beneficio y costo para cada uno, incluidos proveedores, trabajadores y comunidades de la cadena, consumidores y ambiente. La definición del contrafactual (seguir con Excel y el comité) es muy buena.
+    **Tabla de efectos (35):** 17/35 — Hay más de tres beneficios y dos costos, pero solo en forma cualitativa. La sección 4 propone indicadores con unidad (minutos por ficha, proporción de casos), sin ninguna cantidad. El avance pedía al menos un efecto cuantificado con su supuesto explícito, aunque fuera ilustrativo, y declarar que "ningún efecto se ha medido" no lo reemplaza.
+    **Conexión con el Hito 5 (20):** 19/20 — La cobertura desigual del 5A (7 de 20 combinaciones país–vino; Chile/TV01 6/7 y Brasil/TV01 3/6) y la privacidad del 5B, con el resguardo de la v2 y su límite. Dicen con honestidad que no se ha demostrado equidad.
+    **Transferencias (15):** 5/15 — Distinguen lo privado de lo social ("no el beneficio privado de vender más vino"), pero no identifican ninguna transferencia ni explican por qué se excluye: por ejemplo, ventas que VSPT le quita a otra viña, o impuestos.
+    **Conclusión (15):** 10/15 — El balance es honesto, pero no sigue el formato de tres líneas y no dice quién paga el costo principal, salvo como un riesgo general.
+    **Comentario:** el documento más cuidadoso con el alcance de su evidencia, pero el avance pedía cuantificar con supuestos explícitos, aunque fueran ilustrativos. Para el 7B van a necesitar esos números: partan por cuántas fichas revisa el CNP al año y cuántos minutos toma cada una.
+
+??? note "los_capi — 95/100"
+    **Mapa de actores (15):** 15/15 — Seis actores, cuatro de ellos externos y con signo: locales de comunas periféricas, consumidores finales, otros clientes B2B como titulares de datos, y comunidad y ambiente.
+    **Tabla de efectos (35):** 32/35 — Tres beneficios y dos costos, con los supuestos S1 a S7 numerados y reutilizables: 54.080 unidades al año de merma evitada (130.000 × 4% × 20% × 52), ≈ 17.300 h al año de pedido manual, y 8.000 unidades a la semana de trato desigual sin mitigar. Convertir el 8% del costo de ventas en unidades es un supuesto fuerte que no se discute.
+    **Conexión con el Hito 5 (20):** 18/20 — Las filas 4 y 5 vienen del 5A y del 5B, con la mitigación verificada en el 6C (125 vs. 125), lo pendiente sobre proxies indirectos y la confirmación humana de pedidos atípicos. El par sigue siendo el del 6C (150 vs. 110), no el registrado en el 5A, como ya se comentó.
+    **Transferencias (15):** 15/15 — El margen por ventas recuperadas y la garantía contra quiebres, con la razón correcta y la referencia al 7B.
+    **Conclusión (15):** 15/15 — Sigue el formato, con cifras, quién paga y las tres mitigaciones.
+    **Comentario:** un salto claro respecto de avances anteriores: cada cifra tiene su supuesto. Para el 7B, validen el 4% de merma con algún dato del rubro, porque de él dependen casi todas las cifras.
+
+??? note "mafilia — 88/100"
+    **Mapa de actores (15):** 15/15 — Dos actores internos y cuatro externos, incluida la ciudadanía con baja adopción digital, que es la afectada por la recomendación sin usarla.
+    **Tabla de efectos (35):** 26/35 — Tres beneficios y tres costos, con unidad física, columna de monetización y advertencias contra el doble conteo. Pero solo un efecto está cuantificado (240 atenciones al mes: 8.000 × 15% × 20%), y es un indicador intermedio. La espera y las horas de trabajo quedan como metas porcentuales sin una base.
+    **Conexión con el Hito 5 (20):** 18/20 — El efecto 4 viene de la brecha digital del 5A (reservas web como proxy), con el cold start y la prueba de periferia del 6A (de 1 a 3 módulos), y el efecto 5, del piso de tres módulos del 6C con su costo posible. Ambos salen de casos de prueba y no de un déficit medido, y lo dicen.
+    **Transferencias (15):** 15/15 — Los pagos del Estado al proveedor B2G, bien excluidos y separados de los recursos reales que sí habría que medir.
+    **Conclusión (15):** 14/15 — Tres líneas con quién gana, quién paga y cómo se mitiga, aunque la primera no dice cómo queda la sociedad.
+    **Comentario:** avance honesto y bien trazado a cada hito. Para el 7B necesitan una base: una espera media inicial y las horas extra por oficina, aunque sean supuestos.
+
+??? note "six_pack — 94/100"
+    **Mapa de actores (15):** 15/15 — Seis actores fuera de CCU y uno interno, con signo, incluidos los almacenes periféricos, los titulares de los datos y la comunidad.
+    **Tabla de efectos (35):** 33/35 — Siete efectos con unidad física, supuestos trazados y la regla explícita de no contar dos veces la venta recuperada. Las cifras cuadran: ~33.000 h al mes de traslados evitados (50 min × 40.000 locales) y ~27.000 h al mes de los almaceneros. También incluyen el efecto sobre el consumo de alcohol. El ticket de $3.000 y el 50% de consumidores que cambiaría de local son supuestos fuertes que sostienen la cifra principal.
+    **Conexión con el Hito 5 (20):** 16/20 — La exposición de datos (5B) se conecta con la mitigación del 6A (ID interno), verificada en el 6C. Pero el efecto 4 cita "prueba del par: 87% vs. 35%", y en su 5A y en su 6C el par dio el mismo 87% en ambos casos: el 35 es la venta esperada en packs. El riesgo de exclusión sigue siendo válido, pero esa cifra no lo respalda.
+    **Transferencias (15):** 15/15 — Tres bien explicadas: el margen de CCU frente a la competencia, la venta del almacenero que viene de otro local, y el IVA y el ILA.
+    **Conclusión (15):** 15/15 — Sigue el formato con cifras anuales, quién paga y las cuatro mitigaciones.
+    **Comentario:** una de las tablas más completas del curso. Corrijan la cita del par antes del 7B: una cifra de evidencia mal citada le quita credibilidad a todo lo demás.
+
+??? note "Starcompany — 95/100"
+    **Mapa de actores (15):** 15/15 — Cuatro actores externos y uno interno, incluidas las personas con baja alfabetización digital y los proveedores, con el efecto de cada uno.
+    **Tabla de efectos (35):** 34/35 — Base común explícita (S1 a S7) y cálculos que cuadran: 33,3 h al mes (400 × 5 min), 10 carritos (40 × 25%), 5 personas más autónomas, 40 sesiones con categorías faltantes y 50 personas expuestas. Separan exposición de daño y advierten no sumar los beneficios como si fueran personas distintas.
+    **Conexión con el Hito 5 (20):** 17/20 — Los dos costos vienen del 5A (par vegetariano–vegano) y del 5B (historial). Las mitigaciones son en su mayoría pendientes del 6C (verificar el aviso, completar el catálogo, accesos y borrado), no cambios ya verificados.
+    **Transferencias (15):** 15/15 — El descuento como transferencia, con un ejemplo claro, y las ventas que solo se desplazan desde otro supermercado.
+    **Conclusión (15):** 14/15 — Tres puntos con quién gana, quién paga y cómo se mitiga, aunque el primero no sigue el formato.
+    **Comentario:** avance muy riguroso y honesto. Falta cerrar los pendientes del 6C: mientras el aviso de categorías faltantes no esté verificado, el beneficio 2 y la mitigación del costo 4 dependen de lo mismo.
+    **Nota:** Se corrigió el segundo envío (18:45); el de las 18:34 quedó como respaldo.
+
+??? note "Torque AI — 30/100"
+    **Mapa de actores (15):** 11/15 — Cuatro actores con su efecto (compradores, instituciones financieras, concesionarias tradicionales y vendedores), en lista. Falta algún actor afectado sin usar la solución, como los titulares de los datos.
+    **Tabla de efectos (35):** 8/35 — No hay tabla de efectos: los efectos se describen en texto, sin unidad física, sin cantidades y sin supuestos. El ahorro de tiempo, el sobreendeudamiento evitado y la reducción de asimetrías son buenas ideas, pero ninguna se mide.
+    **Conexión con el Hito 5 (20):** 4/20 — La privacidad aparece como beneficio y no como riesgo. No hay ningún efecto negativo conectado a los riesgos de su 5B (la capacidad de pago como indicador socioeconómico, los datos entregados voluntariamente) ni su mitigación.
+    **Transferencias (15):** 2/15 — No identifican transferencias. Además, los clientes que dejan a las concesionarias tradicionales se cuentan como un costo, cuando es plata que cambia de bolsillo entre empresas.
+    **Conclusión (15):** 5/15 — Afirma que el proyecto es "socialmente deseable" y que los beneficios superan "ampliamente" los costos, sin cifras que lo respalden. No dice quién paga ni cómo se mitiga.
+    **Comentario:** el texto entiende la diferencia entre evaluación privada y social, pero no hace los cuatro pasos del taller. Para el 7B, partan por la tabla de la Clase 18: cuántos compradores, cuántas horas de búsqueda y cuántos créditos rechazados se evitan, cada uno con su supuesto.
+    **Nota:** 3 páginas; la tercera tiene cuatro líneas.
 ---
 
 > 📚 Volver al [Proyecto del curso](proyecto.md) o al [Calendario](calendario.md).
