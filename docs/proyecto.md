@@ -382,8 +382,8 @@ la documentación del cambio.
     | Avance | Cuándo | Qué se entrega | Peso |
     |---|---|---|---:|
     | **7A — Impacto social** | Miércoles 21 de octubre, en la [Clase 18](clases/clase18.md) | Beneficios y costos sociales de la iniciativa | 2,5% |
-    | **7B — Evaluación privada** | Lunes 26 de octubre, en la [Clase 19](clases/clase19.md) | Flujo privado: quién gana, quién paga | 2,5% |
-    | **7C — Costos de operar** | Miércoles 28 de octubre, en la [Clase 20](clases/clase20.md) | Estructura de costos de la solución, con supuestos | 2,5% |
+    | **7B — Evaluación privada** | Miércoles 28 de octubre, junto con el 7C (el lunes 26 no fue presencial; contenido en la [Clase 19](clases/clase19.md)) | Flujo privado: quién gana, quién paga | 2,5% |
+    | **7C — Costos de operar** | Miércoles 28 de octubre, en la [Clase 20](clases/clase20.md), presencial, en un solo buzón con el 7B y clave del día | Estructura de costos de la solución, con supuestos | 2,5% |
     | **7D — Beneficio y conclusión** | Lunes 2 de noviembre, en la [Clase 21](clases/clase21.md) | Beneficio esperado y veredicto de viabilidad | 2,5% |
 
 <div class="usm-deliverable" markdown>

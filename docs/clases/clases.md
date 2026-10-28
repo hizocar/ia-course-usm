@@ -19,6 +19,9 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
     sube al buzón en el mismo horario (17:30 a 19:00). Las **presentaciones finales** son los
     **lunes 9 y 16 de noviembre**, presenciales.
 
+    **Excepción:** el lunes 26 de octubre no fue presencial y el **miércoles 28 sí lo es**. Ese día
+    se entregan juntos los Hitos 7B y 7C, con la clave del día.
+
 !!! tip "🚀 Proyecto del curso"
     Las clases no son solo teoría suelta: alimentan un [**Proyecto único de 7 hitos + presentación
     final**](../proyecto.md) que cada grupo desarrolla durante todo el semestre, hasta un prototipo
@@ -154,14 +157,14 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
 
 <div class="usm-card" markdown>
 ### 1️⃣9️⃣ Evaluación Privada de Iniciativas con IA
-**Lunes 26 de octubre** · 🏫 presencial · 🚀 Hito 7B · 2,5% · 📬 buzón en clases
+**Lunes 26 de octubre** · 💻 no presencial · 🚀 Hito 7B · 2,5% · 📬 se entrega el miércoles 28
 
 [Ir a la clase →](clase19.md)
 </div>
 
 <div class="usm-card" markdown>
 ### 2️⃣0️⃣ Taller — Costos de Operar la Solución
-**Miércoles 28 de octubre** · 💻 asincrónica · 🚀 Hito 7C · 2,5% · 📬 buzón de 17:30 a 19:00
+**Miércoles 28 de octubre** · 🏫 presencial · 🚀 Hitos 7B y 7C · 2,5% c/u · 🔑 buzón con clave del día
 
 [Ir a la clase →](clase20.md)
 </div>

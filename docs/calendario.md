@@ -22,6 +22,10 @@
 > **miércoles**, **asincrónicas**: no hay sesión en sala y el avance se sube al buzón en el mismo
 > horario (17:30 a 19:00). Las **presentaciones finales** son los **lunes 9 y 16 de noviembre**,
 > presenciales.
+>
+> 🔁 **Cambio en la semana del 26 de octubre:** el **lunes 26 no fue presencial** y el **miércoles 28
+> sí lo es**. Los Hitos **7B y 7C** se entregan juntos el **miércoles 28**, en un solo buzón con la
+> **clave del día**, que se da en la sala.
 
 ---
 
@@ -135,8 +139,8 @@
 
 ## 🗓️ Semana 13 (26 al 30 de octubre)
 
-- **Clase 19** — *lunes 26 de octubre* · 🏫 **presencial**: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)** Ver [Clase 19](clases/clase19.md).
-- **Clase 20** — *miércoles 28 de octubre* · 💻 **asincrónica**: Taller — costos de operar la solución (sin sesión presencial; el avance se sube al buzón entre 17:30 y 19:00). 🚀 **Hito 7C — Costos (2,5%)** Ver [Clase 20](clases/clase20.md).
+- **Clase 19** — *lunes 26 de octubre* · 💻 **no presencial**: Evaluación Privada de Iniciativas basadas en IA. 🚀 **Hito 7B — Evaluación privada (2,5%)**, que se entrega el **miércoles 28** junto con el 7C. Ver [Clase 19](clases/clase19.md).
+- **Clase 20** — *miércoles 28 de octubre* · 🏫 **presencial**: Taller — costos de operar la solución. 🚀 **Hitos 7B y 7C (2,5% cada uno)**, en un solo buzón con la clave del día, entre 17:30 y 19:00. Ver [Clase 20](clases/clase20.md).
 
 ---
 

@@ -2,20 +2,21 @@
 
 <div class="usm-session-meta">
 <span>📅 Miércoles 28 de octubre de 2026</span>
-<span>⏱️ 90 minutos · 💻 asincrónica</span>
+<span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
-<span class="usm-tag-red">🚀 Hito 7C · 2,5% · se entrega en el horario de clases</span>
+<span class="usm-tag-red">🚀 Hitos 7B y 7C · 2,5% cada uno · se entregan en clases con clave</span>
 </div>
 
-!!! warning "Clase asincrónica: hoy no hay sesión presencial"
-    Los miércoles son asincrónicos: trabajen esta página con su grupo, a su ritmo, siguiendo la ruta
-    de abajo. **La entrega no cambia:** el Hito 7C se sube al buzón **entre las 17:30 y las 19:00
-    de hoy**, desde donde estén.
+!!! warning "Hoy la clase es presencial y se entregan el 7B y el 7C"
+    El lunes 26 no hubo clase presencial, así que hoy, **miércoles 28, la clase es en la sala**. Se
+    entregan juntos el **Hito 7B** (pendiente del lunes) y el **Hito 7C**: **un solo PDF por grupo**
+    con ambos avances, subido al buzón con la **clave del día**, que se da en la sala.
 
-!!! danger "Entrega en el horario de clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
-    Tercer avance del [Hito 7](../proyecto.md#hito-7-evaluacion-de-viabilidad): **Hito 7C — Costos
-    de operar (2,5%)**. Se sube al buzón **entre las 17:30 y las 19:00**; lo recibido fuera de ese
-    horario no se evalúa y el avance queda con 0.
+!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+    Segundo y tercer avance del [Hito 7](../proyecto.md#hito-7-evaluacion-de-viabilidad):
+    **Hito 7B — Evaluación privada** ([Clase 19](clase19.md)) y **Hito 7C — Costos de operar**,
+    2,5% cada uno. Se suben al buzón **entre las 17:30 y las 19:00**; sin la clave del día el buzón
+    no acepta el envío, y lo recibido fuera de ese horario no se evalúa.
 
     Los costos se agregan a la **misma hoja de supuestos** del 7B.
 
@@ -41,7 +42,7 @@ plataformas y programas, evaluando procedimientos y técnicas innovadoras.*
 | 0:25 – 0:40 | Los costos que no se ven: supervisión, mantención, errores y cumplimiento |
 | 0:40 – 0:50 | Cómo estimar sin cotización · costo por transacción |
 | 0:50 – 1:20 | **Taller: estructura de costos del proyecto (Hito 7C)** |
-| 1:20 – 1:28 | **Envío del Hito 7C** (buzón, antes de las 19:00) |
+| 1:20 – 1:28 | **Envío de los Hitos 7B y 7C** (un PDF, buzón con clave, antes de las 19:00) |
 | 1:28 – 1:30 | Revisen qué traer a la Clase 21 (lunes 2, **presencial**) |
 
 ---
@@ -171,12 +172,12 @@ En su grupo de proyecto:
 
 ---
 
-## 📬 Buzón del Hito 7C
+## 📬 Buzón de los Hitos 7B y 7C
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
-<strong>📤 Entrega aquí el Hito 7C — Costos de operar</strong>
-<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:30</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+<strong>📤 Entrega aquí los Hitos 7B y 7C</strong>
+<span>Un <strong>PDF por grupo</strong> con ambos avances, el nombre del grupo y la <strong>clave del día</strong> (se da en la sala). El buzón <strong>se cierra a las 19:30</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
 </div>
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7c){.usm-btn target="_blank" rel="noopener"}
 </div>

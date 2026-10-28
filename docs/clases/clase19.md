@@ -2,15 +2,21 @@
 
 <div class="usm-session-meta">
 <span>📅 Lunes 26 de octubre de 2026</span>
-<span>⏱️ 90 minutos · 🏫 presencial</span>
+<span>⏱️ 90 minutos · 💻 no presencial</span>
 <span class="usm-tag-gold">Unidad 3 · Diseño de una Solución con IA: Evaluación Social y Privada</span>
-<span class="usm-tag-red">🚀 Hito 7B · 2,5% · se entrega en clases</span>
+<span class="usm-tag-red">🚀 Hito 7B · 2,5% · se entrega el miércoles 28</span>
 </div>
 
-!!! danger "Entrega en clases: solo se evalúa lo enviado hoy entre 17:30 y 19:00"
+!!! warning "Cambio: esta clase no fue presencial y el 7B se entrega el miércoles 28"
+    El lunes 26 de octubre no hubo clase presencial. El **Hito 7B — Evaluación privada (2,5%)** se
+    entrega el **miércoles 28 de octubre**, en la [Clase 20](clase20.md), que **sí es presencial**:
+    un solo PDF con los **Hitos 7B y 7C**, subido al buzón entre las 17:30 y las 19:00 con la
+    **clave del día** que se da en la sala.
+
+!!! danger "Segundo avance del Hito 7"
     Segundo avance del [Hito 7](../proyecto.md#hito-7-evaluacion-de-viabilidad): **Hito 7B —
-    Evaluación privada (2,5%)**. Se trabaja y se sube al buzón **durante la sesión**; lo recibido
-    fuera del horario de clases no se evalúa y el avance queda con 0.
+    Evaluación privada (2,5%)**. Lo recibido fuera del horario de la Clase 20 no se evalúa y el
+    avance queda con 0.
 
     Lo que armen hoy (la **hoja de supuestos**) se reutiliza en el 7C y el 7D: el Hito 7 evalúa la
     **trazabilidad** entre avances.
@@ -174,8 +180,9 @@ En su grupo de proyecto:
 
 ## 📚 Para la próxima clase
 
-- La [Clase 20](clase20.md) (miércoles 28 de octubre, **asincrónica**) es el taller de **costos de
-  operar la solución**: no hay sesión en sala, y el **Hito 7C** se sube al buzón entre 17:30 y 19:00.
+- La [Clase 20](clase20.md) (miércoles 28 de octubre, **presencial**) es el taller de **costos de
+  operar la solución**. Ese día se entregan juntos los **Hitos 7B y 7C**, entre 17:30 y 19:00, con
+  la clave del día.
 - Traigan la hoja de supuestos en formato editable (planilla): los costos se agregan a la misma hoja.
 - Revisen el prototipo del Hito 6: qué herramientas usa, cuántas consultas hace y quién lo supervisa.
   Todo eso cuesta.
@@ -186,10 +193,10 @@ En su grupo de proyecto:
 
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
-<strong>📤 Entrega aquí el Hito 7B — Evaluación privada</strong>
-<span>Un <strong>PDF por grupo</strong>, con el nombre del grupo. El buzón <strong>se cierra a las 19:30</strong>, pero solo se evalúa lo enviado <strong>hasta las 19:00</strong>.</span>
+<strong>📤 El Hito 7B se entrega en el buzón de la Clase 20</strong>
+<span>Miércoles 28 de octubre, entre las 17:30 y las 19:00: un solo PDF con los <strong>Hitos 7B y 7C</strong> y la <strong>clave del día</strong>, que se da en la sala.</span>
 </div>
-[📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7b){.usm-btn target="_blank" rel="noopener"}
+[📬 Abrir buzón 7B + 7C](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7c){.usm-btn target="_blank" rel="noopener"}
 </div>
 
 Ver todos los buzones y las reglas de entrega en [Entregas](../entregas.md).
