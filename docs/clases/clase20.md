@@ -7,6 +7,10 @@
 <span class="usm-tag-red">🚀 Hitos 7B y 7C · 2,5% cada uno · se entregan en clases con clave</span>
 </div>
 
+!!! tip "🧭 Antes de empezar: [Lo que queda](../lo-que-queda.md)"
+    Cómo se conectan el 7B, el 7C, el 7D y la presentación final, con un ejemplo de punta a punta,
+    la estructura del PDF único de hoy y el calendario hasta el cierre.
+
 !!! warning "Hoy la clase es presencial y se entregan el 7B y el 7C"
     El lunes 26 no hubo clase presencial, así que hoy, **miércoles 28, la clase es en la sala**. Se
     entregan juntos el **Hito 7B** (pendiente del lunes) y el **Hito 7C**: **un solo PDF por grupo**

@@ -7,6 +7,10 @@
 <span class="usm-tag-red">🚀 Hito 7B · 2,5% · se entrega el miércoles 28</span>
 </div>
 
+!!! tip "🧭 Antes de empezar: [Lo que queda](../lo-que-queda.md)"
+    Cómo se conectan el 7B, el 7C, el 7D y la presentación final, con un ejemplo de punta a punta,
+    la estructura del PDF único de hoy y el calendario hasta el cierre.
+
 !!! warning "Cambio: esta clase no fue presencial y el 7B se entrega el miércoles 28"
     El lunes 26 de octubre no hubo clase presencial. El **Hito 7B — Evaluación privada (2,5%)** se
     entrega el **miércoles 28 de octubre**, en la [Clase 20](clase20.md), que **sí es presencial**:

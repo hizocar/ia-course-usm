@@ -14,6 +14,9 @@ Material y guía de cada sesión del curso. Cada clase dura **90 minutos** y se 
     [Proyecto del curso](../proyecto.md) (10% cada uno) más una **presentación final** (30%). Los
     avances se trabajan y se entregan en el horario de clases.
 
+!!! tip "🧭 Recta final: [Lo que queda](../lo-que-queda.md)"
+    El hilo conductor del Hito 7 y de la presentación final, y el calendario hasta el 16 de noviembre.
+
 !!! info "Modalidad desde el 21 de octubre"
     **Lunes: presencial** en sala. **Miércoles: asincrónico**, sin sesión en sala; el avance se
     sube al buzón en el mismo horario (17:30 a 19:00). Las **presentaciones finales** son los

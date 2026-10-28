@@ -66,17 +66,10 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 </div>
 
 <div class="usm-card" markdown>
-### 🔁 Hito 7B · 2,5%
-**Se entrega el miércoles 28 de octubre** · Evaluación privada
-
-*El lunes 26 no fue presencial: el 7B va en el buzón del 7C, junto con ese avance.*
-</div>
-
-<div class="usm-card" markdown>
 ### 🔑 Hitos 7B y 7C · 2,5% c/u
 **Miércoles 28 de octubre** · Presencial · Evaluación privada y costos de operar
 
-*Un solo PDF con ambos avances. Pide la **clave del día** en la sala.*
+*El lunes 26 no fue presencial: un solo PDF con ambos avances ([estructura](lo-que-queda.md#hoy-un-solo-pdf-con-el-7b-y-el-7c)). Pide la **clave del día** en la sala.*
 
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=hito7c){.usm-btn target="_blank" rel="noopener"}
 </div>

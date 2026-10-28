@@ -19,6 +19,9 @@ liderar organizaciones más ágiles, competitivas y visionarias en la era de la 
 
 > 🗓️ Revisa el detalle semana a semana en [**Calendario**](calendario.md).
 
+!!! tip "🧭 Recta final del curso"
+    Qué queda, cómo se conecta y qué se entrega cada día: [**Lo que queda**](lo-que-queda.md).
+
 ## 📌 Descripción
 
 Esta asignatura electiva tiene por objetivo complementar, expandir y enriquecer la formación del

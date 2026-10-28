@@ -78,6 +78,7 @@ nav:
   - Home: index.md
   - Programa: programa.md
   - Proyecto: proyecto.md
+  - "🧭 Lo que queda": lo-que-queda.md
   - Clases:
       - clases/clases.md
       - "Clase 1 · Presentación e Introducción a la IA": clases/clase1.md
