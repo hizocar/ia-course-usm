@@ -1024,13 +1024,15 @@ documento, la <strong>hoja de supuestos</strong>.</p>
 <p>Sigamos con el ejemplo de clases: un modelo que le dice al equipo de cobranza <strong>a qué clientes en
 mora llamar primero</strong>. Las cifras son ilustrativas; lo que importa es cómo pasan de un avance al
 siguiente.</p>
-<div class="tabbed-set" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><label for="__tabbed_1_1">7A · Impacto social</label><div class="tabbed-content">
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">7A · Impacto social</label><label for="__tabbed_1_2">7B · Evaluación privada</label><label for="__tabbed_1_3">7C · Costos de operar</label><label for="__tabbed_1_4">7D · Beneficio y veredicto</label><label for="__tabbed_1_5">Presentación final</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
 <p>Los ejecutivos dejan de hacer llamadas inútiles y los clientes son contactados a tiempo. El costo
 social: clientes de comunas que el modelo podría priorizar menos (el sesgo del Hito 5A). La deuda
 que la empresa recupera <strong>no</strong> es beneficio social: es una <strong>transferencia</strong> del cliente a la
 empresa.</p>
 </div>
-<input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><label for="__tabbed_1_2">7B · Evaluación privada</label><div class="tabbed-content">
+<div class="tabbed-block">
 <p><strong>Embudo:</strong> 12.000 clientes en mora al mes → 9.000 con teléfono válido (75%) → el modelo prioriza
 el 30%: <strong>2.700 llamadas</strong> → se logra contactar al 60%: <strong>1.620 clientes</strong>.</p>
 <p><strong>Sin proyecto</strong>, paga el 30% de los contactados; <strong>con proyecto</strong>, el 35%. La diferencia
@@ -1038,7 +1040,7 @@ el 30%: <strong>2.700 llamadas</strong> → se logra contactar al 60%: <strong>1
 <strong>$12,15 millones al mes de valor incremental</strong>.</p>
 <p>👉 Lo que en el 7A era transferencia aquí sí cuenta: es valor que <strong>captura la empresa</strong>.</p>
 </div>
-<input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><label for="__tabbed_1_3">7C · Costos de operar</label><div class="tabbed-content">
+<div class="tabbed-block">
 <p><strong>Inversión inicial:</strong> $8 millones (integración y preparación de datos).</p>
 <p><strong>Operación mensual:</strong> cómputo y licencias $300.000 (variable) + supervisión humana 10 h × $15.000
 = $150.000 (fijo) + auditoría de sesgo trimestral, la mitigación del 5A, $600.000 / 3 =
@@ -1046,7 +1048,7 @@ $200.000 al mes (fijo). Total: <strong>$650.000 al mes</strong>.</p>
 <p><strong>Costo por transacción:</strong> $650.000 / 2.700 llamadas priorizadas (el volumen del 7B) = <strong>$241
 por llamada</strong>.</p>
 </div>
-<input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><label for="__tabbed_1_4">7D · Beneficio y veredicto</label><div class="tabbed-content">
+<div class="tabbed-block">
 <p><strong>Beneficio neto:</strong> $12,15 millones − $0,65 millones = <strong>$11,5 millones al mes</strong>, y la inversión
 se recupera en menos de un mes.</p>
 <p><strong>Punto de quiebre:</strong> cada punto de mejora en la tasa de pago vale $2,43 millones al mes. Los
@@ -1055,10 +1057,11 @@ deja de convenir si la mejora cae <strong>bajo 0,4 puntos</strong> (hoy suponemo
 <p><strong>Veredicto:</strong> viable, <strong>siempre que</strong> la mejora real en el piloto supere 0,4 puntos y la
 auditoría de sesgo no detecte trato desigual por comuna.</p>
 </div>
-<input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><label for="__tabbed_1_5">Presentación final</label><div class="tabbed-content">
+<div class="tabbed-block">
 <p>La primera lámina dice el veredicto: <em>"Priorizar la cobranza con IA recupera $11,5 millones al
 mes; deja de convenir solo si la mejora en la tasa de pago cae bajo 0,4 puntos."</em> Todo lo demás
 es la evidencia que lo sostiene.</p>
+</div>
 </div>
 </div>
 <hr />
