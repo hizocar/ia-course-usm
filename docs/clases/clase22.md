@@ -39,6 +39,71 @@ Si dos grupos quieren intercambiar su turno, avisen al profesor antes del lunes 
 
 ---
 
+## ▶️ Presentaciones de hoy
+
+Haz clic en la portada o en **Presentar**: el PDF se abre en una pestaña nueva. Para pantalla
+completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → *Presentar*).
+
+<div class="usm-deck-grid" markdown>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">1</span>
+[![Portada de la presentación de Torque AI](../presentaciones/clase22/torque-ai.jpg)](../presentaciones/clase22/torque-ai.pdf){ target="_blank" rel="noopener" }
+
+**Torque AI** · 11 láminas
+
+[▶️ Presentar](../presentaciones/clase22/torque-ai.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck usm-deck-missing" markdown>
+<span class="usm-deck-num">2</span>
+<div class="usm-deck-empty">Sin PDF</div>
+
+**Los Republicanos**
+
+No subió la presentación ni el prototipo. Presenta desde su propio equipo.
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">3</span>
+[![Portada de la presentación de los3x2](../presentaciones/clase22/los-3x2.jpg)](../presentaciones/clase22/los-3x2.pdf){ target="_blank" rel="noopener" }
+
+**los3x2** · 11 láminas
+
+[▶️ Presentar](../presentaciones/clase22/los-3x2.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">4</span>
+[![Portada de la presentación de mafilia](../presentaciones/clase22/mafilia.jpg)](../presentaciones/clase22/mafilia.pdf){ target="_blank" rel="noopener" }
+
+**mafilia** · 12 láminas
+
+[▶️ Presentar](../presentaciones/clase22/mafilia.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">5</span>
+[![Portada de la presentación de IA Solution](../presentaciones/clase22/ia-solution.jpg)](../presentaciones/clase22/ia-solution.pdf){ target="_blank" rel="noopener" }
+
+**IA Solution** · 10 láminas
+
+[▶️ Presentar](../presentaciones/clase22/ia-solution.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">6</span>
+[![Portada de la presentación de Inteligencia Sansana](../presentaciones/clase22/inteligencia-sansana.jpg)](../presentaciones/clase22/inteligencia-sansana.pdf){ target="_blank" rel="noopener" }
+
+**Inteligencia Sansana** · 9 láminas
+
+[▶️ Presentar](../presentaciones/clase22/inteligencia-sansana.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+</div>
+
+---
+
 ## 🗓️ Agenda (90 min)
 
 | Tiempo | Bloque |
