@@ -36,7 +36,7 @@
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>🗳️ Evaluación de pares</strong>
-<span>Abierta hoy de <strong>17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
+<span>Abierta hoy de <strong>17:00 a 20:00</strong>.</span>
 </div>
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>

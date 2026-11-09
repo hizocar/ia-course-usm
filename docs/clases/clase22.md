@@ -133,8 +133,7 @@ Al terminar las preguntas de cada presentación, **cada grupo de la sala** abre 
 evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 
 1. Abran el [formulario de evaluación de pares](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){target="_blank" rel="noopener"}.
-2. Elijan **su grupo** y el **grupo que presentó**. En el campo **"Código del día"** escriban
-   **ICS64225**.
+2. Elijan **su grupo** y el **grupo que presentó**.
 3. Califiquen los cuatro criterios de 1 a 5 y, si quieren, agreguen un comentario breve.
 
 | Criterio | Pregunta |
@@ -155,7 +154,7 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 <div class="usm-cta" markdown>
 <div class="usm-cta-text">
 <strong>🗳️ Evaluación de pares</strong>
-<span>Abierta los <strong>lunes 9 y 16 de noviembre, de 17:00 a 20:00</strong>. En «Código del día» escriban <strong>ICS64225</strong>.</span>
+<span>Abierta los <strong>lunes 9 y 16 de noviembre, de 17:00 a 20:00</strong>.</span>
 </div>
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>

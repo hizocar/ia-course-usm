@@ -105,7 +105,7 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 ### 🗳️ Evaluación de pares
 **Lunes 9 y lunes 16 de noviembre, de 17:00 a 20:00** · Durante las presentaciones
 
-*Cada grupo evalúa a los que presentan (10%). En «Código del día», **ICS64225**.*
+*Cada grupo evalúa a los que presentan (10%).*
 
 [🗳️ Abrir formulario](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?pares){.usm-btn target="_blank" rel="noopener"}
 </div>
