@@ -1,25 +1,24 @@
 name: GitHub Actions
 on: [push]
+permissions:
+  contents: write
 jobs:
   Pages:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        python-version: [3.8]
     steps:
-      - uses: actions/checkout@v2
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v2
+      - uses: actions/checkout@v5
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v6
         with:
-          python-version: ${{ matrix.python-version }}
+          python-version: "3.12"
+      # Python 3.8 is no longer available on the runners. These are the exact versions the
+      # site was last built and checked with.
       - name: Install dependencies
-        run: pip install poetry
-      - name: Activate venv
-        run: poetry install
+        run: pip install "mkdocs==1.6.1" "mkdocs-material==8.5.11" "mkdocs-material-extensions==1.3.1" "pymdown-extensions==13.0" "Markdown==3.11.3" "Pygments==2.21.0"
       - name: Build the book
-        run: poetry run mkdocs build --site-dir public
+        run: mkdocs build --site-dir public
       - name: GitHub Pages action
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
