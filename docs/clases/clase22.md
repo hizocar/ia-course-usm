@@ -55,13 +55,13 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 [▶️ Presentar](../presentaciones/clase22/torque-ai.pdf){ .usm-btn target="_blank" rel="noopener" }
 </div>
 
-<div class="usm-deck usm-deck-missing" markdown>
+<div class="usm-deck" markdown>
 <span class="usm-deck-num">2</span>
-<div class="usm-deck-empty">Sin PDF</div>
+[![Portada de la presentación de Los Republicanos](../presentaciones/clase22/los-republicanos.jpg)](../presentaciones/clase22/los-republicanos.pdf){ target="_blank" rel="noopener" }
 
-**Los Republicanos**
+**Los Republicanos** · 10 láminas
 
-No subió la presentación ni el prototipo. Presenta desde su propio equipo.
+[▶️ Presentar](../presentaciones/clase22/los-republicanos.pdf){ .usm-btn target="_blank" rel="noopener" }
 </div>
 
 <div class="usm-deck" markdown>
