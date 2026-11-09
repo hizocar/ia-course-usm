@@ -95,6 +95,9 @@ NF = H1 + H2 + H3 + H4 + H5 + H6 + H7 + Presentación Final
 No existe una ponderación separada de certámenes o controles: cada hito y la presentación final se
 califican directamente sobre su peso en la Nota Final.
 
+!!! danger "Presentación final obligatoria"
+    Si no se presenta la presentación final, el grupo queda reprobado.
+
 - **Hitos (H1-H7):** entregas bisemanales del mismo proyecto, evaluadas con la rúbrica de cada hito
   (ver [Proyecto](proyecto.md)). Un hito con inasistencia justificada puede recuperarse dentro de la
   semana siguiente, previa coordinación con el/la docente.

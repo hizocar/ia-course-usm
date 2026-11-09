@@ -116,6 +116,9 @@ trabajo del hito anterior.
 
 *Ver la fórmula de Nota Final completa en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
 
+!!! danger "Presentación final obligatoria"
+    Si no se presenta la presentación final, el grupo queda reprobado.
+
 ---
 
 ## 📍 Hito 1 — Idea y problema de IA formulado
