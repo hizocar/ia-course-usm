@@ -654,3 +654,13 @@
       "costs     revenue";
   }
 }
+
+/* Presentaciones del día (Clases 22 y 23) */
+.usm-deck-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr)); gap: 1rem; margin: 1rem 0; }
+.usm-deck { position: relative; border: 1px solid var(--md-default-fg-color--lightest); border-radius: 10px; padding: .6rem .8rem .8rem; background: var(--md-default-bg-color); }
+.usm-deck p { margin: .4rem 0; }
+.usm-deck img { display: block; width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 6px; box-shadow: 0 1px 4px rgba(0, 0, 0, .15); transition: transform .15s ease; }
+.usm-deck a:hover img { transform: scale(1.02); }
+.usm-deck-num { position: absolute; top: .9rem; left: 1.1rem; z-index: 1; min-width: 1.7rem; padding: .1rem .45rem; border-radius: 999px; background: #1b2a5e; color: #fff; font-weight: 700; text-align: center; }
+.usm-deck-missing { opacity: .8; border-style: dashed; }
+.usm-deck-empty { display: grid; place-items: center; aspect-ratio: 16 / 9; border-radius: 6px; background: var(--md-code-bg-color); color: var(--md-default-fg-color--light); font-weight: 700; }
