@@ -55,7 +55,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 <span class="usm-deck-num">3</span>
 [![Portada de la presentación de energIA](../presentaciones/clase23/energia.jpg)](../presentaciones/clase23/energia.pdf){ target="_blank" rel="noopener" }
 
-**energIA** · 10 láminas
+**energIA** · 11 láminas
 
 [▶️ Presentar](../presentaciones/clase23/energia.pdf){ .usm-btn target="_blank" rel="noopener" }
 </div>
