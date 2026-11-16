@@ -24,6 +24,64 @@
 
 *Sorteado el 21 de octubre; ver la [Clase 22](clase22.md#orden-de-presentacion).*
 
+---
+
+## ▶️ Presentaciones de hoy
+
+Haz clic en la portada o en **Presentar**: el PDF se abre en una pestaña nueva. Para pantalla
+completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → *Presentar*).
+
+<div class="usm-deck-grid" markdown>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">1</span>
+[![Portada de la presentación de Lanyardigans](../presentaciones/clase23/lanyardigans.jpg)](../presentaciones/clase23/lanyardigans.pdf){ target="_blank" rel="noopener" }
+
+**Lanyardigans** · 14 láminas
+
+[▶️ Presentar](../presentaciones/clase23/lanyardigans.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">2</span>
+[![Portada de la presentación de Starcompany](../presentaciones/clase23/starcompany.jpg)](../presentaciones/clase23/starcompany.pdf){ target="_blank" rel="noopener" }
+
+**Starcompany** · 10 láminas
+
+[▶️ Presentar](../presentaciones/clase23/starcompany.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">3</span>
+[![Portada de la presentación de energIA](../presentaciones/clase23/energia.jpg)](../presentaciones/clase23/energia.pdf){ target="_blank" rel="noopener" }
+
+**energIA** · 10 láminas
+
+[▶️ Presentar](../presentaciones/clase23/energia.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">4</span>
+[![Portada de la presentación de los_capi](../presentaciones/clase23/los-capi.jpg)](../presentaciones/clase23/los-capi.pdf){ target="_blank" rel="noopener" }
+
+**los_capi** · 11 láminas
+
+[▶️ Presentar](../presentaciones/clase23/los-capi.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">5</span>
+[![Portada de la presentación de six_pack](../presentaciones/clase23/six-pack.jpg)](../presentaciones/clase23/six-pack.pdf){ target="_blank" rel="noopener" }
+
+**six_pack** · 10 láminas
+
+[▶️ Presentar](../presentaciones/clase23/six-pack.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+</div>
+
+---
+
 ## 🗓️ Agenda (90 min)
 
 | Tiempo | Bloque |
