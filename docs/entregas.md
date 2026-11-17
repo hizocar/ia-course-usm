@@ -96,7 +96,7 @@ Cada envío queda guardado en un archivo **privado** del curso, al que solo acce
 ### 🎤 Final · Prototipo explicado
 **Martes 3 al domingo 8 de noviembre, hasta las 23:59** · Con resumen ejecutivo
 
-*Se evalúa con la lista de requisitos del prototipo final (10%). Máximo 25 MB.*
+*Documento de respaldo del prototipo. Máximo 25 MB.*
 
 [📬 Abrir buzón](https://script.google.com/macros/s/AKfycbz7ZR7YRvRjDcpEgcjCeIcI8qzfBShLpPoxmYisZS4t8GeEDbEvAp9lg1sIrZKBiLyQ7A/exec?a=final-prototipo){.usm-btn target="_blank" rel="noopener"}
 </div>

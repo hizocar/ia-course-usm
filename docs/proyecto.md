@@ -69,7 +69,7 @@ trabajo del hito anterior.
 </li>
 <li class="usm-current">
 <span class="usm-timeline-title">Presentación final<span class="usm-timeline-badge">9 y 16 nov · Clases 22-23</span></span>
-<span class="usm-timeline-meta">30% · Dos PDF en el buzón hasta el 8 de noviembre y pitch en vivo: evaluación de pares (10%), del profesor (10%) y prototipo final completo (10%).</span>
+<span class="usm-timeline-meta">30% · Dos PDF en el buzón hasta el 8 de noviembre y pitch en vivo: evaluación de pares (10%), del profesor (10%) y lógica de la presentación (10%).</span>
 </li>
 </ul>
 </div>
@@ -111,7 +111,7 @@ trabajo del hito anterior.
 | Hito 5 — Riesgos y gobernanza *(A: 5% · B: 5%)* | 10% |
 | Hito 6 — Prototipo v2 refinado *(A: 4% · C: 6%)* | 10% |
 | Hito 7 — Evaluación de viabilidad *(4 avances de 2,5%)* | 10% |
-| Presentación final *(pares 10% · profesor 10% · prototipo final 10%)* | 30% |
+| Presentación final *(pares 10% · profesor 10% · lógica de la presentación 10%)* | 30% |
 | **Total** | **100%** |
 
 *Ver la fórmula de Nota Final completa en el [Programa](programa.md#7-evaluacion-calificacion-y-aprobacion).*
@@ -438,10 +438,9 @@ final y comunicarlo en un pitch ante el curso.
 2. **El prototipo explicado en PDF**: parte con un **resumen ejecutivo** de una página y documenta
    el prototipo final según la lista de requisitos de abajo.
 
-> ⚠️ **Si falta un PDF.** Sin el **prototipo explicado** en el buzón, el componente *prototipo final
-> completo* queda con 0 (10% de la nota final). Sin la **presentación en PDF**, el grupo presenta
-> igual con el archivo que traiga, pero pierde el requisito 10 del prototipo (*coherencia con la
-> presentación*), porque no hay contra qué compararlo.
+> ⚠️ **Si falta un PDF.** Con el ajuste del 16 de noviembre, el tercer 10% (*lógica de la
+> presentación*) se evalúa sobre la **presentación en PDF**: se usa la versión que el grupo
+> presentó. El **prototipo explicado** queda como documento de respaldo y no lleva nota.
 
 **Cómo se reparte el 30%**
 
@@ -449,21 +448,26 @@ final y comunicarlo en un pitch ante el curso.
 |---|---|---:|
 | **Evaluación de pares** | Los demás grupos, con un formulario, al terminar cada presentación | 10% |
 | **Evaluación del profesor** | El profesor, durante la presentación | 10% |
-| **Prototipo final completo** | El profesor, sobre el PDF del prototipo | 10% |
+| **Lógica de la presentación** | El profesor, sobre el PDF de la presentación | 10% |
 
 **Evaluación de pares (10%).** Cada grupo de la sala califica de 1 a 5: problema y propuesta ·
 prototipo · viabilidad · presentación. El puntaje de cada evaluación es la suma × 5 (de 20 a 100) y
-la nota de pares es el promedio de lo que pusieron los demás grupos. Nadie se evalúa a sí mismo.
+la nota de pares es la **mediana** de lo que pusieron los demás grupos, para que una evaluación
+extrema no la mueva. Nadie se evalúa a sí mismo.
 
 **Evaluación del profesor (10%, 100 puntos).** Viabilidad bien justificada (25) · prototipo en la
 demo (25) · riesgos y mitigaciones (15) · claridad, estructura y tiempo (20) · respuesta a preguntas
 (15).
 
-**Prototipo final completo (10%, 10 requisitos de 10 puntos).** Resumen ejecutivo · qué hace y
-para quién · configuración final completa · al menos 3 interacciones reales con capturas · banco de
-casos y comparación v1 vs. v2 · una mitigación verificada · datos sin información real de clientes
-· límites · cómo probarlo · coherencia con la presentación. El detalle de cada requisito está en la
-[guía de preparación](clases/preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
+**Lógica de la presentación (10%, 10 preguntas de 10 puntos).** Si la presentación recorre el
+camino del curso y responde, con las cifras de cada hito, las diez preguntas de la
+[guía de preparación](clases/preparacion-final.md#la-historia-diez-preguntas-ocho-minutos): el
+problema · por qué IA · el modelo de negocio · la solución · la demo · la evidencia v1 vs. v2 ·
+riesgos y mitigaciones · impacto social · viabilidad · veredicto y pedido.
+
+> 📌 **Ajuste del 16 de noviembre.** Este 10% reemplaza la lista de requisitos del prototipo
+> explicado, y la nota de pares pasó del promedio a la mediana. El detalle está en
+> [Notas](notas.md#presentacion-final).
 </div>
 
 ---

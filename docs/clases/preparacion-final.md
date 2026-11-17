@@ -17,10 +17,9 @@
     El plazo es el mismo para **todos los grupos**, presenten el lunes 9 o el lunes 16. Se
     presenta con el PDF subido: después del cierre no se aceptan versiones nuevas.
 
-> ⚠️ **Si falta un PDF.** Sin el **prototipo explicado** en el buzón, el componente *prototipo final
-> completo* queda con 0 (10% de la nota final). Sin la **presentación en PDF**, el grupo presenta
-> igual con el archivo que traiga, pero pierde el requisito 10 del prototipo (*coherencia con la
-> presentación*), porque no hay contra qué compararlo.
+> ⚠️ **Si falta un PDF.** Con el ajuste del 16 de noviembre, el tercer 10% (*lógica de la
+> presentación*) se evalúa sobre la **presentación en PDF**: se usa la versión que el grupo
+> presentó. El **prototipo explicado** queda como documento de respaldo y no lleva nota.
 
 No hay clase el **miércoles 4 de noviembre**. Estos días son para cerrar el proyecto: terminar el
 prototipo final, armar la presentación y ensayarla. Esta página reúne todo lo
@@ -49,9 +48,12 @@ que necesitan.
 |---|---|---|---:|
 | **Evaluación de pares** | Los demás grupos, con un formulario, al terminar cada presentación | La presentación en vivo | 10% |
 | **Evaluación del profesor** | El profesor, durante la presentación | La presentación en vivo y las respuestas | 10% |
-| **Prototipo final completo** | El profesor | El PDF del prototipo, con la lista de requisitos de abajo | 10% |
+| **Lógica de la presentación** | El profesor | El PDF de la presentación, con las diez preguntas de abajo | 10% |
 
 Las pautas completas están en la página del [Proyecto](../proyecto.md#presentacion-final).
+
+> 📌 **Ajuste del 16 de noviembre:** el tercer 10% evalúa la lógica de la presentación (las diez
+> preguntas) en lugar de la lista de requisitos del prototipo, y la nota de pares usa la mediana.
 
 ---
 
@@ -105,7 +107,7 @@ Cada lámina dice su **conclusión**, no su tema:
 
 ## 📄 Entregable 2 · El prototipo explicado en PDF
 
-Este documento es el que se evalúa con la **lista de requisitos del prototipo final** (10%). Cada
+*Hasta el ajuste del 16 de noviembre*, este documento se evaluaba con la **lista de requisitos del prototipo final** (10%); ahora es documento de respaldo. Cada
 requisito cumplido vale 10 puntos.
 
 | # | Requisito | Qué tiene que tener |

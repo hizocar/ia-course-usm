@@ -4,7 +4,7 @@
 <span>📅 Lunes 16 de noviembre de 2026</span>
 <span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Presentación Final del Proyecto</span>
-<span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + prototipo 10%</span>
+<span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + lógica de la presentación 10%</span>
 </div>
 
 !!! info "Segunda jornada de presentaciones y última clase del semestre"

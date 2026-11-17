@@ -4,7 +4,7 @@
 <span>📅 Lunes 9 de noviembre de 2026</span>
 <span>⏱️ 90 minutos · 🏫 presencial</span>
 <span class="usm-tag-gold">Presentación Final del Proyecto</span>
-<span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + prototipo 10%</span>
+<span class="usm-tag-red">🎤 Presentación Final · 30% · pares 10% + profesor 10% + lógica de la presentación 10%</span>
 </div>
 
 !!! info "Primera de dos jornadas de presentaciones"
@@ -144,7 +144,7 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 | **Presentación** | ¿Fue clara, ordenada y respetó el tiempo? |
 
 - El **puntaje** de cada evaluación es la suma de los cuatro criterios × 5 (de 20 a 100).
-- La **nota de pares** de un grupo es el promedio de los puntajes que le pusieron los demás grupos.
+- La **nota de pares** de un grupo es la **mediana** de los puntajes que le pusieron los demás grupos.
 - Un grupo **no puede evaluarse a sí mismo**. Si un grupo evalúa dos veces al mismo, vale la última.
 - El formulario solo está abierto los dos lunes de presentación, de 17:00 a 20:00. Cada evaluación
   queda registrada con el grupo que la envió y la hora: el profesor descarta las que no
@@ -172,8 +172,9 @@ evalúa al grupo que acaba de presentar. Un envío por grupo, no por persona.
 | **Respuesta a preguntas** | 15 | Respuestas breves, con evidencia, que reconocen los límites cuando corresponde |
 | **Total** | **100** | |
 
-El **10% restante** es el **prototipo final completo**, evaluado sobre el PDF del prototipo con la
-lista de requisitos de la [guía de preparación](preparacion-final.md#entregable-2-el-prototipo-explicado-en-pdf).
+El **10% restante** es la **lógica de la presentación**: si las láminas responden, con las cifras
+de cada hito, las diez preguntas de la [guía de preparación](preparacion-final.md#la-historia-diez-preguntas-ocho-minutos)
+(ajuste del 16 de noviembre; antes era la lista de requisitos del prototipo).
 
 ---
 

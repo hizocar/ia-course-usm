@@ -19,44 +19,44 @@ hito, 30% la presentación final).</p>
 
 ## 📋 Resumen por grupo
 
-| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C | Hito 7A | Hito 7B | Hito 7C | Hito 7D |
-|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 | 83 | 0 | 0 | 98 |
-| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 | 95 | 95 | 94 | 99 |
-| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 | 0 | 86 | 93 | 94 |
-| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 | 98 | 93 | 93 | 99 |
-| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 | 98 | 0 | 0 | 97 |
-| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 | 66 | 94 | 90 | 96 |
-| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 | 81 | 95 | 99 | 98 | 100 |
-| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 | 88 | 55 | 68 | 49 |
-| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 | 94 | 98 | 95 | 99 |
-| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 | 95 | 93 | 99 | 83 |
-| Torque AI | 100 | 73 | 85 | 69 | 0 | 66 | 0 | 41 | 30 | 75 | 35 | 70 |
+| Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C | Hito 7A | Hito 7B | Hito 7C | Hito 7D | Pres. pares | Pres. profesor | Pres. lógica |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 | 83 | 0 | 0 | 98 | 97,5 | 79 | 79 |
+| IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 | 95 | 95 | 94 | 99 | 95 | 76 | 98 |
+| Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 | 0 | 86 | 93 | 94 | 95 | 70 | 75 |
+| Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 | 98 | 93 | 93 | 99 | 100 | 95 | 98 |
+| los3x2 | 100 | 92 | 93 | 96 | 0 | 99 | 0 | 99 | 98 | 0 | 0 | 97 | 92,5 | 77 | 95 |
+| Los Republicanos | 100 | 93 | 94 | 82 | 97 | 97 | 0 | 98 | 66 | 94 | 90 | 96 | 75 | 79 | 87 |
+| los_capi | 100 | 93 | 0 | 76 | 83 | 90 | 0 | 81 | 95 | 99 | 98 | 100 | 80 | 92 | 93 |
+| mafilia | 100 | 84 | 87 | 69 | 79 | 76 | 0 | 69 | 88 | 55 | 68 | 49 | 100 | 81 | 91 |
+| six_pack | 100 | 86 | 90 | 86 | 77 | 84 | 0 | 79 | 94 | 98 | 95 | 99 | 97,5 | 90 | 96 |
+| Starcompany | 100 | 82 | 81 | 91 | 98 | 97 | 0 | 75 | 95 | 93 | 99 | 83 | 100 | 88 | 91 |
+| Torque AI | 100 | 73 | 85 | 69 | 0 | 66 | 0 | 41 | 30 | 75 | 35 | 70 | 90 | 59 | 68 |
 
 *Escala de 1 a 100 por hito. El Hito 5 se compone de 5A (5%) y 5B (5%); el Hito 6, de 6A (4%) y 6C
 (6%); el Hito 7, de cuatro avances de 2,5% (7A a 7D). Las entregas que no se recibieron o no se pudieron revisar cuentan como 0.*
 
-### Puntaje acumulado a la fecha
+### Nota final
 
-Con el Hito 7D **concluyen los hitos**: se ha evaluado el **70% de la nota final** (Hitos 1 a 4: 10% cada
-uno · 5A y 5B: 5% cada uno · 6A: 4% · 6C: 6% · 7A, 7B, 7C y 7D: 2,5% cada uno). Los **puntos acumulados** son la suma de cada nota multiplicada por su peso; el
-**promedio a la fecha** es ese mismo puntaje expresado sobre 100.
+Con la presentación final **se completa el 100% de la nota**: hitos (70%) más presentación final
+(30%: pares, profesor y lógica de la presentación, 10% cada uno). La **nota final** es la suma de los
+puntos de los hitos y los de la presentación, sobre 100.
 
-| Grupo | Puntos acumulados | De un máximo de | Promedio a la fecha |
+| Grupo | Puntos de los hitos (máx. 70) | Puntos de la presentación (máx. 30) | Nota final |
 |---|---:|---:|---:|
-| energIA | 53,98 | 70 | **77,1** |
-| IA Solution | 58,91 | 70 | **84,2** |
-| Inteligencia Sansana | 60,27 | 70 | **86,1** |
-| Lanyardigans | 49,97 | 70 | **71,4** |
-| los3x2 | 53,87 | 70 | **77,0** |
-| Los Republicanos | 61,13 | 70 | **87,3** |
-| los_capi | 50,21 | 70 | **71,7** |
-| mafilia | 52,39 | 70 | **74,8** |
-| six_pack | 58,64 | 70 | **83,8** |
-| Starcompany | 58,90 | 70 | **84,1** |
-| Torque AI | 43,71 | 70 | **62,4** |
+| energIA | 53,98 | 25,55 | **79,5** |
+| IA Solution | 58,91 | 26,90 | **85,8** |
+| Inteligencia Sansana | 60,27 | 24,00 | **84,3** |
+| Lanyardigans | 49,97 | 29,30 | **79,3** |
+| los3x2 | 53,87 | 26,45 | **80,3** |
+| Los Republicanos | 61,13 | 24,10 | **85,2** |
+| los_capi | 50,21 | 26,50 | **76,7** |
+| mafilia | 52,39 | 27,20 | **79,6** |
+| six_pack | 58,64 | 28,35 | **87,0** |
+| Starcompany | 58,90 | 27,90 | **86,8** |
+| Torque AI | 43,71 | 21,70 | **65,4** |
 
-*Solo falta la presentación final (30% de la nota final).*
+*El detalle de la presentación final está en la sección [Presentación final](#presentacion-final).*
 
 ## 📍 Hito 1 — Idea y problema de IA
 
@@ -1505,6 +1505,186 @@ Hito 1 (ver [Proyecto](proyecto.md)).
     **Trazabilidad (10):** 5/10 — Hay una hoja final S1–S8, pero con cambios no declarados. En el 7B los 1.800 adoptantes eran el 30% de los meses 1 a 3; en el 7D esos 1.800 son el régimen y además se les aplica la rampa 30/60/100%. Y S6 dice que los $825.000 incluyen la auditoría de sesgo y los tokens del modelo, cuando en el 7C la auditoría iba aparte y no había tokens.
     **Comentario:** el flujo está bien armado y el VAN cuadra. Para la presentación, decidan si evalúan a la concesionaria o a la startup, y respalden el +5 pp: es un salto de 2% a 7% de conversión, y todo depende de ese número.
     **Nota:** el PDF trae una nueva versión del 7A, que no se corrige (el 7A ya tiene nota).
+
+## 🎤 Presentación final
+
+Presentaciones del **lunes 9 y lunes 16 de noviembre** ([Clase 22](clases/clase22.md) y
+[Clase 23](clases/clase23.md)). El 30% se reparte en tres componentes de 10%, cada uno de 1 a 100.
+
+### Pauta de evaluación
+
+| Componente | Quién evalúa | Cómo se calcula | Peso |
+|---|---|---|---:|
+| **Evaluación de pares** | Los demás grupos, con el formulario | **Mediana** de los puntajes recibidos (cada uno de 20 a 100) | 10% |
+| **Evaluación del profesor** | El profesor, durante la presentación | Pauta de 100 puntos (abajo) | 10% |
+| **Lógica de la presentación** | El profesor, sobre el PDF de la presentación | Las diez preguntas del curso, 10 puntos cada una | 10% |
+
+??? info "Detalle de cada componente"
+    **Pares.** Se usa la **mediana** y no el promedio: así una evaluación muy severa o una que pone
+    100 a todos no mueve la nota. Si un grupo evaluó dos veces al mismo, vale la última. Se
+    descartaron **tres evaluaciones enviadas antes de que el grupo evaluado presentara** (regla
+    publicada en la [Clase 22](clases/clase22.md#evaluacion-de-pares-10)); por eso tres grupos tienen
+    9 evaluaciones en vez de 10.
+
+    **Profesor (100).** Viabilidad bien justificada (25) · prototipo en la demo (25) · riesgos y
+    mitigaciones (15) · claridad, estructura y tiempo (20) · respuesta a preguntas (15). Se basa en
+    las observaciones tomadas durante cada presentación y en las láminas proyectadas.
+
+    **Lógica de la presentación (100).** Si la presentación recorre el camino del curso y responde,
+    con las cifras de cada hito, las diez preguntas de la
+    [guía de preparación](clases/preparacion-final.md#la-historia-diez-preguntas-ocho-minutos):
+    **P1** el problema (Hito 1) · **P2** por qué IA (Hitos 1 y 3) · **P3** el modelo de negocio
+    (Hito 2) · **P4** la solución (Hito 3) · **P5** la demo (Hitos 4 y 6) · **P6** la evidencia v1
+    vs. v2 (Hito 6C) · **P7** riesgos y mitigaciones (Hito 5) · **P8** impacto social (Hito 7A) ·
+    **P9** viabilidad (Hitos 7B-7D) · **P10** veredicto y pedido (Hito 7D). Cada pregunta vale 10:
+    10 respondida con las cifras del hito · 7-9 respondida con vacíos · 4-6 apenas tocada o
+    fusionada sin respuesta propia · 0-3 ausente. También se revisa si la presentación recogió la
+    retroalimentación "Para la presentación" del Hito 7D. Portadas, agradecimientos y láminas de
+    respaldo no restan.
+
+!!! note "Ajustes en la presentación final"
+    - **Tercer 10%:** se evalúa la **lógica de la presentación** (las diez preguntas del curso) en
+      lugar de la lista de requisitos del prototipo explicado.
+    - **Pares:** se usa la mediana en lugar del promedio (ver arriba).
+    - **Versiones:** energIA y los_capi presentaron una versión actualizada de sus láminas; se
+      evaluó la que presentaron. Torque AI, Los Republicanos y los_capi entregaron sus láminas
+      directamente al profesor, fuera del buzón; se evaluaron sin descuento.
+    - **Orden:** IA Solution e Inteligencia Sansana presentaron el lunes 16 de noviembre.
+
+### Notas por grupo
+
+| Grupo | Pares | Profesor | Lógica | Presentación (30%) |
+|---|---:|---:|---:|---:|
+| energIA | 97,5 | 79 | 79 | **25,55** |
+| IA Solution | 95 | 76 | 98 | **26,90** |
+| Inteligencia Sansana | 95 | 70 | 75 | **24,00** |
+| Lanyardigans | 100 | 95 | 98 | **29,30** |
+| los3x2 | 92,5 | 77 | 95 | **26,45** |
+| Los Republicanos | 75 | 79 | 87 | **24,10** |
+| los_capi | 80 | 92 | 93 | **26,50** |
+| mafilia | 100 | 81 | 91 | **27,20** |
+| six_pack | 97,5 | 90 | 96 | **28,35** |
+| Starcompany | 100 | 88 | 91 | **27,90** |
+| Torque AI | 90 | 59 | 68 | **21,70** |
+
+*La última columna son los puntos que aporta la presentación a la nota final (máximo 30): 0,1 ×
+(pares + profesor + lógica).*
+
+### Detalle de la evaluación por grupo
+
+??? note "energIA — pares 97,5 · profesor 79 · lógica 79"
+    **Pares:** mediana 97,5 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 21/25 — Punto de quiebre claro (evitar el 4,19% de las fallas alcanzadas) y cada estimación con su origen. Pero el VAN se presenta a 12 meses y no a los 24 del Hito 7D, y el ahorro descansa en un 30% de prevención que aún no se ha medido.
+    **Profesor — Prototipo en la demo (25):** 16/25 — La demo muestra la regla de datos incompletos sobre una tabla, sin la herramienta en ejecución ni el ranking de activos, que es el corazón de la propuesta.
+    **Profesor — Riesgos (15):** 12/15 — Cuatro riesgos con su control (sin puntaje y revisión manual, datos sintéticos en herramientas públicas, contraste con un cálculo local, reproducibilidad). Los casos adversarios 6 y 7 siguen sin ejecutar.
+    **Profesor — Claridad y tiempo (20):** 17/20 — El problema principal y su origen quedan claros desde la primera lámina, y el equipo explica en vez de leer.
+    **Profesor — Preguntas (15):** 13/15 — Las estimaciones se defienden diciendo de dónde salen.
+    **Lógica (79):** P1 9 · P2 7 · P3 7 · P4 9 · P5 6 · P6 7 · P7 8 · P8 8 · P9 8 · P10 10. El "por qué IA" queda en condicional ("podría") y no se compara contra la regla actual; el modelo de negocio no tiene cifras; la demo y la evidencia muestran el control de datos faltantes, no la priorización. Del Hito 7D llevaron el umbral, pero no lo tradujeron a fallas evitadas por mes.
+    **Comentario:** presentación ordenada y honesta sobre lo que el prototipo no demuestra. Ante un comité faltó ver funcionar el ranking, que es lo que ENEL compraría.
+    **Nota:** se evaluó la versión actualizada que presentaron el 16 de noviembre (11 láminas).
+
+??? note "IA Solution — pares 95 · profesor 76 · lógica 98"
+    **Pares:** mediana 95 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 23/25 — Ahorro neto de $78,9 MM al mes, recuperación en el mes 5 y punto de quiebre en 31% de efectividad: el veredicto sale directo del Hito 7D, y queda explícito que el valor lo captura Chilexpress.
+    **Profesor — Prototipo en la demo (25):** 22/25 — Prototipo correcto, en vivo y con respaldo: puntaje de riesgo, explicación, WhatsApp de menos de 40 palabras y rechazo de un RUT.
+    **Profesor — Riesgos (15):** 14/15 — Antes y después del filtro de privacidad, y una prueba del par que reconoce una ambigüedad pendiente (la regla de comuna de alta congestión).
+    **Profesor — Claridad y tiempo (20):** 9/20 — El tema está bien explicado, pero parte del equipo leyó desde el celular, una falta grave en un pitch. Varias láminas son densas y podrían resumirse.
+    **Profesor — Preguntas (15):** 8/15 — Dominio desigual: dos integrantes no manejaban el contenido de la propuesta.
+    **Lógica (98):** P1 10 · P2 10 · P3 10 · P4 9 · P5 9 · P6 10 · P7 10 · P8 10 · P9 10 · P10 10. Responde las diez preguntas con las cifras de cada hito, y recoge la retroalimentación del 7D sobre quién captura el valor. Solo la solución y la demo pierden por densidad.
+    **Comentario:** de las propuestas mejor construidas del curso; la nota del profesor se resiente por la exposición, no por el contenido. Con el mismo material y todo el equipo dominando el caso, estaría entre las primeras.
+
+??? note "Inteligencia Sansana — pares 95 · profesor 70 · lógica 75"
+    **Pares:** mediana 95 (9 evaluaciones).
+    **Profesor — Viabilidad (25):** 17/25 — Viable bajo condiciones, con un punto de quiebre preciso (43,84% de conversión) y el escenario de +5 pp que lo vuelve inviable. Pero el veredicto depende de un supuesto (conversión de 35% a 45%) cuyo origen no todo el equipo supo explicar.
+    **Profesor — Prototipo en la demo (25):** 19/25 — Un caso concreto ($10.000, 2 personas, vegetariano, 30 minutos) que termina en una decisión de compra. La parte predictiva sigue simulada.
+    **Profesor — Riesgos (15):** 10/15 — Privacidad con antes y después; sesgo y alucinaciones solo se nombran, respaldados por una única prueba del par.
+    **Profesor — Claridad y tiempo (20):** 15/20 — Proyecto atractivo y presentación adecuada y llamativa, aunque una parte se leyó.
+    **Profesor — Preguntas (15):** 9/15 — Desigual: hubo respuestas muy sólidas, pero una integrante leyó y no supo responder, y otro no pudo explicar de dónde vienen los supuestos.
+    **Lógica (75):** P1 7 · P2 8 · P3 9 · P4 6 · P5 7 · P6 7 · P7 5 · P8 8 · P9 8 · P10 10. Con 9 láminas, la solución queda fusionada con el modelo de negocio y los riesgos con la mejora del prototipo, sin lámina propia. El problema no dice cuánto le cuesta a Cencosud. El 7D pedía mostrar la hoja de supuestos y que el proyecto también depende de los costos; no aparece.
+    **Comentario:** buena idea y un cierre muy claro. Lo que faltó es que todo el equipo domine los números que sostienen el veredicto.
+
+??? note "Lanyardigans — pares 100 · profesor 95 · lógica 98"
+    **Pares:** mediana 100 (9 evaluaciones).
+    **Profesor — Viabilidad (25):** 24/25 — Recuperación en menos de un mes y la condición crítica bien traducida: basta evitar 0,51 incidentes al mes si las horas liberadas no se reasignan. Valor capturado y costos trazados a los Hitos 7B a 7D.
+    **Profesor — Prototipo en la demo (25):** 24/25 — Aplicación real desplegada, del inicio de sesión al ranking, con IDs ciegos y el caso del par (P017 = P044) en pantalla.
+    **Profesor — Riesgos (15):** 15/15 — Los dos riesgos críticos mitigados, verificados (brecha de 14,1 a 0 puntos; de 6 a 0 teléfonos expuestos) y costeados en la operación.
+    **Profesor — Claridad y tiempo (20):** 19/20 — Presentación impecable; la idea queda clara de principio a fin.
+    **Profesor — Preguntas (15):** 13/15 — Sin observaciones en contra; llegaron con respuestas preparadas a cinco preguntas difíciles en láminas de respaldo.
+    **Lógica (98):** P1 10 · P2 9 · P3 10 · P4 10 · P5 10 · P6 10 · P7 10 · P8 9 · P9 10 · P10 10. Cada lámina responde su pregunta con una cifra del hito correspondiente, y usan el punto de quiebre como la condición que el piloto debe medir, como pedía el 7D. Falta desarrollar el "por qué ahora", y el impacto social usa cifras ilustrativas.
+    **Comentario:** la presentación de referencia del curso.
+
+??? note "los3x2 — pares 92,5 · profesor 77 · lógica 95"
+    **Pares:** mediana 92,5 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 19/25 — VAN y punto de quiebre (0,006 puntos) bien calculados, con la honestidad de que la mejora viene de datos simulados. Pero no lograron explicar cómo impacta el error del modelo en la decisión ni cómo se integraría en una operación minera.
+    **Profesor — Prototipo en la demo (25):** 23/25 — Buen prototipo, en video, con buenas conclusiones de diseño: bloqueo ante datos imposibles, cambio gradual y rechazo con motivo registrado.
+    **Profesor — Riesgos (15):** 14/15 — Cuatro riesgos con su protección funcionando en el prototipo; el control de acceso al registro sigue parcial.
+    **Profesor — Claridad y tiempo (20):** 12/20 — Queda clara la solución y la motivación del problema, pero se pasaron de los 8 minutos y faltó resumir el producto. El pitch explica más de lo que vende.
+    **Profesor — Preguntas (15):** 9/15 — Las preguntas sobre el error del modelo y la integración quedaron sin respuesta clara.
+    **Lógica (95):** P1 10 · P2 10 · P3 9 · P4 10 · P5 9 · P6 10 · P7 10 · P8 9 · P9 8 · P10 10. Recorren el camino completo con las cifras de cada hito. Del 7D faltó nombrar el precio pagable (USD 9.557/t) y costear el transporte y la venta del cobre adicional.
+    **Comentario:** el argumento más riguroso de la primera jornada. Para un comité, falta convertirlo en venta.
+
+??? note "Los Republicanos — pares 75 · profesor 79 · lógica 87"
+    **Pares:** mediana 75 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 20/25 — Un veredicto de no viable bien calculado (VAN de −$1,66 M) y la pregunta clave para VSPT: ≈287 iniciativas al año para llegar a VAN cero. Concluir que no es viable es legítimo, pero el pitch no dejó claro cómo convencer a un comité de avanzar; la vía (experimentar con un piloto) apareció recién en las preguntas.
+    **Profesor — Prototipo en la demo (25):** 21/25 — Captura real del HTML v2 con el caso N1 y su alerta de revisión.
+    **Profesor — Riesgos (15):** 14/15 — Tres controles validados con casos del banco, y la equidad declarada como pendiente.
+    **Profesor — Claridad y tiempo (20):** 13/20 — Títulos con estructura piramidal y varias láminas con números grandes y claros, pero muchas tienen más texto del que se alcanza a leer.
+    **Profesor — Preguntas (15):** 11/15 — En las preguntas apareció el camino para validar la propuesta, que el pitch no había dejado claro.
+    **Lógica (87):** P1 6 · P2 7 · P3 8 · P4 9 · P5 9 · P6 10 · P7 10 · P8 9 · P9 10 · P10 9. El problema no dice cuánto cuesta, y el "por qué IA" describe un modelo que todavía no existe. Desde la evidencia hasta la viabilidad, el recorrido es ejemplar, y llevan las ≈287 iniciativas del 7D a la lámina.
+    **Comentario:** el análisis más honesto del curso, presentado con demasiado texto.
+    **Nota:** láminas entregadas directamente al profesor el 9 de noviembre.
+
+??? note "los_capi — pares 80 · profesor 92 · lógica 93"
+    **Pares:** mediana 80 (9 evaluaciones).
+    **Profesor — Viabilidad (25):** 24/25 — VAN, recuperación en el mes 21 y un supuesto crítico a 0,3 puntos del caso base (19,7% frente a 20%), con la sensibilidad completa y la escala de 1.500 PdV como condición, como pedía el 7D.
+    **Profesor — Prototipo en la demo (25):** 21/25 — Capturas reales de Gemini en los tres casos, que muestran con honestidad que la herramienta omitió el margen de seguridad del 10%. Pero un asistente generativo no demuestra el modelo predictivo que la propuesta necesita.
+    **Profesor — Riesgos (15):** 15/15 — Sesgo, privacidad y confirmación humana, cada uno con su control y su costo mensual.
+    **Profesor — Claridad y tiempo (20):** 19/20 — Muy claro el problema y cómo funciona la IA en este caso. Explicaron sin leer, con números grandes y claros, y la parte del sesgo quedó clara.
+    **Profesor — Preguntas (15):** 13/15 — Sin observaciones en contra.
+    **Lógica (93):** P1 9 · P2 6 · P3 10 · P4 10 · P5 9 · P6 9 · P7 10 · P8 10 · P9 10 · P10 10. Falta la lámina de "por qué IA, por qué ahora": qué hace el modelo que no haga un promedio o una regla de reposición.
+    **Comentario:** el veredicto más honesto del curso, muy bien comunicado.
+    **Nota:** se evaluó la versión actualizada que presentaron el 16 de noviembre; la primera versión se entregó directamente al profesor.
+
+??? note "mafilia — pares 100 · profesor 81 · lógica 91"
+    **Pares:** mediana 100 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 20/25 — Tradujeron el umbral a algo verificable ($867.267 al mes, unas 133 horas extra) y a una regla de salida, como pedía el 7D. El ahorro real sigue sin medir.
+    **Profesor — Prototipo en la demo (25):** 20/25 — Cuatro casos del prototipo v2 con su salida, incluido el par periferia/centro, sobre un CSV de 60 registros de ejemplo.
+    **Profesor — Riesgos (15):** 13/15 — Cuatro riesgos con su mitigación y los límites abiertos declarados.
+    **Profesor — Claridad y tiempo (20):** 16/20 — Buena presentación, correcta.
+    **Profesor — Preguntas (15):** 12/15 — Sin observaciones en contra.
+    **Lógica (91):** P1 9 · P2 10 · P3 9 · P4 10 · P5 8 · P6 9 · P7 9 · P8 8 · P9 9 · P10 10. Recorren las diez preguntas en orden. La demo se muestra como tabla de casos y no en la herramienta, y el impacto social son metas sin medición.
+    **Comentario:** el mayor avance desde el Hito 7D: tomaron la retroalimentación y le pusieron número al veredicto.
+
+??? note "six_pack — pares 97,5 · profesor 90 · lógica 96"
+    **Pares:** mediana 97,5 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 23/25 — VAN, recuperación en el mes 2, sensibilidad supuesto por supuesto y punto de quiebre (5,2% de reducción de quiebres), cerrando con la matriz privado/social.
+    **Profesor — Prototipo en la demo (25):** 22/25 — Video del prototipo y el caso de riesgo con captura real del GPT v2: respeta el 87% y los 30 packs y no expone datos personales.
+    **Profesor — Riesgos (15):** 14/15 — Cuatro riesgos; privacidad y manipulación probadas en el v2, sesgo y sobrestock diseñadas.
+    **Profesor — Claridad y tiempo (20):** 18/20 — Partieron bien y sin leer; el problema quedó claro y los pasos de la solución, bien dados.
+    **Profesor — Preguntas (15):** 13/15 — El equipo sabe del tema.
+    **Lógica (96):** P1 10 · P2 10 · P3 10 · P4 9 · P5 10 · P6 8 · P7 10 · P8 10 · P9 9 · P10 10. La evidencia deja los casos 1 a 3 sin comparación en v2, y no estimaron el costo logístico de las cajas adicionales que pedía el 7D.
+    **Comentario:** presentación completa y bien hilada, de las más sólidas de la segunda jornada.
+
+??? note "Starcompany — pares 100 · profesor 88 · lógica 91"
+    **Pares:** mediana 100 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 21/25 — VAN a 100 y a 200 hogares, con un criterio de decisión claro para el piloto (uso del presupuesto de 91,5% o menos). El margen de 13,1% sigue siendo el EBITDA, aunque el 7D advirtió que el de contribución puede cambiar el veredicto.
+    **Profesor — Prototipo en la demo (25):** 23/25 — El caso vegano con aviso, la edición del carrito y el rechazo a "ignora tus instrucciones", con video y capturas de respaldo.
+    **Profesor — Riesgos (15):** 13/15 — Sesgo por tamaño del hogar resuelto y dos riesgos pendientes declarados con honestidad.
+    **Profesor — Claridad y tiempo (20):** 18/20 — La presentación es clara y el grupo presenta bien.
+    **Profesor — Preguntas (15):** 13/15 — El grupo sabe de lo que habla.
+    **Lógica (91):** P1 9 · P2 10 · P3 7 · P4 9 · P5 10 · P6 10 · P7 9 · P8 7 · P9 10 · P10 10. El modelo de negocio mantiene el margen sin revisar y el impacto social no trae la matriz ni las cifras del 7A, dos puntos que pedía el 7D.
+    **Comentario:** demo y evidencia de las mejores del curso. El veredicto sigue apoyado en un margen que conviene revisar.
+
+??? note "Torque AI — pares 90 · profesor 59 · lógica 68"
+    **Pares:** mediana 90 (10 evaluaciones).
+    **Profesor — Viabilidad (25):** 13/25 — VAN de $1.429 MM y recuperación en el mes 1, pero todo depende de un +5 pp de conversión (de 2% a 7%) sin respaldo, y no quedó claro de dónde salen los números. El 7D pedía justificar ese salto y elegir entre la concesionaria y la startup; ninguno de los dos se resolvió, y el punto de quiebre sigue mal planteado.
+    **Profesor — Prototipo en la demo (25):** 18/25 — Interacciones reales v1 y v2 con la mitigación de la cuota referencial, pero no alcanzan a aclarar la idea de negocio.
+    **Profesor — Riesgos (15):** 11/15 — Tres riesgos con su mitigación, sin evidencia de que se hayan probado (por ejemplo, la prueba del par por comuna).
+    **Profesor — Claridad y tiempo (20):** 9/20 — Mucho texto en las láminas y poca claridad y simplicidad; la idea no termina de quedar clara. A algunos presentadores les faltó proyectar la voz.
+    **Profesor — Preguntas (15):** 8/15 — No quedó claro el origen de las ganancias ni del impacto que genera la solución.
+    **Lógica (68):** P1 7 · P2 8 · P3 6 · P4 9 · P5 8 · P6 6 · P7 7 · P8 5 · P9 6 · P10 6. El problema no dice cuánto cuesta en pesos; el modelo de negocio mezcla el margen de la automotora con el de la consultora; la evidencia es una sola prueba; el impacto social no tiene cifras y cuenta como costo social la pérdida de cuota de la competencia; el veredicto habla de "retorno asegurado" y no fija una condición de salida.
+    **Comentario:** la solución está bien descrita, pero el argumento económico no se sostiene todavía. El paso pendiente es respaldar el +5 pp.
+    **Nota:** láminas entregadas directamente al profesor el 9 de noviembre.
 
 ---
 

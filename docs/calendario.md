@@ -150,7 +150,7 @@
 > grupos) y **lunes 16 de noviembre** (5 grupos y cierre del curso). Para prepararlas, **no hay
 > clases del martes 3 al domingo 8 de noviembre**. Se eliminan los dos avances del pitch: el 30% de
 > la presentación final queda en **10% evaluación de pares + 10% evaluación del profesor + 10%
-> prototipo final completo**.
+> lógica de la presentación** (ajuste del 16 de noviembre).
 
 - **Clase 21** — *lunes 2 de noviembre* · 🏫 **presencial**: Taller — beneficio esperado y veredicto de viabilidad. 🚀 **Hito 7D — Beneficio y conclusión (2,5%)** Ver [Clase 21](clases/clase21.md).
 - *miércoles 4 de noviembre*: 🏖️ **Sin clases** — preparación de la presentación final. Ver la [guía de preparación](clases/preparacion-final.md).
@@ -170,6 +170,6 @@
 - **Clase 23** — *lunes 16 de noviembre* · 🏫 **presencial**: 🎤 Presentaciones finales (2), 5 grupos, y cierre del curso. Ver [Clase 23](clases/clase23.md).
 - *miércoles 18 de noviembre*: sin clase.
 
-🎤 **Presentación Final — 30%** (pares 10% · profesor 10% · prototipo final 10%)
+🎤 **Presentación Final — 30%** (pares 10% · profesor 10% · lógica de la presentación 10%)
 
 🏁 **Última clase: lunes 16 de noviembre de 2026**

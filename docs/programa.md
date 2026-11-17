@@ -103,7 +103,7 @@ califican directamente sobre su peso en la Nota Final.
   semana siguiente, previa coordinación con el/la docente.
 - **Presentación final:** presentación en PDF y prototipo explicado con resumen ejecutivo, más un
   pitch en vivo ante el curso en las dos últimas sesiones: evaluación de pares (10%), del profesor
-  (10%) y cumplimiento de los requisitos del prototipo final (10%).
+  (10%) y lógica de la presentación según el camino del curso (10%).
 
 ## 8. Recursos para el aprendizaje
 
