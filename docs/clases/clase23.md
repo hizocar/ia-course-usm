@@ -8,7 +8,8 @@
 </div>
 
 !!! info "Segunda jornada de presentaciones y última clase del semestre"
-    Presentan los **cinco grupos** que faltan, en el orden sorteado (abajo), con las mismas
+    Presentan los **siete grupos** que faltan: IA Solution e Inteligencia Sansana, que pasaron
+    del lunes 9 a hoy, y los cinco sorteados para hoy (abajo), con las mismas
     [reglas y pautas](clase22.md#reglas-de-las-dos-jornadas) del lunes 9. Después se cierra el
     curso.
 
@@ -16,13 +17,15 @@
 
 | Orden | Grupo |
 |---:|---|
-| 1 | Lanyardigans |
-| 2 | Starcompany |
-| 3 | energIA |
-| 4 | los_capi |
-| 5 | six_pack |
+| 1 | IA Solution |
+| 2 | Inteligencia Sansana |
+| 3 | Lanyardigans |
+| 4 | Starcompany |
+| 5 | energIA |
+| 6 | los_capi |
+| 7 | six_pack |
 
-*Sorteado el 21 de octubre; ver la [Clase 22](clase22.md#orden-de-presentacion).*
+*Sorteado el 21 de octubre; IA Solution e Inteligencia Sansana pasaron del lunes 9 a hoy. Ver la [Clase 22](clase22.md#orden-de-presentacion).*
 
 ---
 
@@ -35,6 +38,24 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 
 <div class="usm-deck" markdown>
 <span class="usm-deck-num">1</span>
+[![Portada de la presentación de IA Solution](../presentaciones/clase23/ia-solution.jpg)](../presentaciones/clase23/ia-solution.pdf){ target="_blank" rel="noopener" }
+
+**IA Solution** · 10 láminas
+
+[▶️ Presentar](../presentaciones/clase23/ia-solution.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">2</span>
+[![Portada de la presentación de Inteligencia Sansana](../presentaciones/clase23/inteligencia-sansana.jpg)](../presentaciones/clase23/inteligencia-sansana.pdf){ target="_blank" rel="noopener" }
+
+**Inteligencia Sansana** · 9 láminas
+
+[▶️ Presentar](../presentaciones/clase23/inteligencia-sansana.pdf){ .usm-btn target="_blank" rel="noopener" }
+</div>
+
+<div class="usm-deck" markdown>
+<span class="usm-deck-num">3</span>
 [![Portada de la presentación de Lanyardigans](../presentaciones/clase23/lanyardigans.jpg)](../presentaciones/clase23/lanyardigans.pdf){ target="_blank" rel="noopener" }
 
 **Lanyardigans** · 14 láminas
@@ -43,7 +64,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 </div>
 
 <div class="usm-deck" markdown>
-<span class="usm-deck-num">2</span>
+<span class="usm-deck-num">4</span>
 [![Portada de la presentación de Starcompany](../presentaciones/clase23/starcompany.jpg)](../presentaciones/clase23/starcompany.pdf){ target="_blank" rel="noopener" }
 
 **Starcompany** · 10 láminas
@@ -52,7 +73,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 </div>
 
 <div class="usm-deck" markdown>
-<span class="usm-deck-num">3</span>
+<span class="usm-deck-num">5</span>
 [![Portada de la presentación de energIA](../presentaciones/clase23/energia.jpg)](../presentaciones/clase23/energia.pdf){ target="_blank" rel="noopener" }
 
 **energIA** · 11 láminas
@@ -61,7 +82,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 </div>
 
 <div class="usm-deck" markdown>
-<span class="usm-deck-num">4</span>
+<span class="usm-deck-num">6</span>
 [![Portada de la presentación de los_capi](../presentaciones/clase23/los-capi.jpg)](../presentaciones/clase23/los-capi.pdf){ target="_blank" rel="noopener" }
 
 **los_capi** · 11 láminas
@@ -70,7 +91,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 </div>
 
 <div class="usm-deck" markdown>
-<span class="usm-deck-num">5</span>
+<span class="usm-deck-num">7</span>
 [![Portada de la presentación de six_pack](../presentaciones/clase23/six-pack.jpg)](../presentaciones/clase23/six-pack.pdf){ target="_blank" rel="noopener" }
 
 **six_pack** · 10 láminas
@@ -87,8 +108,8 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 | Tiempo | Bloque |
 |---|---|
 | 0:00 – 0:05 | Instrucciones y orden |
-| 0:05 – 1:15 | **Cinco presentaciones** de 14 minutos: 8 de pitch + 4 de preguntas + 2 para que los grupos evalúen |
-| 1:15 – 1:28 | Cierre del curso: retroalimentación general y evaluación del curso |
+| 0:05 – 1:20 | **Siete presentaciones**: 8 minutos de pitch, preguntas y evaluación de los grupos |
+| 1:20 – 1:28 | Cierre del curso: retroalimentación general y evaluación del curso |
 | 1:28 – 1:30 | Cierre |
 
 <div class="usm-cta" markdown>

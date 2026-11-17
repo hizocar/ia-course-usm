@@ -32,8 +32,10 @@ página de [Notas](../notas.md)).
 
 | Jornada | Orden |
 |---|---|
-| **Lunes 9 de noviembre** (hoy) | 1. Torque AI · 2. Los Republicanos · 3. los3x2 · 4. mafilia · 5. IA Solution · 6. Inteligencia Sansana |
-| **Lunes 16 de noviembre** ([Clase 23](clase23.md)) | 1. Lanyardigans · 2. Starcompany · 3. energIA · 4. los_capi · 5. six_pack |
+| **Lunes 9 de noviembre** (hoy) | 1. Torque AI · 2. Los Republicanos · 3. los3x2 · 4. mafilia |
+| **Lunes 16 de noviembre** ([Clase 23](clase23.md)) | 1. IA Solution · 2. Inteligencia Sansana · 3. Lanyardigans · 4. Starcompany · 5. energIA · 6. los_capi · 7. six_pack |
+
+*IA Solution e Inteligencia Sansana estaban sorteadas para el lunes 9 y presentaron el lunes 16.*
 
 Si dos grupos quieren intercambiar su turno, avisen al profesor antes del lunes 2 de noviembre.
 
@@ -82,24 +84,6 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 [▶️ Presentar](../presentaciones/clase22/mafilia.pdf){ .usm-btn target="_blank" rel="noopener" }
 </div>
 
-<div class="usm-deck" markdown>
-<span class="usm-deck-num">5</span>
-[![Portada de la presentación de IA Solution](../presentaciones/clase22/ia-solution.jpg)](../presentaciones/clase22/ia-solution.pdf){ target="_blank" rel="noopener" }
-
-**IA Solution** · 10 láminas
-
-[▶️ Presentar](../presentaciones/clase22/ia-solution.pdf){ .usm-btn target="_blank" rel="noopener" }
-</div>
-
-<div class="usm-deck" markdown>
-<span class="usm-deck-num">6</span>
-[![Portada de la presentación de Inteligencia Sansana](../presentaciones/clase22/inteligencia-sansana.jpg)](../presentaciones/clase22/inteligencia-sansana.pdf){ target="_blank" rel="noopener" }
-
-**Inteligencia Sansana** · 9 láminas
-
-[▶️ Presentar](../presentaciones/clase22/inteligencia-sansana.pdf){ .usm-btn target="_blank" rel="noopener" }
-</div>
-
 </div>
 
 ---
@@ -109,7 +93,7 @@ completa, usa el modo presentación del visor del navegador (en Chrome, ⋮ → 
 | Tiempo | Bloque |
 |---|---|
 | 0:00 – 0:06 | Instrucciones, orden y cómo funciona la evaluación de pares |
-| 0:06 – 1:30 | **Seis presentaciones** de 14 minutos: 8 de pitch + 4 de preguntas + 2 para que los grupos evalúen |
+| 0:06 – 1:30 | **Cuatro presentaciones** de 14 minutos: 8 de pitch + 4 de preguntas + 2 para que los grupos evalúen |
 
 ---
 
