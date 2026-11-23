@@ -21,7 +21,7 @@ hito, 30% la presentación final).</p>
 
 | Grupo | Hito 1 | Hito 2 | Hito 3 | Hito 4 | Hito 5A | Hito 5B | Hito 6A | Hito 6C | Hito 7A | Hito 7B | Hito 7C | Hito 7D | Pres. pares | Pres. profesor | Pres. lógica |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 | 83 | 0 | 0 | 98 | 97,5 | 79 | 79 |
+| energIA | 100 | 96 | 91 | 43 | 88 | 97 | 72 | 72 | 83 | 100 | 100 | 98 | 97,5 | 79 | 79 |
 | IA Solution | 100 | 97 | 97 | 97 | 0 | 99 | 0 | 88 | 95 | 95 | 94 | 99 | 95 | 76 | 98 |
 | Inteligencia Sansana | 100 | 95 | 81 | 85 | 78 | 90 | 90 | 89 | 0 | 86 | 93 | 94 | 95 | 70 | 75 |
 | Lanyardigans | 100 | 86 | 84 | 0 | 74 | 87 | 0 | 89 | 98 | 93 | 93 | 99 | 100 | 95 | 98 |
@@ -44,7 +44,7 @@ puntos de los hitos y los de la presentación, sobre 100.
 
 | Grupo | Puntos de los hitos (máx. 70) | Puntos de la presentación (máx. 30) | Nota final |
 |---|---:|---:|---:|
-| energIA | 53,98 | 25,55 | **79,5** |
+| energIA | 58,98 | 25,55 | **84,5** |
 | IA Solution | 58,91 | 26,90 | **85,8** |
 | Inteligencia Sansana | 60,27 | 24,00 | **84,3** |
 | Lanyardigans | 49,97 | 29,30 | **79,3** |
@@ -1112,7 +1112,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 
 | Grupo | Hito 7B |
 |---|---:|
-| energIA | **0** |
+| energIA | **100** |
 | IA Solution | **95** |
 | Inteligencia Sansana | **86** |
 | Lanyardigans | **93** |
@@ -1126,8 +1126,8 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 
 ### Detalle de la evaluación por grupo
 
-??? note "energIA — 0/100"
-    **No recibido:** el avance no llegó a ninguno de los buzones (ni el del 28 de octubre ni el del 7D del 2 de noviembre).
+??? note "energIA — 100/100"
+    **Recibido por correo:** el avance no llegó a los buzones; el grupo lo envió por correo al profesor, quien le asignó la nota completa.
 
 ??? note "IA Solution — 95/100"
     **Embudo de alcance (25):** 22/25 — Cinco pasos con número y supuesto: 1.760.000 envíos al mes (80.000 × 22 días), 140.800 fallidos (8%), 84.480 detectados (recall 60%), 50.688 evitados (efectividad 60%) y 211.200 intervenidos (precisión 40%). Falta el paso de adopción: se supone que el 100% de los envíos marcados se interviene desde el primer mes, sin decir cuántos supervisores siguen la alerta ni con qué rampa.
@@ -1243,7 +1243,7 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 
 | Grupo | Hito 7C |
 |---|---:|
-| energIA | **0** |
+| energIA | **100** |
 | IA Solution | **94** |
 | Inteligencia Sansana | **93** |
 | Lanyardigans | **93** |
@@ -1257,8 +1257,8 @@ Hito 1 (ver [Proyecto](proyecto.md)).
 
 ### Detalle de la evaluación por grupo
 
-??? note "energIA — 0/100"
-    **No recibido:** el avance no llegó a ninguno de los buzones (ni el del 28 de octubre ni el del 7D del 2 de noviembre).
+??? note "energIA — 100/100"
+    **Recibido por correo:** el avance no llegó a los buzones; el grupo lo envió por correo al profesor, quien le asignó la nota completa.
 
 ??? note "IA Solution — 94/100"
     **Inversión y operación (25):** 20/25 — Dos tablas completas: inversión de $50,0 MM en cinco ítems (desarrollo del modelo con 2 científicos × 3 meses × $4 MM, integración y RPA, WhatsApp Business, limpieza de datos y capacitación) y operación de $73,2 MM/mes en siete ítems; las sumas cuadran. Cada ítem tiene su supuesto, pero casi todas las fuentes son "supuesto del grupo": el sueldo de $4 MM/mes no tiene referencia, el cómputo de $1,5 MM no se desglosa y el costo por mensaje de $300 dice "validado contra el costo de API" sin precio ni fecha.
