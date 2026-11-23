@@ -146,8 +146,8 @@
 
 ## 🗓️ Semana 14 (2 al 6 de noviembre)
 
-> 📌 **Ajuste de calendario:** las presentaciones finales son **solo los lunes**: **lunes 9** (6
-> grupos) y **lunes 16 de noviembre** (5 grupos y cierre del curso). Para prepararlas, **no hay
+> 📌 **Ajuste de calendario:** las presentaciones finales son **solo los lunes**: **lunes 9** (4
+> grupos) y **lunes 16 de noviembre** (7 grupos y cierre del curso). Para prepararlas, **no hay
 > clases del martes 3 al domingo 8 de noviembre**. Se eliminan los dos avances del pitch: el 30% de
 > la presentación final queda en **10% evaluación de pares + 10% evaluación del profesor + 10%
 > lógica de la presentación** (ajuste del 16 de noviembre).

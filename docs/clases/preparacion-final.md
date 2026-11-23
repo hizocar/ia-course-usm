@@ -34,8 +34,8 @@ que necesitan.
 | Hito 7D, último avance del Hito 7 | Lunes 2 de noviembre, en la [Clase 21](clase21.md) (presencial) |
 | Sin clases | Martes 3 al domingo 8 de noviembre |
 | Buzones de la entrega final | Abren el **martes 3** · cierran el **domingo 8 de noviembre, 23:59** |
-| 🎤 Presentaciones (1): 6 grupos | Lunes 9 de noviembre, [Clase 22](clase22.md) · **presencial** · [orden sorteado](clase22.md#orden-de-presentacion) |
-| 🎤 Presentaciones (2): 5 grupos y cierre del curso | Lunes 16 de noviembre, [Clase 23](clase23.md) · **presencial** |
+| 🎤 Presentaciones (1): 4 grupos | Lunes 9 de noviembre, [Clase 22](clase22.md) · **presencial** · [orden sorteado](clase22.md#orden-de-presentacion) |
+| 🎤 Presentaciones (2): 7 grupos y cierre del curso | Lunes 16 de noviembre, [Clase 23](clase23.md) · **presencial** |
 
 > 📌 Las presentaciones son **solo los lunes**, en la sala. Los miércoles 11 y 18 de noviembre no
 > hay clase.
